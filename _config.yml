@@ -1,0 +1,111 @@
+# 1. Site Settings
+title               : TOWER OF BABEL FOR THE IGNORANT
+owner               : "DeerRIDER"
+#url                 : "http://127.0.0.1:4000"
+url                : "https://nagajamu.com"
+## baseurl            : ""
+permalink           : /:title/
+description         : "Personal site of DeerRIDER"
+markdown            : kramdown
+statement           : "Designed by DeerRIDER, All Rights Reserved"
+bgtext              : "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌∽√∀∂∆∇⋈∅∫∬∳∯∱∲ⅈⅉℂℍℚℝℕℙℤⅇℼℽ⅀ℿℾℽℼ" # texts randomly displayed in background
+
+# 2. Collections
+collection_order    : 
+  [
+    "lit",
+    "hist",
+    "phil",
+    "math",
+    "cst",
+    "prog",
+    "fart",
+  ]
+collections:
+  math:
+    output          : ture
+    permalink       : /:collection/:title/
+    alias           : "MATH"
+  phil:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "PHIL"
+  hist:
+    output          : true
+    permalink       : /:collection/:title/
+    sort_by         : name
+    alias           : "HIST"
+  lit:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "LIT"
+  cst:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "CST"
+  lang:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "LANG"
+  fart:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "FART"
+  zako:
+    output          : true
+    permalink       : /:collection/:title/
+    alias           : "DRAFT"
+
+# 3. Comment settings（disqus.com）
+disqus_username     : akiritsu
+
+# 4. Default page configuration
+defaults:
+  -    
+    scope:
+      path          : ""  # an empty string here means all files in the project
+    values:
+      layout              : "post"      # which layout to use by default
+      publish             : true        # whether to show by default      
+      btn_text            : true        # whether show button text by default
+      collection_list     : true        # whether show archive button by default
+      home_btn            : true        # whether show home by default
+      maximize            : true        # whether show maximize button by default
+      encrypted_text      : false       # whether use encrytion function by default
+      toc                 : true        # whether show table of content by default
+      toc_level           : 3           # the toc depth by default
+      author              :             # author name by default
+      show_date           : false       # whether show date message by default
+      category            :             # category by default
+      post_list           : false       # whether show list of post by default      
+      comment             : false
+      footer              : false       # whether show footer by default
+      highlight           : false
+
+# 5. Social Media Accounts
+email               : "akiritsu@outlook.com" 
+github              : "akiritsu" 
+
+# 6. Where things are
+source              : .
+destination         : ./_site
+collections_dir     : collections
+plugins_dir         : src/_plugins # takes an array of strings and loads plugins in that order
+layouts_dir         : src/_layouts
+data_dir            : src/_data
+includes_dir        : src/_includes
+sass:
+  sass_dir          : src/_sass
+
+# 7. Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+ # - jekyll-seo-tag
+  - jekyll-mermaid
+
+# 8. Others
+# Cross-Origin Resource Sharing header
+webrick:
+  headers:
+   Access-Control-Allow-Origin: "*"
