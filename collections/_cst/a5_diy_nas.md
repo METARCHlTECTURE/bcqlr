@@ -3,62 +3,67 @@ title: DIY Low Power Consumption NAS
 highlight: true
 ---
 
-## 硬件规格
+## Hardware Information
 
-### 大容量内网 NAS
+### High-capacity Local Area Network NAS with 10G trans
 
-**主要设备**：
-  - CPU：INTEL XEON E5-1235L V5 4C4T 3GHZ 25WTDP LGA1151
-  - 主板：MSI C236A WORKSTATION 305MM X 244MM
-  - 内存：SK HYNIX DDR4 2133MHZ ECC 8GB*2
-  - 显卡：INTEL GRAPHICS HD P530 192SP
+**Main Devices**: 
+  - CPU: Intel Xeon E5-1235L v5 4c4t 3ghz 25wtdp Lga1151
+  - MB: Msi C236a Workstation 305mm X 244mm
+  - Memory: SK Hynix ddr4 2133mhz ecc 16GB * 4
+  - GPU: Intel Graphics HD P530 192sp Integrated
 
-**存储设备**：
-  - BOOT-POOL SSD：SAMSUNG PM961 512G
-  - DATA-POOL HHD：SEAGATE EXOS ST1800NM000J 氦气企业级硬盘 18TB * 6
-  - METADATA 缓存 SSD：SAMSUNG PM961 128GB * 2 RAID1
-  - METADATA 转接卡：佳翼 SK18 * 2 M.2 NVME TO PCIE3.0X4
-  - CACHE 缓存 SSD：SAMSUNG PM961 128GB
-  - CACHE 转接卡：佳翼 SK6 NGFF & M.2 NVME TO PCIE4.0X4
+**Stroage Devices**: 
+  - Boot-Pool, Mirror:
+    - Samsung PM961 128GB * 2
+  - Data-Pool HHD: Seagate Exos St1800nm000j 18TB * 6
+  - Metadata, Triple Mirror:
+    - Samsung PM961 512GB
+    - Samsung Evo Plus 512GB
+    - Samsung 980 512GB 
+  - Adaptor:
+    - JEYI SK18 M.2 Nvme To PCIE4.0x4 * 3
+    - JEYI SK1 M.2 Nvme To PCIE4.0x1 * 2
 
-**其他设备**：
-  - 机箱：SAMA 掠食者 10 3.5英寸硬盘位 EATX
-  - 电源：MSI MPG A650GF 650W 金牌全模组
-  - 散热器：利民 PEERLESS ASSASSIN 120 SE 265WTDP 双塔双12CM风扇
-  - UPS：APC 施耐德 BK650M2-CH 650VA
-  - 硅脂：HONEYWELL PTM7950 相变导热片
-  - SSD 散热：TECHINNO LV800
+**Suplementary Devices**: 
+  - Chassis: Antec P101S
+  - PSU: Msi MPG A650GF 650w Gold Fully Modular
+  - Cooler: Phantom Spirit 120 SE 265wtdp
+  - Netword Adaptor: 10G RJ45x2
+  - UPS: APC Schneider BK650M2-CH 650VA
+  - CPU Thermal Gease: Honeywell PTM7950 Phase-change-pad
+  - SSD Thermal Gease: Techinno Lv800
 
-### 边角料外网 ITX NAS
+### ITX NAS
 
-**主要设备**：
-  - CPU：INTEL CORE I5 11500H 6C12T 4.6GHZ 45WTDP FCBGA1787
-  - 主板：ERYING SKYLINE HM570 ITX 170MM X 170MM
-  - 内存：KINGBANK DDR4 2133MHZ 8GB
-  - 显卡：INTEL UHD GRAPHICS XE 750 32EU
+**Main Devices**: 
+  - CPU: Intel Core I5 11500h 6c12t 4.6ghz 45wtdp Fcbga1787
+  - Motherboard: Erying Skyline Hm570 ITX 170mm X 170mm
+  - Memory: Kingbank DDR4 2133mhz 8GB
+  - GPU: Intel UHD Graphics XE 750 32eu
 
-**存储设备**：
-  - BOOT-POOL SSD：SAMSUNG PM961 128GB
-  - DATAPOOL HHD1：SEAGATE BARRACUDA 5TB
-  - DATAPOOL HHD2: SEAGATE BARRACUDA 4TB
-  - DATAPOOL HHD3：PS4 拆机 HGST 1TB
-  - DATAPOOL SSD：SAMSUNG 980 512GB
-  - CACHE SSD1：SAMSUNG PM961 128GB
-  - CACHE SSD2：TOSHIBA BG4 128GB
-  - CACHE 转接卡：佳翼 SK6 NGFF & M.2 NVME TO PCIE4.0X4
+**Storage Devices**: 
+  - Boot-Pool Ssd: Samsung PM961 128GB
+  - Datapool 1, JBOD:
+    - HHD: Seagate Barracuda 5TB
+    - HHD: Seagate Barracuda 4TB
+  - Datapool 2, Mirror:
+    - KIOXIA RC20 1TB
+    - Micron 1100 1TB
+  - Adpator: JEYI MX16 M.2 Nvme To PCIE3.0x4
 
-**其他设备**：
-  - 机箱：天狼星 S40 6 2.5英寸硬盘位 8.5L ITX
-  - 电源：THERMALTAKE TOUGHPOWER SFX 450W 金牌全模组
-  - 散热：利民AXP90-53 BLACK 下压式散热器9CM单风扇
-  - 硅脂：HONEYWELL PTM7950 相变导热片 + GEEKCOOLING 5
-  - SSD 散热：TECHINNO LV800
+**Supplementary Devices**: 
+  - Chassis: Sirius S40 6 8.5L ITX
+  - PSU: Thermaltake Toughpower Sfx 450w Gold Fully Modular
+  - Cooler: Thermalright axp90-53 Black 下压式散热器9cm单风扇
+  - CPU Thermal Gease: Honeywell PTM7950 Phase-change-pad + Geekcooling 5
+  - SSD Thermal Gease: Techinno Lv800
 
 
 
-## TrueNAS Scale 快速使用
+## Truenas Scale 快速使用
 
-### 1.制作 TrueNAS 安装 U 盘并安装系统
+### 1.制作 Truenas 安装 U 盘并安装系统
 
 安装系统
 1. 下载  TrueNAS 镜像，使用 Rufus 以默认设置制作安装 U 盘。
@@ -88,15 +93,15 @@ highlight: true
 
 ### 5.创建 pool 和 dataset
 
-创建 pool：
+创建 pool: 
 
 `Storage - Create Pool - 在 Pool Manager 中，键入名称 - 选中所有硬盘，添加进 Data VDev 中 - 在 Data VDev 中选择阵列模式 - Create - 弹出警告窗口，选中 Confirm，并点击 Create Pool`
 
-> 阵列模式中：Stripe 为 Raid 0，Mirror 为 Raid 1，此外还有 Z1、Z2、Z3。
+> 阵列模式中: Stripe 为 Raid 0，Mirror 为 Raid 1，此外还有 Z1、Z2、Z3。
 
-Pool 的根目录位于：/mnt/[POOL_NAME]
+Pool 的根目录位于: /mnt/[POOL_NAME]
 
-创建 dataset：
+创建 dataset: 
 
 `Dataset - ADD DATASET - 键入 Dataset 名称 - SAVE`
 
@@ -140,23 +145,23 @@ Pool 的根目录位于：/mnt/[POOL_NAME]
 
 ### 4.新建 group 和 user
 
-建立群组：
+建立群组: 
 
 `Accounts - Groups - 添加群组 - 键入群组名称 - APPLY`
 
-建立用户：
+建立用户: 
 
 `Accounts - Users - 添加用户 - 键入用户名、密码 - 取消勾选“新建主要组” - APPLY`
 
 ### 5.新建 pool 和 dataset
 
-新建 pool：
+新建 pool: 
 
 `Storage - Pool - ADD POOL - 键入池名称 - 选择添加的磁盘 - 勾选 ENFORCE - 弹出确认对话框，点击 Continue - 弹出警告对话框，勾选确认、点击 Create Pool`
 
 若删除池，在池的右上角`设置 - 导出/断开链接`即可。
 
-新建 dataset：
+新建 dataset: 
 
 在存储选项页中，`点击欲添加数据集右侧的“⋮”标志 - 键入数据集名称 - 共享方式选择 SMB - APPLY`
 
@@ -170,11 +175,11 @@ Pool 的根目录位于：/mnt/[POOL_NAME]
 
 ### 7.使用 Samba 服务共享
 
-开启 SMB 服务：
+开启 SMB 服务: 
 
 `Sevice - 开启 SMB 的按钮 - 勾选开机自启`
 
-共享创建的数据集：
+共享创建的数据集: 
 
 `Share - Windows Share(SMB) - 点击添加 - 选择刚才新建的池 - APPLY`
 
@@ -210,7 +215,7 @@ smbclient //[HOSTHAME_OR_IP]/[SHARE_NAME] -U [USERNAME]
 ```
 3. 根据提示输入密码，成功连接后，显示 smb: \> 命令行。
 
-4. 将 datasets 挂载到本地：安装 cifs-utils，并创建挂载点
+4. 将 datasets 挂载到本地: 安装 cifs-utils，并创建挂载点
 
 ```bash
 sudo mkdir /mnt/[MOUNT_DIR_NAME]
@@ -230,7 +235,7 @@ umount /mnt/smbmount
 
 7. 设置开机自动挂载
 
-在 /etc/fstab 文件中加入以下内容：
+在 /etc/fstab 文件中加入以下内容: 
 
 ```bash
 //[HOSTNAME_OR_IP]/[SHARE_NAME] /mnt/[MOUNT_DIR_NAME]  cifs  username=[USERNAME],password=[PASSWORD],soft,rw  0 0
@@ -238,12 +243,12 @@ umount /mnt/smbmount
 
 ## Storage Dashboard 介绍
 
-该页面列存储池的详细信息：
-- Export/Disconnet：暂时下线、上线某存储池。
-- Topology - Manage Devices：物理磁盘的状态，出错数量，或增加VDEV。
-- Usage - Manage Datasets：管理数据集。
-- ZFS Health - Scrub：手动校验硬盘。默认设定下，每周日 0 点进行一次校验，持续约 12 小时，并不需要手动校验。
-- Disk Health - Manage Disks：管理物理磁盘。
+该页面列存储池的详细信息: 
+- Export/Disconnet: 暂时下线、上线某存储池。
+- Topology - Manage Devices: 物理磁盘的状态，出错数量，或增加VDEV。
+- Usage - Manage Datasets: 管理数据集。
+- ZFS Health - Scrub: 手动校验硬盘。默认设定下，每周日 0 点进行一次校验，持续约 12 小时，并不需要手动校验。
+- Disk Health - Manage Disks: 管理物理磁盘。
 
 ## 进阶使用
 
@@ -251,7 +256,7 @@ umount /mnt/smbmount
 
 Storage - 在 Unassigned Disks 标签中，点击 Add to Pool - 选择 Existing Pool - 选择要添加的存储池的名称。
 
-注意：
+注意: 
 1. 此时存储池拥有多个 VDevs。这样的多个 VDevs 要保持物理磁盘的数量一致。并且此时多个 VDevs 只能使用相同的 Raid 模式。当然，存储池建立后不建议扩容，如有需要则新建存储池（会造成文件访问地址改变）。
 2. VDevs 一旦添加入存储池，则无法再分离出来，这是因为文件是离散存在于每个 VDevs 中的。
 
@@ -259,7 +264,7 @@ Storage - 在 Unassigned Disks 标签中，点击 Add to Pool - 选择 Existing 
 
 Storage - 在 Topology 标签中点击 Manage Devices - 点击需要替换的硬盘 - 在弹出的对话框中选择替换为的硬盘 - 如果硬盘已分区，需要勾选 Force - Replace Disk。
 
-注意：
+注意: 
 1. 用于替换的硬盘必须容量大于已有的硬盘，无论其被占用了多少容量。
 2. 替换需要一定时间，受其中的数据多少影响。
 
@@ -267,12 +272,12 @@ Storage - 在 Topology 标签中点击 Manage Devices - 点击需要替换的硬
 
 > 硬盘中记录了其曾经存在的存储池信息，所有物理硬盘存在则可以重建。
 
-将已有的存储池断开连接：
+将已有的存储池断开连接: 
 
 Storage - Export/Disconnet
 
 
-导入存储池：
+导入存储池: 
 
 Storage - Import Pool - 在右侧边栏选择导入的存储池名称。
 
@@ -284,7 +289,7 @@ Storage - Import Pool - 在右侧边栏选择导入的存储池名称。
 
 ### 测试硬盘顺序读取速度
 
-System - Shell：
+System - Shell: 
 
 ```bash
 cd /mnt/[POOL_NAME]/[DATASET_NAME]
@@ -324,36 +329,36 @@ openmediavault
 
 ### Raid 模式比较
 
-Raid 0：两盘并联，不损失容量，无冗余，速度快；任意一盘损坏则数据丢失。安全性低。
+Raid 0: 两盘并联，不损失容量，无冗余，速度快；任意一盘损坏则数据丢失。安全性低。
 
-Raid 1：N 盘互为镜像，损失 N-1 盘容量，读取速度翻 N 倍，写入速度不变；至多可损坏 N-1 块硬盘（N至少为2）。性价比低。
+Raid 1: N 盘互为镜像，损失 N-1 盘容量，读取速度翻 N 倍，写入速度不变；至多可损坏 N-1 块硬盘（N至少为2）。性价比低。
 
-Raid 2：至少 3 盘、分段写入、实时编码、汉明码校验。读写时校验数据，硬件开销大。
+Raid 2: 至少 3 盘、分段写入、实时编码、汉明码校验。读写时校验数据，硬件开销大。
 
-Raid 3：由 Raid 2 衍生，至少 3 盘、专门设立校校验。每次读写都访问校验盘，因而易损坏。校验盘损坏则数据丢失。以 Bit 分割数据。
+Raid 3: 由 Raid 2 衍生，至少 3 盘、专门设立校校验。每次读写都访问校验盘，因而易损坏。校验盘损坏则数据丢失。以 Bit 分割数据。
 
-Raid 4：由 Raid 3 衍生，以数据块分割数据。小文件读取快，但非校验盘损坏时，数据恢复概率较 Raid 3 低。
+Raid 4: 由 Raid 3 衍生，以数据块分割数据。小文件读取快，但非校验盘损坏时，数据恢复概率较 Raid 3 低。
 
-Raid 5：类似 Raid 3，分散存储校验数据，至少 3 盘，损失 1 盘空间。至多可损坏 1 盘。有极低概率造成 URE（不可恢复性读取错误），在重建阵列时出现则需要重新开始。重建难度大，安全性较 Raid 6 低。
+Raid 5: 类似 Raid 3，分散存储校验数据，至少 3 盘，损失 1 盘空间。至多可损坏 1 盘。有极低概率造成 URE（不可恢复性读取错误），在重建阵列时出现则需要重新开始。重建难度大，安全性较 Raid 6 低。
 
-Raid F1：由 Raid 5 衍生，适用于固态硬盘。
+Raid F1: 由 Raid 5 衍生，适用于固态硬盘。
 
-Raid 6：类似 Raid 5，至少 4 盘，两盘校验。至多可损坏 2 盘。写入慢于 Raid 5。
+Raid 6: 类似 Raid 5，至少 4 盘，两盘校验。至多可损坏 2 盘。写入慢于 Raid 5。
 
-Raid 7：专利属于 SCC 公司，需付费。
+Raid 7: 专利属于 SCC 公司，需付费。
 
-Raid 10：至少 4 盘，硬盘两两先组成 Raid 1，再组成 Raid 0。损失 50% 容量。安全性高。
+Raid 10: 至少 4 盘，硬盘两两先组成 Raid 1，再组成 Raid 0。损失 50% 容量。安全性高。
 
-JBOD：将所有硬盘组成一个逻辑分区，读取速度不变，不损失容量。第一块盘记录数据分段表，损坏则阵列损坏；其他盘损害只影响自身数据。安全性低。
+JBOD: 将所有硬盘组成一个逻辑分区，读取速度不变，不损失容量。第一块盘记录数据分段表，损坏则阵列损坏；其他盘损害只影响自身数据。安全性低。
 
-Unraid：使用 1-2 盘作为数据校验盘。至多可损坏 1-2 盘，非校验盘损坏只影响自身数据。便于扩容。写入最慢，收费。
+Unraid: 使用 1-2 盘作为数据校验盘。至多可损坏 1-2 盘，非校验盘损坏只影响自身数据。便于扩容。写入最慢，收费。
 
-SHR：群晖特有，自动判断 Raid 模式，适合新手。可设置 1-2 冗余盘。
+SHR: 群晖特有，自动判断 Raid 模式，适合新手。可设置 1-2 冗余盘。
 
-Raid Z：ZFS 文件系统特性，不需要额外软硬件。需要大量内存，最好为 ECC 内存。扩容难。
-  - Raid Z1：类似 Raid 5，2 盘数据、1 盘校验。
-  - Raid Z2：类似 Raid 6，2 盘数据、2 盘校验。
-  - Raid Z3：2 盘数据、3 盘校验。
+Raid Z: ZFS 文件系统特性，不需要额外软硬件。需要大量内存，最好为 ECC 内存。扩容难。
+  - Raid Z1: 类似 Raid 5，2 盘数据、1 盘校验。
+  - Raid Z2: 类似 Raid 6，2 盘数据、2 盘校验。
+  - Raid Z3: 2 盘数据、3 盘校验。
 
 ### 应用场景
 
@@ -371,7 +376,7 @@ Raid Z：ZFS 文件系统特性，不需要额外软硬件。需要大量内存�
 CPU
 - 是否带有核显，以提供硬件视频解码能力。带有核显的低功耗志强E3处理器很少，如 1235L v5，但 1240L v5 则无核显。
 - NAS系统对核显驱动更新慢，酷睿 10 代以上自带的核显不支持
-- NAS 系统对 CPU 性能要求极低，需要更强性能的需求有：
+- NAS 系统对 CPU 性能要求极低，需要更强性能的需求有: 
   - 使用Docker
   - 万兆慢速传输
   - 多用户视频在线剪辑
@@ -411,7 +416,7 @@ CPU
 网卡
 - 一些老旧型号的 10G 网卡，不支持向下兼容 2.5G 协议，如 Intel x540。Intel x550 显卡则支持 10G 2.5G 1G 协议
 - 网卡是否需要驱动？使用的 NAS 系统是否有该驱动？一般来说，封闭的群晖对网卡的支持数量少
-- 一些服务器 pcie 的网卡，其接口与普通主板的 pcie 插槽不兼容，需要转接卡
+- 一些服务器 PCIE 的网卡，其接口与普通主板的 PCIE 插槽不兼容，需要转接卡
 - 可使用无驱动网卡
 
 机箱
