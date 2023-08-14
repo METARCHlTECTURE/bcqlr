@@ -1,5 +1,5 @@
 ---
-title: Algebra
+title: Advanced Algebra
 highlight: true
 ---
 
