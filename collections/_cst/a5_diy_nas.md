@@ -16,11 +16,12 @@ highlight: true
 **Stroage Devices**: 
   - Boot-Pool, Mirror:
     - Samsung PM961 128GB * 2
-  - Data-Pool HHD: Seagate Exos st1800nm000j 18TB * 6
-  - Metadata, Triple Mirror:
+  - Appdata-Pool, Raid Z1:
     - Samsung PM961 512GB
     - Samsung Evo Plus 512GB
     - Samsung 980 512GB 
+  - Data-Pool, Raid Z2:
+    - HHD: Seagate Exos st1800nm000j 18TB * 6
   - Adaptor:
     - JEYI SK18 M.2 NVME To PCIE4.0x4 * 3
     - JEYI SK1 M.2 NVME To PCIE4.0x1 * 2
@@ -45,13 +46,13 @@ highlight: true
 **Storage Devices**: 
   - Boot-Pool SSD, Mirror:
     - SSD: Samsung PM961 128GB
-  - Datapool 1, Stripe:
+  - Appdata-Pool, Stripe:
+    - SSD: KIOXIA RC20 1TB
+    - Adpator: JEYI MX16 M.2 Nvme To PCIE3.0x4
+  - Media Data-Pool, Stripe:
     - HHD: Seagate Barracuda 5TB
     - HHD: Seagate Barracuda 4TB
-  - Datapool 2, Mirror:
-    - SSD: KIOXIA RC20 1TB
-  - Adpator: JEYI MX16 M.2 Nvme To PCIE3.0x4
-
+  
 **Supplementary Devices**: 
   - Chassis: Sirius S40 8.5L ITX
   - PSU: Thermaltake Toughpower SFX 450w Gold Fully Modular
