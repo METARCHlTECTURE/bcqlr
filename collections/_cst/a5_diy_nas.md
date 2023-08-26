@@ -18,19 +18,21 @@ highlight: true
     - Samsung PM961 128GB * 2
   - Appdata-Pool, Raid Z1:
     - Samsung PM961 512GB
-    - Samsung Evo Plus 512GB
+    - Samsung 970 Evo Plus 512GB
     - Samsung 980 512GB 
   - Data-Pool, Raid Z2:
     - HHD: Seagate Exos st1800nm000j 18TB * 6
   - Adaptor:
-    - JEYI SK18 M.2 NVME To PCIE4.0x4 * 3
+    - JEYI SK18 M.2 NVME To PCIE4.0x4 * 2
     - JEYI SK1 M.2 NVME To PCIE4.0x1 * 2
 
 **Suplementary Devices**: 
   - Chassis: Antec P101S ATX Chassis
   - PSU: MSI MPG A650GF 650w Gold Fully Modular
   - Cooler: Phantom Spirit 120 SE 265wTDP
-  - Netword Adaptor: 10G RJ45x2
+  - Netword Adaptor: 
+    - HP 10G RJ45x2
+    - RTL8125 2.5G
   - UPS: APC Schneider BK650M2-CH 650VA
   - CPU Thermal Gease: Honeywell PTM7950 Phase-change-pad
   - SSD Thermal Gease: Techinno Lv800
@@ -40,12 +42,12 @@ highlight: true
 **Main Devices**: 
   - CPU: Intel Core i5 11500H 6C12T 4.6GHz 45wTDP FCBGA1787
   - Motherboard: Erying Skyline Hm570 ITX 170mm X 170mm
-  - Memory: Kingbank DDR4 2133MHz 8GB
+  - Memory: Kingbank DDR4 2133MHz 8GB + 16GB
   - GPU: Intel UHD Graphics XE 750 32eu
 
 **Storage Devices**: 
   - Boot-Pool SSD, Mirror:
-    - SSD: Samsung PM961 128GB
+    - SSD: Samsung PM961 128GB * 2
   - Appdata-Pool, Stripe:
     - SSD: KIOXIA RC20 1TB
     - Adpator: JEYI MX16 M.2 Nvme To PCIE3.0x4
