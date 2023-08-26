@@ -29,22 +29,19 @@ highlight: true
 **Supplementary Device**: 
   - Chassis: Fractal Design Torrent Atx
   - PSU: Thermaltake Gf3 Atx3.0 1200w Gold 
-  - Cooler: Noctua D15s 双塔单风扇15cm
-  - Monitor1: Lg 27gr93u 27inch 4k144hz 95%DPI-P3 Hdr400 Ultrafash Ips 
-  - Monitor2: Aoc Luvia Lv273hupx 27inch  100%sRGB 4k60hz Ips
+  - Cooler: Noctua D15s Black
+  - Monitor: Aoc Luvia Lv273hupx 27inch 100%sRGB 4k60hz Ips
   - Keyboard: Keychron Q10 75% Alice Layout
   - Mouse: Logitech Mx Vertical Ergonomic Wireless Mouse
   - Printer: Brohter Hl-2595dw Wireless Lazer Printer
   - Microphone: Audio-Technica At2005-Usb Cardioid Dynamic Usb/Xlr Microphone Black
-  - Monitor Panel: Microsoft Surface Pro 5 M3-7y30 4GB 128GB With Aida64 Remote Panel
+  - Monitor Panel: Microsoft Surface Pro 5 M3-7Y30 4GB 128GB With Aida64 Remote Panel
   - Power Button: Wireless Key Decision Button
   - CPU Thermal Gease: Honeywell Ptm7950 Phase-Change-Pad
   - SSD Thermal Gease: Techinno Lv800
-  - Front Fans: Fractal Design Dynamic PWM Gp-18 180mm * 2
-  - Bottom Fans: Fractal Design Dynamic PWM Gp-12 120mm * 3
-  - Back Fans: Thermalright V2 PWM 120mm * 1
-  - Sound Box: 10.or Rave+
-
+  - Front Fans: Fractal Design Dynamic PWM GP-18 180mm * 2
+  - Bottom Fans: Fractal Design Dynamic PWM GP-14 140mm * 3
+  - Back Fans: Fractal Design Dynamic PWM GP-14 140mm
 ## Low Power Consumption Supplementary PC
 
 ### Design Objective
@@ -61,13 +58,13 @@ highlight: true
   - GPU: Asus Geforce 1060 O3G LOL 3Gb1152sp
 
 **Storage Devices**
-  - SSD: Micron 1100 256GB
-  - HHD: HGST 1TB
+  - SSD: ZHITAI SC001 256GB
+  - HHD: HGST H2T1000854S 1TB 
 
 **Supplementary Devices**
-  - Chassis: SAMA HARD DISK KING
+  - Chassis: JONSBO D31 Black mATX
   - PSU: SAMA 500P Gold
   - Cooler: Thermalright Peerless Assassin 120 SE
   - Monitor: LG 24EA53V
-  - Keyboard: AJAZZ AK33
-  - Mouse: Mad Catz Pro S
+  - Keyboard: Irok FE87 Black
+  - Mouse: RAZER Deathaddwer Essential

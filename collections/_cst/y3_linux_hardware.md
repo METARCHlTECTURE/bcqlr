@@ -230,6 +230,29 @@ Total:          61Gi        14Gi       7.8Gi
 
 ## 综合
 
+### Neofetch
+
+```bash
+$ neofetch
+██████████████████  ████████   deerrider@deer
+██████████████████  ████████   --------------
+██████████████████  ████████   OS: Manjaro Linux x86_64
+██████████████████  ████████   Kernel: 6.1.44-1-MANJARO
+████████            ████████   Uptime: 1 hour, 43 mins
+████████  ████████  ████████   Packages: 1750 (pacman), 6 (flatpak)
+████████  ████████  ████████   Shell: bash 5.1.16
+████████  ████████  ████████   Resolution: 3840x2160
+████████  ████████  ████████   WM: i3
+████████  ████████  ████████   Theme: Matcha-dark-azul [GTK3]
+████████  ████████  ████████   Icons: elementary [GTK3]
+████████  ████████  ████████   Terminal: alacritty
+████████  ████████  ████████   Terminal Font: monospace
+████████  ████████  ████████   CPU: AMD Ryzen 9 7950X (32) @ 4.500GHz
+                               GPU: NVIDIA GeForce RTX 4090
+                               GPU: AMD ATI 6d:00.0 Raphael
+                               Memory: 1849MiB / 63426MiB
+```
+
 ## 实时监控
 
 ### s-tui
