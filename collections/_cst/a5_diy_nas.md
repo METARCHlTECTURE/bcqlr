@@ -64,26 +64,44 @@ highlight: true
 
 
 
-## Truenas Scale Quick 
+## Truenas Scale Quick Start Guide
 
-### 1.制作 Truenas 安装 U 盘并安装系统
+### Make TrueNAS USB Flash Disk
 
-使用‘
-安装系统
-1. 下载  TrueNAS 镜像，使用 Rufus 以默认设置制作安装 U 盘。
-2. 安装系统，设置 Admin 密码
+Prerequisite:
+  1. USB Flash Disk with 4 GiB Storage at least
+  2. A computer with network connection
 
-在客户机的浏览器上，`输入 NAS 主机的内网地址`访问控制页面，`输入刚刚设置的 Admin 账户和密码`。
+1. Download TrueNAS Scale ISO image in official website: https://manjaro.com/.
+2. Download Rufus 4.1p: https://rufus.ie/.
+3. Make TrueNAS USB Flash Disk by rufus with default configuration and wait until the progress is completed.
+4. Insert USB Flash Disk.
+5. Press F1/F2/F8/F10/Shift+F10/Shift+Fn+F10/DEL, enter BIOS and make sure the boot priority of USB Flash Disk is highest.
+6. Install TrueNAS Scale.
+  - You can choose multiple hard disk to install to enable raid mode to gain more stability.
+  - TrueNAS Scale encourage users maintain NAS with "admin" account, rather than "root" with TrueNAS Core.
+7. Set Password.
+8. Reboot, keep the ip address shown in the monitor and access the management site in web browser with another computer.
 
-> 
+### 2. (Optional) Change Time Zone and Locale.
 
-### 2.更改语言、时区（optional）
+In the management site:
+1. SYSTEM.
+2. GENERAL.
+3. LOCALIZATION SETTINGS.
+4. SETTINGS.
+5. Asia/Shanghai.
+6. SAVE.
 
-`System - General - Localization Settings - SETTINGS - Asia/Shanghai - SAVE`
+### 3. Disable DHCP service and allocate a static ip address to NAS.
 
-### 3.关闭 DHCP 服务，固定 IP 地址
-
-`Network - Interfaces - 点击对应的网卡 - 取消勾选 DHCP - ADD - 在 Aliases 的 IP Addresses 中，输入欲访问的地址、掩码（一般为24） - APPLY`
+1. NETWORK.
+2. INTERFACES.
+3. Click the network card.
+4. Deselect DHCP checkbox.
+5. Add ALIASES, input the ip address which you prefer to access NAS management site with (generally start with 193.168.1).
+6. Input NETWORK MASK, which generally is 24 (it means your local network ip address range from xxx.xxx.xxx.1 to xxx.xxx.xxx.255).
+6.  的 IP Addresses 中，输入欲访问的地址、掩码（一般为24） - APPLY`
 
 此时出现手动设置网关，在对话框中输入。
 
