@@ -7,8 +7,9 @@ highlight: true
 
 ### PC #1
 
+| | PC #1 Hardware Spec | |
+|:---:|:---:|:---:|
 | CPU | AMD Ryzen R9 7950x | 16c32t 5.85GHz 170wTDP AM5 |
-|---|---|---|
 | Motherboard | ASUS ProArt X670E-Creator | DDR5 Wifi ATX 305mm * 244mm |
 | Memory | Kingbank Blade |  32G 6000MHz C30 Hynix A-Die * 2  |
 | GPU1 | ASUS TUF Gaming RTX 4090 OC | 384bit 24GB GDDR6X 16384sp 450wTDP |
@@ -31,8 +32,9 @@ highlight: true
 
 ### PC #2
 
+| | PC #2 Hardware Spec | |
+|:---:|:---:|:---:|
 | CPU | Intel Xeon E3-1230 v5 | 4c8t 3.80GHz 80wTDP FCLGA1151 |
-|---|---|---|
 | Motherboard | MSI C236M Workstation | DDR4 mATX 244mm * 244mm |
 | Memory | Hynix ECC DDR4 | 2133mhz c15 8G * 2 |
 | GPU | ASUS 1060 LOL | 192bit 3G GDDR5 1152sp 80wTDP |
@@ -48,8 +50,9 @@ highlight: true
 
 ### PC #3
 
+| | PC #3 Hardware Spec | |
+|:---:|:---:|:---:|
 | CPU | Intel i5-12500 | 6c12t 4.60GHz 65wTDP FCLGA1700 |
-|---|---|---|
 | Motherboard | ASUS TUF B660M-PLUS | WIFI DDR4 mATX 244mm * 244mm |
 | Memory | Kingbank Heatsink Black | 16G 3600MHz C18 Samsung A-Die * 2 |
 | GPU1 | EVGA 1060 | 192bit 3G GDDR5 1152sp 120wTDP |
@@ -65,8 +68,9 @@ highlight: true
 
 ### PC #4
 
+| | PC #4 Hardware Spec | |
+|:---:|:---:|:---:|
 | CPU | Intel Core I5-11500h | 6c12t 4.6GHz 45wTDP FCBGA1787 |
-|---|---|---|
 | Motherboard | Erying Skyline HM570 |  ITX 170mm X 170mm |
 | Memory | Kingbank Heatsink Black |  3200mhz 8GB |
 | GPU | Intel UHD Graphics XE  | 32eu |
@@ -77,10 +81,11 @@ highlight: true
 | Cooler | Thermalright axp90-x53 |  Black 95mm * 94.5mm * 53mm |
 | Monitor | LG 24EA53V | 24inch 1080p60hz IPS |
 
-### Nas #1
+### NAS #1
 
+| | NAS #1 Hardware Spec | |
+|:---:|:---:|:---:|
 | CPU | Intel Xeon E5-1235L v5 | 4c4t 3GHz 25wTDP FCLGA1151 |
-|---|---|---|
 | Motherboard | MSI C236A Workstation | ATX 305mm * 244mm |
 | Memory | Hynix ECC DDR4 | 2133mhz c15 16G * 4 |
 | GPU | Intel Graphics HD P530 |  192sp Integrated |
@@ -90,10 +95,11 @@ highlight: true
 | Chassis | Antec P101 Silent | 527mm * 232mm * 506mm |
 | PSU | Msi MPG A650GF |  650w ATX Gold Fully Modular |
 | Cooler | Phantom Spirit 120 SE | 125mm * 110mm * 155mm |
-### Nas #2
+### NAS #2
 
+| | NAS #2 Hardware Spec | |
+|:---:|:---:|:---:|
 | CPU | Intel Xeon E5-1225 v5 | 4c4t 3.7GHz 80wTDP FCLGA1151 |
-|---|---|---|
 | Motherboard | Gigabyte X150M WS | MATX 226mm * 17.4mm |
 | Memory | Hynix ECC DDR4 | 2133mhz c15 16G * 2 |
 | GPU | Intel Graphics HD P530 |  192sp Integrated |
