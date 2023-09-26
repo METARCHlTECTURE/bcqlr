@@ -8,28 +8,31 @@ highlight: true
 ### High-capacity Local Area Network NAS with 10G trans
 
 **Main Devices**: 
-  - CPU: Intel Xeon E5-1235L v5 4c4t 3ghz 25wtdp Lga1151
-  - MB: Msi C236a Workstation 305mm X 244mm
-  - Memory: SK Hynix ddr4 2133mhz ecc 16GB * 4
-  - GPU: Intel Graphics HD P530 192sp Integrated
+  - CPU: Intel Xeon E5-1235L v5 4C4T 3GHz 25wTDP LGA1151
+  - MB: MSI C236a Workstation 305mm X 244mm
+  - Memory: Sk Hynix DDR4 2133MHz ECC 16GB * 4
+  - Gpu: Intel Graphics Hd P530 192sp Integrated
 
 **Stroage Devices**: 
   - Boot-Pool, Mirror:
     - Samsung PM961 128GB * 2
-  - Data-Pool HHD: Seagate Exos St1800nm000j 18TB * 6
-  - Metadata, Triple Mirror:
+  - Appdata-Pool, Raid Z1:
     - Samsung PM961 512GB
-    - Samsung Evo Plus 512GB
+    - Samsung 970 Evo Plus 512GB
     - Samsung 980 512GB 
+  - Data-Pool, Raid Z2:
+    - HHD: Seagate Exos st1800nm000j 18TB * 6
   - Adaptor:
-    - JEYI SK18 M.2 Nvme To PCIE4.0x4 * 3
-    - JEYI SK1 M.2 Nvme To PCIE4.0x1 * 2
+    - JEYI SK18 M.2 NVME To PCIE4.0x4 * 2
+    - JEYI SK1 M.2 NVME To PCIE4.0x1 * 2
 
 **Suplementary Devices**: 
-  - Chassis: Antec P101S
-  - PSU: Msi MPG A650GF 650w Gold Fully Modular
-  - Cooler: Phantom Spirit 120 SE 265wtdp
-  - Netword Adaptor: 10G RJ45x2
+  - Chassis: Antec P101S ATX Chassis
+  - PSU: MSI MPG A650GF 650w Gold Fully Modular
+  - Cooler: Phantom Spirit 120 SE 265wTDP
+  - Netword Adaptor: 
+    - HP 10G RJ45x2
+    - RTL8125 2.5G
   - UPS: APC Schneider BK650M2-CH 650VA
   - CPU Thermal Gease: Honeywell PTM7950 Phase-change-pad
   - SSD Thermal Gease: Techinno Lv800
@@ -37,47 +40,68 @@ highlight: true
 ### ITX NAS
 
 **Main Devices**: 
-  - CPU: Intel Core I5 11500h 6c12t 4.6ghz 45wtdp Fcbga1787
+  - CPU: Intel Core i5 11500H 6C12T 4.6GHz 45wTDP FCBGA1787
   - Motherboard: Erying Skyline Hm570 ITX 170mm X 170mm
-  - Memory: Kingbank DDR4 2133mhz 8GB
+  - Memory: Kingbank DDR4 2133MHz 8GB + 16GB
   - GPU: Intel UHD Graphics XE 750 32eu
 
 **Storage Devices**: 
-  - Boot-Pool Ssd: Samsung PM961 128GB
-  - Datapool 1, JBOD:
+  - Boot-Pool SSD, Mirror:
+    - SSD: Samsung PM961 128GB * 2
+  - Appdata-Pool, Stripe:
+    - SSD: KIOXIA RC20 1TB
+    - Adpator: JEYI MX16 M.2 Nvme To PCIE3.0x4
+  - Media Data-Pool, Stripe:
     - HHD: Seagate Barracuda 5TB
     - HHD: Seagate Barracuda 4TB
-  - Datapool 2, Mirror:
-    - KIOXIA RC20 1TB
-    - Micron 1100 1TB
-  - Adpator: JEYI MX16 M.2 Nvme To PCIE3.0x4
-
+  
 **Supplementary Devices**: 
-  - Chassis: Sirius S40 6 8.5L ITX
-  - PSU: Thermaltake Toughpower Sfx 450w Gold Fully Modular
-  - Cooler: Thermalright axp90-53 Black 下压式散热器9cm单风扇
+  - Chassis: Sirius S40 8.5L ITX
+  - PSU: Thermaltake Toughpower SFX 450w Gold Fully Modular
+  - Cooler: Thermalright axp90-53 Black
   - CPU Thermal Gease: Honeywell PTM7950 Phase-change-pad + Geekcooling 5
-  - SSD Thermal Gease: Techinno Lv800
+  - SSD Thermal Gease: Techinno LV800
 
 
 
-## Truenas Scale 快速使用
+## Truenas Scale Quick Start Guide
 
-### 1.制作 Truenas 安装 U 盘并安装系统
+### Make TrueNAS USB Flash Disk
 
-安装系统
-1. 下载  TrueNAS 镜像，使用 Rufus 以默认设置制作安装 U 盘。
-2. 安装系统，设置 Admin 密码
+Prerequisite:
+  1. USB Flash Disk with 4 GiB Storage at least
+  2. A computer with network connection
 
-在客户机的浏览器上，`输入 NAS 主机的内网地址`访问控制页面，`输入刚刚设置的 Admin 账户和密码`。
+1. Download TrueNAS Scale ISO image in official website: https://manjaro.com/.
+2. Download Rufus 4.1p: https://rufus.ie/.
+3. Make TrueNAS USB Flash Disk by rufus with default configuration and wait until the progress is completed.
+4. Insert USB Flash Disk.
+5. Press F1/F2/F8/F10/Shift+F10/Shift+Fn+F10/DEL, enter BIOS and make sure the boot priority of USB Flash Disk is highest.
+6. Install TrueNAS Scale.
+  - You can choose multiple hard disk to install to enable raid mode to gain more stability.
+  - TrueNAS Scale encourage users maintain NAS with "admin" account, rather than "root" with TrueNAS Core.
+7. Set Password.
+8. Reboot, keep the ip address shown in the monitor and access the management site in web browser with another computer.
 
-### 2.更改语言、时区（optional）
+### 2. (Optional) Change Time Zone and Locale.
 
-`System - General - Localization Settings - SETTINGS - Asia/Shanghai - SAVE`
+In the management site:
+1. SYSTEM.
+2. GENERAL.
+3. LOCALIZATION SETTINGS.
+4. SETTINGS.
+5. Asia/Shanghai.
+6. SAVE.
 
-### 3.关闭 DHCP 服务，固定 IP 地址
+### 3. Disable DHCP service and allocate a static ip address to NAS.
 
-`Network - Interfaces - 点击对应的网卡 - 取消勾选 DHCP - ADD - 在 Aliases 的 IP Addresses 中，输入欲访问的地址、掩码（一般为24） - APPLY`
+1. NETWORK.
+2. INTERFACES.
+3. Click the network card.
+4. Deselect DHCP checkbox.
+5. Add ALIASES, input the ip address which you prefer to access NAS management site with (generally start with 193.168.1).
+6. Input NETWORK MASK, which generally is 24 (it means your local network ip address range from xxx.xxx.xxx.1 to xxx.xxx.xxx.255).
+6.  的 IP Addresses 中，输入欲访问的地址、掩码（一般为24） - APPLY`
 
 此时出现手动设置网关，在对话框中输入。
 
@@ -116,75 +140,6 @@ Pool 的根目录位于: /mnt/[POOL_NAME]
 ### 8.使用 Samba 共享
 
 `Shares - 点击 Windows(SMB) Shares 的“⋮”标志，点击 Turn On Service - ADD - 选中需要共享的数据集 - SAVE - 弹出的对话框中选择 Restart Service`
-
-
-
-## TrueNAS Core 快速使用
-
-### 1.制作 TrueNAS 安装 U 盘并安装系统
-
-安装系统
-1. 下载  TrueNAS 镜像，使用 Rufus 以默认设置制作安装 U 盘。
-2. 安装系统，设置 root 密码，以 Bios 模式启动
-
-在客户机的浏览器上，`输入 NAS 主机的内网地址`访问控制页面，`输入刚刚设置的 root 账户和密码`。
-
-### 2.更改语言、时区（optional）
-
-`System - General - Language 选 Simplified Chinese - Asia/Shanghai - SAVE`
-
-### 3.关闭 DHCP 服务，固定 IP 地址
-
-`Network - Interface - ">"(Expand Row) EDIT - 取消勾选 DHCP - 输入 IP Addresses - ADD - APPLY`
-
-此时出现是否 Apply Changes，如果 60 秒内无操作，则回滚设置。
-
-`勾选 Confirm，点击 Test Changes - Apply Changes。`
-
-此时重新登陆更改后的 IP 地址，会出现确认更改内容的对话框，点击`确认`。之后提示设置已更改。
-
-### 4.新建 group 和 user
-
-建立群组: 
-
-`Accounts - Groups - 添加群组 - 键入群组名称 - APPLY`
-
-建立用户: 
-
-`Accounts - Users - 添加用户 - 键入用户名、密码 - 取消勾选“新建主要组” - APPLY`
-
-### 5.新建 pool 和 dataset
-
-新建 pool: 
-
-`Storage - Pool - ADD POOL - 键入池名称 - 选择添加的磁盘 - 勾选 ENFORCE - 弹出确认对话框，点击 Continue - 弹出警告对话框，勾选确认、点击 Create Pool`
-
-若删除池，在池的右上角`设置 - 导出/断开链接`即可。
-
-新建 dataset: 
-
-在存储选项页中，`点击欲添加数据集右侧的“⋮”标志 - 键入数据集名称 - 共享方式选择 SMB - APPLY`
-
-> 数据集被挂在在 NAS 主机 /mnt/[POOL_NAME]/[DATASET_NAME]。
-
-### 6.更改访问权限
-
-只能更改数据集的访问权限，而不能更改池。
-
-在存储选项页中，`点击欲更改权限的数据集右侧的“⋮”标志 - 点击查看权限 - EDIT - 选择欲更改权限的用户`
-
-### 7.使用 Samba 服务共享
-
-开启 SMB 服务: 
-
-`Sevice - 开启 SMB 的按钮 - 勾选开机自启`
-
-共享创建的数据集: 
-
-`Share - Windows Share(SMB) - 点击添加 - 选择刚才新建的池 - APPLY`
-
-### 8.在客户机上映射网络服务器or添加网络位置
-
 
 ## 客户机访问 NAS 存储服务
 
@@ -393,8 +348,9 @@ CPU
 主板
 - 硬盘 Sata 接口是否与 M.2 的口冲突？部分主板使用 M.2 接口后会屏蔽部分 Sata 接口
 - 淘宝的 NAS ITX 妖板很坑，其自带的散热器噪音大、网卡弱、硬盘接口冲突
-- 是否带有视频接口。工作站主板，如技嘉 X150 系列，无视频接口
-- 不要使用自带 Raid 阵列功能的主板！超频失败、电池没电均会造成阵列信息丢失
+- 安装系统时，需要暂时使用视频输出。此时需要了解该主板是否带有视频接口；若无，可以暂时插入一个显卡使用，安装完毕拔出即可。工作站主板、工控主板，如 X150 系列，无视频接口。
+- 不要使用自带 Raid 阵列功能的主板！超频失败、主板电池没电均会造成阵列信息丢失
+- 尔英（ERYING）的板载 CPU 主板虽然在规格上非常适合做低功耗高性能的 NAS，但是该主板在加入“存有数据的机械硬盘时”可能会无法开机。此外，主板离电后也可能无法开机。
 
 硬盘
 - 异常便宜的都是矿盘
@@ -426,6 +382,7 @@ CPU
 
 操作系统
 - 家用最好用群晖、OMV，对手机平台支持好
+- 黑群晖一般需要外置存储设备引导启动，一般为 U 盘或者内置的硬盘。注意该设备是否耐用、稳定、耐热。
 - 视频在线剪辑等专业用途使用 TureNAS，必须搭配 ECC 内存
 - 不推荐小公司的成品 NAS。其使用自有的操作系统，若公司倒闭则对系统停止支持
 
