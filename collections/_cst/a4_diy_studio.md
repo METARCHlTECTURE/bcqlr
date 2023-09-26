@@ -90,7 +90,7 @@ highlight: true
 | Memory | Hynix ECC DDR4 | 2133mhz c15 16G * 4 |
 | GPU | Intel Graphics HD P530 |  192sp Integrated |
 | Boot Pool | Samsung PM961 |  128GB PCIE3.0 * 2 |
-| AppData Pool | Samsung PM961<br>Samsung Evo Plus<br>Samsung 980 | 512GB PCIE3.0 * 3 |
+| AppData Pool | Samsung 970 Evo Plus <br>Samsung PM961 Samsung 980 | 512GB PCIE3.0 * 3 |
 | Storage Pool | Seagate Exos St1800nm000j | 18TB SATA3 * 6 |
 | Chassis | Antec P101 Silent | 527mm * 232mm * 506mm |
 | PSU | Msi MPG A650GF |  650w ATX Gold Fully Modular |
