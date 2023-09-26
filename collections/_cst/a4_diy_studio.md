@@ -7,7 +7,7 @@ highlight: true
 
 ### PC #1
 
-| | PC #1 Hardware Spec | |
+| | Hardware Spec | |
 |:---:|:---:|:---:|
 | CPU | AMD Ryzen R9 7950x | 16c32t 5.85GHz 170wTDP AM5 |
 | Motherboard | ASUS ProArt X670E-Creator | DDR5 Wifi ATX 305mm * 244mm |
@@ -32,7 +32,7 @@ highlight: true
 
 ### PC #2
 
-| | PC #2 Hardware Spec | |
+| | Hardware Spec | |
 |:---:|:---:|:---:|
 | CPU | Intel Xeon E3-1230 v5 | 4c8t 3.80GHz 80wTDP FCLGA1151 |
 | Motherboard | MSI C236M Workstation | DDR4 mATX 244mm * 244mm |
@@ -50,7 +50,7 @@ highlight: true
 
 ### PC #3
 
-| | PC #3 Hardware Spec | |
+| | Hardware Spec | |
 |:---:|:---:|:---:|
 | CPU | Intel i5-12500 | 6c12t 4.60GHz 65wTDP FCLGA1700 |
 | Motherboard | ASUS TUF B660M-PLUS | WIFI DDR4 mATX 244mm * 244mm |
@@ -68,7 +68,7 @@ highlight: true
 
 ### PC #4
 
-| | PC #4 Hardware Spec | |
+| | Hardware Spec | |
 |:---:|:---:|:---:|
 | CPU | Intel Core I5-11500h | 6c12t 4.6GHz 45wTDP FCBGA1787 |
 | Motherboard | Erying Skyline HM570 |  ITX 170mm X 170mm |
@@ -83,21 +83,21 @@ highlight: true
 
 ### NAS #1
 
-| | NAS #1 Hardware Spec | |
+| | Hardware Spec | |
 |:---:|:---:|:---:|
 | CPU | Intel Xeon E5-1235L v5 | 4c4t 3GHz 25wTDP FCLGA1151 |
 | Motherboard | MSI C236A Workstation | ATX 305mm * 244mm |
 | Memory | Hynix ECC DDR4 | 2133mhz c15 16G * 4 |
 | GPU | Intel Graphics HD P530 |  192sp Integrated |
 | Boot Pool | Samsung PM961 |  128GB PCIE3.0 * 2 |
-| AppData Pool | Samsung 970 Evo Plus <br>Samsung PM961 Samsung 980 | 512GB PCIE3.0 * 3 |
+| AppData Pool | Samsung PM961<br>Samsung 970 Evo Plus<br>Samsung 980 | 512GB PCIE3.0 * 3 |
 | Storage Pool | Seagate Exos St1800nm000j | 18TB SATA3 * 6 |
 | Chassis | Antec P101 Silent | 527mm * 232mm * 506mm |
 | PSU | Msi MPG A650GF |  650w ATX Gold Fully Modular |
 | Cooler | Phantom Spirit 120 SE | 125mm * 110mm * 155mm |
 ### NAS #2
 
-| | NAS #2 Hardware Spec | |
+| | Hardware Spec | |
 |:---:|:---:|:---:|
 | CPU | Intel Xeon E5-1225 v5 | 4c4t 3.7GHz 80wTDP FCLGA1151 |
 | Motherboard | Gigabyte X150M WS | MATX 226mm * 17.4mm |
