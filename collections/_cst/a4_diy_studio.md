@@ -95,6 +95,7 @@ highlight: true
 | Chassis | Antec P101 Silent | 527mm * 232mm * 506mm |
 | PSU | Msi MPG A650GF |  650w ATX Gold Fully Modular |
 | Cooler | Phantom Spirit 120 SE | 125mm * 110mm * 155mm |
+
 ### NAS #2
 
 | | Hardware Spec | |
