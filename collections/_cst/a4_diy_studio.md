@@ -11,7 +11,7 @@ highlight: true
 |:---:|:---:|:---:|
 | CPU | AMD Ryzen R9 7950x | 16c32t 5.85GHz 170wTDP AM5 |
 | Motherboard | ASUS ProArt X670E-Creator | DDR5 Wifi ATX 305mm * 244mm |
-| Memory | Kingbank Blade |  32G 6000MHz C30 Hynix A-Die * 2  |
+| Memory | Kingbank Blade | 32G 6000MHz C30 Hynix A-Die * 2 |
 | GPU1 | ASUS TUF Gaming RTX 4090 OC | 384bit 24GB GDDR6X 16384sp 450wTDP |
 | GPU2 | AMD Radeon 610M GPU | 2cu RDNA3 Integreted |
 | SSD Slot1 | Solidigm P44 PRO |  2TB PCIe4.0 |

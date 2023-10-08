@@ -134,8 +134,6 @@ python3 i3wm-themer.py --config config.yaml --load themes/002.json # alternative
 set $mod Mod4
 # [Modified] Window kill command
 bindsym $mod+Escape kill
-# [Modified] start program launcher
-bindsym $mod+d exec rofi -show run -lines 10 -eh 1 -width 40 - padding 50  -bw 0 -font "Monospace Regulars 18"
 
 # [Modified] change focus
 bindsym $mod+j focus left
@@ -171,6 +169,24 @@ Xft.dpi: 183
 ```
 
 7. 使用快捷键 Mod + D 运行 rofi-theme-selector 选择 rofi 的主题。按 Alt + A 应用。
+
+8. 自定义 Rofi，编辑：/home/$USER/.config/rofi/config.rasi 文件，添加如下内容：
+
+```json
+configuration {               
+/*  modes: "window,run,ssh,drun";*/
+/*  font: "mono 12";*/
+/*  location: 0;*/
+/*  yoffset: 0;*/
+/*  xoffset: 0;*/
+/*  fixed-num-lines: true;*/
+... cut ...
+/*  ml-row-down: "ScrollDown";*/                                                                                        
+/*  me-select-entry: "MousePrimary";*/                                                                                  
+/*  me-accept-entry: "MouseDPrimary";*/                                                                                 
+/*  me-accept-custom: "Control+MouseDPrimary";*/ 
+}
+``
 
 ## 配置中文输入法
 
