@@ -17,7 +17,7 @@ collection_order    :
     "hist",
     "phil",
     "math",
-    "cst",
+    "comp",
     "prog",
     "fart",
   ]
@@ -39,10 +39,10 @@ collections:
     output          : true
     permalink       : /:collection/:title/
     alias           : "LIT"
-  cst:
+  comp:
     output          : true
     permalink       : /:collection/:title/
-    alias           : "CST"
+    alias           : "COMP"
   lang:
     output          : true
     permalink       : /:collection/:title/
