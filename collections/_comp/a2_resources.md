@@ -23,6 +23,14 @@ highlight: true
 
 [Ixueshu](https://www.ixueshu.com/)
 
+## Code Crafter
+
+https://app.codecrafters.io/
+
+https://github.com/orgs/codecrafters-io/repositories
+
+https://github.com/codecrafters-io/build-your-own-x
+
 ## 类型论驿站写作计划
 
 link: https://zhuanlan.zhihu.com/p/32182423
