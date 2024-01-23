@@ -44,15 +44,18 @@
       }
     }
     .site_title {
+      color: $color-primary;
       font-size: $header-btn-text-size;
       @include simple_link_style;
     }
     .site_owner {
+      color: $color-primary;
       font-size: $header-btn-text-size;
       @include simple_link_style;
     }
   }
   .header_btn {
+    color: $color-primary;
     margin: 0 0.06em 0 0.06em;
     display: inline-block;
     i {

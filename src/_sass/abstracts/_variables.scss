@@ -1,11 +1,30 @@
+// normal colors
+$black:   #000000;
+$lighterblack: #181111;
+$red:     #cd0000;
+$green:   #00cd00;
+$yellow:  #cdcd00;
+$blue:    #436fff;
+$magenta: #df4cdf;
+$cyan:    #4ef9ff;
+$white:   #e7e3e3;
+$orange:  #f6c113;
+
+
 // global variables
-$color-primary: rgb(84, 235, 24);
-$color-secondary: rgb(240, 188, 18);
-$color-blockquote: #e0ac3c;
-$color-warning: rgb(238, 63, 40);
-$color-bg: rgb(24, 17, 17);
-$color-postbg: rgb(0, 0, 0);
+$color-primary: $green;
+$color-secondary: $orange;
+$color-warning: $red;
+$color-bg: $lighterblack;
+$color-postbg: $black;
 $image-background: none;
+
+$article-text: $green;
+$article-blockquote: $white;
+$article-bold:  $orange;
+$article-link: $blue;
+$article-italic: $magenta;
+$article-keyword: $red;
 
 // font size
 $font-size-h1: 23px;

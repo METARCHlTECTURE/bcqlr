@@ -15,12 +15,13 @@ h2 {
   font-size: $font-size-h2;
   font-weight: lighter;
   margin: 1.8em 0 0.8em 0;
-  border-bottom: $thin-border;
+  border-bottom: $secondary-border;
 }
 h3 {
   font-size: $font-size-h3;
   font-weight: lighter;
   margin: 1.9em 0 0.8em 0;
+  border-bottom: $thin-border;
 }
 h4 {
   font-size: $font-size-h4;
@@ -42,8 +43,8 @@ p {
   display: block;
 }
 strong {
-  color: mix($color-primary, rgba(#ddd, 1));
-  -webkit-text-stroke: 0.5px $color-primary;
+  color: $article-bold;
+  // -webkit-text-stroke: 0.5px $color-primary;
   // text-shadow: 0.35px 0.35px 0 $color-primary;
 }
 hr {
@@ -74,11 +75,15 @@ button {
 }
 // links
 a {
-  color: $color-primary;
-  text-decoration: underline dotted rgba($color-primary, 0.4);
+  font-size: 95%;
+  color: $article-link;
+  text-decoration: none;
+  //text-decoration: underline solid $article-link;
 }
 a:hover {
-  color: $color-secondary;
+  font-size: 95%;
+  color: $orange;
+  font-weight: auto;
   text-decoration: none;
   cursor: pointer;
 }
@@ -105,12 +110,12 @@ blockquote {
   font-size: $font-smaller;
   font-style: none;
   line-height: 1.5;
-  color: $color-blockquote;
+  color: $article-blockquote;
 }
 // footnote mark
 sup a{
   font-size: 105%;
-  color: $color-secondary;
+  color: $article-blockquote;
   text-decoration: none !important;
 }
 // code highlight
@@ -149,15 +154,16 @@ article {
     padding: 0 0.3em;
   }
   a:hover {
-    font-weight: bold;
+    //font-weight: bold;
+    text-decoration: underline ;
   }
 }
 // markdown style reset: keyword
 article .language-plaintext {
-  font-size: 98%;
+  font-size: 100%;
   font-weight: bold;
-  color: $color-secondary;
-  -webkit-text-stroke: 0.5px $color-primary; // stroke text
+  color: $article-keyword;
+  // -webkit-text-stroke: 0.5px $color-primary; // stroke text
   // text-shadow: -0.4px -0.4px 0 rgb(233, 255, 135), 0.4px 0.4px 0 rgb(48, 253, 59),
     // 0.4px 0.4px 0 rgb(95, 99, 65);
 }
