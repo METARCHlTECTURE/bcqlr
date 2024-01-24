@@ -46,7 +46,7 @@ title: Learning Path and Basics of Computer Science
 
 如果你熟悉计算机的基础操作，一个稍显硬核的方法是，**直接去学习一门编程语言，学会与计算机对话**。便捷的编程工具让这成为了现实。
 
-> `不要害怕自学`——就像“不自量力”的真正解释是，“不自学学不好量子力学”，计算机科学的最佳学习方法也是自学。甚至可以说，没有相当程度的自学能力，是不可能学会计算机科学的！计算机科学本身就是一个涉及非常广泛的综合学科，而技术又在永远飞速推陈出新。如果想学习时一蹴而就、工作中仅仅“吃老本”断不可行。
+> `不要害怕自学`——就像“不自量力”的真正解释是，“不自学学不好量子力学”，计算机科学的最佳学习方法也是自学。甚至可以说，没有相当程度的自学能力，是不可能学会计算机科学的！计算机科学本身就是一个涉及非常广泛的综合学科，而面向不同的工作领域，又会遇到不同的技术的组合（技术栈）。学习时一蹴而就、工作中仅仅依靠“吃老本”断不可行。
 
 > `一定要做编程作业`——计算机科学课程的最大特点是：**做课后作业的编程项目比听课、读教材重要得多**，这是最能透彻学会一门技术的方法，也是效率最高的方法。一般而言，在公开课的主页都可以找到配套的课后作业，这些作业质量极高，并且可能配有答案。在 Github 上也可以搜到
 
@@ -61,9 +61,9 @@ title: Learning Path and Basics of Computer Science
 
 另外一个令人哭笑不得的蠢事是：编程语言已经形成了各种宗教教派（多么讽刺！用愚昧无知的宗教迷信去敬拜人类科技中的瑰宝）。时下 Python 的教徒最多，他们因为人工智能应用的泛用而获得了莫大优越感，攻击其他语言赶不上潮流（人工智能绝非 Python 独享）。C 语言的信众是最古老的，他们的兴起仅仅是因为恰巧——Unix 恰巧变得流行，Unix 恰巧是用 C 语言编写而成。
 
-人类发明了数千种编程语言，似乎永远也学不完——但事实是，其实只有三大类编程语言，也就是人类操控计算机有三种思想；同类编程语言之间的差异极小，比东北话和北京话、利物浦口音和伦敦腔差距更小（前提是，你透彻地理解了编程语言的本质）。这三类是：命令式语言、函数式语言、逻辑式语言。
+人类发明了数千种编程语言，似乎永远也学不完——但事实是，其实**只有四种编程语言的“思想”**（严格来说，是范式 Paradigm），也就是人类操控计算机有四种思想；**同类编程语言之间的差异极小**，比东北话和北京话、利物浦口音和伦敦腔差距更小（前提是，你透彻地理解了编程语言的本质）。这四类是：`命令式编程`、`面向对象编程`、`函数式编程`、`逻辑式编程`。
 
-这三种编程范式，才是最核心的组织计算机程序的方法；编程语言固然重要，但是也只是这三种思维的表达形式、是外表而非筋骨（这也是为什么中文编程毫无意义，编程的真正语言是高度抽象的数学语言，而而非英语或者汉语）。现代编程语言总是想给你很大的自由，所以**只要去学就好了，你永远可以十分轻松地从一门编程语言切换到另外一门。**
+**这四种编程范式，才是最核心的组织计算机程序的方法，才是每一个程序开发人员需要深刻理解的思想**（而不是泡在层出不穷的新语言的汪洋大海中）；编程语言固然重要，但是也只是这四种思维的表达形式、是外表而非筋骨（这也是为什么中文编程毫无意义，编程的真正语言是高度抽象的数学语言，而而非英文或者中文）。现代编程语言总是想给你很大的自由（大部分语言是多范式的），所以**只要去学就好了，你永远可以十分轻松地从一门编程语言切换到另外一门。**
 
 与其挑剔编程语言，不如选取更容易理解的公开课和教程。以下是非常适合入门的编程语言学习资源。
 
@@ -74,37 +74,37 @@ Python 是当前最炙手可热的编程语言，其设计注重简洁、可读�
   2. 丰富的第三方库和框架，如NumPy、Pandas、Scikit-learn、TensorFlow等，这些库提供了广泛的功能和工具，方便进行数据处理、机器学习、深度学习等任务。
   3. 拥有一个庞大而活跃的开源社区，这意味着可以轻松地获得帮助、解决问题，并找到代码示例和资源。
 
-**★【课程】MIT 6.0001 计算机科学和Python编程导论** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/av27987738) [【课程主页】](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+**★【课程】MIT 6.0001 计算机科学和Python编程导论** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/av27987738) [#课程主页](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
   - 麻省理工学院（MIT）的计算机科学入门课程，强调培养计算思维，旨在教授学生如何使用计算机科学的基本概念和技术解决问题。理论与实践结合，鼓励自学。
   - 配套教材为《Python 编程导论》。
 
-**【书籍】Python 编程导论 Introduction to Computation and Programming Using Python** [【豆瓣】](https://book.douban.com/subject/30155590/) [【啊玛粽】](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262529629)
+**【书籍】Python 编程导论 Introduction to Computation and Programming Using Python** [#豆瓣](https://book.douban.com/subject/30155590/) [#啊玛粽](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262529629)
   - MIT6.001 的配套教材，由 MIT 教授结合课堂实践亲自编写。涉及了很多个主题，包括一些经典算法、统计学、蒙特卡罗模拟、机器学习，但都浅尝辄止。中文翻译质量稍差，有能力直接学英文。
 
 ### Scheme
 
 Scheme 是 Lisp 语言的方言之一，具有语法非常简洁，拥有少量的基本语法规则和表达式结构的特点。Scheme 作为一种纯粹的函数式编程语言，将函数作为第一类对象，即“一切皆函数”，以 Lambda 演算为基本的计算模型。学习 Scheme 语言可以更直接地用计算思维组织程序，也可以接触到动态类型系统、宏系统、高阶函数、闭包、反射、元编程等“高级”编程特性。
 
-**★【书籍】程序设计方法 How to Design Programs（HtDP）** [【豆瓣】](https://book.douban.com/subject/35222513/)
+**★【书籍】程序设计方法 How to Design Programs（HtDP）** [#豆瓣](https://book.douban.com/subject/35222513/)
   - 十分适合零基础的初学者的入门书籍，简单易懂地从编程思维、程序组织形式去学习编程。可以作为 SICP 的前置课程学习。
 
 ### Haskell
 
 Haskell是一种纯函数式编程语言，具有强大的类型系统和高级特性。它由米兰·昆德拉等人于1987年设计开发，旨在提供一个优雅、安全、可靠且高效的编程环境。Haskell鼓励纯函数式编程，采用静态类型系统、惰性求值策略，支持高阶函数和函数组合，具有强大的并发和并行编程能力。
 
-**【课程】Functional Programming 101x** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1wb411w7WS)
-  - 配套教材为：Programming with Haskell [【豆瓣】](https://book.douban.com/subject/1951517/)
+**【课程】Functional Programming 101x** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1wb411w7WS)
+  - 配套教材为：Programming with Haskell [#豆瓣](https://book.douban.com/subject/1951517/)
   - 简单的 Haskell 入门课程，内容比较浅显。
 
-**【书籍】Get Programming with Haskell** [【豆瓣】](https://book.douban.com/subject/26992771/)
+**【书籍】Get Programming with Haskell** [#豆瓣](https://book.douban.com/subject/26992771/)
   - 一本入门 Haskell 编程语言的书籍，它避免了深奥的学术术语和繁重的函数式编程理论。
 
 ### 学编程时遇到问题？
 
-  - 理解报错信息。——即使看起来很乱，但那也是可读的，包含了最直接的错误信息
-  - 查阅官方文档。——READ THE FXXKING MANUAL!!!
-  - 在网络上寻求帮助，如 Stackoverflow、Reddit 等。
-  - 尽量不要直接问别人，独立解决问题。——最了解你的代码逻辑的人永远是你自己
+  - **尝试理解报错信息**——即使看起来很乱，但那也是可读的，包含了最直接的错误信息。
+  - **查阅官方文档**——READ THE FXXKING MANUAL!!!
+  - **在网络上寻求帮助**，如 Stackoverflow、Reddit 等。
+  - 尽量不要直接问别人，**锻炼独立解决问题的能力**——最了解你的代码逻辑的人永远是你自己。
 
 ### 认识计算机科学
 
@@ -112,33 +112,33 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 
 一个几乎对于所有学科通用的“初窥门径”的方法是，学习它的历史。了解了一个学科的诞生初期的模样，可以清楚地看到这门学科是从哪些基础思想演化而来，而又是为了解决什么困难的问题而被创造；再结合后续的发展，可以将多端寡要的现状与远古时期的单一直接的目的连接。
 
-相对而言，“计算机科学导论”这门课程，比“信息技术基础”要深入，讨论了更多的技术细节，因而对于学习的要求也更高。但是不建议在这门课上花费太多时间，浅尝辄止、不求甚解即可；有一个基础的印象之后，在学习后边的专项课程自然会接二连三地“恍然大明白”。
+相对而言，“计算机科学导论”这门课程，比“信息技术基础”要深入，讨论了更多的技术细节，因而对于学习的要求也更高。但是**不建议在这门课上花费太多时间**，浅尝辄止、不求甚解即可；有一个基础的印象之后，在学习后边的专项课程自然会接二连三地“恍然大明白”。
 
-**【课程】Havard CS50: 非计算机专业如何理解计算机技术 Understanding Technology** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1ZK4y1q7Vc) [【课程主页】](https://cs50.harvard.edu/technology)
+**【课程】Havard CS50: 非计算机专业如何理解计算机技术 Understanding Technology** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1ZK4y1q7Vc) [#课程主页](https://cs50.harvard.edu/technology)
   - 这门课程适合那些尚未将自己视为计算机专业人士的学生。针对每天使用技术工作但不一定了解其底层工作原理或在出现问题时如何解决的学生，该课程填补了这些空白，使学生能够更有效地使用和解决技术问题。通过关于硬件、互联网、多媒体、安全、编程和网站开发的讲座，以及对当前事件的阅读，该课程为学生提供了应对当今技术并为未来做准备的能力。
 
-【课程】 **计算机科学速成课 Crash Course Computer Science** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1EW411u7th) [【油管】](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)
+【课程】 **计算机科学速成课 Crash Course Computer Science** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1EW411u7th) [#油管](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)
   - 简单地介绍了计算机科学的发展历史和一些关键概念。使用了较多的专有名词，探讨了很多核心的概念，对于初学者来说有一定的理解难度。
 
-**【书籍】计算机科学导论 Foundations of Computer Science** [【豆瓣】](https://book.douban.com/subject/35084853/) [【啊玛粽】](https://www.amazon.com/Foundations-Computer-Science-Behrouz-Forouzan/dp/1473751047/ref=sr_1_3?dib=eyJ2IjoiMSJ9.3B0heCaDCPYb5rFihSgPs9ciwfIfEhd6fT6XMr08BHDb1OCU-QnXExNBeHOhsfzEGgMkzS-Snqi88PzybV_R-axz_bH9wxSOPl_sorUXPNcIOKzLq7I6nPHYkG6q1Fg1TLpjibzWnD7lf7Gmtn5h_mVEPx3Iz0xNItrJXCz6BclsksOkPH7LUeEeQYn8sjxdAw8gQgHOlgS2HbdRrBZ39gjtfRv2mZg2HA2AIiL8gvM.S1IASXcJDv5gVUiC6L9k2G07XxVMYBOoQlqPko0HrYs&dib_tag=se&keywords=Foundations+of+Computer+Science&qid=1705368136&s=books&sr=1-3)
+**【书籍】计算机科学导论 Foundations of Computer Science** [#豆瓣](https://book.douban.com/subject/35084853/) [#啊玛粽](https://www.amazon.com/Foundations-Computer-Science-Behrouz-Forouzan/dp/1473751047/ref=sr_1_3?dib=eyJ2IjoiMSJ9.3B0heCaDCPYb5rFihSgPs9ciwfIfEhd6fT6XMr08BHDb1OCU-QnXExNBeHOhsfzEGgMkzS-Snqi88PzybV_R-axz_bH9wxSOPl_sorUXPNcIOKzLq7I6nPHYkG6q1Fg1TLpjibzWnD7lf7Gmtn5h_mVEPx3Iz0xNItrJXCz6BclsksOkPH7LUeEeQYn8sjxdAw8gQgHOlgS2HbdRrBZ39gjtfRv2mZg2HA2AIiL8gvM.S1IASXcJDv5gVUiC6L9k2G07XxVMYBOoQlqPko0HrYs&dib_tag=se&keywords=Foundations+of+Computer+Science&qid=1705368136&s=books&sr=1-3)
   - 一本百科全书式的计算机专业基础入门读物，书中涉及计算机科学的方方面面。虽然读者对象是计算机专业的学生，但这本书深入浅出，引人入胜，勾画出计算机科学体系的框架。
 
 看一些很好的科普视频和文章，对于培养兴趣、了解计算机的历史、找到学计算机的感觉非常有帮助。在各大视频网站上有大量科普视频，在闲暇时搜索观看即可。
 
-**计算机科学地图** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1WH4y1B7Af/) [【油管】](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+**计算机科学地图** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1WH4y1B7Af/) [#油管](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 
-**两座塔的故事 Theory of Computation: A Tale of Two Towers** [【哔哩哔哩】](https://www.bilibili.com/video/BV1z94y1T7LC) [【油管】](https://youtu.be/ruOnPmI_40g)
+**两座塔的故事 Theory of Computation: A Tale of Two Towers** [#哔哩哔哩](https://www.bilibili.com/video/BV1z94y1T7LC) [#油管](https://youtu.be/ruOnPmI_40g)
 
-**代码美学 Code Aesthetic** [【哔哩哔哩】](https://space.bilibili.com/1629390/channel/collectiondetail?sid=1068921)
+**代码美学 Code Aesthetic** [#哔哩哔哩](https://space.bilibili.com/1629390/channel/collectiondetail?sid=1068921)
 
 ## 核心基础
 
-如果去问一个学者、教授、工程师，他们的职业生涯最后悔的地方是什么，他们往往会说，“在学生阶段没有打好基础”。基础对于任何学科都尤为重要，在计算机科学更是如此。
+如果去问一个学者、教授、工程师，他们的职业生涯最后悔的地方是什么，他们往往会说，“在学生阶段没有打好基础。如果可以重来，我一定要把哪些基本的课程一点点学明白”。基础对于任何学科都尤为重要，在计算机科学更是如此。
 
 计算机科学的基础最核心的部分包括离散数学与概率论、算法、计算机网络、操作系统、数据库和计算机组成与结构，是系统性地学习计算机科学必不可少的重点内容。这部分内容学起来比较枯燥乏味，有一定的抽象性，和日常生活的距离非常远，很容易使人因身在庐山中而不识真面目。
 
 这个阶段往往是学习计算机最艰难、最困惑的时刻。以下是一些学习建议：
-  - 一定不要停留在理论，去写大量的**玩具程序**吧！学习一项技术的最好方法就是用编程语言重新实现它。Build-Your-Own-X 是 Github 上一个颇受好评的项目 [Github](https://github.com/codecrafters-io/build-your-own-x) ，包含了许多技术的 step-by-step 教学。除此之外，Github 上还有许多适合用来理解理论的教学项目。
+  - 一定不要停留在理论，去写大量的**玩具程序**吧！学习一项技术的最好方法就是用编程语言重新实现它。Build-Your-Own-X 是 Github 上一个颇受好评的项目 [#Github](https://github.com/codecrafters-io/build-your-own-x) ，包含了许多技术的 step-by-step 教学。除此之外，Github 上还有许多适合用来理解理论的教学项目。
   - 各个公开课都提供了丰富的**课后编程实践项目**，一定要重视这样的动手机会，自己实现永远是最好的学习方法。
   - 多去了解科技新闻、计算机技术的科普，将其与学习内容联系起来。
   - 从零构建一个个人的计算机科学蓝图，每有所得就去丰富它，了解自己处于什么位置。
@@ -154,37 +154,37 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 
 操作系统是计算机科学中的一门基础课程，目标是理解计算机系统中操作系统的重要作用，以及如何管理和协调硬件和软件资源。一般包括：进程管理、内存管理、文件系统、输入/输出系统、系统调用和系统服务、死锁、安全性和保护、分布式操作系统等话题。
 
-**★【课程】UC Berkeley CS162: 操作系统和程序设计 Operating System and Systems Programming** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1ab4y1b7BU) [【油管】](https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLMcZASLnrVs5qyBC-dc4bFRtC8ROPYmS0) [【课程主页】](https://cs162.org/)
+**★【课程】UC Berkeley CS162: 操作系统和程序设计 Operating System and Systems Programming** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1ab4y1b7BU) [#油管](https://www.youtube.com/watch?v=pPzVV2kkGHc&list=PLMcZASLnrVs5qyBC-dc4bFRtC8ROPYmS0) [#课程主页](https://cs162.org/)
 
-**【课程】MIT 6.S081 Operating System Engineering** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1rS4y1n7y1/) [【油管】](https://www.youtube.com/watch?v=L6YqHxYHa7A)
+**【课程】MIT 6.S081 Operating System Engineering** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1rS4y1n7y1/) [#油管](https://www.youtube.com/watch?v=L6YqHxYHa7A)
   - [配套教材](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf)，[Assignment](https://pdos.csail.mit.edu/6.828/2021/schedule.html)，Rush 实现的xv6 [Github](https://github.com/Ko-oK-OS/xv6-rust)
   - MIT6.S081 课程介绍了关于操作系统的设计和实现等方面的内容，以及它们作为系统编程基础的使用。课程主题包括虚拟内存；文件系统；线程；上下文切换；内核；中断；系统调用；进程间通信；软件和硬件之间的协调和交互。该课程选用RISC-V的多处理器操作系统xv6来说明这些主题。个人实验作业涉及扩展xv6操作系统，例如支持复杂的虚拟内存功能和网络。
 
-**★【书籍】操作系统导论 Operating Systems: Three Easy Pieces** [【豆瓣】](https://book.douban.com/subject/33463930/) [【在线阅读 ostep.org】](http://www.ostep.org)
+**★【书籍】操作系统导论 Operating Systems: Three Easy Pieces** [#豆瓣](https://book.douban.com/subject/33463930/) [#在线阅读 ostep.org](http://www.ostep.org)
    - 该书围绕操作系统构建的三个基本概念进行组织：虚拟化（CPU和内存的虚拟化）、并发性（锁和条件变量）、以及持久性（磁盘、RAID和文件系统）。如果结合认真的项目工作和家庭作业，这些内容将引导学生更深入地理解和欣赏现代操作系统。
 
-**【书籍】现代操作系统 Modern Operating Systems** [【豆瓣】](https://book.douban.com/subject/27096665/) [Free PDF Copy](http://stst.elia.pub.ro/news/SO/Modern%20Operating%20System%20-%20Tanenbaum.pdf)
+**【书籍】现代操作系统 Modern Operating Systems** [#豆瓣](https://book.douban.com/subject/27096665/) [Free PDF Copy](http://stst.elia.pub.ro/news/SO/Modern%20Operating%20System%20-%20Tanenbaum.pdf)
    - 获得了 McGuffey Longevity 奖的优秀教学书籍，适合作为操作系统课程的入门教材用，以及为专业人员提供参考。第四版增加了许多关于操作系统的最新资料。
 
 ### 计算机网络 Computer Networks
 
 计算机网络课程涵盖计算机科学和工程领域中有关计算机网络的基本概念、协议、技术和应用的内容。这门课程的目标是使学生了解计算机网络的原理、设计和管理，以及网络通信中涉及的各种技术和协议，包括TCP/IP协议族、HTTP、DNS等。
 
-**★【课程】Stanford CS144: Computer Network** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV137411Z7LR/) [【油管】](https://www.youtube.com/watch?v=r2WZNaFyrbQ&list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN)
+**★【课程】Stanford CS144: Computer Network** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV137411Z7LR/) [#油管](https://www.youtube.com/watch?v=r2WZNaFyrbQ&list=PL6RdenZrxrw9inR-IJv-erlOKRHjymxMN)
   - [Homepage & Assignment](https://cs144.github.io/)
   - CS144是一门涵盖计算机网络基础概念和技术的课程。学生将学习有关计算机网络设计、实现和管理的关键原理。课程内容涵盖网络协议、分组交换、路由算法、传输层协议（如TCP和UDP）、网络安全等方面。课后作业为编码搭建出整个 TCP/IP 协议栈，实现 IP 路由以及 ARP 协议等。
 
-**★【书籍】计算机网络：自顶向下方法 Computer Networking: A Top-Down Approach** [【豆瓣】](https://book.douban.com/subject/36081529/)
+**★【书籍】计算机网络：自顶向下方法 Computer Networking: A Top-Down Approach** [#豆瓣](https://book.douban.com/subject/36081529/)
   - 本书采用作者独创的自顶向下方法讲授计算机网络的原理及其协议，即从应用层协议开始沿协议栈向下逐层讲解，让读者从实现、应用的角度明白各层的意义，进而理解计算机网络的工作原理和机制。本书强调应用层范例和应用编程接口，使读者尽快进入每天使用的应用程序环境之中进行学习和“创造”。
 
 ### 计算机组成与结构 Computer Organization and Architecture
 
 本科目主要关注计算机系统的硬件层面，包括计算机的组成、结构、运行原理以及底层硬件的设计和实现。
 
-**★【课程】CS61C: Great Ideas in Computer Architecture** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1fC4y147iZ) [【油管】](https://www.youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M) [【课程主页】](https://cs61c.org/su20/)
+**★【课程】CS61C: Great Ideas in Computer Architecture** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1fC4y147iZ) [#油管](https://www.youtube.com/playlist?list=PLDoI-XvXO0aqgoMQvogzmf7CKiSMSUS3M) [#课程主页](https://cs61c.org/su20/)
   - 配套教材为：Computer Organization and Design：The Hardware/Software Interface RISC-V EDITION [Free PDF Copy](http://home.ustc.edu.cn/~louwenqi/reference_books_tools/Computer%20Organization%20and%20Design%20RISC-V%20edition.pdf)
 
-**【课程】Princeton: Computer Architecture** [【Coursera】](https://www.coursera.org/learn/comparch)
+**【课程】Princeton: Computer Architecture** [#Coursera](https://www.coursera.org/learn/comparch)
 
 ### 数据结构与算法 Data Structure and Algorithms
 
@@ -200,30 +200,30 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 
 数据结构和算法之间有密切的关系，因为合适的数据结构选择会直接影响算法的效率。一个好的算法能够在给定的问题上以较低的时间和空间复杂度运行，而合适的数据结构可以使算法更为简单和高效。
 
-**★【课程】UC Berkeley CS61B: Data Structures and Algorithms** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1q3411V7rS/) [【课程主页】]
+**★【课程】UC Berkeley CS61B: Data Structures and Algorithms** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1q3411V7rS/) [#课程主页]
   - Java 描述入门课，课程十分适合自学。
 
-**【课程】Princeton Coursera ver: Algorithms** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1jx411U768) [Coursera Part1](https://www.coursera.org/learn/algorithms-part1) [Coursera Part2](https://www.coursera.org/learn/algorithms-part2)
-  - 配套教材为《算法》 [[【在线阅读】]](https://algs4.cs.princeton.edu/home/)。
+**【课程】Princeton Coursera ver: Algorithms** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1jx411U768) [Coursera Part1](https://www.coursera.org/learn/algorithms-part1) [Coursera Part2](https://www.coursera.org/learn/algorithms-part2)
+  - 配套教材为《算法》 [[#在线阅读]](https://algs4.cs.princeton.edu/home/)。
   - 入门课，Java 描述，讲解细致透彻。
 
-**【课程】MIT 6.006: Introduction to Algorithms** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1fu41127MN)
+**【课程】MIT 6.006: Introduction to Algorithms** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1fu41127MN)
   - 配套教材为《算法导论》。
   - 入门课，较为艰深，理解难度大，但如果能坚持学完会有很大的收获。
 
-**【课程】UC San Diego: Data Structures and Algorithms Specialization** [【Coursera】](https://www.coursera.org/specializations/data-structures-algorithms?)
+**【课程】UC San Diego: Data Structures and Algorithms Specialization** [#Coursera](https://www.coursera.org/specializations/data-structures-algorithms?)
 
-**★【书籍】算法 Algorithms** [[【在线阅读】]](https://algs4.cs.princeton.edu/home/)
+**★【书籍】算法 Algorithms** [[#在线阅读]](https://algs4.cs.princeton.edu/home/)
   - 算法领域经典的参考书，全面介绍了关于算法和数据结构的必备知识，并特别针对排序、搜索、图处理和字符串处理进行了论述。对自学非常友好，提供了良好的代码、图示。
 
-**★【书籍】算法设计手册 The Algorithm Design Manual** [【豆瓣】](https://book.douban.com/subject/4048566/)
+**★【书籍】算法设计手册 The Algorithm Design Manual** [#豆瓣](https://book.douban.com/subject/4048566/)
   - 设计实用且高效算法的最全面指导书。本书揭密了算法的设计与分析，以简单易懂的写作风格，介绍了各种算法技术，着重强调了算法分析，全书包括两大部分，“技术”部分介绍了设计和分析计算机算法的各种方法，“资源”部分给出了大量的参考资源，以及算法实现的各种资源。
 
-**【书籍】(CLRS)算法导论 Introduction to Algorithms** [【豆瓣】](https://book.douban.com/subject/20432061/)
+**【书籍】(CLRS)算法导论 Introduction to Algorithms** [#豆瓣](https://book.douban.com/subject/20432061/)
   - 注重严谨和全面性的、有一定难度的经典教材，许多读者评价为不适合自学，但也颇有一定数量的人确实通过此书自学了算法。至少本书可以作为工具书使用。
 
 **【书籍】(TAOCP)计算机程序设计艺术 The Art of Computer Programming**
- [【豆瓣】](https://book.douban.com/subject/1130500/)
+ [#豆瓣](https://book.douban.com/subject/1130500/)
   - 计算机科学领域最有名的著作，许多名人都对此书不吝赞美之词。美国计算机科学家高德纳（Donald Ervin Knuth）编著的关于计算机程序设计之七卷本著作。1999年底被《美国科学家》（American Scientist）期刊列为20世纪最佳12部学术专著之一，与狄拉克的“量子力学”、爱因斯坦的“相对论”等并列；作者因此获得 1974 年图灵奖。
   - 本书共七册，分别讲解基础算法、半数值算法、排序与搜索、组合算法、造句算法、与上下文无关语言理论、编译器技术。其中前三册已经出版，第四册部分出版。
   - 本书卷帙浩繁，并非系统性自学的首选，而是作为百科全书式的算法分析工具书而存在；其最有价值的部分则是本书的大量的高质量习题。
@@ -232,21 +232,21 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 
 数据库是一个结构化的数据集合，用于存储、管理和组织数据。它是一个电子化的文件柜，可以容纳大量有关特定主题的数据，方便在需要时读取已有的数据、添加新的数据，或者进行一些数据的管理。
 
-**★【课程】UC Berkeley CS186: Introduction to Database System** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1zu411y7kx) [【课程主页】](https://cs186berkeley.net/)
+**★【课程】UC Berkeley CS186: Introduction to Database System** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1zu411y7kx) [#课程主页](https://cs186berkeley.net/)
 
-**【课程】CMU 15-445: Introduction to Database System** [【油管】](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) [【课程主页】](https://15445.courses.cs.cmu.edu/spring2023/schedule.html)
+**【课程】CMU 15-445: Introduction to Database System** [#油管](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf) [#课程主页](https://15445.courses.cs.cmu.edu/spring2023/schedule.html)
 
-**★【书籍】Readings in Database Systems（Redbook）** [【豆瓣】](https://book.douban.com/subject/2256069/)
+**★【书籍】Readings in Database Systems（Redbook）** [#豆瓣](https://book.douban.com/subject/2256069/)
   - 这本畅销的数据库研究教材及参考书的最新版，新增了大量内容并进行了修订。涵盖了经典文献和最新热门主题。数据库研究的成果已经在学术领域得到应用，涉及的范围从生物信息学到下一代互联网架构，以及在工业应用中包括基于Web的电子商务和搜索引擎。该领域的核心思想变得日益具有影响力。本教材为学生和专业人士提供了数据库研究的基础知识，并为理解该领域最新创新提供了技术背景。所选文章涉及数据库领域最重要的问题，这是任何数据库管理系统专业人士的基本材料。
 
-**【书籍】数据库系统基础教程 A First Course in Database Systems** [【豆瓣】](https://book.douban.com/subject/3923575/)
+**【书籍】数据库系统基础教程 A First Course in Database Systems** [#豆瓣](https://book.douban.com/subject/3923575/)
   - 介绍流行的关系数据库和对象关系数据库内容，涉及关系数据模型、E／R模型、UML模型以及对象模型等高级数据模型。然后介绍了有关半结构化数据组织管理中比较流行的XML等内容，既包括了数据组织模型的内容，也给出了相关编程语言，如XPath、XQuery、XSLT等。
   - 中文翻译较差，存在一些错误，有能力直接读中文。
 
-**【书籍】数据库系统概念 Database System Concepts** [【豆瓣】](https://book.douban.com/subject/10548379/)
+**【书籍】数据库系统概念 Database System Concepts** [#豆瓣](https://book.douban.com/subject/10548379/)
   - 数据库系统方面的经典教材之一，其内容由浅入深，既包含数据库系统基本概念，又反映数据库技术新进展。
 
-## 计算机科学的数学基础
+## 数学基础
 
 计算机科学中数学的重要性众说纷纭，它们的问题在于，妄图以自己片面的认知代表整个学科。
   - 2008 年左右，网络上的主流看法是初中数学就足够。这是因为那个时候，大部分的 IT 从业者都是从事网站开发、低端外包软件等行业。这只是计算机科学的冰山一角。
@@ -266,24 +266,24 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
   - 数论和加密：离散数学中的数论概念，如模运算和同余关系，在密码学中有重要应用。加密算法通常基于数论的离散数学概念。
   - 概率论和算法分析：离散概率论用于分析算法的平均和最坏情况性能。在计算机科学中，概率论常用于分析算法的效率和复杂性。
 
-**★【课程】MIT 6.042J: Mathematics For Computer Science** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1Kb411n7oa) [【油管】](https://www.youtube.com/playlist?list=PLB7540DEDD482705B
-) [【课程主页】](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
+**★【课程】MIT 6.042J: Mathematics For Computer Science** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1Kb411n7oa) [#油管](https://www.youtube.com/playlist?list=PLB7540DEDD482705B
+) [#课程主页](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-spring-2015/)
   - 该课程提供了面向计算机科学和工程的离散数学交互式介绍。该课程的主题大致分为三个部分：
     - 数学的基本概念：定义、证明、集合、函数、关系。
     - 离散结构：图、状态机、模算术、计数。
     - 离散概率论。
    - 完成6.042J后，学生将能够解释并应用计算机科学中离散（非连续）数学的基本方法。他们将能够在算法设计和分析、可计算理论、软件工程和计算机系统的后续课程中使用这些方法。
 
-**【课程】UC Berkeley CS70 Discrete Mathematics and Probability Theory** [【哔哩哔哩-英文字幕】](https://www.bilibili.com/video/BV1gf4y1q7UY) [【油管】](https://www.youtube.com/playlist?list=PLzAv_uHZw7dTI2e0F8-lxxOWV9zXMzwNE) [【课程主页】](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
+**【课程】UC Berkeley CS70 Discrete Mathematics and Probability Theory** [#哔哩哔哩-英文字幕](https://www.bilibili.com/video/BV1gf4y1q7UY) [#油管](https://www.youtube.com/playlist?list=PLzAv_uHZw7dTI2e0F8-lxxOWV9zXMzwNE) [#课程主页](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/)
  [Assignment](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/assignments/)
 
-**★【书籍】Mathematics for Computer Science** [【豆瓣】](https://book.douban.com/subject/33396340/)
+**★【书籍】Mathematics for Computer Science** [#豆瓣](https://book.douban.com/subject/33396340/)
   - 本书是麻省理工学院计算机科学与工程专业本科生的初等离散数学课程讲义，涵盖了国外计算机科学专业涉及的基础数学知识，内容涉及形式逻辑符号、数学证明、归纳、集合与关系、图论基础、排列与组合、计数原理、离散概率、递归等，特别强调数学定义、证明及其应用方法。
 
-**【书籍】(DMIA)离散数学及其应用 Discrete Mathematics and Its Applications** [【豆瓣】](https://book.douban.com/subject/34866266/)
+**【书籍】(DMIA)离散数学及其应用 Discrete Mathematics and Its Applications** [#豆瓣](https://book.douban.com/subject/34866266/)
   - 本书是经典的离散数学教材，被全球数百所大学广为采用。书中全面而系统地介绍了离散数学的理论和方法，主要包括：逻辑和证明，集合、函数、序列、求和与矩阵，算法，数论和密码学，归纳与递归，计数，离散概率，关系，图，树，布尔代数，计算模型。全书取材广泛，除包括定义、定理的严格陈述外，还配备大量的例题、图表、应用实例和练习。第8版做了与时俱进的更新，成为更加实用的教学工具。
 
-**【书籍】Mathematics, A Discrete Introduction** [【豆瓣】](https://book.douban.com/subject/12047615/)
+**【书籍】Mathematics, A Discrete Introduction** [#豆瓣](https://book.douban.com/subject/12047615/)
   - 这本书是数学入门的一部分，特别是离散数学的入门。这本书有两个主要目标：学会阅读和撰写证明，以及离散数学的基本概念。这本数学教材以清晰的呈现方式教授你不仅如何撰写证明，还如何清晰地思考和在这门课程之外逻辑地提出案例。尽管它是从数学家的角度呈现的，你将了解到在计算机科学、工程、概率、统计、运筹学以及其他应用数学领域中离散数学的重要性。提示和证明模板等工具将帮助你在这门课程中取得成功。
 
 ### 概率论与统计学 Probability Theory and Statistics
@@ -298,10 +298,10 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
   - 贝叶斯推断：贝叶斯推断是统计学的一个方法，它在计算机科学中用于处理不确定性、学习模型参数和进行预测。
   - 模型验证：统计学方法常用于验证计算机模型的有效性。通过使用统计检验，可以对模型的输出进行假设检验和验证。
 
-**【书籍】Probability, Theory and Examples** [【豆瓣】](https://book.douban.com/subject/5326315/)
+**【书籍】Probability, Theory and Examples** [#豆瓣](https://book.douban.com/subject/5326315/)
   - 这本面向初入研究生阶段的概率论经典教材涵盖大数定律、中心极限定理、随机游走、鞅、马尔可夫链、遍历定理和布朗运动。它是一部全面的教材，专注于对应用最有用的结果。其理念是学习概率的最佳方式是亲自动手，因此书中包含了200个例子和450个问题。新版以一个简短的测度论章节开始，以帮助初次接触该主题的读者入门。系统性强，其习题都包含了作者给出的解答。
 
-**【书籍】Probability and Statistics for Computer Science** [【豆瓣】](https://book.douban.com/subject/31728806/)
+**【书籍】Probability and Statistics for Computer Science** [#豆瓣](https://book.douban.com/subject/31728806/)
   - 本书为计算机科学家全面而深入地讲解概率和统计学，特别强调模拟和离散决策理论。它使用计算机科学中非常基础的主题来举例说明理论，以便任何数学方面倾向的读者都能充分理解。
 
 ### 线性代数 Linear Algebra
@@ -316,28 +316,28 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
   - 密码学：线性代数在密码学中被广泛应用。矩阵和向量的运算被用于设计和分析加密算法，例如，矩阵乘法在分组密码中的应用。
   - 计算机视觉：在计算机视觉中，线性代数用于处理图像和视频数据。例如，使用矩阵进行图像变换、处理和分析。
 
-**★【课程】MIT 18.06 Linear Algebra** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1zx411g7gq/) [【课程主页】](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/) [【课程笔记】](https://github.com/apachecn/mit-18.06-linalg-notes)
+**★【课程】MIT 18.06 Linear Algebra** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1zx411g7gq/) [#课程主页](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/syllabus/) [#课程笔记](https://github.com/apachecn/mit-18.06-linalg-notes)
   - 地球上最好的线性代数课程，配套教材为 Gibert Strang 编写的《线性代数》。
 
-**【书籍】线性代数 Introduction to Linear Algebra** [【豆瓣】](https://book.douban.com/subject/34820335/)
+**【书籍】线性代数 Introduction to Linear Algebra** [#豆瓣](https://book.douban.com/subject/34820335/)
   - Gibert Strang 编写的教材，本书内容包括行列式、矩阵、线性方程组与向量、矩阵的特征值与特征向量、二次型及Mathematica软件的应用等。每章都配有习题，书后给出了习题答案。本书在编写中力求重点突出、由浅入深、通俗易懂，努力体现教学的适用性。
   
-**【书籍】Linear Algebra Done Right** [【豆瓣】](https://book.douban.com/subject/26265880/)
+**【书籍】Linear Algebra Done Right** [#豆瓣](https://book.douban.com/subject/26265880/)
    - 适合初学者的教材，篇幅短。
 
 ### 计算思维 Computational Thinking
 
 计算思维是计算机科学中的一种思考方式，强调问题的抽象化、问题的分解、模式识别以及算法设计和评估。它是一种将计算机科学的概念和原则应用到解决问题的思考方法。
 
-**【课程】MIT 18.S191 Introduction to Computational Thinking** [【哔哩哔哩-英文字幕】](https://www.bilibili.com/video/BV1y44y1W7NN/) [【油管】](https://www.youtube.com/watch?v=3zTO3LEY-cM) [【课程主页】](https://computationalthinking.mit.edu/Spring21/)
+**【课程】MIT 18.S191 Introduction to Computational Thinking** [#哔哩哔哩-英文字幕](https://www.bilibili.com/video/BV1y44y1W7NN/) [#油管](https://www.youtube.com/watch?v=3zTO3LEY-cM) [#课程主页](https://computationalthinking.mit.edu/Spring21/)
   - 这门课利用 Julia 编程语言，在图像处理、社会科学与数据科学、气候学建模三个 topic 下带领学生理解算法、数学建模、数据分析、交互设计、图例展示，让学生体验计算与科学的美妙结合。
 
 ### 面向计算机科学的数学
 
-**【书籍】A Programmer's Introduction to Mathematics** [【豆瓣】](https://book.douban.com/subject/36339849/)
+**【书籍】A Programmer's Introduction to Mathematics** [#豆瓣](https://book.douban.com/subject/36339849/)
   - 本书利用你对编程和软件思想的熟悉来教授数学知识。你将学习数学的中心对象和定理，包括图、微积分、线性代数、特征值、优化等。你还将深入了解数学文化中通常未被言明的态度，既学会阅读和写作证明，同时理解数学为何会是现在这个样子。在每个技术章节之间，都有一篇论文描述数学文化的不同方面，以及构成数学直觉的见解和元见解的讨论。在学习的过程中，我们将运用新的数学思想来创建奇妙的程序，从加密方案到神经网络再到双曲面镶嵌。每一章还包含一组练习，让你积极地自主探索数学主题。简而言之，这本书将教你如何参与数学。
 
-**【书籍】具体数学 Concrete Mathematics, A Foundation of Computer Science** [【豆瓣】](https://book.douban.com/subject/21323941/)
+**【书籍】具体数学 Concrete Mathematics, A Foundation of Computer Science** [#豆瓣](https://book.douban.com/subject/21323941/)
   - 本书介绍了计算机的数学基础，内容涉及求和、取整函数、数论、二项式系数、特殊数、母函数（发生函数）、离散概率、渐近等等，面向从事计算机科学、计算数学、计算技术诸方面工作的人员，以及高等院校相关专业的师生。
 
 ## 进阶课程
@@ -346,210 +346,274 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 
 主要关注计算机系统的整体结构、组件和运作原理。这门课程涵盖计算机硬件和软件的相互作用，强调操作系统、计算机体系结构、编程语言和应用软件之间的关系。
 
-**★【课程】CMU 15-312: Introduction to Computer Systems** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1iW411d7hd) [【课程主页】](http://csapp.cs.cmu.edu/) [Assignment](https://csapp.cs.cmu.edu/3e/labs.html)
+**★【课程】CMU 15-312: Introduction to Computer Systems** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1iW411d7hd) [#课程主页](http://csapp.cs.cmu.edu/) [Assignment](https://csapp.cs.cmu.edu/3e/labs.html)
   - CMU 的镇校神课，计算机科学三大经典神课之二。
   - 配套教材为《深入理解计算机系统》。
 
-**★【课程】UC Berkeley CS61C: Great Ideas in Computer Architecture(a.k.a Machine Structures)** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1Lu411X7u7/)  [【课程主页】](https://inst.eecs.berkeley.edu/~cs61c/fa21/)
+**★【课程】UC Berkeley CS61C: Great Ideas in Computer Architecture(a.k.a Machine Structures)** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1Lu411X7u7/)  [#课程主页](https://inst.eecs.berkeley.edu/~cs61c/fa21/)
 
-**【课程】MIT 6.033: System Engineering** [【哔哩哔哩-英文字幕】](https://www.bilibili.com/video/BV197411s7AU) [【课程主页】](https://web.mit.edu/6.033/www/)
+**【课程】MIT 6.033: System Engineering** [#哔哩哔哩-英文字幕](https://www.bilibili.com/video/BV197411s7AU) [#课程主页](https://web.mit.edu/6.033/www/)
   - 配套教材为《深入理解计算机系统》。
 
-**【课程】MIT 6.826: Principles of Computer Systems** [【哔哩哔哩-英文字幕】](https://www.bilibili.com/video/BV1Bt4y1Y7Hc) [【油管】](https://www.youtube.com/watch?v=To6lsY24A8o&list=PLA6Ht2dJt3SITo6PYTyzr9832epkyFD48) [【课程主页】](https://6826.csail.mit.edu/2020/)
+**【课程】MIT 6.826: Principles of Computer Systems** [#哔哩哔哩-英文字幕](https://www.bilibili.com/video/BV1Bt4y1Y7Hc) [#油管](https://www.youtube.com/watch?v=To6lsY24A8o&list=PLA6Ht2dJt3SITo6PYTyzr9832epkyFD48) [#课程主页](https://6826.csail.mit.edu/2020/)
   - 配套教材为《计算机系统设计原理》。
 
 **★【书籍】(CSAPP)深入理解计算机系统 Computer Systems: A Programmer's Perspective**
   - 本书从程序员的视角详细阐述计算机系统的本质概念，并展示这些概念如何实实在在地影响应用程序的正确性、性能和实用性。全书共12章，主要内容包括信息的表示和处理、程序的机器级表示、处理器体系结构、优化程序性能、存储器层次结构、链接、异常控制流、虚拟存储器、系统级I/O、网络编程、并发编程等。书中提供大量的例子和练习，并给出部分答案，有助于读者加深对正文所述概念和知识的理解。
 
-**【书籍】计算机组成与设计 Computer Organization and Design: The Hardware/Software Interface** [【豆瓣】](https://book.douban.com/subject/34658252/)
+**【书籍】计算机组成与设计 Computer Organization and Design: The Hardware/Software Interface** [#豆瓣](https://book.douban.com/subject/34658252/)
   - 由 Patterson 和 Hennessy 编写的经典教材。本书有 MIPS 版、ARM 版、RISC-V 版三个版本。
 
-**【书籍】(PCSD)计算机系统设计原理 Principles of Computer System Design, An Introduction** [【豆瓣】](https://book.douban.com/subject/4087478/)
+**【书籍】(PCSD)计算机系统设计原理 Principles of Computer System Design, An Introduction** [#豆瓣](https://book.douban.com/subject/4087478/)
   - 计算机系统的基本原理横跨于操作系统、网络、数据库、分布式系统、程序设计语言、软件工程以及计算机体系结构等方面。通过详细分析每个基本原理的案例，本书演示了如何应用这些原理和抽象来解决实际的计算机系统设计问题，阐述了那些在实践中已证明是成功的抽象概念，如命令、远程过程调用、客户/服务器组织结构、文件系统、事务处理、修复复制、读/写一致性，以及认证与保密消息等概念。这些抽象概念使得计算机系统设计者可以用功能日益强大的模块来构建计算机系统，保护计算机系统避免从意外的编程错误到恶意入侵在内的各种故障。
 
 ### 分布式系统 Distributed Systems
 
-有关分布式计算和分布式系统设计的原理、概念和技术。这门课程通常涵盖了分布式计算的各个方面，包括分布式系统的基本概念、设计原则、通信模型、一致性和容错机制等。
+分布式系统是由多个独立的计算机或服务器组成的系统，这些计算机或服务器通过网络相互连接和协作，以实现共同的目标。分布式系统的主要特点是它们分布在多个地理位置，并且可以同时处理多个任务或请求。
 
-**★【课程】MIT 6.824: Distributed System** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV16f4y1z7kn) [【课程主页】](https://pdos.csail.mit.edu/6.824/schedule.html)
+分布式系统广泛应用于各种领域，包括云计算、大数据处理、物联网、分布式数据库、分布式存储和分布式计算。它们提供了高可用性、高性能和可扩展性，使得复杂的任务和大规模计算成为可能。但同时，分布式系统的设计和管理也面临许多挑战，如数据一致性、容错性和性能优化等。因此，分布式系统的开发和维护需要深入的专业知识和技能。
 
-**★【书籍】数据密集型应用系统设计 Designing Data-Intensive Applications** [【豆瓣】](https://book.douban.com/subject/30329536/)
+**★【课程】MIT 6.824: Distributed System** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV16f4y1z7kn) [#课程主页](https://pdos.csail.mit.edu/6.824/schedule.html)
+
+**★【书籍】数据密集型应用系统设计 Designing Data-Intensive Applications** [#豆瓣](https://book.douban.com/subject/30329536/)
   - 全书分为三个部分：第一部分主要讨论有关增强数据密集型应用系统所需的若干基本原则；第二部分将从单机的数据存储转向跨机器的分布式系统，这是扩展性的重要一步，将依次讨论数据远程复制、数据分区以及事务；第三部分主要针对产生派生数据的系统，所谓派生数据主要指在异构系统中，如果无法用一个数据源来解决所有问题，那么一种自然的方式就是集成多个不同的数据库、缓存模块以及索引模块。
 
-**【书籍】Distributed Systems, An Algorithmic Approach** [【豆瓣】](https://book.douban.com/subject/2607696/)
+**【书籍】Distributed Systems, An Algorithmic Approach** [#豆瓣](https://book.douban.com/subject/2607696/)
   - 本书在理论和实践之间取得平衡，每章都有一组练习，书籍以包含各种进程间通信技术和中间件服务的背景信息开始，然后介绍涵盖系统模型、正确性标准和证明技术的基础主题。该书还介绍了分布式系统中的许多重要范式，包括逻辑时钟、分布式快照、死锁检测、终止检测、选举以及几种图算法。作者还探讨了在不同应用中的失败和容错技术，如一致性、事务、群体通信、复制数据管理和自稳定性。最后，他探讨了现实世界的问题，包括分布式离散事件仿真和安全性、传感器网络以及点对点网络。
 
-**【书籍】分布式系统原理与范型 Distributed Systems: Principles and Paradigms** [【豆瓣】](https://book.douban.com/subject/3108801/)
+**【书籍】分布式系统原理与范型 Distributed Systems: Principles and Paradigms** [#豆瓣](https://book.douban.com/subject/3108801/)
   - 分布式系统的权威教材。本书分成了两大部分。第2～9章讨论的是分布式系统的的原理、概念和技术，包括通信、进程、命名、同步化、一致性和复制、容错性以及安全性等，而分布式应用的开发方法（即范型）在第10～13章中进行了讨论。
   - 中文译本几乎不可读。
 
-**【书籍】Distributed Systems** [【豆瓣】](https://book.douban.com/subject/26979326/)
+**【书籍】Distributed Systems** [#豆瓣](https://book.douban.com/subject/26979326/)
   - 内容简单的分布式系统导论。
 
 ### 深入理解编程语言和程序
 
-**★【书籍】计算机程序的构造与解释 Structure and Interpretation of Computer Programs（SICP）** [【豆瓣】](https://book.douban.com/subject/1148282/) [【在线阅读】](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
+近些年来，许多程序设计人员都会推崇一种方法——“一开始只需要学会编程语言和一些框架，其余的知识在工作中即用即学（最终沦为复制粘贴侠、调包侠、调参侠，并且自大地认为这是编程的正道）”。这种方法确实培养了一些可以解决一定问题的技术人员。但是，对计算机科学幼稚的理解，会在遇到更多、更复杂的问题时陷入挣扎，浪费更多的时间。光是那些细枝末节上的错误就疲于应对了，根本没有时间去思考代码的可读性、可维护性，发挥自己的创造力。这是一座座“屎山”拔地而起的重要原因。
+
+**★【书籍】计算机程序的构造与解释 Structure and Interpretation of Computer Programs（SICP）** [#豆瓣](https://book.douban.com/subject/1148282/) [#在线阅读](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
    - 编程必读经典，被成为“The Book”、“The Wizard Book（巫师之书）”。
    - MIT 入门计算机科学教材，在过去几十年引起了巨大的轰动。作者的出发点为：a.编程语言首先是写给人看的，只是恰巧能够运行（可读性）b.编程语言最重要的是控制复杂度，而非简洁的语法、高端的算法、数学之美。
    - 前半部分用大量的数学例子介绍编程的概念，后半部分通过实现解释器来讲解程序运作的过程。Brian Harvey 把课程总结为4个编程范式：函数式编程，面向对象，服务器-客户端，逻辑编程。
 
-**★【课程】MIT: Structure and Interpretation of Computer Programs** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1Xx41117tr)
+**★【课程】MIT: Structure and Interpretation of Computer Programs** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1Xx41117tr)
   - 计算机科学三大经典神课之首，强调通用的编程原理，而不仅仅是特定的编程语言。在书中，Scheme（Python）编程语言被用作教学工具，但强调的是通用的程序设计原则。"计算机程序的构造与解释"被认为是计算机科学和编程教育的经典之一，为许多人提供了深入理解计算机科学基础的良好起点。
   - 教材为计算机程序的构造与解释，纸质书的中文翻译较差，有能力直接学习英文版。
 
-**★【课程】UC Berkeley CS61A: Computer Programs** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1v64y1Q78o) [【课程主页】](https://inst.eecs.berkeley.edu/~cs61a/sp21/)
+**★【课程】UC Berkeley CS61A: Computer Programs** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1v64y1Q78o) [#课程主页](https://inst.eecs.berkeley.edu/~cs61a/sp21/)
   - MIT SICP 课程的现代版本，使用 Python 语言教学。 
   - Brian Harvey 在 2011spring 第一节课的开场白是：“这里是cs61a，世界上最好的计算机课。”接着他又说道：“并不是因为我，而是因为我们用的教材——《计算机程序的构造与解释》。”
 
-**【书籍】程序设计语言-实践之路 Programming Language Pragmatics** [【豆瓣】](https://book.douban.com/subject/2152385/)
+**【书籍】程序设计语言-实践之路 Programming Language Pragmatics** [#豆瓣](https://book.douban.com/subject/2152385/)
   - 这是一本很有特色的教材，其核心是讨论程序设计语言的工作原理和技术。本书融合了传统的程序设计语言教科书和编译教科书的有关知识，并增加了一些有关汇编层体系结构的材料，以满足没学过计算机组织的学生们的需要。书中通过各种语言的例子，阐释了程序设计语言的重要基础概念，讨论了各种概念之间的关系，解释了语言中许多结构的形成和发展过程，以及它们演化为今天这种形式的根源。书中还详细讨论了编译器的工作方式和工作过程，说明它们对源程序做了什么，以及为什么要那样做。书的每章最后附有复习题和一些更具挑战性的练习。这些练习的特别价值在于引导学生进一步深入理解各种语言和技术。本书第2版新增了脚本语言问题的讨论，涵盖 Perl、Python、Ruby、Tcl、PHP、JavaScript、XSLT 等和其他语言。
 
 **【课程】MIT 6.031: Software Construction**
-[【课程主页】](https://web.mit.edu/6.031/www/sp21/)
+[#课程主页](https://web.mit.edu/6.031/www/sp21/)
   - 教授如何写出高质量、可维护、可理解的代码，以及如何构建软件。教学语言为 Java。
 
-**【课程】CMU 15-150: Principles of Functional Programming** [【油管】](https://www.youtube.com/watch?v=jjX68oHAw-Y&list=PLsydD1kw8jng2t2G8USQNLz0faYZetPnH) [【课程主页】](https://www.cs.cmu.edu/~15150/)
+**【课程】CMU 15-150: Principles of Functional Programming** [#油管](https://www.youtube.com/watch?v=jjX68oHAw-Y&list=PLsydD1kw8jng2t2G8USQNLz0faYZetPnH) [#课程主页](https://www.cs.cmu.edu/~15150/)
   - 该课程的目的是介绍函数式编程（FP）的理论和实践。FP的特征是强调计算作为评估。传统的命令式编程（IP）中程序和数据的传统区分被替代为强调通过指定其适用行为的类型对表达式进行分类。类型包括熟悉的（固定和任意精度的）数值类型、元组和记录（structs）、分类值（objects）、归纳类型（如树）、具有指定输入和输出的函数以及输入和输出等命令。良好类型的表达式被评估以产生值，以一种保证是类型安全的方式。由于函数式程序不会引起副作用，我们可以利用在关于适用行为的推理和分析程序的运行时属性方面的简单数学原理。
 
-**【书籍】Essentials of Programming Languages** [【豆瓣】](https://book.douban.com/subject/3136252/)
+**【书籍】Essentials of Programming Languages** [#豆瓣](https://book.douban.com/subject/3136252/)
   - 这教材提供对编程语言基本概念的深刻理解。该方法既是分析性的又是实践性的。文本使用在 Scheme 中编写的解释器，以清晰且可直接执行的方式表达许多基本语言元素的语义。它还审查了一些重要的程序分析。大量的练习探讨了许多设计和实现的选择。
 
 ### 并行计算 Parallel Computing
 
 并行计算是一种在多个处理单元上同时执行计算任务的计算模型，旨在提高计算速度和处理能力。本课程主要讲授使用并行计算的多核处理器和多处理器系统、SIMD（单指令多数据）和MIMD（多指令多数据）架构，并行编程模型、并行算法以及并行性能分析和优化、任务调度和负载平衡、并行编程语言和工具。
 
-**【课程】CMU 15-418: Parallel Computer Achitecture and Programming** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1SM4y1j7XL) [Video](http://15418.courses.cs.cmu.edu/spring2016/lectures) [【课程主页】](http://15418.courses.cs.cmu.edu/spring2016/)
+**【课程】CMU 15-418: Parallel Computer Achitecture and Programming** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1SM4y1j7XL) [Video](http://15418.courses.cs.cmu.edu/spring2016/lectures) [#课程主页](http://15418.courses.cs.cmu.edu/spring2016/)
 
-**【书籍】并行程序设计原理 Principles of Parallel Programming** [【豆瓣】](https://book.douban.com/subject/3880304/)
+**【书籍】并行程序设计原理 Principles of Parallel Programming** [#豆瓣](https://book.douban.com/subject/3880304/)
   - 涉及现代并行硬件和软件技术，包括多核体系结构及其并行程序设计技术，侧重论述并行程序设计的原理，并论述了并行程序设计中一些深层次问题，如可扩展性、可移植性以及并行程序设计应遵循的方法学等。
 
-**【书籍】Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming** [【豆瓣】](https://book.douban.com/subject/24294415/)
+**【书籍】Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming** [#豆瓣](https://book.douban.com/subject/24294415/)
   - 这本书需要有足够的 Haskell 编程基础，涵盖了Haskell多样的并发和并行编程API的广泛选择。它分为两个部分。第一部分关于并行编程，涵盖了使用多个处理器加速CPU密集型计算的技术，包括在惯用的Haskell和基于数值数组的算法中使用并行ism的方法，以及在GPU上运行计算的方法。第二部分关于并发编程，介绍了使用多个线程的技术，包括重叠多个I/O操作，构建并发网络服务器以及在多台机器上进行分布式编程的方法。
-
-
 
 ### 编译原理 Compiler Theory
 
 “编译原理”是计算机科学领域的一个分支，主要研究如何设计和实现编译器。编译器是将高级程序设计语言编写的源代码翻译成计算机可执行代码的软件工具。编译原理关注编译器的理论和实践，涉及从源代码到目标代码的各个阶段和过程。主要内容包括：
-  - 词法分析（Lexical Analysis）： 词法分析器负责将源代码转换成令牌序列，识别出源代码中的基本语法单元，如关键字、标识符、常量等。
-  - 语法分析（Syntax Analysis）： 语法分析器将令牌序列转换成抽象语法树，表示源代码的语法结构。语法分析检查源代码是否符合语法规则。
-  - 语义分析（Semantic Analysis）： 语义分析器检查源代码的语义是否合法，包括类型检查、作用域分析等。它确保源代码在语义上是正确的。
-  - 中间代码生成（Intermediate Code Generation）： 中间代码生成阶段将抽象语法树转换成一种中间表示形式，以便后续优化和目标代码生成阶段使用。
-  - 代码优化（Code Optimization）： 代码优化阶段对中间代码进行优化，以提高程序执行效率。优化包括常量折叠、循环优化、内联函数等技术。
-  - 目标代码生成（Code Generation）： 目标代码生成阶段将优化后的中间代码翻译成目标计算机的汇编语言或机器代码。
-  - 代码组织（Code Organization）： 代码组织阶段将生成的目标代码组织成可执行文件，包括链接、地址分配等。
-  - 错误处理（Error Handling）： 编译器需要处理源代码中可能出现的错误，并提供有关错误的详细信息。
+  - 词法分析（Lexical Analysis）：词法分析器负责将源代码转换成令牌序列，识别出源代码中的基本语法单元，如关键字、标识符、常量等。
+  - 语法分析（Syntax Analysis）：语法分析器将令牌序列转换成抽象语法树，表示源代码的语法结构。语法分析检查源代码是否符合语法规则。
+  - 语义分析（Semantic Analysis）：语义分析器检查源代码的语义是否合法，包括类型检查、作用域分析等。它确保源代码在语义上是正确的。
+  - 中间代码生成（Intermediate Code Generation）：中间代码生成阶段将抽象语法树转换成一种中间表示形式，以便后续优化和目标代码生成阶段使用。
+  - 代码优化（Code Optimization）：代码优化阶段对中间代码进行优化，以提高程序执行效率。优化包括常量折叠、循环优化、内联函数等技术。
+  - 目标代码生成（Code Generation）：目标代码生成阶段将优化后的中间代码翻译成目标计算机的汇编语言或机器代码。
+  - 代码组织（Code Organization）：代码组织阶段将生成的目标代码组织成可执行文件，包括链接、地址分配等。
+  - 错误处理（Error Handling）：编译器需要处理源代码中可能出现的错误，并提供有关错误的详细信息。
 
-**★【课程】Stanford CS143: Compilers** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1NE411376V/) [【课程主页】](http://web.stanford.edu/class/cs143/) [【参考资料】](https://github.com/AllenWrong/Self-learning-Record/blob/master/CS143%20Compiler.md)
+**★【课程】Stanford CS143: Compilers** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1NE411376V/) [#课程主页](http://web.stanford.edu/class/cs143/) [#参考资料](https://github.com/AllenWrong/Self-learning-Record/blob/master/CS143%20Compiler.md)
   - 课程讲授词法分析、语法分析、语义分析、运行时环境、寄存器分配、代码优化与生成等内容，逐步实现 COOL 语言的编译器。
 
-**★【书籍】Crafting Interpreters** [【豆瓣】](https://book.douban.com/subject/35548379/) [【在线阅读】](https://craftinginterpreters.com/)
+**★【书籍】Crafting Interpreters** [#豆瓣](https://book.douban.com/subject/35548379/) [#在线阅读](https://craftinginterpreters.com/)
  - 本书包含了实现一个功能齐全、高效的脚本语言所需的一切。你将学到关于解析和语义的高级概念，以及字节码表示和垃圾回收等细节。
 
-**【书籍】(Dragon Book)Compilers, Princeples, Techiques, and Tools** [【豆瓣】](https://book.douban.com/subject/5416783/)
+**【书籍】(Dragon Book)Compilers, Princeples, Techiques, and Tools** [#豆瓣](https://book.douban.com/subject/5416783/)
   - “龙书”，编译领域的经典著作。本书全面介绍了编译器的设计，并强调编译技术在软件设计和开发中的广泛应用。每章中都包含大量的习题和丰富的参考文献。
 
-**【书籍】(Tiger Book)Modern Compiler Implementation in C** [【豆瓣】](https://book.douban.com/subject/1806974/)
+**【书籍】(Tiger Book)Modern Compiler Implementation in C** [#豆瓣](https://book.douban.com/subject/1806974/)
   - “虎书”，编译领域的经典著作。全面讲述了现代编译器的结构、编译算法和实现方法。本书特点是增加了一些其他编译原理教科书没有涉及的内容。前端增加了面向对象的程序设计语言、函数式程序设计语言等现代语言的编译实现方法，后端增加了针对现代计算机体系结构特征的一些比较成熟的优化方法。这部分内容展现了现代商业编译器需解决的一些关键问题。
 
-**【书籍】(Whale Book)Advanced Compiler Design and Implementation** [【豆瓣】](https://book.douban.com/subject/1400374/)
+**【书籍】(Whale Book)Advanced Compiler Design and Implementation** [#豆瓣](https://book.douban.com/subject/1400374/)
   - “鲸书”，编译领域的经典著作。本书涵盖了现代微处理器编译器的设计和实现方面的所有高级主题。本书首先介绍编译器的结构、符号表管理、中间代码结构、运行时支持等问题，探讨过程内的控制流分析、数据流分析、依赖关系分析和别名分析的各种方法，并介绍一系列的全局优化。接下来，讲述过程间的控制流分析、数据流分析和别名分析，以及程间优化和如何应用过程间信息来改善全局优化。然后，讨论有效利用层次存储系统的优化技术。最后，详细介绍4种商业化编译系统，以提供编译器结构、中间代码设计、优化策略和效果的专门例子。
 
-**【书籍】Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages** [【豆瓣】](https://book.douban.com/subject/10482195/)
+**【书籍】Language Implementation Patterns: Create Your Own Domain-Specific and General Programming Languages** [#豆瓣](https://book.douban.com/subject/10482195/)
   - 本书注重实践，以 Java 语言描述，帮助读者构建自己的语言应用。这里的语言应用并非特指用编译器或解释器实现编程语言，而是泛指任何处理、分析、翻译输入文件的程序，比如配置文件读取器、数据读取器、模型驱动的代码生成器、源码到源码的翻译器、源码分析工具、解释器，以及诸如此类的工具。为此，作者举例讲解已有语言应用的工作机制，拆解、归纳出31种易于理解且常用的设计模式（每种都包括通用数据结构、算法、策略）。
 
 ### 高级算法 Advanced Algorithms
 
-**【课程】UC Berkeley CS170: Efficient Algorithms and Intractable Problems** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1BU4y1b7RK/) [【油管】](https://www.youtube.com/playlist?list=PLkFD6_40KJIyKLUW_4cm44mIdXSUpZry3)
+**【课程】UC Berkeley CS170: Efficient Algorithms and Intractable Problems** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1BU4y1b7RK/) [#油管](https://www.youtube.com/playlist?list=PLkFD6_40KJIyKLUW_4cm44mIdXSUpZry3)
   - 进阶课，讲授图算法、贪婪算法、动态规划、线性规划、快速矩阵乘法、傅立叶变换、数论、复杂性和NP-完备性以及算法的设计和分析。
 
 **【课程】MIT 6.046: Design and Analysis of Algorithms**
-[【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1A7411E737/) [【课程主页】](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
+[#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1A7411E737/) [#课程主页](https://ocw.mit.edu/courses/6-046j-design-and-analysis-of-algorithms-spring-2015/)
   - 配套教材为《算法导论》。
 
 **【课程】MIT 6.851: Advanced Data Structure**
-[【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1Z3411r7za/)
+[#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1Z3411r7za/)
 
 **【课程】MIT 6.854: Advanced Algorithms**
-[【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV11E411u73m/)
+[#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV11E411u73m/)
 
-**【书籍】Algorithm Design** [【豆瓣】](https://book.douban.com/subject/1475870/)
+**【书籍】Algorithm Design** [#豆瓣](https://book.douban.com/subject/1475870/)
   - 该书教授学生一系列在计算应用中出现的问题的设计和分析技术。本文鼓励理解算法设计过程，并欣赏算法在计算机科学更广泛领域中的作用。更注重为具体问题设计算法、算法的设计目的、设计时的 trade-off，并且采用实例教学。
-
 
 ### 高级数据库系统 Advanced Database Systems
 
-数据库的入门课程的侧重点主要是原理和使用，进阶课程则包含了实现和设计等话题。
+高阶数据库课程通常针对数据库理论和技术的深入学习。这些课程旨在扩展学生对数据库管理系统（DBMS）的基本概念的理解，并介绍更高级的主题，包括数据库设计、查询优化、事务管理、数据仓库、数据挖掘和数据库安全等。
 
 **【课程】Stanford CS 346: Database System Implementation**
-[【课程主页】](https://web.stanford.edu/class/cs346/2015/) [Github](https://github.com/junkumar/redbase.git)
+[#课程主页](https://web.stanford.edu/class/cs346/2015/) [Github](https://github.com/junkumar/redbase.git)
 
 **【课程】CMU 15-799: Special Topics in Database Systems**
   - 2013 版本讨论了 Streaming、Graph DB、NVM 等话题，2022 版本主要讨论 Self-Driving DBMS。
 
 ### 数值分析 Numerical Analysis
 
-数值分析是数学的一个分支，专注于开发和研究数值方法和算法，以解决实际问题的数学计算。这些问题可能涉及到数学模型、物理学、工程学、经济学等多个领域。数值分析的目标是开发有效、准确和稳定的数值算法，用于近似和解决无法通过解析方法精确求解的数学问题。
+数值分析是数学的一个分支，主要关注于**使用数值逼近方法解决数学分析中的问题**。它涉及开发、分析和实现算法来获得数学问题的数值解决方案，特别是对于那些无法找到精确解的问题。数值分析在工程、物理、经济学和其他科学领域的计算和建模中起着关键作用。
 
-**【课程】MIT 18.330: Introduction to Numerical Analysis** [【课程主页】](https://github.com/mitmath/18330) [Assignment](https://github.com/PKUFlyingPig/MIT18.330)
+**【课程】MIT 18.330: Introduction to Numerical Analysis** [#课程主页](https://github.com/mitmath/18330) [Assignment](https://github.com/PKUFlyingPig/MIT18.330)
   - 配套教材为 Fundamentals of Numerical Computation [Github Book](https://fncbook.github.io/fnc/frontmatter.html)
   - 内容涉及了浮点编码、Root finding、线性系统、微分方程等等方面，整门课的主旨就是让你利用离散化的计算机表示去估计和逼近一个数学上连续的概念。
 
-**【课程】MIT 18.335: Introduction to Numerical Method** [【课程主页】](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)
+**【课程】MIT 18.335: Introduction to Numerical Method** [#课程主页](https://ocw.mit.edu/courses/18-335j-introduction-to-numerical-methods-spring-2019/)
 
 ### 工作实践中的技术
 
-**★【课程】MIT Null: 计算机教育缺失的一课 The Missing Semester of Your CS Education** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1uc411N7eK) [【油管】](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) [【课程主页】](https://missing.csail.mit.edu/2020/potpourri/)
+**★【课程】MIT Null: 计算机教育缺失的一课 The Missing Semester of Your CS Education** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1uc411N7eK) [#油管](https://www.youtube.com/watch?v=Z56Jmr9Z34Q) [#课程主页](https://missing.csail.mit.edu/2020/potpourri/)
   - 讲义：[原链接](https://missing.csail.mit.edu/) 中文讲义：[Github](https://missing-semester-cn.github.io/)
   - 本课程主要讲授熟练使用软件工具，包括命令行、文本编辑器、版本控制系统等。
 
-**Linux 操作系统与 Shell 入门**
-  - 在线教程：命令行的艺术 [Github](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
-  - 在线教程：Linux 101 [原链接](https://101.lug.ustc.edu.cn/)
-  - Textbook：鸟哥的 Linux 私房菜
+#### Linux 操作系统和 Shell
 
-**Git 版本控制工具**
+Linux 是一种流行的`开源操作系统`，它是基于Unix的多用户、多任务的操作系统。Linux 最初由林纳斯·托瓦兹（Linus Torvalds）于1991年创建，现在由全球的开发者社区共同维护和开发。它以其`稳定性`、`安全性`和`灵活性`而闻名，并被广泛应用于服务器、桌面、移动设备、嵌入式系统等多种环境中。
 
-**IDE和编辑器**
+Linux 是地球上**最泛用的操作系统**——不仅在服务器市场占据主导地位，也被广泛用于云计算和大数据环境。同时，它在个人电脑和工作站领域也逐渐流行，尤其是对于开发者和高级用户。此外，Linux 也是许多嵌入式系统和移动设备（如Android）的基础。这是一份关于 Linux 究竟在世界上多么活跃的统计：[Linux Statistics](https://99firms.com/blog/linux-statistics/)。
 
-**GNU Make 和 makefile**
+**【教程】命令行的艺术** [#Github](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md)
+ 
+**【教程】Linux 101** [#主页](https://101.lug.ustc.edu.cn/)
 
-https://seisman.github.io/how-to-write-makefile/overview.html
+**【书籍】鸟哥的 Linux 私房菜** [#豆瓣](https://book.douban.com/subject/4889838/)
+  - 最具知名度的Linux入门书，全面而详细地介绍了Linux操作系统。全书分为5个部分：第一部分着重说明Linux的起源及功能，如何规划和安装Linux主机；第二部分介绍Linux的文件系统、文件、目录与磁盘的管理；第三部分介绍文字模式接口 shell和管理系统的好帮手shell脚本，另外还介绍了文字编辑器vi和vim的使用方法；第四部分介绍了对于系统安全非常重要的Linux账号的管理，以及主机系统与程序的管理，如查看进程、任务分配和作业管理；第五部分介绍了系统管理员(root)的管理事项，如了解系统运行状况、系统服务，针对登录文件进行解析，对系统进行备份以及核心的管理等。
 
-**使用Docker**
+#### 使用 Git 和 Github
+
+**版本控制工具 Git** —— Git 是一个开源的分布式版本控制系统，当前最流行的`源代码管理`工具之一，被广泛用于软件开发和其他版本控制任务。
+
+**【教程】Git使用教程**[#Zhihu](https://zhuanlan.zhihu.com/p/615581394)
+
+**【教程】Github 官方指南**[#Github](https://docs.github.com/en/get-started/getting-started-with-git/set-up-git)
+
+#### 使用 IDE 或者编辑器
+
+**集成开发环境（IDE）**是软件开发中的一个重要组件，它集成了多种工具来协助程序员进行高效的编码、调试和测试。
+  - Eclipse：适用于Java、C/C++、Python、PHP等多种语言。Eclipse是一个开源项目，具有强大的插件生态系统。
+  - Visual Studio：由微软开发，是一个功能强大的IDE，支持C#、C++、VB.NET等语言，主要用于Windows平台的应用开发。
+  - IntelliJ IDEA：由JetBrains开发，主要用于Java开发，但也支持其他语言如Kotlin、Groovy等。它以智能编码辅助和强大的功能而闻名。
+  - NetBeans：另一个适用于Java的IDE，但也支持其他语言如PHP、C/C++和HTML5。NetBeans是一个开源项目，提供了多种工具和插件。
+  - PyCharm：专为Python开发设计的IDE，由JetBrains开发。它提供了许多针对Python开发的强大功能，包括调试、项目管理和版本控制集成。
+  - Visual Studio Code：微软开发的轻量级但功能强大的源代码编辑器，支持几乎所有主流编程语言。它提供了丰富的插件扩展，非常适合前端开发和轻量级编程任务。
+  - Xcode：苹果公司开发的IDE，专门用于开发macOS和iOS应用。它是开发任何Apple平台应用的首选工具。
+  - Android Studio：谷歌官方的Android应用开发IDE，基于IntelliJ IDEA。它提供了一系列工具来设计界面、编写和调试代码，以及性能分析。
+  - Atom：由GitHub开发的开源文本编辑器，支持多种编程语言。虽然它是一个文本编辑器，但可以通过插件扩展为类似IDE的环境。
+  - Sublime Text：是一个流行的代码编辑器，以其速度快和界面美观而著称。它也可以通过插件增强功能，类似于轻量级的IDE。
+
+**选择适合自己的 IDE**：使用取决于多个因素，包括你的编程语言、项目类型、个人偏好和特定的功能需求。以下是一些在选择IDE时可以考虑的关键因素：
+  - 编程语言支持：不同的IDE支持不同的编程语言。选择一个对你使用的语言提供良好支持的IDE至关重要。例如，如果你是Java开发者，你可能会选择Eclipse或IntelliJ IDEA。
+  - 项目类型：不同的IDE可能针对特定类型的项目优化，如移动应用、桌面软件、Web开发等。选择一个与你项目类型匹配的IDE可以提高开发效率。
+  - 易用性和学习曲线：一些IDE用户界面直观且容易上手，而另一些可能功能更强大但需要更长时间学习。根据你的经验和学习意愿选择。
+  - 性能要求：考虑你的开发机器的性能。一些IDE（如Visual Studio或IntelliJ IDEA）可能资源占用较多，而轻量级IDE（如Visual Studio Code或Sublime Text）对系统资源的要求较低。
+  - 集成工具和功能：考虑你需要哪些附加功能，如数据库工具、版本控制系统、调试工具、自动化构建工具等。
+  - 定制化和扩展性：一些IDE（如Visual Studio Code和Atom）提供了广泛的插件生态系统，允许你根据需要添加额外功能。
+  - 成本：某些IDE是免费的，而其他IDE可能需要付费，尤其是企业版。考虑你的预算以及是否需要付费IDE提供的额外功能。
+  - 社区和支持：一个活跃的社区可以提供插件、工具、教程和支持。流行的IDE往往拥有更大的社区支持。
+  - 个人偏好：最终，选择IDE也取决于个人喜好。尝试几个不同的IDE，看看哪个最符合你的工作流和偏好。
+  - 跨平台支持：如果你需要在不同的操作系统上工作，选择一个支持跨平台的IDE可能很重要。
+
+#### 使用 Docker
+
+Docker 是一种开源的容器化平台，它允许开发者将应用程序及其依赖打包在一个轻量级、可移植的容器中。这些容器可以在任何支持Docker的机器上运行，从而确保应用程序在不同环境中的一致性和可扩展性。Docker 在2013年首次发布，迅速成为容器化技术中最受欢迎的平台之一。Docker 的主要特点和优势包括：
+  - 容器化：Docker 使用容器来运行应用程序。容器是一个轻量级的、可执行的软件包，包含运行应用所需的一切：代码、运行时环境、库、环境变量和配置文件。
+  - 跨平台兼容性：Docker 容器可以在任何支持Docker的操作系统上运行，包括Linux、Windows和macOS。这消除了常见的“在我的机器上运行正常”的问题。
+  - 隔离性：每个Docker容器都在自己的隔离环境中运行。这提高了安全性，因为容器之间互不干扰，并且与宿主机系统分离。
+  - 可重复性：Docker 确保应用在开发、测试和生产环境中的一致性，因为每个环境都使用相同的Docker容器。
+  - 便捷的镜像管理：Docker使用镜像来创建容器。Docker镜像是容器的模板，可以轻松地构建、复制和共享。
+  - Docker Hub和Registry：Docker Hub是一个公共的镜像仓库，用户可以从中下载和共享镜像。企业也可以使用私有的Registry来存储和管理自己的镜像。
+  - 快速部署和扩展：Docker 容器可以几秒钟内启动，使得部署和扩展应用变得快速和灵活。
+  - 微服务架构的支持：Docker 非常适合微服务架构，因为每个服务都可以在独立的容器中运行，易于管理和扩展。
+  - 开发者友好：Docker 简化了配置过程，使开发者可以专注于编写代码，而不是环境设置。
+
+**【文档】Docker for Beginners** [【豆瓣】](https://docker-curriculum.com/)
 
 ### 更多编程语言
 
 #### Agda
 
-**【书籍】Verified Functional Programming in Agda**, Aaron
+Agda 是一种`函数式`编程语言和`证明助手`。它主要用于研究和`构造形式化证明`和`编写高度安全且可靠的程序`。Agda 的核心特性是其`依赖类型系统`，这增加了语言的表现力和灵活性，使得能够以编程的方式表达数学证明。
+  - Agda 的类型系统允许类型依赖于值（依赖类型），并且是一种纯函数式语言。由于其强大的类型系统，Agda 被广泛用于在编程语言中表达和验证数学定理和逻辑证明。在 Agda 中，编程和证明是相互融合的。可以用相同的语言编写程序和证明程序的属性。Agda 支持诸如高阶类型、复杂的类型运算和模式匹配等高级特性。
+
+**【书籍】Verified Functional Programming in Agda** [#豆瓣](https://book.douban.com/subject/26798747/)
+  - 第一本系统阐述了Agda中的外部和内部验证的书籍，适用于计算机科学本科生。书中不需要对函数式编程或计算机检查的证明有任何了解。书籍从通过熟悉的例子如布尔值、自然数和列表介绍函数式编程以及外部验证的技术开始。通过向量、二叉搜索树和Braun树的例子来考虑内部验证。书中还包括关于类型级计算、关于终止的明确推理以及通过评估进行归一化的高级内容。书籍还包括了一个关于Huffman编码和解码的中等规模案例研究。
 
 #### C
 
-**【书籍】C程序设计语言 The C Programming Language** [【豆瓣】](https://book.douban.com/subject/1139336/) [Free PDF Copy](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)
+C 语言是一种通用的高级编程语言，由 Dennis Ritchie 在 1972 年于贝尔实验室开发。它为程序员提供了很大的控制权，但也需要谨慎处理内存和指针，以避免潜在的错误。因此，C语言对于那些希望深入了解计算机编程的人来说是一门重要的语言。它是一种强大的编程语言，广泛用于系统编程、嵌入式编程、应用程序开发和游戏开发等领域。
+
+**【书籍】C程序设计语言 The C Programming Language** [#豆瓣](https://book.douban.com/subject/1139336/) [Free PDF Copy](http://cslabcms.nju.edu.cn/problem_solving/images/c/cc/The_C_Programming_Language_%282nd_Edition_Ritchie_Kernighan%29.pdf)
 
 #### C++
 
-**【书籍】Problem Solving with C++** [【豆瓣】](https://book.douban.com/subject/10529141/)
+C++ 是一种高级编程语言，由Bjarne Stroustrup 在1980年代初期开发，作为 C 语言的扩展。C++ 添加了`面向对象编程`等特性，同时保留了 C 的`效率`和`灵活性`，使其成为系统软件、应用软件、高性能服务器和客户端应用程序、以及性能敏感的游戏和实用程序的常用语言。C++ 支持面向对象编程，包括类、继承、多态、封装和抽象。
+
+**【书籍】Problem Solving with C++** [#豆瓣](https://book.douban.com/subject/10529141/)
 
 #### Common Lisp
 
-**【书籍】实用Common Lisp编程 Practical Common Lisp** [【豆瓣】](https://book.douban.com/subject/6859720/)
+Common Lisp 是 Lisp 编程语言家族中的一种方言，是一种`多范式`的编程语言，以其强大的`宏系统`、`动态类型`和交互式开发环境而闻名。Common Lisp 起源于 1980 年代，是基于几个早期 Lisp 方言（如 Maclisp、Zetalisp 和 NIL）的特性和思想开发而成的。它是 Lisp 语言的一个标准化形式，并且是目前最完整和最强大的 Lisp 方言之一。
+
+**【书籍】实用Common Lisp编程 Practical Common Lisp** [#豆瓣](https://book.douban.com/subject/6859720/)
 
 
 #### Coq
 
-**【书籍】** [【豆瓣】]()
+Coq 是一个`形式化证明管理系统`，用于帮助编写数学证明并验证这些证明的正确性。它是一个交互式定理证明器，允许用户定义数学概念、表述定理，并通过一系列逻辑推理构造证明。Coq 在数学和计算机科学领域都非常有用，特别是在那些要求高度精确和正确性保证的领域。
+
+**【书籍】** [#豆瓣]()
 
 - [**Certified Programming with Dependent Types (CPDT)**](https://www.amazon.com/Certified-Programming-Dependent-Types-Introduction/dp/0262026651/ref=sr_1_fkmrnull_1?keywords=Certified+Programming+with+Dependent+Types&qid=1555168397&s=books&sr=1-1-fkmrnull), 2013, Adam Chlipala
 
 #### Erlang
 
-**【书籍】** [【豆瓣】]()
+Erlang 是一种高级编程语言，最初由爱立信公司在1980年代为支持大规模的`并发`、`分布式系统`而开发。它最初是设计用于在电信系统中处理大量并发活动的，但后来被广泛应用于构建可伸缩、高可用性的服务器系统和分布式应用程序。
+
+**【书籍】Learn You Some Erlang for Great Good!: A Beginner's Guide** 
 
 #### Haskell
 
-**【书籍】Real World Haskell** [【豆瓣】](https://book.douban.com/subject/3134515/)
+Haskell 是一种`纯函数式`编程语言，拥有一个非常强大且灵活的`强类型系统`，支持高级特性，如类型推断、泛型编程和类型多态。Haskell 默认采用`惰性求值`（Lazy Evaluation），这意味着表达式的值仅在需要时计算。Haskell 引入了`类型类`（Type Classes）的概念，它是一种表示一组类型共享某些行为的方式，类似于其他语言中的接口。Haskell 提供了模式匹配和列表推导等强大的语法结构，使得代码更加简洁易读。Haskell 支持多种并发和并行编程模型，包括软件事务内存（STM）。
+
+**【书籍】Real World Haskell** [#豆瓣](https://book.douban.com/subject/3134515/)
   - 专为有经验的程序员编写，以迅速的步调带您了解函数式编程的基础知识，并在每一章中帮助您增进对 Haskell 在实际问题（如 I/O、性能、数据处理、并发等）中的理解。通过这本书，您将：
     - 了解程序式和函数式编程之间的区别
     - 学习 Haskell 的编译器、解释器、值、简单函数和类型
@@ -559,67 +623,100 @@ https://seisman.github.io/how-to-write-makefile/overview.html
     - 发现如何将 Haskell 用于系统编程
     - 学习 Haskell 中的并发和并行编程
 
-**【书籍】Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming** [【豆瓣】](https://book.douban.com/subject/24294415/)
+**【书籍】Parallel and Concurrent Programming in Haskell: Techniques for Multicore and Multithreaded Programming** [#豆瓣](https://book.douban.com/subject/24294415/)
   - 这本书需要有足够的 Haskell 编程基础，涵盖了Haskell多样的并发和并行编程API的广泛选择。它分为两个部分。第一部分关于并行编程，涵盖了使用多个处理器加速CPU密集型计算的技术，包括在惯用的Haskell和基于数值数组的算法中使用并行ism的方法，以及在GPU上运行计算的方法。第二部分关于并发编程，介绍了使用多个线程的技术，包括重叠多个I/O操作，构建并发网络服务器以及在多台机器上进行分布式编程的方法。
 
 #### Idris
 
+Idris 是一种相对较新的`纯函数式`编程语言，特别强调`依赖类型`（Dependent Types）的使用。这种`强类型系统`允许类型依赖于值，比传统的类型系统更强大，可以在类型级别上编码更多的逻辑和属性，使得程序员可以编写更加精确和表达丰富的程序。Idris 的设计旨在支持纯函数式编程，同时提供强大的类型检查，以帮助开发者构建更加安全和可靠的软件。Idris 提供了自动类型推断功能，可以减少编写类型注解的需要，同时保持代码的类型安全。
+
 **【书籍】Programming in IDRIS, A Tutorial**
 
-**【书籍】Type-driven Development with Idris** [【豆瓣】]()
+**【书籍】Type-driven Development with Idris**
 
 #### Java
 
-**【书籍】Core Java** [【豆瓣】]()
+Java 是一种广泛使用的高级编程语言，由Sun Microsystems（现为Oracle的一部分）在1995年发布。它被设计成一种通用、`面向对象`、类似C++但更简单的编程语言。Java 的设计哲学强调了可移植性、高性能、健壮性和安全性，使其一度成为企业应用、网络应用、桌面应用、移动设备和嵌入式系统开发的热门选择。
+  - Java 的口号是“一次编写，到处运行”。这是因为其运行在`Java虚拟机（JVM）`上，不需要考虑底层硬件和操作系统。
+
+**【书籍】Effective Java**
+
+**【书籍】Core Java**
 
 #### Javascript
 
-**【书籍】JavaScript Programmer's Reference** [【豆瓣】]()
+JavaScript 是一种`动态类型`的多范式的编程语言（`事件驱动`、`函数式`、`面向对象`），最初由Netscape的Brendan Eich在1995年设计。尽管它最初被创建为网页浏览器中的脚本语言，但如今它已发展成为一种广泛用于客户端和服务器端的通用编程语言。JavaScript 是构建现代网页和网络应用的核心技术之一，与HTML和CSS一起构成了万维网的三大支柱。
+
+**【书籍】JavaScript Programmer's Reference**
+
+> Javascript 的命名据说是开发者蹭 Java 的热度而来，两者关系甚微。
 
 #### Kotlin
 
-**【书籍】Fundamental Kotlin** [【豆瓣】]()
+Kotlin 是一种现代的`静态类型`的编程语言，由JetBrains公司在2011年首次发布。它被设计为`完全兼容 Java`，并能在 `Java 虚拟机（JVM）`上运行，但在语法和功能上进行了现代化的改进。Kotlin 的目标是提供一种比 Java 更简洁、更安全且更表达性的语言，同时保持与Java的高度兼容性。
+
+**【书籍】Fundamental Kotlin**
 
 #### Matlab 
 
-**【书籍】MATLAB Primer** [【豆瓣】]()
+MATLAB（Matrix Laboratory的缩写）是由MathWorks公司开发的一种高性能的`数值计算`和`可视化编程`环境和语言。自1984年推出以来，MATLAB已经成为科学、工程和数学领域中广泛使用的工具之一，特别适用于矩阵运算、算法实现、数据分析、信号处理和图形可视化。
+
+**【书籍】MATLAB Primer**
 
 #### OCaml
 
-**【书籍】OCaml Programming: Correct + Efficient + Beautiful** [Github在线书籍](https://cs3110.github.io/textbook/cover.html) [【油管】](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+OCaml（Objective Caml的缩写）是一种高级编程语言，是Caml语言的最新版本，由法国国家信息与自动化研究所（INRIA）开发。其特点为：`强类型`、采用`静态类型`系统，拥有灵活的模块系统，结合了`函数式编程`、`命令式编程`和`面向对象编程`的特性，提供了一个快速而有效的编译器以及丰富的库。
 
-**【书籍】Real World OCaml** [【豆瓣】]()
+**【书籍】OCaml Programming: Correct + Efficient + Beautiful** [Github在线书籍](https://cs3110.github.io/textbook/cover.html) [#油管](https://www.youtube.com/playlist?list=PLre5AT9JnKShBOPeuiD9b-I4XROIJhkIU)
+
+**【书籍】Real World OCaml** [#豆瓣]()
 
 #### Prolog
 
-**【书籍】** [【豆瓣】]()
+Prolog（Programming in Logic的缩写）是一种高级编程语言，主要用于`逻辑编程范式`。Prolog 特别适合于处理符号和非数值计算的问题，常用于人工智能和计算语言学领域。其特点为：
+  - 逻辑编程：Prolog 基于形式逻辑，程序是一系列的事实和规则，表示为逻辑公式。
+  - 事实和规则：在Prolog中，程序由一系列事实（描述世界的基本陈述）和规则（描述事物之间关系的逻辑表达式）构成。
+  - 查询系统：Prolog 程序的运行基于对数据库的查询。用户提出问题，Prolog 通过在事实和规则中搜索来尝试解答这个问题。
+  - 模式匹配：Prolog 使用模式匹配技术来选择和应用规则。
+  - 回溯：Prolog 自动执行回溯来找到问题的所有可能答案。
+
+**【书籍】Computing With Logic: Logic Programming With Prolog** [#豆瓣](https://book.douban.com/subject/10551496/)
 
 #### R
 
-**【书籍】** [【豆瓣】]()
+R 语言是一种专门用于`统计分析`、`数据可视化`和`计算机数据挖掘`的编程语言和软件环境，提供了广泛的统计（线性和非线性建模、经典统计测试、时间序列分析、分类、聚类等）和图形技术。R 以其强大的图形和可视化能力而闻名。它可以很容易地创建高质量的图表和数据可视化图形。
+
+**【书籍】R for Data Science: Visualize, Model, Transform, Tidy, and Import Data** [#豆瓣](https://book.douban.com/subject/30277904/)
+  - 本书的目标是教会读者使用最重要的数据科学工具，从而为实施数据科学奠定坚实的基础。读完本书后，你将掌握R语言的精华，并能够熟练使用多种工具来解决各种数据科学难题。每一章都按照这样的顺序组织内容：先给出一些引人入胜的示例，以便你可以整体了解这一章的内容，然后再深入细节。本书的每一节都配有习题，以帮助你实践所学到的知识。
 
 #### Racket
 
-**【课程】Brown CS173: Programming Languages** [【Bilibili 无字幕】](https://www.bilibili.com/video/BV1iK4y1j7wj) [【课程主页】](https://cs.brown.edu/courses/cs173/2012/)
+Racket 是一种多范式的编程语言（`函数式`、`命令式`、`逻辑式`和`面向对象`编程），最初是为了教育和研究而设计，但现在它也被广泛用于工业和商业应用。Racket 最初基于 Scheme，后者是 Lisp 家族的一个成员，因此它继承了 Lisp 的许多特性，如其强大的`宏系统`和简洁的语法。Racket 的设计哲学`鼓励创建新的编程语言和工具`，作为解决特定问题的方式。Racket 有一个庞大的标准库，提供了从图形界面到网络编程的各种功能。
+
+**【课程】Brown CS173: Programming Languages** [#Bilibili 无字幕](https://www.bilibili.com/video/BV1iK4y1j7wj) [#课程主页](https://cs.brown.edu/courses/cs173/2012/)
   - 配套教材为 Programming Languages: Application and Interpretation。
 
-**【书籍】(PLAI)Programming Languages: Application and Interpretation** [【豆瓣】](https://book.douban.com/subject/11628134/) [【啊玛粽】](https://www.amazon.com/Programming-Languages-Application-and-Interpretation/dp/B00262R7B0/ref=sr_1_1?keywords=Programming+Languages+Application+and+Interpretation&qid=1555161364&s=books&sr=1-1) [Free Copy](https://cs.brown.edu/courses/cs173/2012/book/book.pdf)
+**【书籍】(PLAI)Programming Languages: Application and Interpretation** [#豆瓣](https://book.douban.com/subject/11628134/) [#啊玛粽](https://www.amazon.com/Programming-Languages-Application-and-Interpretation/dp/B00262R7B0/ref=sr_1_1?keywords=Programming+Languages+Application+and+Interpretation&qid=1555161364&s=books&sr=1-1) [Free Copy](https://cs.brown.edu/courses/cs173/2012/book/book.pdf)
   - 这本书结合了两种教授编程语言的方法，一种基于对编程语言的概览，另一种基于编写定义性解释器。
 
 #### Rust
 
-**【课程】Stanford CS110L: Safety in Systems Programming** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1dh4y1T75r)
+Rust 是一种现代编程语言，专注于安全性、速度和`并发性`。它由 Mozilla Research 开发，旨在提供C++等系统编程语言的性能，同时确保更高的安全性和更易于管理的代码结构。
+  - Rust 的最大卖点之一是其`内存安全保证`。通过所有权（ownership）、借用（borrowing）和生命周期（lifetimes）的概念，Rust 在编译时防止数据竞争和空指针等常见错误，而无需垃圾收集。
+  - Rust 被设计为`系统级编程语言`，意味着它非常适合开发操作系统、游戏引擎、文件系统等底层应用。
 
-**【课程】KAIST CS431/CS492: Concurrent Programming** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1Xp4y1w7xG)
+**【课程】Stanford CS110L: Safety in Systems Programming** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1dh4y1T75r)
 
-**【书籍】Rust程序设计 Programming Rust** [【豆瓣】](https://book.douban.com/subject/36547630/)
+**【课程】KAIST CS431/CS492: Concurrent Programming** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1Xp4y1w7xG)
+
+**【书籍】Rust程序设计 Programming Rust** [#豆瓣](https://book.douban.com/subject/36547630/)
   - 书中全面介绍了Rust这种新型系统编程语言——具有无与伦比的安全性，兼具C和C++的高性能，并大大简化了并发程序的编写。第2版对上一版内容进行了重组和完善，新增了对“异步编程”的介绍。借助书中的大量案例，你也能用Rust编写出兼顾安全性与高性能的程序。本书内容包括基本数据类型、所有权、引用、表达式、错误处理、crate与模块、结构、枚举与模式等基础知识，以及特型与泛型、闭包、迭代器、集合、字符串与文本、输入与输出、并发、异步编程、宏等进阶知识。
 
 #### Scala
 
-Scala 是一种多范式的编程语言（支持面向对象和函数式编程范式），设计用来表达通用的编程模式以简洁、优雅和类型安全的方式。它集成了面向对象编程和函数式编程的特性。Scala 运行在 Java 虚拟机（JVM）上，因此它与 Java 有很高的兼容性，可以直接使用 Java 的类库。
+Scala 是一种多范式的编程语言（支持`面向对象`和`函数式编程`范式），设计用来表达通用的编程模式以简洁、优雅和类型安全的方式。它集成了面向对象编程和函数式编程的特性。Scala 运行在 Java 虚拟机（JVM）上，因此它与 Java 有很高的兼容性，可以直接使用 Java 的类库。
 
-**【书籍】Programming in Scala: A comprehensive Step-by-Step Scala Programming Guide** [【豆瓣】](https://book.douban.com/subject/3338669/)
+**【书籍】Programming in Scala: A comprehensive Step-by-Step Scala Programming Guide** [#豆瓣](https://book.douban.com/subject/3338669/)
   - 关于Scala的权威书籍，Scala是Java平台上的一种新语言，将面向对象和函数式编程概念融合到一种独特而强大的开发工具中。
 
 ### 计算机代数系统
@@ -629,15 +726,15 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
 计算机代数系统可以执行诸如化简代数表达式、解方程、求导、积分、展开多项式、因式分解等符号计算操作。这使得它们在数学、科学工程、计算机科学等领域中得到广泛应用。
 
 主要的计算机代数系统包括：
-  - Mathematica： 由Wolfram Research公司开发，提供广泛的符号计算和可视化功能。
-  - Maple： 由Maplesoft公司推出，用于执行符号和数值计算。
-  - Maxima： 一个开源的计算机代数系统，提供类似于商业软件的功能。
-  - SageMath： 一个免费的开源数学软件系统，集成了多个开源数学工具，包括Maxima、NumPy、SymPy等。
+  - Mathematica：由Wolfram Research公司开发，提供广泛的符号计算和可视化功能。
+  - Maple：由Maplesoft公司推出，用于执行符号和数值计算。
+  - Maxima：一个开源的计算机代数系统，提供类似于商业软件的功能。
+  - SageMath：一个免费的开源数学软件系统，集成了多个开源数学工具，包括Maxima、NumPy、SymPy等。
 
-**【书籍】Modern Computer Algebra** [【豆瓣】](https://book.douban.com/subject/2691152/)
+**【书籍】Modern Computer Algebra** [#豆瓣](https://book.douban.com/subject/2691152/)
   - 计算机代数系统在科学和工程的各个领域都变得越来越重要。这本教材深入介绍了计算机代数系统中数学引擎的算法基础。它设计用于高级本科生或研究生的计算机科学或数学的一学期或两学期课程。其全面性和权威性也使其成为该领域专业人士的重要参考。特点包括：对算法的详细研究，包括时间分析；对多个主题的实现报告；数学基础的完整证明；广泛的应用（包括化学、编码理论、密码学、计算逻辑以及日历和音阶设计等）。
 
-**【书籍】An Introduction to Modern Mathematical Computing: with Maple** [【豆瓣】](https://book.douban.com/subject/10160900/)
+**【书籍】An Introduction to Modern Mathematical Computing: with Maple** [#豆瓣](https://book.douban.com/subject/10160900/)
   - 三十年前，与应用数值计算相比，数学计算很难进行，因此使用相对较少。有三个因素改变了这种情况：个人计算机的出现；光纤的发现以及现代互联网的发展；以及Maple、Mathematica和Matlab等三个数学工具的建立。我们打算说服人们，Maple等类似工具值得了解，只要一个人希望成为数学家、数学教育工作者、计算机科学家、工程师或科学家，或者任何希望/需要更好地使用数学的人。我们还希望解释如何在学习更好地证明事物的同时成为一名实验数学家。为了实现这一目标，我们的材料分为三个主要章节，然后是一个附录。这些章节涵盖了初等数论、一元和多元微积分、初等线性代数以及可视化和交互式几何计算。
 
 ## 人工智能相关
@@ -649,120 +746,120 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
 **【书籍】人工智能: 一种现代方法 Artificial Intelligence: A Modern Approach（AIMA）**
   - 由 Stuart Russell 和 Peter Norvig 合著的一本广受欢迎的人工智能教材经典。书籍全面涵盖了人工智能的各个方面，包括知识表示、推理、规划、机器学习、自然语言处理等。强调一种现代方法，旨在统一不同领域的人工智能技术，并将其整合为一个协同工作的整体。
 
-**【课程】MIT 6.034: Artificial Intelligence** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1P7411Y7Ud) [【课程主页】](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
+**【课程】MIT 6.034: Artificial Intelligence** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1P7411Y7Ud) [#课程主页](https://ocw.mit.edu/courses/6-034-artificial-intelligence-fall-2010/)
   - 这门课程介绍了人工智能的基本知识表示、问题解决和学习方法。完成 6.034 后，学生应能够通过组装对具体计算问题的解决方案来开发智能系统；理解知识表示、问题解决和学习在智能系统工程中的作用；并从计算的角度欣赏问题解决、视觉和语言在理解人类智能中的作用。
 
-**【课程】UC Berkeley CS188: Introduction to Artificial Intelligence** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1r3411p7H8)
+**【课程】UC Berkeley CS188: Introduction to Artificial Intelligence** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1r3411p7H8)
   - 入门课程，搜索剪枝、约束满足问题、马尔可夫决策过程、强化学习、贝叶斯网络、隐马尔可夫模型以及基础的机器学习和神经网络的相关内容。
   - 教材为《人工智能: 一种现代方法》。
 
-**【课程】Havard CS50: Introduction to Artificial Intelligence with Python** [【哔哩哔哩-英文字幕】](https://www.bilibili.com/video/BV1HB4y1C7XM/) [【课程主页】](https://cs50.harvard.edu/ai/2020/)
+**【课程】Havard CS50: Introduction to Artificial Intelligence with Python** [#哔哩哔哩-英文字幕](https://www.bilibili.com/video/BV1HB4y1C7XM/) [#课程主页](https://cs50.harvard.edu/ai/2020/)
   - 简单的入门课程，探讨了现代人工智能基础的概念和算法，深入研究了导致技术如游戏引擎、手写识别和机器翻译等出现的思想。通过实际项目，学生将接触到图搜索算法、分类、优化、强化学习等人工智能和机器学习领域的理论，并将它们应用到自己的Python程序中。在课程结束时，学生将具有使用机器学习库的经验，同时掌握人工智能原理，使他们能够设计自己的智能系统。
 
-**【书籍】Paradigms of Artificial Intelligence Programming, Case Studies in Common LISP** [【豆瓣】](https://book.douban.com/subject/1754619/)
+**【书籍】Paradigms of Artificial Intelligence Programming, Case Studies in Common LISP** [#豆瓣](https://book.douban.com/subject/1754619/)
   - 第一本在构建主要AI系统的背景下教授高级 Common Lisp 技术的教材。通过使用最先进的 Common Lisp 重建真实而复杂的AI程序，该书教授学生和专业人士如何构建和调试健壮的实用程序，同时演示卓越的编程风格和重要的 AI 概念。作者强调编写实际规模的真正工作程序涉及的实际性能问题。书中包括有关故障排除和效率的章节，以及关于面向对象编程基础和主要 CLOS 函数的描述。这本书是一门 AI 编程课程的优秀教材，对于一般的 AI 课程是一个有用的补充，对于专业程序员来说是一本不可或缺的参考书。
 
 ### 数据科学 Data Science
 
 “数据科学”是一门涉及从大量数据中提取信息、洞察和知识的跨学科领域。数据科学将统计学、机器学习、计算机科学和领域专业知识相结合，以分析和解释复杂的现实世界数据。
 
-**【课程】UC Berkeley Data100: Principles and Techniques of Data Science** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1xt4y1S7ay) [【课程主页】](https://ds100.org/) [Textbook](https://www.textbook.ds100.org/intro.html)
+**【课程】UC Berkeley Data100: Principles and Techniques of Data Science** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1xt4y1S7ay) [#课程主页](https://ds100.org/) [Textbook](https://www.textbook.ds100.org/intro.html)
   - 入门课程，讲授包括数据清洗、特征提取、数据可视化以及机器学习和推理的基础内容，也会讲授 Pandas, Numpy, Matplotlib 等数据科学常用工具。
 
-**【书籍】Foundations of Data Science** [【豆瓣】](https://book.douban.com/subject/34792326/)
+**【书籍】Foundations of Data Science** [#豆瓣](https://book.douban.com/subject/34792326/)
   - 这本书介绍了数据科学的数学和算法基础，包括机器学习、高维几何和大网络分析。主题涵盖了高维数据的反直觉性质，诸如奇异值分解等重要的线性代数技术，随机游走和马尔可夫链理论，机器学习的基本概念和重要算法，以及用于聚类的算法和分析，大网络的概率模型，包括主题建模和非负矩阵分解，小波和压缩感知。书中还发展了重要的概率技术，包括大数定律、尾不等式、随机投影分析、机器学习的泛化保证，以及用于分析大型随机图中相变的矩方法。此外，书中还讨论了重要的结构和复杂性度量，如矩阵范数和VC维度。这本书适用于设计和分析数据算法的本科和研究生课程。
 
 ### 机器学习 Machine Learning
 
 “机器学习”是人工智能的一个分支，研究计算机系统如何通过学习和经验改进性能。机器学习的目标是使计算机具有从数据中学习的能力，而无需显式地进行编程。机器学习的主要任务是设计和开发算法，使计算机系统能够利用数据进行学习、预测和决策。
 
-**★【课程】Andrew NG: Machine Learning** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV16C4y197St) [Coursera](https://www.coursera.org/learn/machine-learning)
+**★【课程】Andrew NG: Machine Learning** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV16C4y197St) [Coursera](https://www.coursera.org/learn/machine-learning)
   - 吴恩达在网络上开设的机器学习课程，对新手极其友好，讲授了线性回归、逻辑回归、支持向量机、无监督学习、降维、异常检测和推荐系统等等知识，并且在编程实践中夯实自己的理解。为了大众化
 
-**★【课程】Stanford CS229: Machine Learning** [【哔哩哔哩-英文字幕】](https://www.bilibili.com/video/BV1JE411w7Ub/) [【课程主页】](http://cs229.stanford.edu/syllabus.html) - 吴恩达在斯坦福大学讲授的研究生课程，更偏重数学理论。
+**★【课程】Stanford CS229: Machine Learning** [#哔哩哔哩-英文字幕](https://www.bilibili.com/video/BV1JE411w7Ub/) [#课程主页](http://cs229.stanford.edu/syllabus.html) - 吴恩达在斯坦福大学讲授的研究生课程，更偏重数学理论。
 
 **【课程】Stanford CS229M: Machine Learning Theory**
-[【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1fu4y1E7J1/)
+[#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1fu4y1E7J1/)
   - 最新的机器学习理论。
 
-**【书籍】机器学习** [【豆瓣】](https://book.douban.com/subject/26708119/)
+**【书籍】机器学习** [#豆瓣](https://book.douban.com/subject/26708119/)
   - 著名的周志华“西瓜书”，机器学习的入门中文教材。在内容上尽可能涵盖机器学习基础知识的各方面，并尽量减少使用数学知识。
 
-**【书籍】(PRML)Pattern Recognition and Machine Learning** [【豆瓣】](https://book.douban.com/subject/2061116/)
+**【书籍】(PRML)Pattern Recognition and Machine Learning** [#豆瓣](https://book.douban.com/subject/2061116/)
   - 机器学习的经典教材，这本教材反映了机器学习领域的最新发展，并全面介绍了模式识别和机器学习领域。它面向高年级本科生、第一年的博士生，以及研究人员和从业者。不要求先前了解模式识别或机器学习概念。需要熟悉多元微积分和基本线性代数，对概率的一些了解将有所帮助，尽管不是必需的，因为该书包括对基本概率理论的自包含介绍。
 
-**【书籍】Machine Learning, A Probabilistic Perspective** [【豆瓣】](https://book.douban.com/subject/10758624/)
+**【书籍】Machine Learning, A Probabilistic Perspective** [#豆瓣](https://book.douban.com/subject/10758624/)
   - 当前网络化的电子数据洪流需要自动化的数据分析方法。机器学习提供了这些方法，开发能够自动检测数据中模式并利用这些发现的模式预测未来数据的方法。这本教材全面而自包含地介绍了机器学习领域，采用了一种统一的、概率的方法。内容既有广度又有深度，涵盖了概率、优化和线性代数等主题的必要背景知识，同时讨论了该领域的最新发展，包括条件随机场、L1正则化和深度学习等。
   - 这本书以一种非正式、易于理解的风格编写，包括最重要算法的伪代码。所有主题都配有丰富的彩色图像和来自生物学、文本处理、计算机视觉和机器人技术等应用领域的实例。与提供不同启发式方法的食谱不同，该书强调一种有原则的基于模型的方法，通常使用图形模型的语言以简洁而直观的方式指定模型。几乎所有描述的模型都已在一个名为PMTK（概率建模工具包）的MATLAB软件包中实现，可以免费在线获得。这本书适用于具有入门级大学数学背景的高年级本科生和初级研究生。
 
-**【书籍】Interpretable Machine Learning** [【豆瓣】](https://book.douban.com/subject/34948950/) [【在线阅读】](https://christophm.github.io/interpretable-ml-book/)
+**【书籍】Interpretable Machine Learning** [#豆瓣](https://book.douban.com/subject/34948950/) [#在线阅读](https://christophm.github.io/interpretable-ml-book/)
   - 这本书介绍了如何使机器学习模型及其决策更具可解释性。在探讨可解释性概念后，你将了解到一些简单且易于解释的模型，例如决策树、决策规则和线性回归。随后的章节专注于用于解释黑盒模型的通用模型无关方法，例如特征重要性、累积局部效应，以及使用Shapley值和LIME解释个别预测。所有解释方法都将被深入讲解并进行批判性讨论。它们在底层是如何工作的？它们的优势和劣势是什么？它们的输出如何解释？这本书将使你能够选择并正确应用最适合你机器学习项目的解释方法。
 
 ### 深度学习 Deep Learning
 
 “深度学习”是机器学习的一个分支。它专注于使用“深度神经网络”进行模式识别和特征学习。深度学习的目标是通过模拟人脑神经元网络的方式，使计算机能够从大量数据中学习和提取复杂的特征，以进行任务如分类、识别、推理等。
 
-**【课程】CMU 10-414/714: 机器学习系统 Deep Learning Systems** [【哔哩哔哩-英文字幕】](https://www.bilibili.com/video/BV1Rg4y137jH) [【油管】](https://www.youtube.com/@deeplearningsystemscourse1116/videos) [【课程主页】](https://dlsyscourse.org)
+**【课程】CMU 10-414/714: 机器学习系统 Deep Learning Systems** [#哔哩哔哩-英文字幕](https://www.bilibili.com/video/BV1Rg4y137jH) [#油管](https://www.youtube.com/@deeplearningsystemscourse1116/videos) [#课程主页](https://dlsyscourse.org)
   - 本课程旨在让学生全面了解深度学习系统的构建过程，从现代深度学习系统的高级建模设计到自动微分工具的基本实现，再到有效算法的底层设备级实现。学生将从零开始构建一个完整的深度学习库，使用这个库来构建几种最先进的建模方法，包括卷积网络、循环网络、自注意力模型和生成模型。这将帮助学生更好地利用深度学习库的功能，并能够在需要时进行扩展和自定义。
 
-**【课程】Stanford CS224w: Machine Learning with Graphs** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1RZ4y1c7Co) [【油管】](https://www.youtube.com/watch?v=JAB_plj2rbA) [【课程主页】](http://web.stanford.edu/class/cs224w/)
+**【课程】Stanford CS224w: Machine Learning with Graphs** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1RZ4y1c7Co) [#油管](https://www.youtube.com/watch?v=JAB_plj2rbA) [#课程主页](http://web.stanford.edu/class/cs224w/)
   - 图神经网络入门课。
 
-**【教程】深入浅出神经网络与深度学习 Neural Networks and Deep Learning** [【豆瓣】](https://book.douban.com/subject/35128111/)
+**【教程】深入浅出神经网络与深度学习 Neural Networks and Deep Learning** [#豆瓣](https://book.douban.com/subject/35128111/)
   - 本书深入讲解神经网络和深度学习技术，侧重于阐释深度学习的核心概念。作者以技术原理为导向，辅以贯穿全书的MNIST手写数字识别项目示例，介绍神经网络架构、反向传播算法、过拟合解决方案、卷积神经网络等内容，以及如何利用这些知识改进深度学习项目。学完本书后，读者将能够编写Python代码解决复杂的模式识别问题。
 
-**【书籍】Deep Learning Foundations and Concepts** [【豆瓣】](https://book.douban.com/subject/36666224/)
+**【书籍】Deep Learning Foundations and Concepts** [#豆瓣](https://book.douban.com/subject/36666224/)
   - 全面介绍了支撑深度学习的核心思想，旨在面向机器学习的初学者和已经在该领域有经验的人。
 
-**【书籍】Interpretability in Deep Learning** [【Springer】](https://link.springer.com/book/10.1007/978-3-031-20639-9#about-this-book)
+**【书籍】Interpretability in Deep Learning** [#Springer](https://link.springer.com/book/10.1007/978-3-031-20639-9#about-this-book)
   - 这本书是对深度学习模型可解释性的最新研究工具进行全面整理、阐述和举例讨论的著作，重点关注神经网络架构。此外，书中还包括计算机视觉、光学和与机器学习相关主题领域中应用导向文章的多个案例研究。该书可以作为深度学习可解释性的专著，涵盖最新的主题，同时也适用于研究生的教材。从事研究、开发和应用工作的科学家们可以从其系统的阐述中受益。
 
 ### 大语言模型 Large Language Model
 
 大语言模型（简称 LLM）是指使用大量参数和深度学习技术构建的自然语言处理模型。这些模型在处理和生成自然语言文本方面表现出色，能够理解语言的上下文、语法和语义，并生成具有流畅性和逼真性的文本。
 
-**【书籍】Understanding Large Language Models, Learning Their Underlying Concepts and Technologies** [【豆瓣】](https://book.douban.com/subject/36699911/)
+**【书籍】Understanding Large Language Models, Learning Their Underlying Concepts and Technologies** [#豆瓣](https://book.douban.com/subject/36699911/)
   - 这本书将教授你大语言模型（LLMs）的基本概念，以及与其相关的技术。该书以介绍像 ChatGPT 这样的对话型人工智能的兴起为开端，以及它们与更广泛的大语言模型谱系的关系。接着，你将学习自然语言处理（NLP）的核心概念，以及它是如何导致大语言模型的兴起的。然后，你将深入了解 transformers 以及它们的特性，如自注意力（self-attention），如何增强语言建模的能力，以及大语言模型的独特功能。该书以探讨各种大语言模型的架构和它们不断增强的能力带来的机遇，以及滥用可能带来的危险来结束。
 
-**【书籍】Transformer, BERT, and GPT Including ChatGPT and Prompt Engineering** [【豆瓣】](https://book.douban.com/subject/36677841/)
+**【书籍】Transformer, BERT, and GPT Including ChatGPT and Prompt Engineering** [#豆瓣](https://book.douban.com/subject/36677841/)
   - 本书主题广泛，涵盖了 Transformer 架构、BERT 模型以及 GPT 系列（包括GPT-3和GPT-4）的细节，其中还包括 ChatGPT。横跨十个章节，从注意机制等基础概念开始，然后涉及分词技术，探讨 Transformer 和 BERT 架构的细微之处，最后深入到与 GPT 系列最新内容（包括 ChatGPT）相关的高级主题。关键章节提供对深度学习中注意力演变和意义的见解，对 Transformer 架构的细节进行深入探讨，对 BERT 家族进行两部分探索，以及实际使用GPT-3的操作指南。最后的章节概述了 ChatGPT、GPT-4 以及使用生成式 AI 进行可视化。读者将全面了解自然语言处理模型的当前格局、它们的基础架构以及实际应用。书中附有众多代码样例和插图的配套文件。
 
 ### 强化学习 Reinforcement Learning
 
 “强化学习”是机器学习的一个分支，专注于研究智能体（agent）如何通过与环境的交互学习行为以达到某种目标。在强化学习中，智能体通过尝试不同的行动来最大化累积的奖励，而不需要显式的监督信号或预先标记的数据。
 
-**【课程】UC Berkeley CS285: Deep Reinforcement Learning** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV12341167kL/) [【油管】](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9) [【课程主页】](http://rail.eecs.berkeley.edu/deeprlcourse/)
+**【课程】UC Berkeley CS285: Deep Reinforcement Learning** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV12341167kL/) [#油管](https://www.youtube.com/playlist?list=PL_iWQOsE6TfX7MaC6C3HcdOf1g337dlC9) [#课程主页](http://rail.eecs.berkeley.edu/deeprlcourse/)
   - 深度强化学习是机器学习和强化学习的交叉学科。它结合了深度学习和强化学习的技术，旨在让计算机系统通过与环境的交互学习如何做出决策以最大化累积奖励。
 
-**【书籍】强化学习 Reinforcement Learning, An Introduction** [【豆瓣】](https://book.douban.com/subject/34809689/)
+**【书籍】强化学习 Reinforcement Learning, An Introduction** [#豆瓣](https://book.douban.com/subject/34809689/)
   - 业内公认的一本强化学习基础理论的经典著作。它从强化学习的基本思想出发，深入浅出又严谨细致地介绍了马尔可夫决策过程、蒙特卡洛方法、时序差分方法、同轨离轨策略等强化学习的基本概念和方法，并以大量的实例帮助读者理解强化学习的问题建模过程以及核心的算法细节。
 
 ### 自然语言处理 Natural Language Processing
 
 “自然语言处理”是一门研究如何使计算机能够理解、解释和生成自然语言的学科。自然语言是人类用于交流的语言，包括语音和文本。NLP的目标是开发算法和技术，使计算机能够处理和理解人类语言的各个方面。
 
-**【课程】CS224n: Natural Language Processing** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV18Y411p79k/) [【课程主页】](http://web.stanford.edu/class/cs224n/index.html)
+**【课程】CS224n: Natural Language Processing** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV18Y411p79k/) [#课程主页](http://web.stanford.edu/class/cs224n/index.html)
   - NLP 入门课程内容覆盖了词向量、RNN、LSTM、Seq2Seq 模型、机器翻译、注意力机制、Transformer 等等 NLP 领域的核心知识点。
 
-**【书籍】语音与语言处理 Speech and Language Processing** [【豆瓣】](https://book.douban.com/subject/5373023/)
+**【书籍】语音与语言处理 Speech and Language Processing** [#豆瓣](https://book.douban.com/subject/5373023/)
   - 本书将深入的语言分析与健壮的统计方法结合起来，新版更是涉及了大量的现代技术，将自然语言处理、计算语言学以及语音识别等内容融合在一本书中，把各种技术相互联系起来，让读者了解怎样才能最佳地利用每种技术，怎样才能将各种技术结合起来使用。
 
-**【书籍】基于深度学习的自然语言处理 Neural Network Methods in Natural Language Processing** [【豆瓣】](https://book.douban.com/subject/30236842/)
+**【书籍】基于深度学习的自然语言处理 Neural Network Methods in Natural Language Processing** [#豆瓣](https://book.douban.com/subject/30236842/)
   - 本书重点介绍了神经网络模型在自然语言处理中的应用。首先介绍有监督的机器学习和前馈神经网络的基本知识，如何将机器学习方法应用在自然语言处理中，以及词向量表示（而不是符号表示）的应用。然后介绍更多专门的神经网络结构，包括一维卷积神经网络、循环神经网络、条件生成模型和基于注意力的模型。后，讨论树形网络、结构化预测以及多任务学习的前景。
 
 ### 计算机视觉 Computer Vision
 
 计算机视觉是一门研究如何使计算机系统能够模拟和复制人类视觉系统功能的学科。该学科涉及开发算法和技术，使计算机能够理解、解释和处理图像或视频数据。计算机视觉的目标是使计算机具备类似于人类视觉系统的能力，包括对物体、场景、运动等进行感知和理解。
 
-**【课程】UMich EECS 498-007: Deep Learning for Computer Vision** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1zg411a7Wi) [【油管】](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) [【课程主页】](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
+**【课程】UMich EECS 498-007: Deep Learning for Computer Vision** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1zg411a7Wi) [#油管](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) [#课程主页](https://web.eecs.umich.edu/~justincj/teaching/eecs498/WI2022/)
   - 推荐教材：[在线阅读](https://www.deeplearningbook.org/)
 
-**【课程】Stanford CS231N: 计算机视觉** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1nJ411z7fe/)
+**【课程】Stanford CS231N: 计算机视觉** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1nJ411z7fe/)
 
-**【书籍】Computer Vision: Models, Learning, and Inference** [【豆瓣】](https://book.douban.com/subject/27088947/)
+**【书籍】Computer Vision: Models, Learning, and Inference** [#豆瓣](https://book.douban.com/subject/27088947/)
   - 精彩讲述了机器学习在计算机视觉方面的应用。这一现代化的计算机视觉处理方法以学习和推断概率模型为统一主题。它展示了如何利用训练数据学习观察到的图像数据与我们希望估计的世界各个方面之间的关系，比如3D结构或对象类别，并如何利用这些关系从新的图像数据中进行新的推断，以获取有关世界的信息。本书从概率和模型拟合的基础知识开始，逐步深入到读者可以实施和修改以构建有用的视觉系统的真实示例。主要面向高年级本科生和研究生，详细的方法论介绍对于计算机视觉的从业者也将是有用的。涵盖最新技术，包括图割、机器学习和多视角几何统一方法展示了解决重要计算机视觉问题的共同基础，如相机校准、人脸识别和目标跟踪。
 
-**【书籍】Computer Vision: Algorithms and Applications** [【豆瓣】](https://book.douban.com/subject/10465997/)
+**【书籍】Computer Vision: Algorithms and Applications** [#豆瓣](https://book.douban.com/subject/10465997/)
   - 计算机视觉的综述书籍，内容全面，探索了用于分析和解释图像的各种常用技术，描述了具有一定挑战性的视觉应用方面的成功实例，兼顾专业的医学成像和图像编辑与交织之类有趣的大众应用，以便学生能够将其应用于自己的照片和视频，从中获得成就感和乐趣。本书从科学的角度介绍基本的视觉问题，将成像过程的物理模型公式化，然后在此基础上生成对场景的逼真描述。作者还运用统计模型来分析和运用严格的工程方法来解决这些问题。
   - 中文版的翻译较好，彩色插图和参考文献在“配套书籍”中。
 
@@ -770,34 +867,34 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
 
 “专家系统”是人工智能领域的一个重要分支，专门研究如何构建能够模拟和复制人类专家知识与决策能力的计算机系统。
 
-**【书籍】专家系统：原理和编程 Expert Systems: Principles and Programming** [【豆瓣】](https://book.douban.com/subject/1879505/)
+**【书籍】专家系统：原理和编程 Expert Systems: Principles and Programming** [#豆瓣](https://book.douban.com/subject/1879505/)
   - 本书是人工智能领域里的著名教科书和参考书，详细介绍专家系统的基本原理与编程技术，包括专家系统的理论知识和基于规则的应用。反映了快速发展的专家系统领域的最新趋势。共分两部分，第一部分介绍专家系统的基本理论，并对人工智能及其与专家系统的关系做了总体论述；第二部分集中介绍应用技术，包括CLIPS专家系统工具和新的面向对象语言COOL。读者将学习如何应用COOL语言通过定义规则和对象，开发一个完整的专家系统。
 
 ### 知识表示 Knowledge Representation
 
 “知识表示”是人工智能领域的一个重要概念，涉及将现实世界中的信息以某种形式表示出来，以便计算机能够理解、存储和处理这些信息。知识表示旨在捕捉关于世界的知识，使计算机能够使用这些知识进行推理、问题解决和决策。
 
-**【课程】MIT 6.871: Knowledge-Based Applications Systems** [【课程主页】](https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/)
+**【课程】MIT 6.871: Knowledge-Based Applications Systems** [#课程主页](https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/)
   - 该课程涵盖了开发包含大量关于应用领域知识的程序。课程包括对相关人工智能技术的简要回顾；从多个应用领域选择的案例研究，旨在说明系统开发原则；讨论在构建系统过程中遇到的技术问题，包括知识表示、知识获取等；以及对当前和未来研究的讨论。该课程还提供了在构建专家系统方面的实际经验
 
-**【书籍】Handbook of Knowledge Representation: Foundations of Artificial Intelligence** [【豆瓣】](https://book.douban.com/subject/3138327/)
+**【书籍】Handbook of Knowledge Representation: Foundations of Artificial Intelligence** [#豆瓣](https://book.douban.com/subject/3138327/)
   - 关于知识表示的大部头工具书。
 
 ### 机器人学 Robotics
 
 “机器人学”是涵盖了多个学科领域的综合学科，主要研究设计、制造、操作和使用机器人的原理、技术和应用。
 
-**【书籍】Modern Robotics: Machanics, Planning, and Control** [【豆瓣】](https://book.douban.com/subject/30460833/)
+**【书籍】Modern Robotics: Machanics, Planning, and Control** [#豆瓣](https://book.douban.com/subject/30460833/)
   - 这本关于机器人学的介绍提供了机器人力学、规划和控制的独特而统一的视角。非常适合自学或课程使用，因为它只需基础的大一物理学、常微分方程、线性代数和少量计算背景。
   - 本书采用了最先进的、基于螺旋理论的技术，以一种直观的几何方式捕捉机器人最显著的物理特征。每章末尾都有大量练习题，配套软件编写以加强书中的概念，还有旨在改变课堂体验的视频讲座，这是学习这一引人入胜主题的首选教材。
 
-**【课程】UC Berkeley EE106a: Introduction to Robotics** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1TK411J7FK/) [【课程主页】](https://ucb-ee106.github.io/ee106a-fa19/calendar/)
+**【课程】UC Berkeley EE106a: Introduction to Robotics** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1TK411J7FK/) [#课程主页](https://ucb-ee106.github.io/ee106a-fa19/calendar/)
 
-**【课程】Uc Berkeley EECS106B/206B: Robotic Manipulation and Interaction** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1M64y1s7a5) [【课程主页】](https://ucb-ee106.github.io/106b-sp21site/calendar/)
+**【课程】Uc Berkeley EECS106B/206B: Robotic Manipulation and Interaction** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1M64y1s7a5) [#课程主页](https://ucb-ee106.github.io/106b-sp21site/calendar/)
 
-**【课程】UC Berkeley CS287: Advanced Robotics** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1Lo4y187aN/) [【油管】](https://www.youtube.com/watch?v=xWPViQ6LI-Q) [【课程主页】](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
+**【课程】UC Berkeley CS287: Advanced Robotics** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1Lo4y187aN/) [#油管](https://www.youtube.com/watch?v=xWPViQ6LI-Q) [#课程主页](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
-**【课程】UIUC CS498IR: AI for Robot Manipulation** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1P54y1j7YS) [【油管】](https://www.youtube.com/playlist?list=PLWpZvdWm4qZzP5Edm1n0yGWqOcA22ak0a) [【课程主页】](https://cs498ir2021.web.illinois.edu/schedule/)
+**【课程】UIUC CS498IR: AI for Robot Manipulation** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1P54y1j7YS) [#油管](https://www.youtube.com/playlist?list=PLWpZvdWm4qZzP5Edm1n0yGWqOcA22ak0a) [#课程主页](https://cs498ir2021.web.illinois.edu/schedule/)
 
 ## 软件工程相关
 
@@ -817,139 +914,141 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
   - 配置管理（Configuration Management）：确保软件系统的各个版本和组件能够被追踪、控制和管理，以确保系统的稳定性。
   - 软件工程伦理与法律（Software Engineering Ethics and Legal Issues）：探讨在软件开发和使用中涉及的道德和法律问题。
 
-**【课程】UC Berkeley CS169: Software Engineering** [Bilibili]https://www.bilibili.com/video/BV1VJ41197Nq/ [【配套教材】](https://github.com/PKUFlyingPig/CS169-Software-Engineering/blob/master/saasbook.pdf)
+**【课程】UC Berkeley CS169: Software Engineering** [Bilibili]https://www.bilibili.com/video/BV1VJ41197Nq/ [#配套教材](https://github.com/PKUFlyingPig/CS169-Software-Engineering/blob/master/saasbook.pdf)
   - 这门课采用近些年流行起来的小团队快速迭代（Agile Develepment）开发模式以及利用云平台的 SAAS 服务模式。
 
 ### 网站开发 Web Development
 
 “网站开发”课程通常涵盖设计、创建和维护网站的相关主题。这样的课程旨在为学生提供构建现代网站所需的技能，包括前端（用户界面和用户体验）和后端（服务器端）开发。
 
-**【课程】Stanford CS142: Web Applications** [【课程主页】](https://web.stanford.edu/class/cs142/index.html) [课程视频](https://web.stanford.edu/class/cs142/lectures.html)
+**【课程】Stanford CS142: Web Applications** [#课程主页](https://web.stanford.edu/class/cs142/index.html) [课程视频](https://web.stanford.edu/class/cs142/lectures.html)
+
+**【资源】前段技能树**[#Github](https://github.com/JacksonTian/fks)
 
 ### 计算机安全与密码学 Computer Security and Cryptography
 
 计算机安全课程通常涵盖以下主题：
-  - 网络安全： 研究网络安全的原理，包括防火墙、入侵检测系统、虚拟专用网络（VPN）等技术，以及网络协议的安全性。
-  - 密码学： 介绍加密算法、数字签名、密钥管理等密码学基础知识，以及如何应用密码学保护信息的安全性。
-  - 身份验证与访问控制： 学习用户身份验证的方法，包括单因素和多因素身份验证，以及访问控制的原理和实践。
-  - 软件安全： 研究应用程序和系统的安全性，包括漏洞分析、代码审计、安全开发最佳实践等。
-  - 物理安全： 考虑到计算机系统的物理层面，学习设备保护、机房安全等内容。
-  - 安全策略与管理： 研究建立和执行安全策略的方法，包括风险管理、合规性要求、安全培训等。
-  - 恶意软件分析： 学习分析和应对各种恶意软件，包括病毒、蠕虫、木马等。
-  - 社会工程学： 探讨社会工程学攻击的原理，以及如何通过教育和培训减少社会工程学威胁。
+  - 网络安全：研究网络安全的原理，包括防火墙、入侵检测系统、虚拟专用网络（VPN）等技术，以及网络协议的安全性。
+  - 密码学：介绍加密算法、数字签名、密钥管理等密码学基础知识，以及如何应用密码学保护信息的安全性。
+  - 身份验证与访问控制：学习用户身份验证的方法，包括单因素和多因素身份验证，以及访问控制的原理和实践。
+  - 软件安全：研究应用程序和系统的安全性，包括漏洞分析、代码审计、安全开发最佳实践等。
+  - 物理安全：考虑到计算机系统的物理层面，学习设备保护、机房安全等内容。
+  - 安全策略与管理：研究建立和执行安全策略的方法，包括风险管理、合规性要求、安全培训等。
+  - 恶意软件分析：学习分析和应对各种恶意软件，包括病毒、蠕虫、木马等。
+  - 社会工程学：探讨社会工程学攻击的原理，以及如何通过教育和培训减少社会工程学威胁。
 
-**【课程】UC Berkeley CS161: Computer Security** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1ZS4y1p7Eo/?spm_id_from=333.337.search-card.all.click) [【课程主页】](https://su20.cs161.org/) [【配套教材】](https://textbook.cs161.org/)
+**【课程】UC Berkeley CS161: Computer Security** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1ZS4y1p7Eo/?spm_id_from=333.337.search-card.all.click) [#课程主页](https://su20.cs161.org/) [#配套教材](https://textbook.cs161.org/)
 
-**【课程】Stanford: Cryptography I** [【Coursera】](https://www.coursera.org/learn/crypto?)
+**【课程】Stanford: Cryptography I** [#Coursera](https://www.coursera.org/learn/crypto?)
 
-**【书籍】应用密码学 : 协议、算法与C源程序 Applied Cryptography, Protocols, Algorithms, and Source Code in C** [【豆瓣】](https://book.douban.com/subject/1088180/)
+**【书籍】应用密码学 : 协议、算法与C源程序 Applied Cryptography, Protocols, Algorithms, and Source Code in C** [#豆瓣](https://book.douban.com/subject/1088180/)
   - 这本密码学经典的新版为您提供了对现代密码学的全面调查。该书详细介绍了程序员和电子通信专业人员如何利用密码学——即对消息进行加密和解密的技术——以维护计算机数据的隐私。它描述了数十种密码算法，提供了如何将它们实现到密码软件中的实用建议，并展示了它们如何用于解决安全问题。涵盖了实用密码技术的最新发展，这个新版本向设计计算机应用程序、网络和存储系统的程序员展示了如何将安全性融入其软件和系统中。
 
-**【书籍】信息安全工程 Security Engineering A Guide to Building Dependable Distributed Systems** [【豆瓣】](https://book.douban.com/subject/7517408/)
+**【书籍】信息安全工程 Security Engineering A Guide to Building Dependable Distributed Systems** [#豆瓣](https://book.douban.com/subject/7517408/)
   - 本书表述准确、讲解清晰，是安全工程领域的鸿篇巨著，涵盖的内容包括工程技术基础、攻击类型、专用保护机制、安全经济学和安全心理学等，适合所有对安全工程感兴趣的读者使用，指导您构建能够轻松抵御恶意攻击的可靠系统。
 
 ### 信号与系统 Signal and Systems
 
 信号与系统是一门电子工程、通信工程、控制工程等相关专业中的基础课程。这门课程主要关注信号的生成、传输、处理和分析，以及系统对信号的响应。
 
-**【课程】MIT 6.003: Signals And Systems** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1A7411i7Ku/) [哔哩哔哩-奥本海默亲讲](https://www.bilibili.com/video/BV1CZ4y1j7hs/) [【课程主页】](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/resources/lecture-1-signals-and-systems/) 
+**【课程】MIT 6.003: Signals And Systems** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1A7411i7Ku/) [哔哩哔哩-奥本海默亲讲](https://www.bilibili.com/video/BV1CZ4y1j7hs/) [#课程主页](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/resources/lecture-1-signals-and-systems/) 
 
 ### 凸优化 Convex Optimization
 
 凸优化是数学和计算机科学中一个重要的领域，主要研究凸函数的最优化问题。凸函数是一类具有良好性质的数学函数，其图形上的任意两点之间的线段位于或者在函数的下方。凸函数在许多领域中都具有重要的应用，因此对凸优化的研究也变得非常重要。
 
-**【课程】Stanford EE364A: Convex Optimization** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1aD4y1Q7aW/) [【课程主页】](http://stanford.edu/class/ee364a/index.html) [配套教材](https://stanford.edu/~boyd/cvxbook/)
+**【课程】Stanford EE364A: Convex Optimization** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1aD4y1Q7aW/) [#课程主页](http://stanford.edu/class/ee364a/index.html) [配套教材](https://stanford.edu/~boyd/cvxbook/)
 
 ### 离散优化 Discrete Optimization
 
 离散优化是指在离散的领域中寻找最优解的问题。这些问题通常涉及到在有限的选择中作出最佳决策的情境。离散优化领域包括许多不同类型的问题，其中一些常见的包括：
-  - 组合优化： 这涉及到在离散的对象集合中寻找最优的组合。例如，旅行商问题（TSP）要求在给定一组城市之间找到最短路径，覆盖所有城市。
-  - 图论问题： 诸如最短路径、最小生成树、最大流等问题都属于离散优化的范畴。这些问题通常涉及在图结构中找到最优的路径或连接。
-  - 整数规划： 在这类问题中，决策变量被限制为整数值。例如，0-1背包问题就是一个整数规划问题，其中物品的选择是二进制的（选或不选）。
-  - 布尔满足问题（SAT）： 这是一个决策问题，涉及判断给定布尔公式是否有解。SAT问题在计算机科学中具有重要的地位，因为许多其他问题可以转化为SAT问题。
-  - 排课问题： 这类问题涉及到合理安排资源，如时间、教室等，以满足特定的条件和约束。
-  - 集合覆盖问题： 在给定一些集合和它们的代价或权重的情况下，找到一组集合，使得它们的并集包含所有元素，并且总代价最小。
+  - 组合优化：这涉及到在离散的对象集合中寻找最优的组合。例如，旅行商问题（TSP）要求在给定一组城市之间找到最短路径，覆盖所有城市。
+  - 图论问题：诸如最短路径、最小生成树、最大流等问题都属于离散优化的范畴。这些问题通常涉及在图结构中找到最优的路径或连接。
+  - 整数规划：在这类问题中，决策变量被限制为整数值。例如，0-1背包问题就是一个整数规划问题，其中物品的选择是二进制的（选或不选）。
+  - 布尔满足问题（SAT）：这是一个决策问题，涉及判断给定布尔公式是否有解。SAT问题在计算机科学中具有重要的地位，因为许多其他问题可以转化为SAT问题。
+  - 排课问题：这类问题涉及到合理安排资源，如时间、教室等，以满足特定的条件和约束。
+  - 集合覆盖问题：在给定一些集合和它们的代价或权重的情况下，找到一组集合，使得它们的并集包含所有元素，并且总代价最小。
 
-**【课程】MELB: Discrete Optimization** [【Coursera】](https://www.coursera.org/learn/discrete-optimization)
+**【课程】MELB: Discrete Optimization** [#Coursera](https://www.coursera.org/learn/discrete-optimization)
 
 ### 软件测试 Software Test
 
 “软件测试”是一门涉及计算机科学和软件工程领域的课程，旨在教授学生如何有效地进行软件测试和质量保障。以下是这门课程可能涉及的主题：
-  - 软件测试基础： 介绍软件测试的基本概念、原则和目的。学生将了解为什么软件测试对确保软件质量至关重要。
-  - 测试计划和策略： 学习如何制定全面的测试计划和策略，包括测试的范围、目标、资源分配和时间表。
-  - 测试设计技术： 探讨测试用例的设计技术，包括黑盒测试、白盒测试、灰盒测试等。学生将学会如何有效地覆盖不同方面的软件功能。
-  - 自动化测试： 研究如何使用自动化工具和脚本来执行测试，提高测试效率和可重复性。
-  - 性能测试： 学习如何评估软件系统的性能，包括响应时间、吞吐量和负载容量等。
-  - 安全性测试： 探讨如何测试软件系统的安全性，识别潜在的漏洞和弱点。
-  - 移动应用测试： 针对移动应用程序的测试技术，包括在不同设备和平台上的测试。
-  - 持续集成和持续测试： 学习如何将测试集成到持续集成和持续交付流程中，以确保每次代码更改都经过全面测试。
-  - 缺陷跟踪和管理： 学习如何跟踪和管理在测试过程中发现的缺陷，并有效地与开发团队合作解决问题。
-  - 质量度量和报告： 探讨如何测量软件质量、生成测试报告，以提供给项目团队和利益相关者。
+  - 软件测试基础：介绍软件测试的基本概念、原则和目的。学生将了解为什么软件测试对确保软件质量至关重要。
+  - 测试计划和策略：学习如何制定全面的测试计划和策略，包括测试的范围、目标、资源分配和时间表。
+  - 测试设计技术：探讨测试用例的设计技术，包括黑盒测试、白盒测试、灰盒测试等。学生将学会如何有效地覆盖不同方面的软件功能。
+  - 自动化测试：研究如何使用自动化工具和脚本来执行测试，提高测试效率和可重复性。
+  - 性能测试：学习如何评估软件系统的性能，包括响应时间、吞吐量和负载容量等。
+  - 安全性测试：探讨如何测试软件系统的安全性，识别潜在的漏洞和弱点。
+  - 移动应用测试：针对移动应用程序的测试技术，包括在不同设备和平台上的测试。
+  - 持续集成和持续测试：学习如何将测试集成到持续集成和持续交付流程中，以确保每次代码更改都经过全面测试。
+  - 缺陷跟踪和管理：学习如何跟踪和管理在测试过程中发现的缺陷，并有效地与开发团队合作解决问题。
+  - 质量度量和报告：探讨如何测量软件质量、生成测试报告，以提供给项目团队和利益相关者。
 
-**【书籍】Lessons Learned in Software Testing: A Context-Driven Approach** [【豆瓣】](https://book.douban.com/subject/1984295/)
+**【书籍】Lessons Learned in Software Testing: A Context-Driven Approach** [#豆瓣](https://book.douban.com/subject/1984295/)
   - 这本书不仅提供了提示、技巧和要避免的常见陷阱，还能帮助您在软件开发项目的关键测试阶段迅速前进，而不需要进行大量的试错。作为每个级别的软件测试人员和开发人员的终极资源，这本指南包括：从超过30年的测试经验中获得的200多个教训；通过阅读书籍而不是费时费力地摸索，避免技巧、诀窍和常见陷阱；针对所有关键主题领域的教训，包括测试设计、测试管理、测试策略和缺陷报告等。
 
-**【书籍】Google软件测试之道 How Google Tests Software** [【豆瓣】](https://book.douban.com/subject/25742200/)
+**【书籍】Google软件测试之道 How Google Tests Software** [#豆瓣](https://book.douban.com/subject/25742200/)
   - 描述了测试解决方案，揭示了测试架构是如何设计、实现和运行的，介绍了软件测试工程师的角色；讲解了技术测试人员应该具有的技术技能；阐述了测试工程师在产品生命周期中的职责；讲述了测试管理及在google的测试历史或在主要产品上发挥了重要作用的工程师的访谈，这对那些试图建立类似google的测试流程或团队的人受益很大。
 
 ### 用户界面设计 User Interface Design
 
 “用户界面设计”是一门涉及计算机科学、人机交互和用户体验设计的课程，旨在教授学生如何创建用户友好、直观且有效的软件界面。
 
-**【书籍】Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules** [【豆瓣】](https://book.douban.com/subject/6792322/)
+**【书籍】Designing with the Mind in Mind: Simple Guide to Understanding User Interface Design Rules** [#豆瓣](https://book.douban.com/subject/6792322/)
   - 本书语言清晰明了，将设计准则与其核心的认知学和感知科学高度统一起来，使得设计准则更容易地在具体环境中得到应用。涵盖了交互计算机系统设计的方方面面，为交互系统设计提供了支持工程方法。不仅如此，这也是一本人类行为原理的入门书。
 
-**【书籍】设计心理学 The Design of Everyday Things** [【豆瓣】](https://book.douban.com/subject/1288844/)
+**【书籍】设计心理学 The Design of Everyday Things** [#豆瓣](https://book.douban.com/subject/1288844/)
   - 任何设计用于人类使用的东西的人，无论是从物理对象到计算机程序到概念工具，都必须阅读这本书。对于任何必须使用其他人创建的东西的人来说，这本书同样是一次巨大的阅读体验。它可能会永远改变您体验和与物理环境互动的方式，让您认识到糟糕设计的可悲之处以及良好设计的可取之处，并提高您对事物应该如何设计的期望。
 
 ### 计算机图形学 Computer Graphics
 
-**【课程】Stanford CS148: Introduction to Computer Graphics and Imaging** [【课程主页】](https://web.stanford.edu/class/cs148/index.html)
+**【课程】Stanford CS148: Introduction to Computer Graphics and Imaging** [#课程主页](https://web.stanford.edu/class/cs148/index.html)
   - 斯坦福大学计算机图形学系列课程中的入门先修课程，介绍学生创造合成计算机生成图像背后的技术概念。课程的开头侧重于使用Blender创建视觉图像，以及对底层数学概念的理解，包括三角形、法线、插值、纹理映射、凹凸映射等。然后，我们深入了解光和颜色，以及它对计算机显示器和打印机的影响。从这里，我们更详细地讨论光与环境的相互作用，并构建工程模型，如BRDF，并讨论各种简化为更基本的光照和着色模型。最后，我们讨论用于创建虚拟图像的光线追踪技术，同时将光线追踪器与现实世界的摄像机进行类比，以阐明各种概念。还讨论了抗锯齿和加速结构。最终的课程项目包括构建光线追踪器以创建视觉上引人注目的图像。主题包括：扫描线渲染；三角形；光栅化；变换；着色；三角网格；细分；Marching Cubes；纹理；光照；颜色；摄像机；显示器；色调映射；BRDF；光照方程；全局照明；辐射度；光线追踪；加速结构；采样；抗锯齿；反射；透射；景深；运动模糊；蒙特卡罗；双向光线追踪；光照图。
 
-**【书籍】Fundamentals of Computer Graphics** [【豆瓣】](https://book.douban.com/subject/26868819/)
+**【书籍】Fundamentals of Computer Graphics** [#豆瓣](https://book.douban.com/subject/26868819/)
 
 以下是“计算机图形学与混合现实在线平台（games-cn.org）”提供的一系列关于计算机图形学和虚拟现实的课程。
 
-**【课程】GAMES101: 现代计算机图形学入门 Overview of Computer Graphics** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1X7411F744/) [【课程主页】](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+**【课程】GAMES101: 现代计算机图形学入门 Overview of Computer Graphics** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1X7411F744/) [#课程主页](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
 
-**【课程】GAMES102：几何建模与处理基础** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1NA411E7Yr/) [【课程主页】](http://staff.ustc.edu.cn/~lgliu/Courses/GAMES102_2020/default.html)
+**【课程】GAMES102：几何建模与处理基础** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1NA411E7Yr/) [#课程主页](http://staff.ustc.edu.cn/~lgliu/Courses/GAMES102_2020/default.html)
 
-**【课程】GAMES103：基于物理的计算机动画入门** [哔哩哔哩-中文](https://www.bilibili.com/video/BV12Q4y1S73g/) [【课程主页】](https://games-cn.org/games103/)
+**【课程】GAMES103：基于物理的计算机动画入门** [哔哩哔哩-中文](https://www.bilibili.com/video/BV12Q4y1S73g/) [#课程主页](https://games-cn.org/games103/)
 
-**【课程】GAMES106：现代图形学绘制流水线原理与实践** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1Uo4y1J7ie/) [【课程主页】](https://zju-rendering.github.io/games106/)
+**【课程】GAMES106：现代图形学绘制流水线原理与实践** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1Uo4y1J7ie/) [#课程主页](https://zju-rendering.github.io/games106/)
 
-**【课程】GAMES201：高级物理引擎实战指南** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1ZK411H7Hc/) [【课程主页】](https://games-cn.org/games201/)
+**【课程】GAMES201：高级物理引擎实战指南** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1ZK411H7Hc/) [#课程主页](https://games-cn.org/games201/)
 
-**【课程】GAMES202：高质量实时渲染** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1YK4y1T7yY/) [【课程主页】](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html)
+**【课程】GAMES202：高质量实时渲染** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1YK4y1T7yY/) [#课程主页](https://sites.cs.ucsb.edu/~lingqi/teaching/games202.html)
 
-**【课程】GAMES203：三维重建和理解** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1pw411d7aS/) [【课程主页】](https://www.cs.utexas.edu/~huangqx/Games_3D_Recons_Understanding.html)
+**【课程】GAMES203：三维重建和理解** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1pw411d7aS/) [#课程主页](https://www.cs.utexas.edu/~huangqx/Games_3D_Recons_Understanding.html)
 
-**【课程】GAMES204：计算成像** [哔哩哔哩-中文](https://www.bilibili.com/video/BV11N4y1g7Z8/) [【课程主页】](https://www.pointspread.cn/games204)
+**【课程】GAMES204：计算成像** [哔哩哔哩-中文](https://www.bilibili.com/video/BV11N4y1g7Z8/) [#课程主页](https://www.pointspread.cn/games204)
 
-**【课程】GAMES301：曲面参数化** [哔哩哔哩-中文](https://www.bilibili.com/video/BV18T411P7hT/) [【课程主页】](http://staff.ustc.edu.cn/~renjiec/GAMES301/)
+**【课程】GAMES301：曲面参数化** [哔哩哔哩-中文](https://www.bilibili.com/video/BV18T411P7hT/) [#课程主页](http://staff.ustc.edu.cn/~renjiec/GAMES301/)
 
-**【课程】GAMES302：等几何分析** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1dM4y117PS/) [【课程主页】](https://games-cn.org/games302/)
+**【课程】GAMES302：等几何分析** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1dM4y117PS/) [#课程主页](https://games-cn.org/games302/)
 
 ### 游戏开发 Game Development
 
 “游戏开发”是一门涉及设计、编程和艺术等多个领域的课程，专注于培养学生创建电子游戏的技能。这门课程通常包括以下主题：
-  - 游戏设计原理： 介绍游戏设计的基本原理，包括游戏玩法、关卡设计、游戏物理学等。
-  - 编程和开发工具： 学习使用游戏开发引擎（如Unity、Unreal Engine等）和编程语言（如C#、C++）创建游戏。
-  - 图形和动画： 探讨游戏图形学和动画的基础知识，包括渲染、光照、粒子效果等。
-  - 音频设计： 学习如何集成音频元素，包括音效和音乐，以增强游戏体验。
-  - 用户界面设计： 设计和实现游戏中的用户界面，以便玩家与游戏进行交互。
-  - 虚拟现实（VR）和增强现实（AR）： 探讨在游戏中应用虚拟和增强现实技术。
-  - 游戏物理学： 学习如何模拟游戏中的物理现象，如重力、碰撞和运动。
-  - 网络和多人游戏： 研究创建支持多人在线游戏的技术和网络架构。
-  - 游戏测试和质量保证： 学习如何测试游戏，确保其稳定性和用户体验。
-  - 商业和营销： 了解游戏产业的商业模型、推广和销售策略。
+  - 游戏设计原理：介绍游戏设计的基本原理，包括游戏玩法、关卡设计、游戏物理学等。
+  - 编程和开发工具：学习使用游戏开发引擎（如Unity、Unreal Engine等）和编程语言（如C#、C++）创建游戏。
+  - 图形和动画：探讨游戏图形学和动画的基础知识，包括渲染、光照、粒子效果等。
+  - 音频设计：学习如何集成音频元素，包括音效和音乐，以增强游戏体验。
+  - 用户界面设计：设计和实现游戏中的用户界面，以便玩家与游戏进行交互。
+  - 虚拟现实（VR）和增强现实（AR）：探讨在游戏中应用虚拟和增强现实技术。
+  - 游戏物理学：学习如何模拟游戏中的物理现象，如重力、碰撞和运动。
+  - 网络和多人游戏：研究创建支持多人在线游戏的技术和网络架构。
+  - 游戏测试和质量保证：学习如何测试游戏，确保其稳定性和用户体验。
+  - 商业和营销：了解游戏产业的商业模型、推广和销售策略。
 
 以下是“计算机图形学与混合现实在线平台（games-cn.org）”提供的一系列关于计算机图形学和虚拟现实的课程。
 
-**【课程】GAMES104：现代游戏引擎:从入门到实践** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1oU4y1R7Km/) [【课程主页】](https://games104.boomingtech.com/sc/)
+**【课程】GAMES104：现代游戏引擎:从入门到实践** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1oU4y1R7Km/) [#课程主页](https://games104.boomingtech.com/sc/)
 
-**【课程】GAMES105：计算机角色动画基础** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1GG4y1p7fF/) [【课程主页】](https://games-cn.org/games105/)
+**【课程】GAMES105：计算机角色动画基础** [哔哩哔哩-中文](https://www.bilibili.com/video/BV1GG4y1p7fF/) [#课程主页](https://games-cn.org/games105/)
 
 ### 计算机运维 Computer Operations
 
@@ -965,10 +1064,10 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
   - 文档和记录：记录系统配置、更改历史和故障排除过程，以便未来的参考和培训。
   - 自动化：实施自动化工具和脚本，以简化重复性任务，提高效率，并降低错误的发生几率。
 
-**【文档】DevOps-Guide**[【Github】]https://github.com/Tikam02/DevOps-Guide
+**【文档】DevOps-Guide**[#Github]https://github.com/Tikam02/DevOps-Guide
   - DevOps（开发运维）是一种将文化哲学、实践方法和工具相结合的方法，旨在提高组织交付应用程序和服务的能力，实现高速度的演进和改进产品，远远超过使用传统软件开发和基础架构管理流程的组织。这种高速度使得组织能够更好地为客户提供服务，更有效地在市场上竞争。
 
-**【课程】Stevens CS615asa: Aspects of System Administration** [【Youtube】](https://www.youtube.com/c/cs615asa) [【课程主页】](https://stevens.netmeister.org/615/)
+**【课程】Stevens CS615asa: Aspects of System Administration** [#Youtube](https://www.youtube.com/c/cs615asa) [#课程主页](https://stevens.netmeister.org/615/)
 
 ## 理论计算机科学 Theoretical Computer Science
 
@@ -977,61 +1076,61 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
 理论计算机科学通常被认为分为A和B两部分（参考ICALP的CFP），A主要是计算相关的理论，包括自动机、算法复杂度等；B主要是软件相关的理论，包括数理逻辑、形式语义、类型系统等。
 
 **★【课程】MIT 6.080: Great Ideas In Theoretical Computer Science**
- [【课程主页】](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/)
+ [#课程主页](https://ocw.mit.edu/courses/6-080-great-ideas-in-theoretical-computer-science-spring-2008/)
    - 该课程提供了对理论计算机科学一些核心思想的挑战性介绍。它试图呈现一种“超越计算机的计算机科学”视野：即CS作为理解宇宙和思维等复杂系统的数学工具集。从古代开始，通过欧几里得算法和其他古代的计算思维示例，课程将迅速进展到命题逻辑、图灵机和可计算性、有限自动机、哥德尔定理、高效算法和可归约性、NP完备性、P与NP问题、决策树和其他具体计算模型、随机性的威力、密码学和单向函数、计算理论学习、互动证明以及量子计算和计算的物理极限。
 
 **【课程】MIT 6.045/18.400: Automata, Computability and Complexity**
-[【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV18o4y1R748) [【油管】](https://www.yuque.com/ob26eq/s?q=MIT%3A%206.045%EF%BC%8F18.400) [【课程主页】](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
+[#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV18o4y1R748) [#油管](https://www.yuque.com/ob26eq/s?q=MIT%3A%206.045%EF%BC%8F18.400) [#课程主页](https://ocw.mit.edu/courses/6-045j-automata-computability-and-complexity-spring-2011/)
   - 该课程提供了对理论计算机科学一些核心思想的挑战性介绍。从古代开始，课程将通过有限自动机、电路和决策树、图灵机和可计算性、高效算法和可归约性、P 与 NP 问题、NP 完备性、随机性的力量、密码学和单向函数、计算学习理论以及量子计算等主题逐步发展。它研究了各种类型的计算机可以解决和无法解决的问题。它试图解释影响它们性能的计算模型之间的关键差异。
 
 ### 信息论 Information theory
 
 “信息论”是一门研究信息传输、存储和处理的数学理论。它最初由克劳德·香农（Claude Shannon）于 20 世纪 40 年代提出，并成为通信工程和计算机科学等领域的基础理论之一。信息论主要关注信息的量化、传输、压缩和保护等问题。
 
-**【课程】MIT 6.050J: Information theory and Entropy** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1c741177oH/) [配套教材](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/resources/mit6_050js08_textbook/)
+**【课程】MIT 6.050J: Information theory and Entropy** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1c741177oH/) [配套教材](https://ocw.mit.edu/courses/6-050j-information-and-entropy-spring-2008/resources/mit6_050js08_textbook/)
 
-**【课程】Cambridge: The Information Theory, Pattern Recognition, and Neural Network** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1rs411T71e) [【课程主页】](http://www.inference.org.uk/mackay/itila/)
-  - 配套教材为：Information Theory, Inference, and Learning Algorithms [【豆瓣】](https://book.douban.com/subject/1789534/)
+**【课程】Cambridge: The Information Theory, Pattern Recognition, and Neural Network** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1rs411T71e) [#课程主页](http://www.inference.org.uk/mackay/itila/)
+  - 配套教材为：Information Theory, Inference, and Learning Algorithms [#豆瓣](https://book.douban.com/subject/1789534/)
 
 ### 形式语言 Formal Languages
 
 “形式语言”是一种用于描述、表示和分析符号串集合的数学和计算机科学中的抽象概念。这些语言通常用于描述字符串的结构、语法和语义，以及在计算理论、编译原理、自动机理论等领域中进行形式化描述。
 
-**【书籍】形式语言与自动机导论 An Introduction to Formal Languages and Automata** [【豆瓣】](https://book.douban.com/subject/1435126/)
+**【书籍】形式语言与自动机导论 An Introduction to Formal Languages and Automata** [#豆瓣](https://book.douban.com/subject/1435126/)
   - 本书是理论计算机科学方面的优秀教材，主要介绍形式语言、自动机、可计算性和相关内容。本书特别注意定义、定理的准确性和严格性，在定理的证明中给出了直观的动机和框架，避免多余的数学细节，这有利于培养学生形式化和严格的数学推理能力，加强对问题的理解；本书通过精心设计的大量示例，生动剖析了各种定理和定义，概念清晰，深入浅出。每章后面还给出了难度不同的习题，并给出部分习题的解答，可使学生加深对基本原理的理解并增强应用能力。　　本书主要介绍形式语言、自动机、可计算性和相关内容。主要内容包括：计算理论导引、有穷自动机、正则语言与正则文法、上下文无关语言及文法、下推自动机、图灵机、形式语言和自动机的层次结构、计算复杂性等。
 
 ### 自动机理论 Automata Theory
 
 “自动机理论”是计算机科学中研究抽象计算设备和计算问题的理论分支之一。该理论涉及形式化描述和分析计算过程。自动机是一种数学模型，用于描述抽象的计算设备。它包括有限状态自动机（Finite Automaton）、推动自动机（Pushdown Automaton）、图灵机等。这些自动机模型有助于理解和分析计算问题的可解性。
 
-**【书籍】Introduction to Automata Theory, Languages, and Computation** [【豆瓣】](https://book.douban.com/subject/2249114/)
+**【书籍】Introduction to Automata Theory, Languages, and Computation** [#豆瓣](https://book.douban.com/subject/2249114/)
   - 关于形式语言、自动机理论和计算复杂性的经典书籍已经更新，以简洁明了的方式呈现理论概念，并增加了实际应用的举例。
 
 ### 编程语言设计 Design of Programming Languages
 
-**【课程】Washington CSE 505: Concepts of Programming Languages** [【课程主页】](https://courses.cs.washington.edu/courses/cse505/05wi/#:~:text=Course%20Description,closest%20link%20to%20fundamental%20principles.)
+**【课程】Washington CSE 505: Concepts of Programming Languages** [#课程主页](https://courses.cs.washington.edu/courses/cse505/05wi/#:~:text=Course%20Description,closest%20link%20to%20fundamental%20principles.)
   - 这门课程将研究程序设计语言设计的主要原则。课程的前半部分将重点关注函数式编程语言，因为这些语言往往与基本原则最为密切相关。我们将以 Standard ML '97 编程语言作为这些设计原则的实际示例，学习该语言并编写一些有趣的程序。我们将通过理论研究不同的 λ 演算及其形式语义来补充这种实际研究。课程的后半部分将研究面向对象的语言，包括学习和编程一种高级实用的面向对象语言（例如 Cecil），并通过 λ 演算扩展来研究面向对象语言的形式语义。
   - 配套教材为 Elements of ML Programming (ML97 edition)，Types and Programming Languages。
 
-**【书籍】Concepts of Programming Languages** [【豆瓣】](https://book.douban.com/subject/10581203/)
+**【书籍】Concepts of Programming Languages** [#豆瓣](https://book.douban.com/subject/10581203/)
   - 介绍了当代编程语言的主要构造，并提供了批判性评估现有和未来编程语言所需的工具。通过作者对各种语言构造的设计问题的呈现，对这些构造在一些最常见的语言中的设计选择的审查，以及对设计替代方案的批判性比较，读者获得了理解编程语言基本概念的坚实基础。此外，Sebesta努力通过深入讨论编程语言结构、提供描述语法的形式方法以及介绍词法和语法分析方法，为读者准备进行编译器设计的学习。
 
-**【书籍】计算机编程的概念，技术和模型 Concepts, Techniques and Models of Computer Programming** [【豆瓣】](https://book.douban.com/subject/1782316/)
+**【书籍】计算机编程的概念，技术和模型 Concepts, Techniques and Models of Computer Programming** [#豆瓣](https://book.douban.com/subject/1782316/)
   - 该书侧重于具有持久价值的技术，并通过一个简单的抽象机器精确地解释它们。该书在一个统一的框架中展示了所有主要的编程范式，显示它们之间的深刻关系以及如何在何处一起使用它们。在介绍编程概念之后，该书呈现了既有名又不太为人知的计算模型（编程范式，paradigm）。每个模型都有其自己的一套技术，并基于其在实践中的有用性而被包含进来。一般模型包括声明式编程、声明式并发、消息传递并发、显式状态、面向对象编程、共享状态并发和关系式编程。专业化模型包括图形用户界面编程、分布式编程和约束编程。每个模型都基于其核心语言——一个由少量程序员重要元素组成的简单核心语言。逐步引入核心语言，逐渐添加概念，从而展示不同模型之间的深刻关系。核心语言在一个简单的抽象机器的术语中被精确定义。由于广泛的语言和编程范式可以由一小组密切相关的核心语言建模，这种方法允许程序员和学生理解编程的基本统一性。该书包含许多程序片段和练习，所有这些都可以在 Mozart 编程系统上运行，这是一个开源软件包，提供交互式增量开发环境。
 
-**【书籍】(FFPL)Foundations for Programming Languages** [【豆瓣】](https://book.douban.com/subject/1761918/)
+**【书籍】(FFPL)Foundations for Programming Languages** [#豆瓣](https://book.douban.com/subject/1761918/)
   - 本书是为高级本科生和初入研究生阶段的学生编写的，采用一系列带类型的 λ 演算来研究顺序编程语言的公理、操作和表示语义。后面的章节致力于逐渐更复杂的类型系统。与该领域的其他文献相比，本书主要因其包含关于通用代数和代数数据类型、命令式语言和弗洛伊德-霍尔逻辑，以及有关多态性和模块、子类型和面向对象概念，以及类型推断的高级章节而脱颖而出。该书以数学为导向，但包括讨论、动机和示例，使材料对专攻软件系统、理论计算机科学或数理逻辑的学生易于理解。《编程语言基础》适用作为专业从事编程语言、软件验证或验证以及编程等领域的专业人士的参考书，包括那些从事软件模块或面向对象编程的人。
 
-**【书籍】Practical Foundations for Programming Languages** [【豆瓣】](https://book.douban.com/subject/26782198/)
+**【书籍】Practical Foundations for Programming Languages** [#豆瓣](https://book.douban.com/subject/26782198/)
   - 该文本基于类型系统和结构操作语义，发展了一套关于编程语言的全面理论。语言概念通过它们的静态和动态语义精确定义，以直观且严格的方式呈现基本工具，仅依赖基础数学。这些工具用于分析和证明语言的属性，并提供了结合和比较语言特性的框架。广泛的概念包括基本数据类型，如和积，多态和抽象类型，动态类型，动态分发，子类型和细化类型，符号和动态分类，并行性和成本语义，以及并发性和分布性。这些方法直接适用于语言实现，用于推理程序的逻辑的开发，并用于形式化验证语言属性，如类型安全。这个彻底修订的第二版在几乎每一章的末尾都包含练习，并新增了一章关于类型细化。
 
-**【书籍】程序设计语言的形式语义 The Formal Semantics of Programming Languages** [【豆瓣】](https://book.douban.com/subject/1144542/)
+**【书籍】程序设计语言的形式语义 The Formal Semantics of Programming Languages** [#豆瓣](https://book.douban.com/subject/1144542/)
   - 本书是以作者在剑桥大学和 Aarhus 大学的讲义为基础编写的，是一本难得的形式语义学方面的经典著作。书中为初学程序设计语言的语义与逻辑的读者提供了必需的数学知识，介绍了支撑程序设计语言形式语义的数学理论、方法和概念，这些知识可以用于创造、形式化和证明规则，从而可以描述和推导各类程序设计语言的各种成分和性质。 本书内容十分丰富，涉及了集合论、指称语义、操作语义、公理语义、归纳原理、完备性、域论、信息系统、不确定性和并行性、不完备性和不可判定性等内容。同时，每章都包含了丰富的难度不等的练习。 
 
-**【书籍】(TOPL)Theories of Programming Languages** [【豆瓣】](https://book.douban.com/subject/4555994/)
+**【书籍】(TOPL)Theories of Programming Languages** [#豆瓣](https://book.douban.com/subject/4555994/)
   - 本书是关于编程语言设计、定义和实现的理论基础以及用于规定和证明程序行为的系统的广泛而严格的教程。既涵盖了命令式编程也涵盖了函数式编程，以及将这些方面整合到更一般的语言中的方法。在编程语言研究的多样性下，作者认识到了技术的统一性，提出了对该主题基本原理的综合处理。他确定了相对较少的概念，如组合语义、绑定结构、域、转换系统和推理规则，它们作为该领域的基础。本文仅假设读者具备基本的编程和数学知识，非常适合高级本科和初入研究生的编程语言理论课程，同时也适用于设计或实现计算机语言的研究人员和专业人士。
 
-**【书籍】Foundations of Programming Languages** [【豆瓣】](https://book.douban.com/subject/26698289/)
+**【书籍】Foundations of Programming Languages** [#豆瓣](https://book.douban.com/subject/26698289/)
   - 本书聚焦于编程的三种范式：命令式、函数式和逻辑式编程，涵盖汇编语言编程、C++、Standard ML 和 Prolog。展示了编程语言概念不仅如何在语言中使用，还展示了这些概念如何实现。
 
 ### 量子计算 Quantum Computing
@@ -1039,24 +1138,24 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
 “量子计算”是一种基于量子力学原理的计算模型，利用量子比特（Qubits）而不是经典比特进行信息存储和处理。量子计算的基本原理源于量子叠加和纠缠等现象，使得量子计算机具有在某些情况下远远超过传统计算机的计算能力的潜力。
 
 以下是量子计算的一些关键概念：
-  - 量子比特（Qubit）： 量子比特是量子计算中的基本单位，与经典比特不同，它可以处于多个状态的叠加态。这使得量子计算机能够处理并行计算，处理大规模问题。
-  - 量子叠加（Superposition）： 量子比特可以同时处于多个状态的叠加态，而非仅能处于 0 或 1 的状态。这使得量子计算机能够在一次计算中处理多个可能性。
-  - 纠缠（Entanglement）： 量子比特之间存在纠缠关系，一个量子比特的状态的改变会立即影响到与其纠缠的其他量子比特。这种纠缠关系在量子计算中起到关键作用。
-  - 量子门（Quantum Gate）： 量子计算通过应用量子门来实现操作，类似于经典计算机中的逻辑门。不同的量子门可以执行不同的量子操作。
-  - 量子算法： 量子计算提供了一些经典计算无法有效解决的问题的算法，例如Shor算法用于因数分解，Grover算法用于搜索。
+  - 量子比特（Qubit）：量子比特是量子计算中的基本单位，与经典比特不同，它可以处于多个状态的叠加态。这使得量子计算机能够处理并行计算，处理大规模问题。
+  - 量子叠加（Superposition）：量子比特可以同时处于多个状态的叠加态，而非仅能处于 0 或 1 的状态。这使得量子计算机能够在一次计算中处理多个可能性。
+  - 纠缠（Entanglement）：量子比特之间存在纠缠关系，一个量子比特的状态的改变会立即影响到与其纠缠的其他量子比特。这种纠缠关系在量子计算中起到关键作用。
+  - 量子门（Quantum Gate）：量子计算通过应用量子门来实现操作，类似于经典计算机中的逻辑门。不同的量子门可以执行不同的量子操作。
+  - 量子算法：量子计算提供了一些经典计算无法有效解决的问题的算法，例如Shor算法用于因数分解，Grover算法用于搜索。
 
-**【课程】CMU 15-859BB: Quantum Computation and Quamtum Information** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1QL411e7se) [【油管】](https://www.youtube.com/watch?v=78tSf2R1huk) [【课程主页】](https://www.cs.cmu.edu/~odonnell/quantum18/)
+**【课程】CMU 15-859BB: Quantum Computation and Quamtum Information** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1QL411e7se) [#油管](https://www.youtube.com/watch?v=78tSf2R1huk) [#课程主页](https://www.cs.cmu.edu/~odonnell/quantum18/)
 
-**【书籍】Quantum Computation and Quantum Information** [【豆瓣】](https://book.douban.com/subject/1443631/)
+**【书籍】Quantum Computation and Quantum Information** [#豆瓣](https://book.douban.com/subject/1443631/)
   - 这本书是对量子计算和量子信息领域的主要思想和技术的全面介绍。详细描述了快速量子算法、量子传输、量子密码学和量子纠错等令人惊奇的效应。丰富的插图和练习以更深入的方式说明和发展了其中的材料。书中的一个特点是第一部分包含的量子力学和计算机科学的教程引言，确保即使没有物理或计算机科学背景的读者也能理解这个主题。在第二部分中，作者介绍了量子计算，描述了什么是量子计算机，以及如何使用它们比传统的“经典”计算机更快地解决问题，以及量子计算机的现实世界实现。第三部分以深入的方式结束了本书，解释了如何使用量子状态执行出色的通信技巧，以及如何保护量子状态免受噪声的影响。
 
 ### 软件基础 Software Foundations
 
 **★【书籍】软件基础 Software Foundations** [中文主页](https://coq-zh.github.io/SF-zh/)
   - 由 Benjamin C. Pierce 等人编写的一套开源教材，用于教授形式化方法、类型论和程序验证等主题。这教材旨在帮助学生理解计算机科学中的基本原理，特别是在软件开发中使用形式化方法进行证明和验证的技术。这套教材主要以 Coq 证明助手为基础，涵盖了逻辑、类型理论、编程语言和形式验证等主题。
-  - 北京大学软件科学基础课程：[【课程主页】](https://xiongyingfei.github.io/SF/2023/)
+  - 北京大学软件科学基础课程：[#课程主页](https://xiongyingfei.github.io/SF/2023/)
 
-**【课程】UPENN CIS 500: Software Foundations** [【课程主页】](https://www.seas.upenn.edu/~cis5000/cis500-f19/index.html)
+**【课程】UPENN CIS 500: Software Foundations** [#课程主页](https://www.seas.upenn.edu/~cis5000/cis500-f19/index.html)
 
 ### 数理逻辑 Mathematical Logic
 
@@ -1066,13 +1165,13 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
   - 这教材提供了对数学逻辑的完整且现代的介绍。作者在整个教材中使用当代的符号、约定和观点，并强调与数学的其他领域的交互。除了涵盖数学逻辑的基本概念和完备性、紧致性、不完备性的基本内容外，它还大量介绍了现代学科的基石：模型理论、集合论和可计算性理论。
   - 这本教材仅需要一定的本科数学背景，可以轻松地适应上本科或初研级别的一学期或两学期课程。
 
-**【书籍】A First Course in Logic, An Introduction to Model Theory, Proof Theory, Computability, and Complexity** [【豆瓣】](https://book.douban.com/subject/2357199/)
+**【书籍】A First Course in Logic, An Introduction to Model Theory, Proof Theory, Computability, and Complexity** [#豆瓣](https://book.douban.com/subject/2357199/)
   - 理性思维和逻辑推理的能力构成了大多数数学、计算机科学、哲学和逻辑学学生学习的基础。本文基于作者在马里兰大学的教学笔记，面向广大受众，以一种极其清晰、深入和准确的风格涵盖了经典逻辑的基本主题，适用于上述各个领域的学生。涵盖了命题逻辑、一阶逻辑和二阶逻辑，以及证明理论、可计算性理论和模型理论，文中还包含了许多精心设计的练习题，非常适合初学者或复习课程使用。
 
-**【书籍】Logic for applications** [【豆瓣】](https://book.douban.com/subject/2176817/)
+**【书籍】Logic for applications** [#豆瓣](https://book.douban.com/subject/2176817/)
   - 这本教材首次介绍了与计算机科学中逻辑应用密切相关的数学逻辑。在其中，作者强调演绎是一种计算形式。虽然全面涵盖了逻辑的所有传统主题：语法、语义、完备性和紧致性；但本书的大部分内容涉及非传统的主题，如解析定理证明、逻辑编程和在计算机科学中变得越来越重要的非经典逻辑——模态逻辑和直觉主义逻辑。
 
-**【书籍】面向计算机科学的数理逻辑系统建模与推理 Logic in Computer Science, Modeling and Reasoning about Systems** [【豆瓣】](https://book.douban.com/subject/1277302/)
+**【书籍】面向计算机科学的数理逻辑系统建模与推理 Logic in Computer Science, Modeling and Reasoning about Systems** [#豆瓣](https://book.douban.com/subject/1277302/)
   - 本书适合作为高等院校计算机及相关专业的数理逻辑/形式化方法课程教材，涵盖了命题逻辑，谓词逻辑、模态逻辑与 Agent、二元决策图、模型检查和程序验证等内容。与传统数理逻辑教科书相比，它的主要特色就是紧紧围绕软硬件规约和验证这一主题，反映了计算机科学中数理逻辑的新发展和实际需要。第2版新增了可满足性算法，紧致性理论和 Lowenhenm-Skolem 定理，并介绍了 Alloy 语言和 Nusmv 工具。
 
 ### 公理化集合论 Axiomatic Set Theory
@@ -1081,10 +1180,10 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
 
 公理化集合论中，集合和它们的关系完全是由一系列公理所定义的。这些公理被设计为足够强大，以表达所有常见的集合论操作和结果，同时又足够严格，以避免悖论和不一致性。最著名的公理化集合论系统之一是策梅洛-弗兰克尔集合论（ZF），通常与选择公理（AC）一起使用，称为ZFC。
 
-**【书籍】Set Theory: an Introduction to Independence Proofs**[【豆瓣】](https://book.douban.com/subject/1437295/)
+**【书籍】Set Theory: an Introduction to Independence Proofs**[#豆瓣](https://book.douban.com/subject/1437295/)
   - 许多抽象数学的分支都受到了集合论中现代独立性证明的影响。本书介绍了公理集合论中相对一致性证明，并旨在作为该学科初级研究生课程的教材。
 
-**【书籍】Set Theory - Keneth Kunen** [【豆瓣】](https://book.douban.com/subject/17797345/)
+**【书籍】Set Theory - Keneth Kunen** [#豆瓣](https://book.douban.com/subject/17797345/)
   - 这本书适用于那些了解基础数学逻辑和公理集合论，并希望更深入地了解集合论的读者。该书的主要焦点是独立性证明。其中最著名的是连续体假设（CH）的独立性；也就是说，在满足集合论公理（ZFC）的模型中，CH 为真，而在其他模型中，CH 为假。更普遍地说，在正则基数上的基数指数可以一致地取任何不与 Cantor 和 König 的经典定理相矛盾的值。
 
 ### 模型论 Model Theory
@@ -1095,17 +1194,17 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
 
 通过这些公理，公理化集合论为现代数学提供了一个坚实和一致的基础，特别是对于无穷数学和数理逻辑领域。
 
-**【书籍】Model Theory - Chen Chung Chang，H.J.Keisler**[【豆瓣】](https://book.douban.com/subject/1437298/)
+**【书籍】Model Theory - Chen Chung Chang，H.J.Keisler**[#豆瓣](https://book.douban.com/subject/1437298/)
   - 这是逻辑模型理论中的第一本也是最成功的教科书。每一章介绍一种独特的方法，并讨论具体的应用。构建模型的基本方法包括常数、基本链、斯科伦函数、不可区分元素、超积和特殊模型。最后几章介绍了结合多种方法的更高级主题。这本经典著作涵盖了一阶模型理论的大部分方面及其在代数和集合理论中的许多应用。
 
-**【书籍】(GTM217)Model Theory: an Introduction - David Marker**[【豆瓣】](https://book.douban.com/subject/2251700/)
+**【书籍】(GTM217)Model Theory: an Introduction - David Marker**[#豆瓣](https://book.douban.com/subject/2251700/)
   - 本书是对模型理论的现代介绍，全文强调其在代数中的应用。书的前半部分包括关于模型构建技术、类型空间、主模型、饱和模型、可数模型以及不可区分元素及其应用的经典材料。作者还介绍了稳定性理论，从莫利的分类定理开始，重点讨论ω-稳定理论。这本书的一个重要特点是包括了其他入门文本中没有涵盖的重要主题章节，如ω-稳定群和强最小集的几何学。作者随后展示了这些成分如何在 Hrushovski 关于丢番图几何的应用中使用。
 
 ### 证明论 Proof Theory
 
 证明论是数理逻辑的一个分支，专注于数学证明的形式和性质。证明论的核心目标是理解和分析数学证明的结构，以及通过形式化的方法来研究证明的过程和结果。证明论的研究有助于深化我们对数学推理本质的理解。
 
-**【书籍】Proof Theory - Takeuti**[【豆瓣】](https://book.douban.com/subject/11238104/)
+**【书籍】Proof Theory - Takeuti**[#豆瓣](https://book.douban.com/subject/11238104/)
   - 本书探讨了证明理论在逻辑以及数学的其他领域中的应用。适合数学高年级本科生和研究生的阅读。本书分为三个部分，首先探讨了一阶系统，包括一种涉及 Gentzen 的切割消除定理以及关于哥德尔不完备定理和 Gentzen 一致性证明的自然数理论的处理。第二部分考虑了二阶和有限阶系统，涵盖了简单类型理论和无穷逻辑。最后几章讨论了一致性问题，包括一致性证明及其应用。
 
 ### 递归论/计算理论 Recursive Theory/Computability Theory
@@ -1114,31 +1213,31 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
 
 一些问题可能是永远都无法被解决的，比如“停机问题（Halting Problem）”，即计算机是否可以实现一个程序，用来检验任意程序是否会在某一时点停止运行、或者永远继续运行。很多问题是理论上可计算的，但是在实际情况上，可能需要近乎无限的内存和无限的步骤（也就是时间，甚至可以超过宇宙的年龄，138亿年或者267亿年）。
 
-**【课程】MIT 18.404J: Theory of Computation** [【哔哩哔哩-中英字幕】](https://www.bilibili.com/video/BV1vF411i7rk) [【课程主页】](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
+**【课程】MIT 18.404J: Theory of Computation** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1vF411i7rk) [#课程主页](https://ocw.mit.edu/courses/18-404j-theory-of-computation-fall-2020/)
 
-**【书籍】计算理论导引 Introduction to the Theory of Computation** [【豆瓣】](https://book.douban.com/subject/1852515/)
+**【书籍】计算理论导引 Introduction to the Theory of Computation** [#豆瓣](https://book.douban.com/subject/1852515/)
   - 使用计算机科学用数学方法进行定理和证明设计。
 
-**【书籍】Computability: an Introduction to Recursive Function Theory**[【豆瓣】](https://book.douban.com/subject/1437118/)
+**【书籍】Computability: an Introduction to Recursive Function Theory**[#豆瓣](https://book.douban.com/subject/1437118/)
   - 计算机在原理上能够做什么？它们有哪些固有的理论限制？这些是计算机科学家必须解决的问题。使这些问题能够得到回答的理论框架在过去的五十年里已经从可计算函数的概念中发展而来：直观地说，可计算函数的值可以以有效或自动的方式计算。本书是对可计算性理论（在数学家传统上称之为递归理论）的介绍。Cutland博士从数学上对可计算函数的特征开始，使用一个简单的理想化计算机（寄存器机器）；在与其他特征的比较后，他发展了数学理论，包括对不可计算性和不可判定性的全面讨论，以及递归和递归可枚举集的理论。后面的章节介绍了更高级的主题，如哥德尔的不完备性定理、不可解度的程度、递归定理和计算复杂性理论。因此，可计算性是数学的一个分支，对计算机科学家和哲学家也很重要。
 
-**【书籍】Recursively Enumerable Sets and Degrees: a Study of Computable Functions and Computably Generated Sets - Robert I. Soare**[【豆瓣】](https://book.douban.com/subject/1920723/)
+**【书籍】Recursively Enumerable Sets and Degrees: a Study of Computable Functions and Computably Generated Sets - Robert I. Soare**[#豆瓣](https://book.douban.com/subject/1920723/)
   - 第一部分包括对计算理论和递归函数理论的介绍，包括可计算函数、图灵机、部分递归函数、递归可枚举集、Kleene递归定理等的定义。第二部分是对递归可枚举集及其程度的全面研究。
 
-**【书籍】Recursion Theory for Metamathematics** [【豆瓣】](https://book.douban.com/subject/3911358/)
+**【书籍】Recursion Theory for Metamathematics** [#豆瓣](https://book.douban.com/subject/3911358/)
   - 这部作品是作者的《哥德尔不完备定理》的续篇，尽管任何熟悉皮亚诺算术系统和哥德尔不完备定理的人都可以独立阅读。这本书主要涉及与不完备性、不可判定性以及相关主题的元数学应用相关的递归理论方面。它既是该理论的入门，也是该领域新成果的介绍。
 
 ### 计算复杂度 Computational Complexity
 
 “计算复杂度”理论关注的是如何度量和分类问题的难度，以及寻找高效算法的可能性。计算复杂度理论的研究对于评估算法效率、了解问题可解性、发展计算机科学的理论基础都具有重要的意义。在实际应用中，理解问题的复杂度有助于设计更高效的算法，解决实际工程和科学问题。
 
-**【书籍】Computational Complexity, A Modern Approach** [【豆瓣】](https://book.douban.com/subject/3895531/)
+**【书籍】Computational Complexity, A Modern Approach** [#豆瓣](https://book.douban.com/subject/3895531/)
   - 这本研究生入门教材描述了计算复杂性理论的最新成果和经典结果。除了数学素养之外，几乎不需要任何背景知识，该书可供对复杂性感兴趣的任何人，包括物理学家、数学家和其他科学家，作为自学的参考书，也可作为各种课程和研讨会的教材。书中包含了300多个练习题，并附有选定的提示集。
 
-**【书籍】Computers And Intractability, A Guide To The Theory Of Np Completeness** [【豆瓣】](https://book.douban.com/subject/2330824/)
+**【书籍】Computers And Intractability, A Guide To The Theory Of Np Completeness** [#豆瓣](https://book.douban.com/subject/2330824/)
   - 这本书的重点是教导读者如何识别、处理和理解 NP 完全问题的本质；本书涵盖了诸如如何证明给定问题是NP完全问题以及如何处理 NP 完全问题等主题。此外，本书还包含了一个包含300多个问题的列表，其中大多数已知是 NP 完全问题，附有评论和参考资料。
 
-**【书籍】The Nature of Computation** [【豆瓣】](https://book.douban.com/subject/4394513/)
+**【书籍】The Nature of Computation** [#豆瓣](https://book.douban.com/subject/4394513/)
   - 计算复杂性是现代数学中最美丽的领域之一，它越来越与其他科学领域相关，涵盖物理学到生物学。但这种美丽经常被不必要的形式主义层层覆盖，而令人兴奋的最新成果，如交互式证明、相变和量子计算，通常被认为对于典型的学生来说太高级。本书通过以清晰和愉快的方式解释理论计算机科学的深刻思想，弥合了这些差距，使它们对非计算机科学家和那些最终想要从新的角度欣赏自己领域的计算机科学家变得可访问。
   - 作者首先对 P vs. NP 问题进行了明晰而富有趣味的解释，解释了为什么它如此基础，以及为什么如此难以解决。然后，他们引导读者穿越迷宫和游戏的复杂性；理论和实践中的优化；随机算法、交互式证明和伪随机性；马尔可夫链和相变；以及量子计算的外围领域。
 
@@ -1146,38 +1245,38 @@ Scala 是一种多范式的编程语言（支持面向对象和函数式编程�
 
 类型论是一种数学和计算机科学中的形式系统，用于研究和描述计算的性质。它起源于数理逻辑和哲学，目前在计算机科学、编程语言设计和数学基础等领域得到广泛应用。类型论的主要目标是通过引入类型来帮助避免程序错误，并提供一种严格的数学基础，以理解和证明计算过程。“类型”是关于值的分类。每个值都有一个关联的类型，而类型定义了值可以具有的性质和行为。通过强制类型，类型论有助于捕捉和防止一些常见的编程错误。 类型论在程序验证领域中得到广泛应用。通过使用类型系统，可以在编译时捕获一些常见的编程错误，提高代码的可靠性。
 
-**【书籍】(TAPL)类型和程序设计语言 Types and Programming Languages** [【豆瓣】](https://book.douban.com/subject/1761910/)
+**【书籍】(TAPL)类型和程序设计语言 Types and Programming Languages** [#豆瓣](https://book.douban.com/subject/1761910/)
   - 类型系统是一种语法方法，通过根据程序短语计算的值的种类对其进行分类，自动检查某些错误行为的缺失。对类型系统的研究，以及从类型理论角度研究编程语言，对软件工程、语言设计、高性能编译器和安全性具有重要应用。本文综合介绍了计算机科学中的类型系统以及编程语言的基本理论。方法是实用和操作性的；每个新概念都以编程示例为动机，更理论的部分是基于实现的需求驱动的。每一章都附带了大量的练习和解决方案，以及一个可通过网络访问的运行实现。章节之间的依赖关系明确标识，允许读者选择通过材料的不同路径。核心主题包括无类型的lambda演算、简单类型系统、类型重构、通用和存在多态性、子类型、有界量化、递归类型、种类和类型运算符。扩展案例研究开发了多种建模面向对象语言特性的方法。
 
-**【书籍】Advanced Topics in Types and Programming Languages** [【豆瓣】](https://book.douban.com/subject/1761911/)
+**【书籍】Advanced Topics in Types and Programming Languages** [#豆瓣](https://book.douban.com/subject/1761911/)
   - 本书提供了对该领域关键思想的易于理解的介绍，由每个主题的专家提供了贡献。涵盖的主题包括精确的类型分析，将简单类型系统扩展以更好地掌握系统的运行时行为；用于低级语言的类型系统；将类型应用于计算机程序推理的应用；类型理论作为设计复杂模块系统的框架；以及ML风格类型推断的高级技术。
 
-**【书籍】(TTFP)Type Theory and Functional Programming** [【豆瓣】](https://book.douban.com/subject/1761940/)
+**【书籍】(TTFP)Type Theory and Functional Programming** [#豆瓣](https://book.douban.com/subject/1761940/)
   - 本书探讨了 Martin-Lof 的构造型理论在计算机编程中的作用。本书的主要重点是如何成功地将这一理论应用于实践中。导论部分提供了逻辑、λ 演算和构造数学方面的必要背景知识，并包括练习和章节摘要以加强理解。
 
-**【书籍】(HoTT)Homotopy Type Theory: Univalent Foundations of Mathematics** [【豆瓣】](https://book.douban.com/subject/25827125/)
+**【书籍】(HoTT)Homotopy Type Theory: Univalent Foundations of Mathematics** [#豆瓣](https://book.douban.com/subject/25827125/)
   - 同伦类型论是数学的一个新分支，以一种令人惊讶的方式将几个不同领域的方面结合在一起。它基于最近发现的同伦理论与类型理论之间的联系。它涉及看似相距甚远的主题，如球面的同伦群、类型检查的算法和弱∞-群体的定义。同伦类型理论提供了数学的新的“等价”基础，其中Voevodsky的等价公理和高阶归纳类型扮演着核心角色。本书旨在首次系统地阐述等价基础的基本原理，并提供这种新型推理方式的示例，但不要求读者了解或学习任何形式的逻辑，也不要求使用任何计算机证明助手。
 
 ### 范畴论 Category Theory
 
 范畴论（Category Theory）是数学中的一个抽象代数分支，研究各种数学结构和概念之间的普遍性质和关系。它以范畴为基本概念，通过研究范畴之间的映射（函子）和对象之间的映射（态射）来建立抽象的数学理论。以下是一些基本概念：
-  - 范畴： 范畴是一个包含对象和态射（箭头）的数学结构，满足一些基本公理。范畴中的对象可以是任何数学结构，而态射表示对象之间的映射。
-  - 态射和复合： 范畴中的态射是对象之间的映射，而复合是态射的组合。复合必须满足结合律。
-  - 函子： 函子是范畴之间的映射，它将一个范畴中的对象和态射映射到另一个范畴中，同时保持态射的复合结构。
+  - 范畴：范畴是一个包含对象和态射（箭头）的数学结构，满足一些基本公理。范畴中的对象可以是任何数学结构，而态射表示对象之间的映射。
+  - 态射和复合：范畴中的态射是对象之间的映射，而复合是态射的组合。复合必须满足结合律。
+  - 函子：函子是范畴之间的映射，它将一个范畴中的对象和态射映射到另一个范畴中，同时保持态射的复合结构。
 
 Haskell 与范畴论有深刻的关系。范畴论中的概念，如函子、单子（monad）、自然变换等，直接影响了Haskell中的一些核心概念。
 
-**【书籍】Basic Category Theory for Computer Scientists** [【豆瓣】](https://book.douban.com/subject/1823108/)
+**【书籍】Basic Category Theory for Computer Scientists** [#豆瓣](https://book.douban.com/subject/1823108/)
   - 范畴论是纯数学中的一个分支，正在成为理论计算机科学中越来越重要的工具，特别是在编程语言语义学、域论和并发性方面，它已经是标准的交流语言。假设你具备最基本的数学准备，《计算机科学家的基础范畴论》提供了范畴论基本构造和术语的简明介绍，包括极限、函子、自然变换、伴随和笛卡尔封闭范畴。四个案例研究阐述了范畴论在编程语言设计、语义学以及递归域方程解决中的应用。简短的文献综述提供了在更高级文本中深入学习的建议。
 
-**【书籍】(GTM5)Categories for Working Mathematician - Saunders Mac Lan**[【豆瓣】](https://book.douban.com/subject/1823110/)
+**【书籍】(GTM5)Categories for Working Mathematician - Saunders Mac Lan**[#豆瓣](https://book.douban.com/subject/1823110/)
   - 这本书提供了一系列在各个领域中都有用的一般性思想。从基础开始，本书阐明了范畴、函子、自然变换和对偶的概念。然后转向伴随函子，它提供了对通用构造的描述、通过态射集表示函子的分析，以及操纵直极限和逆极限的手段。这些范畴概念在其余章节中得到广泛阐述，包括对伴随函子的基本存在定理的许多应用。代数系统的范畴是从某些类似伴随的数据构造出来的，并由贝克定理进行表征。在考虑了各种应用之后，本书继续讨论Kan扩张的构造和利用。
 
 ### 程序验证 Program Verification
 
 “程序验证”是一种使用数学和逻辑方法来确保计算机程序满足其规约和要求的过程。这一过程强调使用形式化方法，旨在验证程序在所有可能的输入条件下都能够产生正确的输出，并且不会出现错误或异常行为。这涉及到定义性质、编写证明、进行形式化推理等。
 
-**【书籍】The Foundations of Program Verification** [【豆瓣】](https://book.douban.com/subject/4904493/)
+**【书籍】The Foundations of Program Verification** [#豆瓣](https://book.douban.com/subject/4904493/)
   - 本书提供了若干程序验证技术的精确数学基础。它集中讨论了那些现已成为经典的验证方法，如Floyd的归纳断言方法、Hoare的公理方法和Scott的不动点归纳。本书的目标是在简单的环境中呈现这些不同的验证方法，并解释它们的数学背景，特别是对不同方法的正确性和完整性问题进行了详细讨论，并包括了许多有用的示例。
 
 ### 模型检查 Model Checking
@@ -1193,33 +1292,36 @@ Haskell 与范畴论有深刻的关系。范畴论中的概念，如函子、单
 
 自动化定理证明（简称 ATP）是计算机科学和数理逻辑领域的一个重要分支，涉及开发计算机程序（称为定理证明器）来自动化地证明数学定理。这种技术的目标是减少或消除人工证明数学定理的需要，同时提供高度的准确性和效率。
 
-**【书籍】(Coq'Art)交互式定理证明与程序开发 Interactive Theorem Proving and Program Development Coq'Art, The Calculus of Inductive Constructions** [【豆瓣】](https://book.douban.com/subject/4191510/)
+**【书籍】(Coq'Art)交互式定理证明与程序开发 Interactive Theorem Proving and Program Development Coq'Art, The Calculus of Inductive Constructions** [#豆瓣](https://book.douban.com/subject/4191510/)
   - Coq 是一个交互式证明助手，用于开发数学理论和正式认证的软件。它基于一种称为归纳构造演算（calculus of inductive constructions）的理论，这是类型理论的一种变体。允许用户定义数学概念、表述定理以及构造用来证明这些定理的逻辑推导。Coq 在数学和计算机科学领域都非常有用，特别是在那些要求高度精确和正确性保证的领域。
   - Coq 的核心是构建在类型理论和构造主义逻辑之上的，它使用一种名为“Gallina”的语言来表述数学命题和证明。Coq 的证明是构造性的，这意味着每个证明实际上是构建一个证明对象的过程，这个对象证实了所声明的定理。这种方法不仅确保了证明的正确性，而且提供了关于证明本身的深入理解。
 
-**【书籍】(CPDT)Certified Programming with Dependent Types: A Pragmatic Introduction to the Coq Proof Assistant** [【豆瓣】](https://book.douban.com/subject/26171484/)
+**【书籍】(CPDT)Certified Programming with Dependent Types: A Pragmatic Introduction to the Coq Proof Assistant** [#豆瓣](https://book.douban.com/subject/26171484/)
   - 机械化程序验证技术可以在计算机科学的许多研究项目中发挥支持作用，与之相关的形式证明检查工具正在数学和工程领域得到越来越多的应用。本书介绍了Coq软件，用于编写和验证数学证明。全书始终注重实际工程应用，强调将帮助用户构建、理解和维护大型Coq开发，并最小化随时间变化的代码成本的技巧。书中详细讨论了两个主题，很少在其他地方讨论，分别是有效的依赖类型编程（充分利用Coq系统核心功能的特性）和领域特定证明策略的构建。几乎每个涵盖的主题都与交互式计算机定理证明有关，不仅适用于程序验证，还通过许多不同形式的正式化中应用的已验证程序示例来展示。本书开发了一种独特的自动化证明风格，并在整个过程中应用它
+
+**【书籍】Verified Functional Programming in Agda** [#豆瓣](https://book.douban.com/subject/26798747/)
+  - 第一本系统阐述了Agda中的外部和内部验证的书籍，适用于计算机科学本科生。书中不需要对函数式编程或计算机检查的证明有任何了解。书籍从通过熟悉的例子如布尔值、自然数和列表介绍函数式编程以及外部验证的技术开始。通过向量、二叉搜索树和Braun树的例子来考虑内部验证。书中还包括关于类型级计算、关于终止的明确推理以及通过评估进行归一化的高级内容。书籍还包括了一个关于Huffman编码和解码的中等规模案例研究。
 
 ### 程序分析 Program Analysis
 
 “程序分析”是计算机科学中的一个领域，主要关注对计算机程序进行静态和动态分析的方法。这个领域涵盖了多种技术和工具，用于理解、优化和验证程序的行为。程序分析可以分为静态分析和动态分析两大类：
-  - 静态分析： 在程序运行之前，通过检查源代码或中间表示来分析程序。静态分析的目标包括发现潜在的错误、评估程序的性能、生成文档以及理解程序的行为。常见的静态分析技术包括抽象解释、符号执行、数据流分析等。
-  - 动态分析： 在程序运行时，通过监视程序的实际执行来获取信息。动态分析可以包括性能分析、内存泄漏检测、安全漏洞检测等。它通常涉及使用工具或代理来观察程序的执行轨迹和行为。
+  - 静态分析：在程序运行之前，通过检查源代码或中间表示来分析程序。静态分析的目标包括发现潜在的错误、评估程序的性能、生成文档以及理解程序的行为。常见的静态分析技术包括抽象解释、符号执行、数据流分析等。
+  - 动态分析：在程序运行时，通过监视程序的实际执行来获取信息。动态分析可以包括性能分析、内存泄漏检测、安全漏洞检测等。它通常涉及使用工具或代理来观察程序的执行轨迹和行为。
 
-**【课程】MIT 6.820: Fundamentals Of Program Analysis** [【课程主页】](https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/)
+**【课程】MIT 6.820: Fundamentals Of Program Analysis** [#课程主页](https://ocw.mit.edu/courses/6-820-fundamentals-of-program-analysis-fall-2015/)
   - 这门课程全面介绍了程序分析领域。它涵盖了程序分析的一些主要形式，包括类型检查、抽象解释和模型检测。对于每一种方法，课程既涵盖了基础理论，也包括了现代技术和应用。
 
-**【书籍】Principles of Program Analysis** [【豆瓣】](Principles of Program Analysis)
+**【书籍】Principles of Program Analysis** [#豆瓣](Principles of Program Analysis)
   - 程序分析利用静态技术来计算关于程序动态行为的可靠信息。应用领域包括编译器（用于代码改进）、软件验证（用于检测错误）以及数据表示之间的转换（用于解决诸如Y2K等问题）。这本书独特之处在于提供了对程序分析的四种主要方法的概述：数据流分析、基于约束的分析、抽象解释和类型与效果系统。书中的呈现展示了这些方法之间广泛的相似之处，帮助读者选择最适合他们使用的方法。
 
 ### 形式化方法 Formal Method
 
 “形式化方法”是一种通过使用数学和形式化语言来进行系统设计、规约、验证和验证的软件和系统工程方法。这些方法旨在提高系统的可靠性、安全性和正确性，并在设计和开发的不同阶段中使用形式规约来明确定义系统的行为。
 
-**【书籍】Concise Guide to Formal Methods** [【豆瓣】](https://book.douban.com/subject/30481054/)
+**【书籍】Concise Guide to Formal Methods** [#豆瓣](https://book.douban.com/subject/30481054/)
   - 这本宝贵的教材/参考书提供了对形式方法基础的易读指南，突出了形式方法在计算领域各种各样的应用，介绍了软件工程、软件可靠性和可信性、形式方法和离散数学的关键概念。
 
-**【书籍】Formal Methods: An Appetizer** [【豆瓣】](https://book.douban.com/subject/35415384/)
+**【书籍】Formal Methods: An Appetizer** [#豆瓣](https://book.douban.com/subject/35415384/)
   - 本书是关于形式方法的使用的介绍，涵盖了从关键编程构造的语义到程序分析和验证技术。我们使用程序图作为表示程序控制结构的机制，以在通用性（应能够容纳许多编程构造并支持许多分析技术）和概念复杂性（不应要求学生能够操作证明树等）之间取得平衡。
 
 
@@ -1228,39 +1330,39 @@ Haskell 与范畴论有深刻的关系。范畴论中的概念，如函子、单
 “Lambda 演算”是一种数学形式化方法，用于描述计算和函数抽象。它是一种极简抽象模型，由数学家阿隆佐·邱奇（Alonzo Church）于1930年代提出。Lambda 演算对于计算理论的发展和理解函数式编程语言的基础具有重要影响。
 
 Lambda演算的核心概念是函数抽象和应用。它使用一个简单的符号 λ（lambda）来表示函数的定义，以及一个点（.）来分隔参数和函数体。Lambda演算的基本语法如下：
-   1. 变量： 用单个字母表示，例如 x、y、z。
-   2. 抽象： 使用 λ 符号表示，例如 λx.x 表示一个以 x 为参数的函数，返回 x。
-   3. 应用： 使用空格表示，例如 (λx.x) y 表示将参数 y 应用于函数 λx. x。
+   1. 变量：用单个字母表示，例如 x、y、z。
+   2. 抽象：使用 λ 符号表示，例如 λx.x 表示一个以 x 为参数的函数，返回 x。
+   3. 应用：使用空格表示，例如 (λx.x) y 表示将参数 y 应用于函数 λx. x。
 
 Lambda 演算的一个关键特征是匿名函数（anonymous functions）。函数没有名称，而是通过参数和函数体来定义。Lambda 演算是图灵完备的，这意味着它能够表示任何可计算的函数。Lambda 演算在计算理论、编程语言设计和函数式编程方面有广泛的应用。它为理解函数式编程语言（如 Lisp、Haskell、Scheme）的基本概念提供了理论基础。Lambda 演算还在形式语言、编译原理和计算复杂性等领域中有重要的应用。Lambda 演算的形式化定义允许研究计算过程的本质，而不涉及具体的计算机结构。这种抽象性使得 Lambda 演算成为理论计算机科学和计算理论的关键工具。
 
-**【书籍】Lambda-Calculus and Combinators** [【豆瓣】](https://book.douban.com/subject/4323391/)
+**【书籍】Lambda-Calculus and Combinators** [#豆瓣](https://book.douban.com/subject/4323391/)
   - 书中讨论了组合逻辑和λ演算的语法和基本属性，然后介绍了类型理论。系统的有类型和无类型版本以及它们之间的差异都有涵盖。解释了λ演算模型，这些模型在编程语言的语义中起到了重要作用。本书的处理尽量非技术化，强调主要思想，并通过示例进行说明。
 
-**【书籍】The Lambda Calculus, Its Syntax and Semantics** [【豆瓣】](https://book.douban.com/subject/20142135/)
+**【书籍】The Lambda Calculus, Its Syntax and Semantics** [#豆瓣](https://book.douban.com/subject/20142135/)
   - 本书主要讨论了 Lambda 演算（主要是无类型版本），由一组表达式组成，称为λ项，以及如何重写和识别这些表达式的方法。在部分“转换”、“规约”、“理论”和“模型”中，观点分别是“代数”的、计算的，带有更多（“协同归纳”）的标识，最后是集合论的。Lambda 项是由变量构建的，使用应用和抽象。将一个项F应用于M的意图是F是一个函数，M是它的参数，FM是应用的结果。这仅仅是意图：要实际获得结果，必须根据规约规则重写表达式FM。抽象提供了一种根据应用它们的效果创建函数的方法。这个理论的强大之处在于，计算，无论是终止还是无限的，都可以用 lambda 项以一个“舒适”的抽象水平来表达。
 
-**【书籍】Lambda-calculus, Combinators and Functional Programming** [【豆瓣】](https://book.douban.com/subject/3928453/)
+**【书籍】Lambda-calculus, Combinators and Functional Programming** [#豆瓣](https://book.douban.com/subject/3928453/)
   - 这本书最初于1988年出版，介绍了 lambda 演算和组合子，而不深入探讨它们理论的数学细节。这里将 lambda 演算视为一种函数语言，并清楚地展示了它与计算机科学的相关性。该书的主要目的是为计算机科学学生和研究人员提供关于 lambda 演算和组合子的坚实背景，并展示这些理论在函数式编程中的适用性。所提供的材料是自包含的。它可以用作函数式编程课程的主要教材。它也可以用作计算机语言结构和实现、计算理论或编程语言语义课程的辅助教材。
 
 ### 图论 Graph Theory
 
 “图论”是数学的一个分支，研究图（Graph）的结构、性质和相互关系。图是由节点（顶点）和连接这些节点的边组成的数学模型，它是描述事物之间关系的一种抽象工具。
 
-**【书籍】Introduction to Graph Theory** [【豆瓣】](https://book.douban.com/subject/30481054/)
+**【书籍】Introduction to Graph Theory** [#豆瓣](https://book.douban.com/subject/30481054/)
   - 这本书是一次激发数学兴趣的纯数学之旅，面向那些“在数学上受到创伤”的人，但对于数学爱好者和认真的数学家来说也非常有趣。本书将读者从简单的图形引导到平面图、欧拉公式、柏拉图图形、着色、图的亏格、欧拉路径、哈密顿路径等内容。
 
 ### 计算几何 Computational Geometry
 
 “计算几何”是计算机科学和数学的一个分支，主要研究解决几何问题的算法和数据结构。这些问题通常涉及对几何对象（如点、线、多边形、圆等）进行操作，并解决与这些对象相关的各种计算挑战。主要内容包括：
-  - 几何算法： 设计用于解决几何问题的高效算法，如计算凸包、寻找最近邻点、求交点等。
-  - 数据结构： 开发适用于几何对象的数据结构，以支持高效的查询和操作。例如，使用平衡树、四叉树、Delaunay 三角剖分等数据结构。
-  - 空间分析： 研究在二维和三维空间中进行几何计算的技术，包括点、线和多边形的表示与操作。
-  - 凸包： 计算点集的凸包，即包围所有点的最小凸多边形。
-  - 最近邻搜索： 寻找空间中给定点的最近邻点。
-  - 三角剖分： 将给定点集进行三角剖分，常用于地理信息系统（GIS）和有限元分析等领域
-  - 交点计算： 计算几何对象（如线、多边形）之间的交点。
-  - 形状匹配： 比较两个几何形状，以确定它们的相似性或匹配程度。
+  - 几何算法：设计用于解决几何问题的高效算法，如计算凸包、寻找最近邻点、求交点等。
+  - 数据结构：开发适用于几何对象的数据结构，以支持高效的查询和操作。例如，使用平衡树、四叉树、Delaunay 三角剖分等数据结构。
+  - 空间分析：研究在二维和三维空间中进行几何计算的技术，包括点、线和多边形的表示与操作。
+  - 凸包：计算点集的凸包，即包围所有点的最小凸多边形。
+  - 最近邻搜索：寻找空间中给定点的最近邻点。
+  - 三角剖分：将给定点集进行三角剖分，常用于地理信息系统（GIS）和有限元分析等领域
+  - 交点计算：计算几何对象（如线、多边形）之间的交点。
+  - 形状匹配：比较两个几何形状，以确定它们的相似性或匹配程度。
 
 ### 布尔代数 Boolean Algebra
 
@@ -1268,7 +1370,7 @@ Lambda 演算的一个关键特征是匿名函数（anonymous functions）。函
 
 布尔代数在计算机科学、电子工程、逻辑设计等领域中被广泛应用。它为逻辑电路的设计和分析提供了理论基础，同时也是计算机程序设计中条件语句和逻辑运算的基础。
 
-**【书籍】Introduction to Boolean Algebras** [【豆瓣】](https://book.douban.com/subject/3205901/)
+**【书籍】Introduction to Boolean Algebras** [#豆瓣](https://book.douban.com/subject/3205901/)
   - 这本书是作者在布尔代数领域的讲座的非正式、系统性的呈现，面向高级本科生和初级研究生。以大胆而清新的风格，本书涵盖了布尔代数的内容，发展了一些引人入胜的思想，并提供了难得的见解。
 
 ### 布尔函数 Boolean Functions
@@ -1277,29 +1379,32 @@ Lambda 演算的一个关键特征是匿名函数（anonymous functions）。函
 
 在计算机科学中，布尔函数被应用在编码理论、数据结构和算法设计等方面。
 
-**【课程】CMU 15-859S / 21-801A: Analysis of Boolean Functions** [【哔哩哔哩-无字幕】](https://www.bilibili.com/video/BV1364y1y71X/) [【课程主页】](https://www.cs.cmu.edu/~odonnell/aobf12/)
+**【课程】CMU 15-859S / 21-801A: Analysis of Boolean Functions** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1364y1y71X/) [#课程主页](https://www.cs.cmu.edu/~odonnell/aobf12/)
 
-**【书籍】Boolean Functions Theory, Algorithms, and Applications** [【豆瓣】](https://book.douban.com/subject/33301338/)
+**【书籍】Boolean Functions Theory, Algorithms, and Applications** [#豆瓣](https://book.douban.com/subject/33301338/)
   - 这本专著由该领域的杰出专家撰写，提供了布尔函数理论的结构、算法和应用方面的首个全面而统一的阐述。该书侧重于布尔函数的代数表示，特别是析取范式和合取范式的表示。该框架探讨了该理论的基本元素（布尔方程和可满足性问题、主析取范式和相关的简短表示、对偶化），深入研究了布尔函数的特殊类别，以及布尔函数概念的两个富有成果的推广（部分定义函数和伪布尔函数）。
 
 ### 决策过程 Decision Procedure
 
 “决策过程”是一种算法或系统，用于判断某个逻辑理论中的公式是否为可满足的（Satisfiable）或成立的（Valid）。这样的算法通常被设计用来解决特定逻辑理论中的问题，并且在给定输入的情况下，能够准确、自动地确定公式的真假。
 
-**【书籍】Decision Procedure: An Algorithmic Point of View** [【豆瓣】](https://book.douban.com/subject/4407949/) [在线书籍](https://www.decision-procedures.org/)
+**【书籍】Decision Procedure: An Algorithmic Point of View** [#豆瓣](https://book.douban.com/subject/4407949/) [在线书籍](https://www.decision-procedures.org/)
   - 决策过程是一种算法，对于给定的决策问题，能够以正确的是/否答案终止。在这里，作者聚焦于那些足够表达实际问题但仍可判定的理论。具体而言，该书集中讨论了在自动验证和推理、定理证明、编译器优化和运筹学中常用的一阶理论的决策过程。书中描述的技术涉及到图论和逻辑等领域，并在工业中得到广泛应用。
   - 系统介绍了 SAT（可满足性问题）、SMT（理论可满足性问题）和DPLL(T)框架的基本术语。然后，在各个章节中，他们研究了以下理论的决策过程：相等性和未解释函数、线性算术、位向量、数组、指针逻辑以及量化公式。
 
 ## 更多网络资源
 
-**自学计算机科学 TeachYourselfCS**[【主页】](https://teachyourselfcs.com/)[【中文版】](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
-  - 主次分明的自学指南，提供了许多很棒的观点，已摘录在附录部分。
+**自学计算机科学 TeachYourselfCS**[#主页](https://teachyourselfcs.com/)[#中文版](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
+  - 主次分明的自学指南，提供了许多很棒的观点，（由于写得太好了）已摘录在附录部分。
 
-**Open Source Society University**[【主页】](https://github.com/ossu/computer-science?tab=readme-ov-file#core-cs)
+**Open Source Society University**[#主页](https://github.com/ossu/computer-science?tab=readme-ov-file#core-cs)
   - 免费自学计算机科学的完整教程。
 
-**Papers We Love**[【主页】](https://paperswelove.org/)
+**Papers We Love**[#主页](https://paperswelove.org/)
   - 计算机科学论文集合。
+
+**HelloGitHub**[#主页](https://hellogithub.com/) [#Github](https://github.com/521xueweihan/HelloGitHub)
+  - Github 有趣开源项目的汇总。内容包括：有趣、入门级的开源项目、开源书籍、实战项目、企业级项目等。
 
 MIT OpenCourseWare: 麻省理工学院的课程资源开放共享项目，收录了数以千计的各科课程资源，其中计算机类的课号是 6.xxx。
 
@@ -1330,15 +1435,11 @@ Deep Learning Textbook Recommendations: 深度学习方向推荐教材列表
 
 [Readscheme.org - Functional Programming Resources](http://readscheme.org/) 
 
-## Paper Collection
-
-[Papers We Love](https://paperswelove.org/)
-
 [Cite Seer X](http://citeseerx.ist.psu.edu/index)
 
 [Ixueshu](https://www.ixueshu.com/)
 
-## Code Crafter
+Code Crafter
 
 https://app.codecrafters.io/
 
@@ -1348,27 +1449,20 @@ https://github.com/codecrafters-io/build-your-own-x
 
 玩具程序项目：build your own x
 
-*   [Open Source Society University](https://link.jianshu.com?t=https://github.com/open-source-society/computer-science) 自学计算机科学的学习路径和资源。
-*   [免费的计算机编程类中文书籍](https://link.jianshu.com?t=https://github.com/justjavac/free-programming-books-zh_CN)
-*   [免费编程书籍](https://link.jianshu.com?t=https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
-*   [计算机科学论文](https://link.jianshu.com?t=https://github.com/papers-we-love/papers-we-love)
-*   [awesome](https://link.jianshu.com?t=https://github.com/sindresorhus/awesome) 各种了不起的资源。
-*   [Python Share](https://link.jianshu.com?t=https://github.com/Yixiaohan/codeparkshare) Python初学者书籍、视频、资料、社区推荐。
-*   [Python 资料汇总](https://link.jianshu.com?t=https://github.com/iamjoel/python-learn#%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
-*   [码农周刊整理](https://link.jianshu.com?t=https://github.com/nemoTyrant/manong)
-*   [500 Lines or Less](https://link.jianshu.com?t=https://github.com/aosabook/500lines) 一些高质量的代码总数小于 500 行的小项目
-*   前端
-    *   [Github FE project](https://link.jianshu.com?t=https://github.com/hawx1993/github-FE-project) Github 上值得关注的前端项目
-    *   [node.js中文资料导航](https://link.jianshu.com?t=https://github.com/youyudehexie/node123)
-    *   [AngularJS 学习](https://link.jianshu.com?t=https://github.com/justjavac/AngularJS-Learning-zh_CN) 一些 AngularJS 的博客，文章，视频，书籍等。
-    *   [es6-cheatsheet](https://link.jianshu.com?t=https://github.com/DrkSephy/es6-cheatsheet) ES6 的一些 tips，小技巧，最佳实践等。
-    *   [腾讯移动Web前端知识库](https://link.jianshu.com?t=https://github.com/AlloyTeam/Mars)
-    *   [iconpark](https://link.jianshu.com?t=https://github.com/lvwzhen/iconpark) 字体图标汇总
-    *   [前端技能树](https://link.jianshu.com?t=https://github.com/JacksonTian/fks) 朴灵出品。
-    *   [前端工具推荐](https://link.jianshu.com?t=https://github.com/codylindley/frontend-tools) 一大波前端工具。
-    *   [Leetcode Solutions with JavaScript](https://link.jianshu.com?t=https://github.com/hanzichi/leetcode) 技术面试题库网站：[leetcode OJ](https://link.jianshu.com?t=https://leetcode.com/) 上的题目解答。
-    *   [前端常用插件汇总](https://link.jianshu.com?t=https://github.com/iamjoel/front-end-plugins)
-    *   [我的前端笔记](https://link.jianshu.com?t=https://github.com/iamjoel/front-end-note)
+[Open Source Society University](https://link.jianshu.com?t=https://github.com/open-source-society/computer-science) 自学计算机科学的学习路径和资源。
+ 
+[免费的计算机编程类中文书籍](https://link.jianshu.com?t=https://github.com/justjavac/free-programming-books-zh_CN)
+
+[免费编程书籍](https://link.jianshu.com?t=https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
+
+
+[awesome](https://link.jianshu.com?t=https://github.com/sindresorhus/awesome) 各种了不起的资源。
+  
+[Python Share](https://link.jianshu.com?t=https://github.com/Yixiaohan/codeparkshare) Python初学者书籍、视频、资料、社区推荐。
+
+[Python 资料汇总](https://link.jianshu.com?t=https://github.com/iamjoel/python-learn#%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
+ 
+[500 Lines or Less](https://github.com/aosabook/500lines) 一些高质量的代码总数小于 500 行的小项目
 
 ## 本文参考资料
 
@@ -1501,7 +1595,7 @@ https://github.com/codecrafters-io/build-your-own-x
 
 [![算法设计手册](https://user-images.githubusercontent.com/20233656/66759121-361e2980-eed2-11e9-913c-8fc48c67122a.jpg)](https://book.douban.com/subject/4048566/) [![怎样解题](https://user-images.githubusercontent.com/20233656/66759282-8e552b80-eed2-11e9-89de-16b1f8d82e78.jpg)](https://book.douban.com/subject/2124114/)
 
-> 我可以广泛推荐的方法只有一个： 写之前先思考。
+> 我可以广泛推荐的方法只有一个：写之前先思考。
 >
 >— Richard Hamming
 
