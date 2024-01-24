@@ -2,8 +2,7 @@
 title: Learning Path and Basics of Computer Science
 ---
 
-
-当前版本：v0.1内部版本
+当前版本：v0.9内部版本
 
 ## 关于本文
 
@@ -81,6 +80,11 @@ Python 是当前最炙手可热的编程语言，其设计注重简洁、可读�
 **【书籍】Python 编程导论 Introduction to Computation and Programming Using Python** [#豆瓣](https://book.douban.com/subject/30155590/) [#啊玛粽](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262529629)
   - MIT6.001 的配套教材，由 MIT 教授结合课堂实践亲自编写。涉及了很多个主题，包括一些经典算法、统计学、蒙特卡罗模拟、机器学习，但都浅尝辄止。中文翻译质量稍差，有能力直接学英文。
 
+**【资源】Python Share**[#主页](https://github.com/Yixiaohan/codeparkshare)
+  - Python初学者书籍、视频、资料、社区推荐。
+
+**【资源】Python 资料汇总**[#主页](https://github.com/iamjoel/python-learn#%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%
+
 ### Scheme
 
 Scheme 是 Lisp 语言的方言之一，具有语法非常简洁，拥有少量的基本语法规则和表达式结构的特点。Scheme 作为一种纯粹的函数式编程语言，将函数作为第一类对象，即“一切皆函数”，以 Lambda 演算为基本的计算模型。学习 Scheme 语言可以更直接地用计算思维组织程序，也可以接触到动态类型系统、宏系统、高阶函数、闭包、反射、元编程等“高级”编程特性。
@@ -94,7 +98,7 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 
 **【课程】Functional Programming 101x** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1wb411w7WS)
   - 配套教材为：Programming with Haskell [#豆瓣](https://book.douban.com/subject/1951517/)
-  - 简单的 Haskell 入门课程，内容比较浅显。
+  - Haskell 入门课程，内容比较浅显。
 
 **【书籍】Get Programming with Haskell** [#豆瓣](https://book.douban.com/subject/26992771/)
   - 一本入门 Haskell 编程语言的书籍，它避免了深奥的学术术语和繁重的函数式编程理论。
@@ -227,6 +231,9 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
   - 计算机科学领域最有名的著作，许多名人都对此书不吝赞美之词。美国计算机科学家高德纳（Donald Ervin Knuth）编著的关于计算机程序设计之七卷本著作。1999年底被《美国科学家》（American Scientist）期刊列为20世纪最佳12部学术专著之一，与狄拉克的“量子力学”、爱因斯坦的“相对论”等并列；作者因此获得 1974 年图灵奖。
   - 本书共七册，分别讲解基础算法、半数值算法、排序与搜索、组合算法、造句算法、与上下文无关语言理论、编译器技术。其中前三册已经出版，第四册部分出版。
   - 本书卷帙浩繁，并非系统性自学的首选，而是作为百科全书式的算法分析工具书而存在；其最有价值的部分则是本书的大量的高质量习题。
+
+**【资源】** [#主页](https://the-algorithms.com/) [#Python实现](https://github.com/TheAlgorithms/Python)
+  - 印度资深工程师发起的算法实现教学项目，使用
 
 ### 数据库系统 Database Systems
 
@@ -1302,6 +1309,9 @@ Haskell 与范畴论有深刻的关系。范畴论中的概念，如函子、单
 **【书籍】Verified Functional Programming in Agda** [#豆瓣](https://book.douban.com/subject/26798747/)
   - 第一本系统阐述了Agda中的外部和内部验证的书籍，适用于计算机科学本科生。书中不需要对函数式编程或计算机检查的证明有任何了解。书籍从通过熟悉的例子如布尔值、自然数和列表介绍函数式编程以及外部验证的技术开始。通过向量、二叉搜索树和Braun树的例子来考虑内部验证。书中还包括关于类型级计算、关于终止的明确推理以及通过评估进行归一化的高级内容。书籍还包括了一个关于Huffman编码和解码的中等规模案例研究。
 
+**【资源】Mathematical Components** [#主页](https://math-comp.github.io/)
+  - 使用Coq证明助手开发的正式化数学库。这个项目的根源可以追溯到对四色定理的正式证明。它已被用于大规模的正式化项目，包括对奇数阶（费特-汤普森）定理的正式证明。
+
 ### 程序分析 Program Analysis
 
 “程序分析”是计算机科学中的一个领域，主要关注对计算机程序进行静态和动态分析的方法。这个领域涵盖了多种技术和工具，用于理解、优化和验证程序的行为。程序分析可以分为静态分析和动态分析两大类：
@@ -1394,75 +1404,60 @@ Lambda 演算的一个关键特征是匿名函数（anonymous functions）。函
 
 ## 更多网络资源
 
+### 技术教程篇
+
 **自学计算机科学 TeachYourselfCS**[#主页](https://teachyourselfcs.com/)[#中文版](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)
   - 主次分明的自学指南，提供了许多很棒的观点，（由于写得太好了）已摘录在附录部分。
 
-**Open Source Society University**[#主页](https://github.com/ossu/computer-science?tab=readme-ov-file#core-cs)
-  - 免费自学计算机科学的完整教程。
+**【资源】小林 x 图解计算机基础** [#主页](https://github.com/xiaolincoder/CS-Base)
+
+**Project Based Learning**[#主页](https://github.com/practical-tutorials/project-based-learning)
+  - 利用一个个编程项目学习计算机科学。初学软件开发者可以从零开始学习如何构建应用程序。这些教程按照不同的主要编程语言进行划分。教程可能涉及多种技术和编程语言。
+
+**Open Source Society University**[#主页](https://github.com/open-source-society/computer-science)
+  - 自学计算机科学的学习路径和资源。
+
+**UC Berkeley Course Guide【资源】** [#主页](https://hkn.eecs.berkeley.edu/courseguides)
+
+### 书单论文篇
 
 **Papers We Love**[#主页](https://paperswelove.org/)
   - 计算机科学论文集合。
 
+**Lambda the Ultimate**[#主页](http://lambda-the-ultimate.org/)
+
+**Resources for Programming Language Research**[#主页](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/language-research.html)
+
+**Oleg's FTP**[#主页](http://okmij.org/ftp/)
+
+**Classic Papers in Programming Languages and Logic**[#主页](http://www.cs.cmu.edu/~crary/819-f09/)
+
+**Readscheme.org - Functional Programming Resources**[#主页](http://readscheme.org/)
+
+**Cite Seer X - Search across over 10,000,000 documents, journals, and papers**[#主页](http://citeseerx.ist.psu.edu/)
+
+**免费的编程中文书籍索引**[#主页](https://github.com/justjavac/free-programming-books-zh_CN)
+
+**免费编程书籍** [#主页](https://ebookfoundation.github.io/free-programming-books/) [#Github](https://github.com/EbookFoundation/free-programming-books)
+
+### 练习项目篇
+
+**Code Crafter - Build-Your-Own-X**[#主页](https://app.codecrafters.io/) [#主页](https://github.com/orgs/codecrafters-io/repositories) [#主页](https://github.com/codecrafters-io/build-your-own-x)
+
+**500 Lines or Less**[#主页](https://github.com/aosabook/500lines) 
+  - 高质量的代码总数小于 500 行的小项目
+
+### 资源集合篇
+
+**Awesome**[#主页](https://github.com/sindresorhus/awesome)
+
 **HelloGitHub**[#主页](https://hellogithub.com/) [#Github](https://github.com/521xueweihan/HelloGitHub)
   - Github 有趣开源项目的汇总。内容包括：有趣、入门级的开源项目、开源书籍、实战项目、企业级项目等。
 
-MIT OpenCourseWare: 麻省理工学院的课程资源开放共享项目，收录了数以千计的各科课程资源，其中计算机类的课号是 6.xxx。
+**Open Source Society University**[#主页](https://github.com/ossu/computer-science?tab=readme-ov-file#core-cs)
+  - 免费自学计算机科学的完整教程。
 
-MIT CS Course List: 麻省理工学院的 CS 课程列表。
-
-UC Berkeley EECS Course Map: UC Berkeley 的 EECS 培养方案，以课程地图的方式将各门课程的类别和先修关系一目了然地呈现，其中绝大多数课程本书中均有收录。
-
-UC Berkeley CS Course List: UC Berkeley 的 CS 课程列表。
-
-Stanford CS Course List: 斯坦福的 CS 课程列表。
-
-Free Programming Books: 开源编程书籍资源汇总
-CS Textbook Recommendations: 计算机科学方向推荐教材列表
-C Book Guide and List: C语言相关的编程书籍推荐列表
-C++ Book Guide and List: C++语言相关的编程书籍推荐列表
-Python Book Guide and List: Python语言相关的编程书籍推荐列表
-Computer Vision Textbook Recommendations: 计算机视觉方向推荐教材列表
-Deep Learning Textbook Recommendations: 深度学习方向推荐教材列表
-
-
-[Lambda the Ultimate](http://lambda-the-ultimate.org/)
-
-[Resources for Programming Language Research](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/language-research.html)
-
-[Oleg's FTP](http://okmij.org/ftp/)
-
-[Classic Papers in Programming Languages and Logic](http://www.cs.cmu.edu/~crary/819-f09/)
-
-[Readscheme.org - Functional Programming Resources](http://readscheme.org/) 
-
-[Cite Seer X](http://citeseerx.ist.psu.edu/index)
-
-[Ixueshu](https://www.ixueshu.com/)
-
-Code Crafter
-
-https://app.codecrafters.io/
-
-https://github.com/orgs/codecrafters-io/repositories
-
-https://github.com/codecrafters-io/build-your-own-x
-
-玩具程序项目：build your own x
-
-[Open Source Society University](https://link.jianshu.com?t=https://github.com/open-source-society/computer-science) 自学计算机科学的学习路径和资源。
- 
-[免费的计算机编程类中文书籍](https://link.jianshu.com?t=https://github.com/justjavac/free-programming-books-zh_CN)
-
-[免费编程书籍](https://link.jianshu.com?t=https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
-
-
-[awesome](https://link.jianshu.com?t=https://github.com/sindresorhus/awesome) 各种了不起的资源。
-  
-[Python Share](https://link.jianshu.com?t=https://github.com/Yixiaohan/codeparkshare) Python初学者书籍、视频、资料、社区推荐。
-
-[Python 资料汇总](https://link.jianshu.com?t=https://github.com/iamjoel/python-learn#%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%BA%90)
- 
-[500 Lines or Less](https://github.com/aosabook/500lines) 一些高质量的代码总数小于 500 行的小项目
+**MIT Programming & Software Engineering Course List**[#主页](https://student.mit.edu/catalog/m6a.html)
 
 ## 本文参考资料
 
