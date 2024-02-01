@@ -2,7 +2,7 @@
 title: Learning Path and Basics of Computer Science
 ---
 
-当前版本：v0.9内部版本
+当前版本：v1.1 
 
 ## 关于本文
 
@@ -23,7 +23,7 @@ title: Learning Path and Basics of Computer Science
 
 不妨在学习这些内容时再来回看本文，逐步开拓视野，探索`支线任务`。
 
-> 本文中所列出的书籍，虽然有免费盗版书网站提供电子版，如 Z-Library、Library Genesis、Anna’s Archive 等网站，但请注意下载行为可能在您的国家被定义为违反法律，有能力请从正规途径获取。再次声明，虽然有上面那些`免`**费**`网`**站**提供了`免`**费**`电`**子**`书`，但请尊重知识产权、保护作者权益！
+> 本文中所列出的书籍，虽然有免费盗版书网站提供电子版，如 Z-Library、Library Genesis、Anna’s Archive 等网站，但请注意下载行为可能在您的国家被定义为违反法律，有能力请从正规途径获取。再次声明，虽然有上面那些`免`**费**`网`**站**提供了`免`**费**`电`**子**`书`，但尊重知识产权、保护作者权益是每个读者的义务！
 
 > 加★的资源为重点推荐资源，其共同点为“适合自学的必读课程”。
 
@@ -121,8 +121,11 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 **【课程】Havard CS50: 非计算机专业如何理解计算机技术 Understanding Technology** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1ZK4y1q7Vc) [#课程主页](https://cs50.harvard.edu/technology)
   - 这门课程适合那些尚未将自己视为计算机专业人士的学生。针对每天使用技术工作但不一定了解其底层工作原理或在出现问题时如何解决的学生，该课程填补了这些空白，使学生能够更有效地使用和解决技术问题。通过关于硬件、互联网、多媒体、安全、编程和网站开发的讲座，以及对当前事件的阅读，该课程为学生提供了应对当今技术并为未来做准备的能力。
 
-【课程】 **计算机科学速成课 Crash Course Computer Science** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1EW411u7th) [#油管](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)
+ **【课程】计算机科学速成课 Crash Course Computer Science** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1EW411u7th) [#油管](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulI)
   - 简单地介绍了计算机科学的发展历史和一些关键概念。使用了较多的专有名词，探讨了很多核心的概念，对于初学者来说有一定的理解难度。
+
+**【书籍】计算机：一部历史 Digitized: The Science of Computers and How It Shapes Our World** [#豆瓣](https://book.douban.com/subject/25802176/)
+  - 给大众读者写的计算机科普读物，零门槛入门计算机科学。讲述计算机背后鲜为人知的故事，普及关于计算机和互联网，你不得不了解的知识。
 
 **【书籍】计算机科学导论 Foundations of Computer Science** [#豆瓣](https://book.douban.com/subject/35084853/) [#啊玛粽](https://www.amazon.com/Foundations-Computer-Science-Behrouz-Forouzan/dp/1473751047/ref=sr_1_3?dib=eyJ2IjoiMSJ9.3B0heCaDCPYb5rFihSgPs9ciwfIfEhd6fT6XMr08BHDb1OCU-QnXExNBeHOhsfzEGgMkzS-Snqi88PzybV_R-axz_bH9wxSOPl_sorUXPNcIOKzLq7I6nPHYkG6q1Fg1TLpjibzWnD7lf7Gmtn5h_mVEPx3Iz0xNItrJXCz6BclsksOkPH7LUeEeQYn8sjxdAw8gQgHOlgS2HbdRrBZ39gjtfRv2mZg2HA2AIiL8gvM.S1IASXcJDv5gVUiC6L9k2G07XxVMYBOoQlqPko0HrYs&dib_tag=se&keywords=Foundations+of+Computer+Science&qid=1705368136&s=books&sr=1-3)
   - 一本百科全书式的计算机专业基础入门读物，书中涉及计算机科学的方方面面。虽然读者对象是计算机专业的学生，但这本书深入浅出，引人入胜，勾画出计算机科学体系的框架。
@@ -134,6 +137,8 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 **两座塔的故事 Theory of Computation: A Tale of Two Towers** [#哔哩哔哩](https://www.bilibili.com/video/BV1z94y1T7LC) [#油管](https://youtu.be/ruOnPmI_40g)
 
 **代码美学 Code Aesthetic** [#哔哩哔哩](https://space.bilibili.com/1629390/channel/collectiondetail?sid=1068921)
+
+> 不要急功近利——你可以从“科普”开始。丢掉“专业者”“科班出身”的枷锁吧。
 
 ## 核心基础
 
@@ -233,7 +238,7 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
   - 本书卷帙浩繁，并非系统性自学的首选，而是作为百科全书式的算法分析工具书而存在；其最有价值的部分则是本书的大量的高质量习题。
 
 **【资源】** [#主页](https://the-algorithms.com/) [#Python实现](https://github.com/TheAlgorithms/Python)
-  - 印度资深工程师发起的算法实现教学项目，使用
+  - 印度资深工程师发起的算法实现教学项目，使用 40 种语言实现计算机常见算法的教学项目。
 
 ### 数据库系统 Database Systems
 
@@ -924,6 +929,17 @@ Scala 是一种多范式的编程语言（支持`面向对象`和`函数式编�
 **【课程】UC Berkeley CS169: Software Engineering** [Bilibili]https://www.bilibili.com/video/BV1VJ41197Nq/ [#配套教材](https://github.com/PKUFlyingPig/CS169-Software-Engineering/blob/master/saasbook.pdf)
   - 这门课采用近些年流行起来的小团队快速迭代（Agile Develepment）开发模式以及利用云平台的 SAAS 服务模式。
 
+### 移动应用开发 Mobile Application Development
+
+移动应用开发是为智能手机、平板电脑和数字助理制作软件的过程，最常见的是针对 Android 和 iOS 操作系统。这些应用可以提供各种功能和服务，从社交媒体和游戏到生产力工具和电子商务应用。软件可预装在设备上，可从移动应用商店下载，也可以通过移动 Web 浏览器来访问。
+
+> 移动应用开发、桌面应用开发、网站开发都需要培养一系列相辅相成的开发能力——统称为`技术栈`（Tech Stack）。具体来说，就是在开发中所使用的**一组技术、工具和框架的组合**。在生产实践中，往往可以由一个团队合作，每个个体只参与其中的一环；但也有很多人通晓开发的整个步骤，并有很高的效率，这些人被称为“全栈工程师”（Full Stack Engineer）。全栈工程师有能力参与从应用程序的用户界面设计到服务器端编程以及与数据库交互的整个开发过程。
+
+> 在生产实践中，不同应用都有一个特定的技术栈，其中的技术很可能并不先进、并非最优，而是过去时代的遗留。人类不可能全部掌握浩如烟海的这些技术、工具和框架（虽然具有很高的共通性）。所以在学习这部分内容时，掌握其涉及的基础技术（如 HTML/CSS、编程语言、数据库系统、计算机安全、测试和调试、用户界面设计等），并了解和学习一个典型的技术栈就足够了。
+
+### 桌面应用开发 Desktop  Application Development
+
+
 ### 网站开发 Web Development
 
 “网站开发”课程通常涵盖设计、创建和维护网站的相关主题。这样的课程旨在为学生提供构建现代网站所需的技能，包括前端（用户界面和用户体验）和后端（服务器端）开发。
@@ -931,6 +947,7 @@ Scala 是一种多范式的编程语言（支持`面向对象`和`函数式编�
 **【课程】Stanford CS142: Web Applications** [#课程主页](https://web.stanford.edu/class/cs142/index.html) [课程视频](https://web.stanford.edu/class/cs142/lectures.html)
 
 **【资源】前段技能树**[#Github](https://github.com/JacksonTian/fks)
+
 
 ### 计算机安全与密码学 Computer Security and Cryptography
 

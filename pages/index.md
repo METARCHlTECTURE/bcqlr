@@ -13,9 +13,10 @@ permalink: /
 # TOWER OF BABEL FOR THE IGNORANT
 
 <br>
- (๑•̀ㅂ•́)و✧
 
-**Being interested or not is the most important thing for me; it can be said to be my everything in life.**
+`Being interested or not surpasses all else for me and constructs my entire existence.`
+
+`(๑•̀ㅂ•́)و✧ 感不感兴趣对我来说比什么都重要，可以说是我人生的全部。`
 
 ## Quick Access
 

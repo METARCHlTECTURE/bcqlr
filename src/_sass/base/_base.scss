@@ -43,6 +43,7 @@ p {
   display: block;
 }
 strong {
+  font-weight: bold;
   color: $article-bold;
   // -webkit-text-stroke: 0.5px $color-primary;
   // text-shadow: 0.35px 0.35px 0 $color-primary;
@@ -122,6 +123,10 @@ sup a{
 pre {
   border: $thin-border;
   margin: 0.6em 0.1em;
+}
+
+em {
+  color: $article-italic
 }
 
 // table style
