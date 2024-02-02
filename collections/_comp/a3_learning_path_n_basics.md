@@ -81,7 +81,7 @@ Python 是当前最炙手可热的编程语言，其设计注重简洁、可读�
   - MIT6.001 的配套教材，由 MIT 教授结合课堂实践亲自编写。涉及了很多个主题，包括一些经典算法、统计学、蒙特卡罗模拟、机器学习，但都浅尝辄止。中文翻译质量稍差，有能力直接学英文。
 
 **【资源】Python Share**[#主页](https://github.com/Yixiaohan/codeparkshare)
-  - Python初学者书籍、视频、资料、社区推荐。
+  - Python 初学者书籍、视频、资料、社区推荐。
 
 **【资源】Python 资料汇总**[#主页](https://github.com/iamjoel/python-learn#%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%)
 
@@ -926,7 +926,7 @@ Scala 是一种多范式的编程语言（支持`面向对象`和`函数式编�
   - 配置管理（Configuration Management）：确保软件系统的各个版本和组件能够被追踪、控制和管理，以确保系统的稳定性。
   - 软件工程伦理与法律（Software Engineering Ethics and Legal Issues）：探讨在软件开发和使用中涉及的道德和法律问题。
 
-**【课程】UC Berkeley CS169: Software Engineering** [Bilibili]https://www.bilibili.com/video/BV1VJ41197Nq/ [#配套教材](https://github.com/PKUFlyingPig/CS169-Software-Engineering/blob/master/saasbook.pdf)
+**【课程】UC Berkeley CS169: Software Engineering** [#哔哩哔哩-无字幕](https://www.bilibili.com/video/BV1VJ41197Nq/) [#配套教材](https://github.com/PKUFlyingPig/CS169-Software-Engineering/blob/master/saasbook.pdf)
   - 这门课采用近些年流行起来的小团队快速迭代（Agile Develepment）开发模式以及利用云平台的 SAAS 服务模式。
 
 ### 移动应用开发 Mobile Application Development
@@ -937,17 +937,66 @@ Scala 是一种多范式的编程语言（支持`面向对象`和`函数式编�
 
 > 在生产实践中，不同应用都有一个特定的技术栈，其中的技术很可能并不先进、并非最优，而是过去时代的遗留。人类不可能全部掌握浩如烟海的这些技术、工具和框架（虽然具有很高的共通性）。所以在学习这部分内容时，掌握其涉及的基础技术（如 HTML/CSS、编程语言、数据库系统、计算机安全、测试和调试、用户界面设计等），并了解和学习一个典型的技术栈就足够了。
 
-### 桌面应用开发 Desktop  Application Development
+**【课程】Stanford CS193p: Developing Apps for iOS**[#哔哩哔哩-2021](https://www.bilibili.com/video/BV1hY4y1M7Dd/) [#哔哩哔哩-2023](https://www.bilibili.com/video/BV1T84y1m7wv/) [#课程主页](https://cs193p.sites.stanford.edu)
 
+### 桌面应用开发 Desktop Application Development
+
+“桌面应用开发”是指为桌面操作系统（如 Windows、macOS 或 Linux）设计和创建应用程序的过程。与为移动设备或网页开发的应用程序不同，桌面应用通常具有更丰富的用户界面和功能，能够充分利用计算机的处理能力和资源。
+
+Windows 应用开发的主流技术（截至 2023）：
+  1. `.NET 6/7` 是一个由 Microsoft 开发的跨平台开发框架，支持 Windows、Linux 和 macOS。.NET 6和.NET 7（及其后续版本）提供了对桌面应用开发的全面支持，包括Web、云、移动、游戏以及物联网应用开发。支持多种编程语言（如C#、F#、Visual Basic），强大的类库，以及跨平台开发能力。特别是C#，作为一种现代、类型安全的编程语言，非常适合开发复杂的 Windows 桌面应用。
+  2. `Windows Presentation Foundation (WPF)` 是一个成熟的 UI 框架，用于开发 Windows 桌面应用。它提供了一个广泛的用户界面（UI）开发库，支持高度自定义的UI设计和丰富的图形功能。支持 XAML（一种基于XML的标记语言）来定义 UI 元素，使得开发者能够以声明方式设计图形界面。WPF适用于需要复杂UI和高度交互性的桌面应用。
+  3. `Universal Windows Platform (UWP)` 是 Microsoft 推出的一个用于开发跨 Windows 10 设备（包括 PC、平板电脑、手机、Xbox 等）的应用平台。它支持适应不同设备屏幕大小和分辨率的响应式布局。UWP 应用可以通过 Windows Store 分发，支持触摸操作、笔操作和语音输入等现代输入方式，以及 Windows 10 的安全性和更新机制。
+  4. `WinUI 3` 是 Windows UI 库的最新版本，为 UWP 和桌面应用（包括 Win32 和 .NET 应用）提供了一套丰富的UI控件和开发工具。WinUI 3 允许开发者创建现代、流畅的 Windows 应用，同时保持与现有应用和系统的兼容性。它是微软未来 Windows 应用开发的重点，支持最新的UI设计语言。
+  5. `Electron` 虽然不是专门针对 Windows 的开发技术，但它是一个流行的跨平台桌面应用开发框架，允许使用 Web 技术（HTML、CSS和JavaScript）开发桌面应用。Electron应用可以运行在Windows、macOS和Linux上。它特别适合Web开发者，因为可以让他们轻松将Web应用转换为桌面应用。
+  6. `MAUI (.NET Multi-platform App UI)` 是 .NET 6 引入的一个新框架，支持使用单一代码库开发跨平台的桌面和移动应用。MAUI 允许开发者利用 .NET 和 C# 开发Windows、macOS、iOS 和 Android 上的应用，是一个未来的主流开发趋势，特别适合需要跨平台支持的应用开发。
+
+Mac 应用开发的主流技术（截至 2023）：
+  1. `SwiftUI` 是 Apple在2019年推出的一个现代化UI框架，用于在 iOS、macOS、watchOS 和 tvOS 上构建用户界面。SwiftUI 使用声明式 Swift 语法，使得 UI 代码更加简洁、易读。SwiftUI 支持实时预览和交互式设计，极大地提高了开发效率。它允许开发者用较少的代码创建复杂且性能优化的UI，并且易于维护和更新。
+  2. `AppKit` 是为 macOS 应用开发而设计的一套成熟的 UI 框架，提供了丰富的控件库和界面元素，适用于传统的 macOS 桌面应用开发。
+技术特点：AppKit 深度集成了 macOS 的界面特性，支持多窗口、菜单栏、拖放等 macOS 特有的功能。它适用于需要深度定制 macOS 原生体验的复杂桌面应用。
+  3. `Swift` 是 Apple 开发的一种强类型、编译式编程语言，旨在开发 iOS、macOS、watchOS 和 tvOS 应用。Swift 设计旨在安全性和性能，并且提供了现代编程语言的特性，如闭包、元组、泛型等。Swift易于学习和使用，具有良好的性能和安全性，是开发Apple平台应用的首选语言。
+  4. `Objective-C` 是 Apple 平台上的传统编程语言，长期以来被用于 iOS 和 macOS 应用的开发。虽然 Swift 的出现使其逐渐被取代，但 Objective-C 仍然被广泛使用，特别是在维护旧项目时。Objective-C 具有动态运行时和成熟的生态系统。对于一些已有的大型项目或需要与旧代码库交互的新项目，Objective-C 依然是一个重要的选择。
+  5. `跨平台框架`如 Electron、Qt、Flutter 和 .NET MAUI 等。这些框架支持使用单一代码库开发跨平台的桌面应用，包括 macOS。
+
+Linux 应用开发的主流技术（截至 2023）：
+  1. `Qt` 是一个跨平台的 C++ 应用程序框架，广泛用于开发具有图形用户界面的应用程序，同时也用于开发非 GUI 程序，如控制台工具和服务器。Qt 支持强大的信号与槽机制，使得应用程序的不同组件之间的通信变得简单高效。它提供了一整套开发工具，包括一个集成开发环境（IDE），Qt Creator。
+  2. `GTK`（GIMP Toolkit）是另一个用于创建图形用户界面的开源跨平台工具包，原本为 GIMP 开发，现广泛用于 GNOME 桌面环境的应用程序开发。GTK 使用 C 语言编写，支持多种语言绑定，如 Python（通过PyGTK）、JavaScript（通过GJS）等，适用于快速开发 Linux 桌面应用。
+  3. `Electron` 是一个使用 Chromium 和 Node.js 开发桌面级应用程序的框架，允许开发者使用 Web 技术（HTML、CSS和JavaScript）创建跨平台的桌面应用。Electron应用可以运行在Linux、Windows和macOS上，它特别适合那些希望将现有Web应用转换为桌面应用的开发者。
+  4. `Docker` 是一个开源的应用容器引擎，允许开发者打包应用及其依赖项到一个可移植的容器中，然后发布到任何支持 Docker 的 Linux 机器上。Docker 容器化技术支持应用的快速部署、扩展和版本控制，非常适合云计算和微服务架构。
+  5. `Flutter` 是 Google 开发的一个开源UI软件开发工具包，用于从单一代码库开发跨平台的移动、Web 和桌面应用。Flutter 使用 Dart 语言，支持快速的开发周期和富动画的 UI 设计，近年来在跨平台移动和桌面应用开发中变得越来越流行。
+
+> 此条目涉及的技术、工具和框架多而繁杂，因而无法给出推荐课程和书目，请善用搜索引擎、在线网络资源和官方文档。其相关的技术基础，也不外乎前面所列的 5 门核心基础课程。
 
 ### 网站开发 Web Development
 
 “网站开发”课程通常涵盖设计、创建和维护网站的相关主题。这样的课程旨在为学生提供构建现代网站所需的技能，包括前端（用户界面和用户体验）和后端（服务器端）开发。
 
-**【课程】Stanford CS142: Web Applications** [#课程主页](https://web.stanford.edu/class/cs142/index.html) [课程视频](https://web.stanford.edu/class/cs142/lectures.html)
+**【课程】Stanford CS142: Web Applications** [#课程主页](https://web.stanford.edu/class/cs142/index.html) [#课程视频](https://web.stanford.edu/class/cs142/lectures.html)
 
 **【资源】前段技能树**[#Github](https://github.com/JacksonTian/fks)
 
+网页开发技术栈的**示例**：
+  - 前端技术栈
+    - HTML/CSS/JavaScript：构成网页开发的基础，任何网站或网页应用都会用到这三项技术。
+    - React：由 Facebook 开发的一个用于构建用户界面的 JavaScript 库。支持组件化开发，有助于构建大型应用，拥有丰富的生态系统和社区支持。
+    - Vue.js：一个渐进式 JavaScript 框架，用于构建用户界面。易于上手，轻量级，具有数据双向绑定的特性，社区活跃。
+    - Angular：由 Google 维护的一个开放源代码的 Web 应用框架。提供了一套完整的解决方案，适合构建大型、高性能的Web应用。
+    - Tailwind CSS：一个实用主义的 CSS 框架，用于快速构建自定义设计的界面。强调直接在HTML中使用类，避免编写 CSS，提高开发效率。
+  - 后端技术栈
+    - Node.js：一个基于 Chrome V8 引擎的 JavaScript 运行时，使得 JavaScript 可以用于后端开发。支持非阻塞 I/O，适合处理高并发请求，拥有庞大的npm包管理器。
+    - Django (Python)：一个高级的 Python Web 框架，鼓励快速开发和干净、实用的设计。包含了构建 Web 应用所需的几乎所有功能，强调代码复用。
+    - Ruby on Rails (Ruby)：一个使用 Ruby 语言的服务器端 Web 应用框架。遵循“约定优于配置”的原则，使得 Web 应用的开发变得更快更简单。
+    - Spring Boot (Java)：一个简化 Spring 应用开发的框架，旨在快速、轻松地构建独立的、生产级别的 Spring 基础的应用。简化配置，快速启动和部署，广泛用于企业级应用开发。
+    - ASP.NET Core (C#)：一个开源的、跨平台的高性能框架，用于构建现代的、云基础的、联网的应用。支持 Windows、Linux 和 macOS，可用于开发高性能Web应用和服务。
+  - 数据库技术
+    - SQL 数据库：如 MySQL、PostgreSQL 和 Microsoft SQL Server，适用于结构化数据存储。
+    - NoSQL 数据库：如 MongoDB、Cassandra 和 Redis，适用于非结构化数据或需要高扩展性的场景。
+  - 开发工具和平台
+    - 版本控制：Git，GitHub/GitLab/Bitbucket 等。
+    - 容器化：Docker，Kubernetes 等。
+    - 持续集成/持续部署：Jenkins，Travis CI，GitHub Actions 等。
+    - 云服务平台：AWS，Google Cloud Platform，Microsoft Azure 等。
 
 ### 计算机安全与密码学 Computer Security and Cryptography
 

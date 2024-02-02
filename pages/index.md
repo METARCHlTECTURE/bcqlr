@@ -14,7 +14,7 @@ permalink: /
 
 <br>
 
-`Being interested or not surpasses all else for me and constructs my entire existence.`
+`For me, being interested or not surpasses all else, and constructs my entire existence.`
 
 `(๑•̀ㅂ•́)و✧ 感不感兴趣对我来说比什么都重要，可以说是我人生的全部。`
 
