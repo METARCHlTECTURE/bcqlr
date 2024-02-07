@@ -211,7 +211,7 @@ highlight: true
    > Z 是可列集
    > 任意有限个可列集的并都是可列集 Any finite union of countable sets is countable.
 4. 定理 1.1.1 可列个可列集之并，也是可列集 The union of countably many countable sets is countable.(Assuming *the axiom of countable choice*)
-   > 对角法排列，用于表示可列个可列集之并。
+   > 对角法排列（`康托三角形`），用于表示可列个可列集之并。
 5. 定理 1.1.2 有理数集合 Q 是可列集
 6. 定义 有序对 ordered pair
 7. Descartes 乘积集合 Cartesian product [kɑrˈtiʒən]
