@@ -2,7 +2,7 @@
 title: Learning Path and Basics of Computer Science
 ---
 
-当前版本：v1.1 
+当前版本：v1.2
 
 ## 关于本文
 
@@ -65,6 +65,8 @@ title: Learning Path and Basics of Computer Science
 **这四种编程范式，才是最核心的组织计算机程序的方法，是每一个程序开发人员需要深刻理解的思想**（而不是泡在层出不穷的新语言的汪洋大海中）；编程语言固然重要，但是也只是这四种思维的表达形式、是外表而非筋骨（这也是为什么中文编程毫无意义，编程的真正语言是高度抽象的数学语言，而而非英文或者中文）。现代编程语言总是想给你很大的自由（大部分语言是多范式的），所以**只要去学就好了，你永远可以十分轻松地从一门编程语言切换到另外一门。**
 
 与其挑剔编程语言，不如选取更容易理解的公开课和教程。以下是非常适合入门的编程语言学习资源。
+
+> **不要重语法，轻程序设计**——许多编程入门课程都着重于讲清楚一门编程语言的语法、许多初学者都在编程语言稀奇古怪的语法上下大功夫，这是一个超级巨大的错误。程序设计的方法和思路，远比语法重要，应该作为初学者的重点。在斯坦福大学教授“编程方法学”的 Mehran Sahami 曾经说过“很多计算机专业的同学会走入误区，（认为）仅仅学习语言本身特性，只要学好了语言，就能成为一个好的软件工程师。他们过于关注语言本身的细节，对程序设计却没有宏观把握。后来出现了一位叫 Rich Pattis 的人，他当时是一名斯坦福的研究生，他说，“给同学们教授计算机科学入门课程，能不能先把各种语言的繁杂指令、和各种语言的差异放一边，先从最简单的教起，以便学生能更快的学习各种指令，这样，大家就具备了掌握程序设计语言的基本素养，可以把主要精力放在软件工程思想方面。事实证明这个想法很天才，已经被广泛接受。”
 
 ### Python
 
@@ -422,6 +424,10 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 **★【课程】UC Berkeley CS61A: Computer Programs** [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1v64y1Q78o) [#课程主页](https://inst.eecs.berkeley.edu/~cs61a/sp21/)
   - MIT SICP 课程的现代版本，使用 Python 语言教学。 
   - Brian Harvey 在 2011spring 第一节课的开场白是：“这里是cs61a，世界上最好的计算机课。”接着他又说道：“并不是因为我，而是因为我们用的教材——《计算机程序的构造与解释》。”
+
+**【课程】Stanford CS106a: Programming Methodology**  [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1zs411h7t8）[#课程主页](https://see.stanford.edu/Course/CS106A)
+  - 在线课件及IDE: [#Stanford Karel](https://stanford.edu/~cpiech/karel/learn.html)
+  - 非常细致地以 Java 语言讲解了编程思想。
 
 **【书籍】程序设计语言-实践之路 Programming Language Pragmatics** [#豆瓣](https://book.douban.com/subject/2152385/)
   - 这是一本很有特色的教材，其核心是讨论程序设计语言的工作原理和技术。本书融合了传统的程序设计语言教科书和编译教科书的有关知识，并增加了一些有关汇编层体系结构的材料，以满足没学过计算机组织的学生们的需要。书中通过各种语言的例子，阐释了程序设计语言的重要基础概念，讨论了各种概念之间的关系，解释了语言中许多结构的形成和发展过程，以及它们演化为今天这种形式的根源。书中还详细讨论了编译器的工作方式和工作过程，说明它们对源程序做了什么，以及为什么要那样做。书的每章最后附有复习题和一些更具挑战性的练习。这些练习的特别价值在于引导学生进一步深入理解各种语言和技术。本书第2版新增了脚本语言问题的讨论，涵盖 Perl、Python、Ruby、Tcl、PHP、JavaScript、XSLT 等和其他语言。
@@ -1240,6 +1246,10 @@ Linux 应用开发的主流技术（截至 2023）：
 
 数理逻辑是数学和哲学的交叉领域，研究形式系统和推理规则。它涉及了数学中的逻辑结构和命题关系，以及通过形式系统进行合理推理的原理。数理逻辑的应用涉及到计算机科学、哲学、语义学、数学基础等多个领域。它为理解和形式化推理提供了一种严密的框架，对于发展计算机科学和推理技术都具有重要意义。
 
+
+**【书籍】Beginning Mathematical Logic: A Study Guide** [#电子书](https://www.logicmatters.net/resources/pdfs/LogicStudyGuide.pdf)
+  - Peter Smith 教授为自学数理逻辑而编写的教程。
+
 **【书籍】Modern Mathematical Logic**
   - 这教材提供了对数学逻辑的完整且现代的介绍。作者在整个教材中使用当代的符号、约定和观点，并强调与数学的其他领域的交互。除了涵盖数学逻辑的基本概念和完备性、紧致性、不完备性的基本内容外，它还大量介绍了现代学科的基石：模型理论、集合论和可计算性理论。
   - 这本教材仅需要一定的本科数学背景，可以轻松地适应上本科或初研级别的一学期或两学期课程。
@@ -1511,6 +1521,9 @@ Lambda 演算的一个关键特征是匿名函数（anonymous functions）。函
 **免费的编程中文书籍索引**[#主页](https://github.com/justjavac/free-programming-books-zh_CN)
 
 **免费编程书籍** [#主页](https://ebookfoundation.github.io/free-programming-books/) [#Github](https://github.com/EbookFoundation/free-programming-books)
+
+**Logic Matters** [#主页](https://www.logicmatters.net/)
+
 
 ### 练习项目篇
 

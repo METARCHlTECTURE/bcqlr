@@ -42,10 +42,26 @@ The secret of happiness, you see, is not found in seeking more, but in developin
 Know thyself.
   - 认识你自己。
 
+## 亚里士多德 Aristotle BC 384 - BC 322
+
+所有学科都比哲学有用，但是唯有哲学是自由的学问。因为所有的学科都有前提，都有它服务的对象。但唯独哲学是为了自身而被追求的知识。哲学是自由人的学问。
+  - ChatGPT: All disciplines are more useful than philosophy, but only philosophy is the pursuit of knowledge for its own sake. Because all disciplines have prerequisites and objects they serve. But only philosophy is pursued for its own sake. Philosophy is the study of free people.
+
+Politics: Man is a political animal.
+  - z政治学：人是城邦的动物。
+  - Πολιτικά: Ζῷον πολιτικόν.
+
 ## 伊壁鸠鲁 Epicurus BC 341 - BC 270
 
 关于死亡：
   - 死亡和我们没有关系。因为只要我们存在一天，死亡便不存在；而当死亡来临时，我们也不存在。
+
+## 黑格尔
+
+追求真理的勇气，相信精神的力量，乃是哲学研究的第一条件。人应尊敬他自己，并应自视能配得上最高尚的东西。精神的伟大和力量是不可以低估和小视的。那隐蔽着的宇宙本质自身并没有力量足以抗拒求知的勇气。对于勇毅的求知者，它只能揭开它的秘密，将它的财富和奥妙公开给他，让他享受。
+
+1816 年 10 月 28 日在海得堡大学的演讲：
+  - 时代的艰苦使人对日常生活中平凡的琐屑的兴趣予以太大的重视，现实上很高的利益和为了这些利益而作的斗争，曾经大大地占据了精神上一切的能力和力量以及外在手段，因而使得人们没有自由的心情去理会那较高的内心活动和较纯洁的精神活动。以致许多较优秀的人才都为这种艰苦环境所束缚，并且部分地被牺牲在里面。 [#full text](https://www.marxists.org/reference/archive/hegel/works/hp/hpinaug.htm)
 
 ## 叔本华 Arthur Schopenhauer 1788 - 1860
 
@@ -108,6 +124,14 @@ Know thyself.
   - “整个希腊思想都疯狂的迷恋理性，这就陷入了绝望的境地：危险重重，只有一个选择，不是毁灭，就是荒诞地理性。从柏拉图之后的希腊哲学家们的道德主义都是有病理根据的，对辩证法的尊重也是如此。理性=美得=幸福，这意味着人们必须效仿苏格拉底，用永恒的白昼——理性的白昼，驱散黑暗的欲望。人们必须不惜一切代价使自己变得聪明、清楚、明白；任何对本能的妥协，对无知的妥协都会走向瓦解。”
   - “苏格拉底是个误会：整个改善道德社会，包括基督教社会，都是一个误会。眩目的白昼，不计代价的理性、生命、明亮、寒冷、谨慎、自觉、没有本能，反对本能——这些都是疾病，另一种疾病，不可能重拾‘美德’，恢复‘健康’，达到幸福。必须与本能抗争——这是颓废的公式。只要生命在进行，幸福就是本能。
 
+We should consider every day lost on which we have not danced at least once.
+  - 每一个不曾起舞的日子，都是对生命的辜负。
+
 ## 怀特海 Alfred North Whitehead 1861 - 1947
 
-  - “整个西方哲学史，无非是对柏拉图的一系列注脚。”
+- “整个西方哲学史，无非是对柏拉图的一系列注脚。”
+
+
+## 海德格尔 Martin Heidegger 1889 - 1976
+
+- 如果有人借口说，哲学太难了、太多了，那他就已经不自由了，已经成了偏见和舒适的奴隶。看起来好像这个借口表现了谦虚和明智，而根本上是对一种真正科学学习的努力的逃离。因为哲学不是对其他学习的“更多”或“附加”，而恰恰就是那些专门科学所是的东西，只是更加彻底并且是在更加深入的理解中的。“太难”：只要科学是被现实的问题所驱动，那么就不会容易。只有那些没有理解的纯粹习学才是容易的。
