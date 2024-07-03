@@ -6,17 +6,13 @@ CLARIFICATION: Collecting well-known sayings of philosophiers is not a way to le
 
 ## 苏格拉底 Socrates BC 470 - BC 399
 
-The only true wisdom is in knowing you know nothing.
-  - 唯一的智慧是自知无知。
 
-The unexamined life is not worth living.
-  - 未经省察的人生，不值得过。
 
-I cannot teach anybody anything. I can only make them think
-  - 我不能教会任何人任何东西，我只能使他们思考。
 
-There is only one good, knowledge, and one evil, ignorance.
-  - 世间唯一的善是知识，唯一的恶是无知。
+
+
+
+
 
 Be kind, for everyone you meet is fighting a hard battle.
   - 请善良一些，因为你遇到的每个人都在进行一个场艰苦卓绝的战斗。
