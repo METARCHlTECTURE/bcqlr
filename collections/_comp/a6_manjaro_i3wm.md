@@ -5,7 +5,7 @@ highlight: true
 
 注：现在 Manjaro 官方已有 i3wm 版本的官方镜像。
 
-## 下载 Manjaro 并烧录至 U 盘
+## 下载 Manjaro 并制作安装 U 盘
 
 1. 下载 Manjaro：[官方镜像](https://manjaro.org/downloads/official/xfce/)
 2. 下载 Rufus：[官方下载](https://rufus.ie/en_US/)
