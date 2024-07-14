@@ -15,14 +15,17 @@ In our home, across the fog, the Lands Between.
   - shatter / ˈʃætə(r) / v.（使）破碎，碎裂；破坏，摧毁（抽象物）；使极为惊愕难过，给予极大打击 n.碎片；受到极大打击的状态
   - `Lands Between “交界地”`
 
-Now, Queen Marika the Eternal is nowhere to be found,w
+Now, Queen Marika the Eternal is nowhere to be found,
 and in the Night of the Black Knives,
 Godwyn the Golden was first to perish.
 
 “永恒女王”玛莉卡销声匿迹，在黑刀阴谋之夜，“黄金”葛德文最先失去性命。
 
   - `Queen Marika the Eternal “永恒女王”玛莉卡`
-  - `Night of the Black Knives 黑刀阴谋之夜`  
+  - `Night of the Black Knives 黑刀阴谋之夜`
+  - `Godwyn the Golden “黄金”葛德文`
+    - 玛莉卡与葛弗雷的长子。
+    - Godwyn 来自古英语，意为 God's friend。
   - perish v.（人或动物）惨死，猝死；湮灭，毁灭；（木头、橡胶、食物等）腐烂，腐败；<英，非正式> 经受酷寒
 
 Soon, Marika's offspring, demigods all, claimed the shards of the Elden Ring.
@@ -150,7 +153,10 @@ One of his/her kind is sure to seek the Elden Ring.
   - `Golden Order 黄金律法`
   - be sure to 务必，一定要：表示强调或建议某事务必要做，不能忽视。
 
-## 入 Stranded Graveyard
+## 入 Stranded Graveyard 漂流墓地
+
+  - stranded adj.搁浅的；陷于困境的；有……股的（常用来构成复合词） v.搁浅（strand 的过去式和过去分词）
+    - strand n.（绳、线、毛发等的）股，缕；串；（故事、观点、计划等的）部分；（海洋、湖或河的）岸，滨 v.使滞留，使困在（某处）；使（船，船员，海洋生物）搁浅；使（跑垒员）残留垒上
 
 ### 遇幽灵，指引新手教程
 
@@ -168,6 +174,7 @@ Recall the arts of war. And your warrior's blood.
     - v.（使）突然向前倒下（跌落）；猛推，猛插；投入（液体中以使淹没）；（价值）猛跌；（剧烈）颠簸，震荡；（马）猛地用后腿直立；陡然向下倾斜；骤然陷入；（鲁莽地）开始；（使）投身，（使）突然开始从事；种下（植物）
     - n.（突然的）坠落；跳水，快速游泳；（价值或数量的）骤然下跌；突然陷入
     - adj.（女式服装）领口低的（plunging）
+  - remembrance / rɪˈmembrəns / n.纪念，怀念；记忆，回忆；纪念品，纪念物；记忆力
 
 **获得 Finger Severer、Tarnished Furled Finger**
 
@@ -269,6 +276,7 @@ you may receive a summons. To the famed Roundtable Hold…
   - decrepit / dɪˈkrepɪt / adj.衰老的；破旧的
   - `Godrick the Grafted “接肢”葛瑞克`
     - graft / ɡrɑːft / n.嫁接；移植；辛苦的工作；贪污 v.嫁接；移植；辛苦地工作；贪污；植根；引入；（尤指不恰当地）将（某物）永久地插入别的物体
+    - ric 为古英语，意为 power 或者 rule。`葛瑞克是玛莉卡与葛弗雷的第三代子嗣。曾在碎片战争中被玛莲尼娜击败。`
   - make it that far 走到那个程度/距离：指完成某项任务或达到某个目标所需的距离或程度。
   - rest assured 放心吧，可以确信
   - sympathise / ˈsɪmpəθaɪz / vi.同情；吊唁；共鸣（等于 sympathize）
@@ -1659,7 +1667,7 @@ I almost feel sorry for the chap the more I think of it.
 啊，对，给你一个建议。
 最好小心葛瑞克的褪色者猎人。
 那群家伙一心想抓到你们褪色者， 当作恐怖“接肢”的祭品。
-……只是凭葛瑞克那种格局， 根本不配挤身君王之流。
+……只是凭葛瑞克那种格局， 根本不配 挤身君王之流。
 战败之后混在女人堆里逃出王城， 忌惮拉塔恩，躲在城里一个气也不敢吭。
 小看玛莲妮亚，结果输得落花流水， 还跪地亲吻她的脚表示服从。
 实在是软弱无比，不知羞耻的男人。
@@ -1669,6 +1677,8 @@ I almost feel sorry for the chap the more I think of it.
   - furnish v.为（房间或房屋）配备家具；提供，供应
   - were I in your shoes 假如我是你
   - deprave / dɪˈpreɪv / vt.使堕落；使腐败
+  - `Godfrey, the First Elden Lord “初始之王”葛弗雷`
+    - Godfrey 来自于古法语 Godefroy，意为 God's Peace。*蛮族之王，与玛莉卡共建黄金秩序后结合。后被放逐出交界地。*
 
 What are you waiting for? A kiss goodbye?
 My fort lies to the south, beyond the Mistwood. Take it back for me.
@@ -2172,3 +2182,577 @@ My dear consort, eternal.
 规律9：合成名词的重读音节在第一个名词上，例如：'blackboard, 'bedroom。
 
 规律10 ：反身代词的重音往往在第二个音节上，例如：my'self, them'selves。
+
+### 
+
+宁姆格福 Limgrave 
+
+The first step 引导开始
+
+Church of Ellen 艾雷教堂
+
+GateFront 关卡前方
+
+Waypoint Ruins Cellar 驿站街遗迹的地下室
+
+Artist’s Shack画家的破屋
+
+Third Church of Marika玛莉卡第三教堂 
+
+Fort Haight West海德要塞西方
+
+Agheel Lake South亚基尔湖南方
+
+Agheel Lake North亚基尔湖北方
+
+Church of Dragon Communion龙飨教堂
+
+Seaside Ruins傍海古遗迹
+
+Mistwood Outskirts 雾林边缘
+
+Murkwater Coast蒙流岸边
+
+Summonwater Village Outskirts水唤村外
+
+Stormfoot Catacombs风暴根脚的地下墓地
+
+Murkwater Catacombs蒙流地下墓地
+
+Groveside Cave近林洞窟
+
+Murkwater Cave蒙流洞窟
+
+Highroad Cave大道下的洞窟
+
+Limgrave Tunnels宁姆格福坑道
+
+
+
+漂流墓地Stranded Graveyard
+
+Cave of Knowledge 求学洞窟
+
+Stranded Graveyard漂流墓地
+
+
+
+宁姆格福-风暴山丘Stormhill
+
+Stormhill Shack风暴山丘的破屋
+
+Castleward Tunnel通城隧道
+
+Margit, the Fell Omen“恶兆妖鬼”玛尔基特
+
+Warmaster’s Shack习战者的破屋
+
+Saintsbridge圣人桥
+
+Deathtouched Catacombs死亡降临的地下墓地
+
+Limgrave Tower Bridge 宁姆格福神授塔（桥上）
+
+Divine Tower of Limgrave宁姆格福神授塔
+
+
+
+宁姆格福-啜泣半岛Weeping Peninsula
+
+
+
+Church of Pilgrimage巡礼教堂
+
+Castle Morne Rampart摩恩城（城墙前方）
+
+Tombsward灵庙原野
+
+South of the Lookout Tower监视塔的南方
+
+Beside the Crater-Pocked Glade地坑旁
+
+Isolated Merchant’s Shack隐居商人的破屋
+
+Fourth Church of Marika玛莉卡第四教堂
+
+Bridge of Sacrifice献祭大桥
+
+Castle Morne Lift摩恩城（升降机前方）
+
+Behind the Castle城堡后方
+
+Beside the Rampart Gaol城墙监牢旁
+
+Morne Moangrave摩恩悲叹墓
+
+Impaler’s Catacombs穿刺地下墓地
+
+Earthbore Cave灵庙原野地下墓地
+
+Morne Tunnel摩恩坑道
+
+
+
+
+
+Stormveil Castle史东薇尔城
+
+Stormveil Main Gate史东薇尔正门
+
+Gateside Chamber 门旁小屋
+
+Stormveil Cliffside史东薇尔断崖
+
+Rampart Tower城墙塔
+
+Liftside Chamber升降机旁房间
+
+Secluded Cell深处小房间
+
+Godrick the Grafted“接肢”葛瑞克
+
+
+
+Liurnia of The Lakes湖之利耶尼亚
+
+Lake-Facing Cliffs傍湖断崖
+
+Liurnia Lake Shore利耶尼亚湖（湖边）
+
+Laskyar Ruins拉斯卡废墟
+
+Academy Gate Town学院门前镇
+
+South Raya Lucaria Gate雷亚卢卡利亚（南门）
+
+Main Academy Gate学院正门口
+
+Liurnia Highway South利耶尼亚大道（南方）
+
+Luirnia Highway North利耶尼亚大道（北方）
+
+Gate Town Bridge门前镇大桥
+
+Artist’s Shack画家的破屋
+
+Ranni’s Chamber菈妮的房间
+
+Eastern Tableland东边台地
+
+Church of Vows结缘教堂
+
+Slumbering Wolf’s Shack眠狼的破屋
+
+Village of the Albinauries 白金村
+
+Converted Tower 改宗塔
+
+Revenger’s Shack复仇者的破屋
+
+Temple Quarter教堂区
+
+Crystalline Woods结晶森林
+
+Foot of the Four Belfries四钟楼山脚
+
+The Four Belfries四钟楼
+
+Sorcerer’s Isle魔法师塔的小岛
+
+Gate Town North门前镇的北方
+
+Northern Liurnia Lake Shore利耶尼亚湖（北岸）
+
+Road to the Manor通往城寨的道路
+
+Main Caria Manor Gate卡利亚城寨（正门）
+
+Manor Upper Level城寨上部
+
+Manor Lower Level城寨下部
+
+Royal Moogazing Grounds王室赏月地
+
+Ranni’s Rise菈妮魔法师塔
+
+Behind Caria Manor卡利亚城寨（后方）
+
+The Ravine谷底
+
+Ravine-Veiled Village谷底秘村
+
+Road’s End Catacombs绝路地下墓地
+
+Black Knife Catacombs黑刀地下墓地
+
+Stillwater Cave留水洞窟
+
+Lakeside Crystal Cave湖旁结晶洞窟
+
+Raya Lucaria Crystal Tunnel雷亚卢卡利亚结晶坑道
+
+Study Hall Entrance书斋入口
+
+Liurnia Tower Bridge利耶尼亚神授塔（桥上）
+
+Divine Tower of Liurnia利耶尼亚神授塔
+
+
+
+Bellum Highway湖之利耶尼亚-彼鲁姆大道
+
+East Raya Lucaria Gate 雷亚卢卡利亚（东门）
+
+Bellum Church彼鲁姆教堂
+
+Grand Lift of Dectus迪可达斯大升降机
+
+Frenzied Flame Village Outskirts癫火村外
+
+Church of Inhibition镇静教堂
+
+Ruin-Strewn Precipe湖之利耶尼亚-古遗迹断崖
+
+Ruin-Strewn Precipe古遗迹断崖
+
+Ruin-Strewn Precipe Overlook古遗迹断崖（对岸）
+
+Magma Wyrm熔岩土龙
+
+
+
+Moonlight Altar湖之利耶尼亚-月光祭坛
+
+Moonlight Altar月光祭坛
+
+Cathedral of Manus Celes玛努斯·瑟利斯大教堂
+
+Altar South祭坛南方
+
+Academy of Raya Lucaria魔法学院雷亚卢卡利亚-魔法学院雷亚卢卡利亚
+
+
+
+Church of the Cuckoo杜鹃教堂
+
+Schoolhouse Classroom校舍内的教室
+
+Debate Parlor讨论室
+
+Atlus Plateau亚坛高原-亚坛高原
+
+Abandoned Coffin弃置棺材
+
+Erdtree-Gazing Hill近黄金树的山丘
+
+Atlus Highway Junction亚坛大道的三叉口
+
+Forest-Spanning Greatbridge穿林大桥
+
+Windmill Village 风车村
+
+Shaded Castle Ramparts日荫城（城墙）
+
+Shaded Castle Inner Gate日荫城（内门）
+
+Castellan’s Hall城主大厅
+
+Old Atlus Tunnel旧亚坛坑道
+
+Mt. Gelmir亚坛高原-格密尔火山
+
+
+
+Bridge of Iniquity罪人桥
+
+First Mt. Gelmir Campsite格密尔火山（第1休息站）
+
+Ninth Mt. Gelmir Campsite格密尔火山（第9休息站）
+
+Road of Iniquity移送罪人之路
+
+Seethewater River沸滚河
+
+Seethewater Terminus沸滚河终点
+
+Craftsman’s Shack匠人的破屋
+
+Primeval Sorcerer Azur“起源魔法师”亚兹勒
+
+Gelmir Hero’s Grave格密尔英雄墓地
+
+Seethewater Cave沸滚河洞窟
+
+Volcano Cave 火山洞窟
+
+
+
+Leyndell, Royal Capital亚坛高原-王城罗德尔
+
+Outer Wall Phantom Tree城外幻影树
+
+Minor Erdtree Church 小黄金树教
+
+Outer Wall Battleground城外战场遗迹
+
+Capital Rampart遁世商人的破屋
+
+Sealed Tunnel封印坑道
+
+Erdtree Sanctuary黄金树大教堂
+
+East Capital Rampart王城东边城墙
+
+Avenue Balcony大道旁露台
+
+West Capital Rampart王城西边城墙
+
+Queen’s Bedchamber女王闺阁
+
+Fortified Manor, First Floor城寨一楼
+
+Divine Bridge神授桥
+
+Elden Throne艾尔登宝座
+
+Subterranean Shunning-Grounds王城罗德尔-弃置恶兆的地底
+
+Underground Roadside地底大道旁
+
+Forsaken Depths弃置恶兆的底层
+
+Frenzied Flame Proscription癫火封印
+
+Cathedral of the Forsaken弃置恶兆的大教堂
+
+
+
+Volcano Manor火山官邸
+
+Volcano Manor火山官邸
+
+Prison Town Church牢镇教堂
+
+Temple of Eiglay艾格蕾教堂
+
+Guest Hall迎宾厅
+
+Audience Pathway谒见之路
+
+Rykard, Lord of Blasphemy掳人少女人偶
+
+
+
+Caelid盖利德
+
+Smoldering Church熏火教堂
+
+Rotview Balcony腐败旁露台
+
+Caelem Ruins奇列姆废墟
+
+Smoldering Wall熏烧火墙
+
+Cathedral of Dragon Communion大龙飨教堂
+
+Southern Aeonia Swamp Bank艾奥尼亚沼泽（南岸）
+
+Sellia Backstreets瑟利亚镇后侧
+
+Sellia Under-Stair瑟利亚镇（楼梯下方）
+
+Chair-Crypt of Sellia瑟利亚椅子庙
+
+Church of the Plague腐败病教堂
+
+Deep Siofra Well希芙拉河的出口井
+
+Impassable Greatbridge不破大桥
+
+Chamber Outside the Plaza广场前房间
+
+Starscourge Rad红狮子城（广场）
+
+Starscourge Radahn“碎星”拉塔恩
+
+War-Dead Catacombs英灵地下墓地
+
+Minor Erdtree Catacombs小黄金树地下墓地
+
+Gael Tunnel盖利德地下墓地
+
+Rear Gael Tunnel Entrance盖尔坑道（侧门口）
+
+Sellia Crystal Tunnel瑟利亚结晶坑道
+
+Forsaken Ruins 废弃洞窟
+
+
+
+Swamp of Aeonia盖利德-艾奥尼亚沼泽
+
+Aeonia Swamp Shore艾奥尼亚沼泽（岸边）
+
+Astray from Caelid Highway North盖利德大道北方（偏离大道后）
+
+Heart of Aeonia艾奥尼亚中心地
+
+Inner Aeonia艾奥尼亚沼泽（深处）
+
+
+
+Greyoll’s Dragonbarrow盖利德-桂奥尔龙墓
+
+Dragonbarrow West龙墓西方
+
+Isolated Merchant’s Shack隐居商人的破屋
+
+Fort Faroth法洛斯要塞
+
+Dragonbarrow Fork龙墓的岔路
+
+Lenne’s Rise雷恩魔法师塔
+
+Farum Greatbridge法姆大桥
+
+Bestial Sanctum野兽神殿
+
+Divine Tower of Caelid: Center盖利德神授塔（中段）Divine Tower of Caelid: Basement盖利德神授塔（地底）
+
+Forbidden Lands巨人山顶-禁域
+
+Forbidden Lands禁域
+
+Grand Lift of Rold洛德大升降机
+
+Hidden Path to the Haligtree通往圣树的密道
+
+
+
+Mountaintops of the Giants巨人山顶-巨人山顶
+
+Zamor Ruins萨米尔废墟
+
+Ancient Snow Valley Ruins古遗迹降雪谷
+
+First Church of Marika玛莉卡第一教堂
+
+Whiteridge Road降雪棱线路
+
+Snow Valley Ruins Overlook古遗迹山谷的山崖上
+
+Castle Sol Main Gate索尔城（正门）
+
+Church of the Eclipse 日蚀教堂
+
+Castle Sol Rooftop索尔城（屋顶）
+
+
+
+Giant’s Gravepost巨人墓碑
+
+Consecrated Snowfield巨人山顶-化圣雪原
+
+Consecrated Snowfield化圣雪原
+
+Ordina, Liturgical Town“仪典镇”奥缇那
+
+Apostate Derelict离教废屋
+
+
+
+Miquella’s Haligtree米凯拉的圣树
+
+Haligtree Canopy圣树树冠
+
+Haligtree Town 圣树镇
+
+Haligtree Town Plaza圣树镇（广场）
+
+Haligtree Promenade圣树大舞台
+
+
+
+Elphael, Brace of the Haligtree米凯拉的圣树-“圣树分枝”艾布雷菲尔
+
+Prayer Room祈祷室
+
+Elphael Inner Wall艾布雷菲尔城墙内部
+
+Drainage Channel排水通道
+
+Haligtree Roots圣树底层
+
+Malenia, Goddess of Rot“腐败女神”玛莲妮亚
+
+
+
+Ainsel River安瑟尔河
+
+Ainsel River Well Depths安瑟尔河（井底）
+
+Ainsel River Sluice Gate安瑟尔河（水门）
+
+ Ainsel River Downstream安瑟尔河（下游）
+
+Dragonskin Soldier of Nokstella诺克史黛拉的龙人士兵
+
+Astel, Naturalborn of the Void黑暗弃子”艾丝缇
+
+
+
+Ainsel River Main安瑟尔河-安瑟尔河主流
+
+Ainsel River Main安瑟尔河主流
+
+Nokstella, Eternal City“永恒之城”诺克史黛拉
+
+Nokstella Waterfall Basin诺克史黛拉水潭
+
+
+
+Lake of Rot安瑟尔河-腐败湖
+
+Lake of Rot Shoreside腐败湖畔
+
+Grand Cloister大回廊
+
+
+
+Nokron, Eternal City希芙拉河-“永恒之城”诺克隆恩
+
+Nokron, Eternal City“永恒之城”诺克隆恩
+
+Mimic Tear仿身泪滴
+
+Ancestral Woods祖灵森林
+
+Night’s Sacred Ground黑夜神域
+
+Aqueduct-Facing Cliffs导水桥旁断崖
+
+Great Waterfall Basin大瀑布水潭
+
+
+
+Siofra River希芙拉河-希芙拉河
+
+Siofra River Well Depths希芙拉河（井底）
+
+Siofra River Bank希芙拉河（岸边）
+
+Worshippers’ Woods信仰者森林
+
+
+
+Deeproot Depths深根底层-深根底层
+
+The Nameless Eternal City无名永恒之城
+
+Across the Roots树根前路
+
+Prince of Death’s Throne死王子宝座
+
+
+
+Roundtable Hold圆桌厅堂-圆桌厅堂
