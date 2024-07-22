@@ -19,42 +19,38 @@ collection_order    :
     "math",
     "comp",
     "prog",
-    "fart",
+    "note",
   ]
 collections:
   math:
     output          : ture
-    permalink       : /:collection/:title/
+    permalink       : /:collection/:categories/:title/
     alias           : "MATH"
   phil:
     output          : true
-    permalink       : /:collection/:title/
+    permalink       : /:collection/:categories/:title/
     alias           : "PHIL"
   hist:
     output          : true
-    permalink       : /:collection/:title/
+    permalink       : /:collection/:categories/:title/
     sort_by         : name
     alias           : "HIST"
   lit:
     output          : true
-    permalink       : /:collection/:title/
+    permalink       : /:collection/:categories/:title/
     alias           : "LIT"
   comp:
     output          : true
-    permalink       : /:collection/:title/
+    permalink       : /:collection/:categories/:title/
     alias           : "COMP"
-  lang:
+  note:
     output          : true
-    permalink       : /:collection/:title/
-    alias           : "LANG"
-  fart:
+    permalink       : /:collection/:categories/:title/
+    alias           : "NOTE"
+  zygote:
     output          : true
-    permalink       : /:collection/:title/
-    alias           : "FART"
-  zako:
-    output          : true
-    permalink       : /:collection/:title/
-    alias           : "DRAFT"
+    permalink       : /:collection/:categories/:title/
+    alias           : "zygote"
 
 # 3. Comment settings（disqus.com）
 disqus_username     : akiritsu
