@@ -98,6 +98,38 @@ Errors occurred, no packages were upgraded.
 ```bash
 sudo pacman -S [PCKAGE_NAME] --overwrite /PATH/TO/FILE/*
 ```
+
+## 调整系统时间
+
+Linux 默认 Real-time Clock（RTC实时时间）是 Coordinated Universal Time（UTC世界协调时间），也就是零时区的时间。系统时间则增加时区数。
+
+在 Linux 运行过程中，系统时间和硬件时间以异步的方式运行，互不干扰。硬件时间的运行，是靠 Bios 电池来维持，而系统时间，是用 CPU tick 来维持的。
+
+使用双系统时，Windows 会将 Bios 时间修改为本地时间；而 Linux 将其视为零时区时间。而 Linux 以此为基准再增加对应时区数，则计算了两次时区对时间的影响。
+
+```bash
+# 观察本地时间、世界协调时间、时区是否正确
+timedatectl
+
+# 观察硬件时间
+sudo hwclock --show
+
+# 观察系统时间
+date
+
+# 使用 ntpdate 从服务器同步时间
+ntpdate [-nv] [NTP IP/hostname]
+# sudo ntpdate 0.cn.pool.ntp.org
+
+# 写入硬件时间并查看
+sudo hwclock -w
+sudo hwclock --show
+
+```
+
+> ntpdate 同步时间，会造成时间的跳跃，对一些依赖时间的程序和服务会造成影响。此时可以使用 ntpd 服务。
+
+> 使用 ChatGPT 时，如果系统时间与实际时间差距较大，则可能出现 Your connection is not private 错误。
  
 ## 配置 i3-wm 窗口管理器
 

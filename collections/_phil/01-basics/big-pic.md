@@ -22,6 +22,18 @@ highlight: true
 6. 对自己观点进行**论证**，尝试反驳他人，尝试找出别人如何对自己提出反对意见，并且再次反驳他们。
 7. 了解哲学概念的演变。
 
+## 一个路径
+
+1. 现代视角的西方哲学史
+   - Kenny, Anthony. A new history of Western philosophy. OUP Oxford, 2012.
+   - 
+2. 哲学方法学
+   - Fosl, Peter S., and Julian Baggini. The philosopher's toolkit: a compendium of philosophical concepts and methods. John Wiley & Sons, 2020.
+3. 德国古典哲学？
+4. 现象学
+   - Sokolowski, Robert. Introduction to phenomenology. Cambridge university press, 2000. 
+5. 符号学
+
 ## 如何学习哲学史？
 
 始于哲学史，终于哲学史——在入门时学习哲学史获取基本知识。当可以梳理出一部私人哲学史时，就完成自己的哲学（如——黑格尔）。

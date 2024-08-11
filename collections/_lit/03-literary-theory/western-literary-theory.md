@@ -1,5 +1,5 @@
 ---
-title: History ofWestern Literature Theories
+title: History of Western Literature Theories
 categories: 03-Literary-Theory
 ---
 

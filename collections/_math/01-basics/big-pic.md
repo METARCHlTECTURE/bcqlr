@@ -619,6 +619,11 @@ W.S.Massay"Algebraic Topology: An Introduction"(GTM 56)
 
 ### Combinatorics
 
+**Polynomial Methods in Combinatorics**, by Larry Guth
+  - This book discusses the application of polynomial methods and algebraic geometry methods in combinatorics, and relation to Harmonic analysis, Fourier analysis, Number theory, differential geometry.
+  - Terence Tao: It is extremely challenging to present a current research area in a manner that a good mathematics undergraduate would be able to grasp after a reasonable effort, but the author is quite successful in this task, and this would be a book of value to both undergraduates and graduates！
+
+
 (9) R. A. Brualdi, Introductory Combinatorics (5th edition), Pearson Education International, (2010).经典教材 --组合数学教材，机械工业出版社出版了该书的中文译本
 
 (10) L. Lovász, Combinatorial Problems and Exercises (2nd edition), AMS Chelsea Publishing, (2007). --包含了大量组合数学的习题和解答。高等教育出版社有中译版《组合问题与练习》
