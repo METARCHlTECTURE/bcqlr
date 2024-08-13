@@ -14,10 +14,10 @@ However astronomers found that building a mathematical model to explain and pred
 
 ![heliocentrism v.s. geocentrism](https://pic1.zhimg.com/v2-9ca588a1bb7ed7d66dd8446535a4dee8_b.webp)
 
-**That's the power of multiple perspectives, a high-level view and abstraction**. Firstly, planets with magma, rocks and atmospheres are not considered by, what is used are point masses and ghostly forces. The differences between Earth and Jupipter, are represented by just a few numbers. When considering such matters, they are regarded as the same type of thing. Secondly, using the Sun, rather than the Earth, as the center of planetary motion greatly reduced the amount of thought and effort required for humans to find the laws of motion.
+**That's the power of multiple perspectives, high viewpoints and abstraction**. Firstly, planets with magma, rocks and atmospheres are not considered, what is used are point masses and ghostly forces. The differences between Earth and Jupipter, are represented by just a few numbers. By adopting a higher viewpoint, their similarities will be extracted and used as material for deeper, higher-order thinking. Secondly, using the Sun, rather than the Earth, as the center of planetary motion greatly reduced the amount of thought and effort required for humans to find the laws of motion.
 
 It should be noted that the heliocentric model is not only simpler but also more fundamental, as the reason for planetary motion largely stems from the Sun's mass. However, if the situation were reversed and the geocentric model were simpler, the heliocentric model would still be more fundamental, there is enough reason to believe that humans would use the simpler geocentric model to understand the heliocentric model. Just as we first use classical mechanics to gain a foundational understanding before studying relativistic mechanics.
 
-We can do the same when learning programming languages, by adopting multiple perspectives a high-level view and applying abstraction.
+We can do the same when learning programming languages, by adopting multiple perspectives a high viewpoints and applying abstraction.
 
 ## How Should it Actually be Done?
