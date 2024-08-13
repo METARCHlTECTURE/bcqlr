@@ -9,6 +9,9 @@ description         : "Personal site of DeerRIDER"
 markdown            : kramdown
 statement           : "Designed by DeerRIDER, All Rights Reserved"
 bgtext              : "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌∽√∀∂∆∇⋈∅∫∬∳∯∱∲ⅈⅉℂℍℚℝℕℙℤⅇℼℽ⅀ℿℾℽℼ" # texts randomly displayed in background
+# bgtext              : "01"
+# bgtext              : "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+
 
 # 2. Collections
 collection_order    : 
