@@ -1,5 +1,5 @@
 ---
-title: CTMCP Notes
+title: Notes on Concepts, Techniques, and Models of Computer Programming
 ---
 
 ## 第一章 程序设计概念简介

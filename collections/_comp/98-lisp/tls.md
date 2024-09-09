@@ -1,5 +1,5 @@
 ---
-title: TLS Notes
+title: Notes on The Little Schemer
 categories: 98-Lisp
 ---
 
@@ -15,26 +15,26 @@ categories: 98-Lisp
     * When recurring on a list of atoms, lat, ask two questions about it: (null? lat) and else.
     * When recurring on a number, n, ask two questions about it: (zero? n) and else.
     * When recurring on a list of S-expressions, l, ask three questions about it: (null? l), (atom? (car l)), and else.
-  1. Use cons to build lists.
-  2. When building a list, describe the first typical elemetn, and then cons it onto the nutural recursion.
-  3. Always change at least one argument while recurring.
+  2. Use cons to build lists.
+  3. When building a list, describe the first typical elemetn, and then cons it onto the nutural recursion.
+  4. Always change at least one argument while recurring.
     * When recurring on a list of atoms, lat, use (cdr lat).
     * When recurring on an number, n, use (sub1 n).
     * When recurring on a list of S-expressions, l, use (car l) and (cdr l) if neither (null? l) nor (atom? (car l)) are ture.
-  4. It must be changed to be closer to termination.The changing argument must be tested in termination condition:
+  5. It must be changed to be closer to termination.The changing argument must be tested in termination condition:
     * When using car, test termination with null?
     * When using sub1, test termination with zero?.
-  5. Building a value:
+  6. Building a value:
     * When building a value with +, always use 0 for the value of the terminating lien, for adding 0 does not change the value of an addition.
     * When building a value with *, always use 1 for the value of the terminating line, for multiplying by 1 does not change the value of a multiplication.
     * When building a value with cons, always consider () for the value of the terminating line.
-  6. Simplify only after the function is correct.
-  7. Recur on the subparts that are of the same nature:
+  7. Simplify only after the function is correct.
+  8. Recur on the subparts that are of the same nature:
     * On the sublist of a list.
     * On the subexpression of an arithmetic expression.
-  8. Use help functions to abstract from representations.
-  9. Abstract common patterns with a new function.
-  10. Build functions to collect more than one values at a time.
+  9. Use help functions to abstract from representations.
+  10. Abstract common patterns with a new function.
+  11. Build functions to collect more than one values at a time.
 
 
 

@@ -26,13 +26,22 @@ highlight: true
 
 1. 现代视角的西方哲学史
    - Kenny, Anthony. A new history of Western philosophy. OUP Oxford, 2012.
-   - 
+   - Oxford - Introduction to Phylosophy
+   - Edinburg - Introduction to Phylosophy
 2. 哲学方法学
    - Fosl, Peter S., and Julian Baggini. The philosopher's toolkit: a compendium of philosophical concepts and methods. John Wiley & Sons, 2020.
 3. 德国古典哲学？
 4. 现象学
    - Sokolowski, Robert. Introduction to phenomenology. Cambridge university press, 2000. 
 5. 符号学
+6. 知识论
+   -  
+7. 分析哲学
+   - 20 世纪分析哲学
+8. 精神分析
+   - 斯蒂芬·A. 米切尔, and 玛格丽特·J. 布莱. 弗洛伊德及其后继者. 商务印书馆, 2007.
+   - 卡尔文·霍尔, 弗农·诺德比, and 冯川 译. 荣格心理学七讲 心理学. 北京大学出版社, 2017.
+   - 吴琼. 雅克·拉康:阅读你的症状. 中国人民大学出版社, 2011.
 
 ## 如何学习哲学史？
 

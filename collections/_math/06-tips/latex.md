@@ -1,5 +1,5 @@
 ---
-title: LaTeX 插入数学公式技巧
+title: Write Mathematical Formulas in LaTeX
 categories: 06-Tips
 ---
 

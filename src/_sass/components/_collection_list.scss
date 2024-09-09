@@ -79,8 +79,8 @@
     position: absolute;
     margin: 0;
     overflow-x: hidden;
-    @include thin_scrollbar;
     text-align: end;
+    @include thin_scrollbar;
     td {
       padding: 0;
     }
@@ -126,8 +126,8 @@
       right: 0;
       bottom: 0;
       overflow-x: hidden;
-      @include thin_scrollbar;
       visibility: collapse;
+      @include thin_scrollbar;
     }
   }
   .vertical_center_table {
@@ -157,7 +157,7 @@
   // right part
   .a_title {
     padding: 0;
-    font-size: $font-size-h6;
+    font-size: $font-size-primary;
     line-height: 150%;
     @include simple_link_style;
   }
@@ -167,5 +167,15 @@
     font-size: $font-size-h6;
     text-transform: capitalize;
     border-bottom: $thin-border;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .collection_list {
+    top: 0%;
+    left: 0%;
+    height: 100%;
+    max-height: none;
+    width: 100%; 
   }
 }

@@ -16,8 +16,15 @@ However astronomers found that building a mathematical model to explain and pred
 
 **That's the power of multiple perspectives, high viewpoints and abstraction**. Firstly, planets with magma, rocks and atmospheres are not considered, what is used are point masses and ghostly forces. The differences between Earth and Jupipter, are represented by just a few numbers. By adopting a higher viewpoint, their similarities will be extracted and used as material for deeper, higher-order thinking. Secondly, using the Sun, rather than the Earth, as the center of planetary motion greatly reduced the amount of thought and effort required for humans to find the laws of motion.
 
-It should be noted that the heliocentric model is not only simpler but also more fundamental, as the reason for planetary motion largely stems from the Sun's mass. However, if the situation were reversed and the geocentric model were simpler, the heliocentric model would still be more fundamental, there is enough reason to believe that humans would use the simpler geocentric model to understand the heliocentric model. Just as we first use classical mechanics to gain a foundational understanding before studying relativistic mechanics.
+It should be noted that the heliocentric model is not only simpler but also more fundamental, as the reason for planetary motion largely stems from the Sun's mass, despite that motion is relative. However, if the situation were reversed and the geocentric model were simpler, the heliocentric model would still be more fundamental, there is enough reason to believe that humans would use the simpler geocentric model to understand the heliocentric model. Just as we first use classical mechanics to gain a foundational understanding before studying relativistic mechanics.
 
 We can do the same when learning programming languages, by adopting multiple perspectives a high viewpoints and applying abstraction.
 
+But there's also problems remaining, what are the obstacles that prevent and hinder us to achieve our goal in reality and psychologically?
+
+
 ## How Should it Actually be Done?
+
+## Actions and Things
+
+### All Things are Actions

@@ -26,9 +26,9 @@
   position: relative;
   z-index: 1;
   overflow-x: hidden;
-  @include thin_scrollbar;
   border: $secondary-border;
   border-top: none;
+  @include thin_scrollbar;
   article {
     margin: 0;
     padding: 10px 19px 19px 19px;

@@ -96,13 +96,13 @@ img {
   background-color: whitesmoke;
 }
 ol {
-  padding: 0 0 0 1.42em;
+  padding: 0 0 0 2em;
   margin: $global-section-margin 12px 12px 0px;
   display: block;
   list-style-type: decimal;
 }
 ul {
-  padding: 0 0 0 1.2em;
+  padding: 0 0 0 1.8em;
   margin: $global-section-margin 12px 12px 0px;
   list-style: disc;
 }
@@ -121,7 +121,6 @@ sup a{
 }
 // code highlight
 pre {
-  border: $thin-border;
   margin: 0.6em 0.1em;
 }
 
@@ -144,11 +143,11 @@ table {
     }
   }
   tbody {
+    border-bottom: $thin-border;
     td {  
       padding: 8px 10px;
       font-size: $font-smaller;
     }
-    border-bottom: $thin-border;
   }
 }
 code {

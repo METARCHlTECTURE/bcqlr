@@ -1,5 +1,5 @@
 ---
-title: Notes on History of Europe
+title: History of Europe
 categories: 03-Europe
 highlight: true
 ---

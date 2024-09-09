@@ -18,13 +18,13 @@
   max-height: 85%;
   width: auto;
   overflow-x: hidden;
-  @include thin_scrollbar;
   visibility: hidden;
   background-color: rgba($color-postbg, 0.85);
   text-align: left;
   padding: 0px 0;
   border-left: $medium-border;
   border-bottom: $medium-border;
+  @include thin_scrollbar;
   ul {
     padding: 0 4px 0 18px;
     margin: 5px 4px;

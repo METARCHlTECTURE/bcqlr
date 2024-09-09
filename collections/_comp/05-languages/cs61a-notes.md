@@ -1,9 +1,67 @@
 ---
-title: Notes of CS61A
+title: Notes for CS61A, Structure and Interpretation of Computer Programs
 categories: 05-Languages
 ---
 
 Textbook: [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-4.html) [Composing Programs](https://www.composingprograms.com/)   
+
+
+
+## Lecture 1 Welcome
+
+Expressions
+  - `can` describe a computation and evaluates to a value.
+  - everything could be expressed using a call expression.
+  - `call expressions`:
+    - could be done by listing the name of the operator and operands.
+
+Operators and operands
+  - `are` expressions.
+  - finally are evaluated to values.
+
+```python
+>>> from math import max
+>>> max(7.5, 9.5) # operator: max operands: 7.5, 9.5
+9.5 # value
+```
+
+Interpreters
+  - `can` provide a prompt, where it waits an expression typed, evaluate it, and then displays its value.
+  - The way programming languages work is that they interpret expressions by applying `evaluations procedures`, over and over again procedurally.
+
+Evaluation procedures
+  1. Evaluate the operator and then the operand subexpressions.
+  2. **Apply the function** that is the value of the operator subexpression **to the arguments** that are the values of the operand subexpression.
+
+## Lecture 2 Functions
+
+### Name, binding, and the enviroment
+
+In Python, we can establish new bindings using the assignment statement, which contains a name to the left of = and a value to the right:
+
+```python
+# [the name] = [any expressions]
+>>> radius = 10
+>>> radius
+10
+```
+
+When the name is bound, the expressions are evaluated, and **only the value** is given to the name.
+
+```python
+>>> from math import pi
+>>> area, circumference = pi * radius * radius, 2 * pi * radius
+>>> area
+314.1592653589793
+>>> radius = 10000000 # radius changed
+>>> area # area is not related to radius
+314.1592653589793
+
+
+```
+
+
+## About Python
 
 A Programming Language contains:
   - `Values`

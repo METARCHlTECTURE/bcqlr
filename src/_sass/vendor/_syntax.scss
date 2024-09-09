@@ -208,6 +208,7 @@
 .highlight pre {
   background-color: $code-background;  
   overflow-x: auto;
+  border: $thin-border;
   @include thin_scrollbar; 
   // max-width: 99%;
   }
