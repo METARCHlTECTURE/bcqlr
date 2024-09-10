@@ -1,6 +1,7 @@
 ---
 title: Notes on Computer Systems, a Programmer's Perspective
 categories: 06-Computer-Systems
+tags: Notes
 ---
 
 ## 第一章 漫游计算机系统

@@ -1,6 +1,7 @@
 ---
 title: Anthology of Literary Theories by Various Authors
 categories: 03-Literary-Theory
+tags: Notes
 ---
 
 

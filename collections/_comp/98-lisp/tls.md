@@ -1,6 +1,7 @@
 ---
 title: Notes on The Little Schemer
 categories: 98-Lisp
+tags: Notes
 ---
 
 1. The five rules of Scheme

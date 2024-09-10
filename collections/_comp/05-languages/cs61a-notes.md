@@ -1,6 +1,7 @@
 ---
-title: Notes for CS61A, Structure and Interpretation of Computer Programs
+title: Notes on CS61A, Structure and Interpretation of Computer Programs
 categories: 05-Languages
+tags: Notes Ongoing
 ---
 
 Textbook: [SICP](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book-Z-H-4.html) [Composing Programs](https://www.composingprograms.com/)   

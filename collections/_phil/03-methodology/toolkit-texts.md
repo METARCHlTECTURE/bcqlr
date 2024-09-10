@@ -1,6 +1,7 @@
 ---
 title: Texts of The Philosophier's Toolkit
 categories: 03-methodology
+tags: Texts Ongoing
 ---
 
 ## 1 Basic Tools for Argument 论证的基本工具

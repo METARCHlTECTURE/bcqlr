@@ -1,7 +1,8 @@
 ---
-title: History of Western Literature
+title: Notes on History of Western Literature
 categories: 02-History
 highlight: true
+tags: Notes Ongoing
 ---
 
 ## 西方文学发展脉络

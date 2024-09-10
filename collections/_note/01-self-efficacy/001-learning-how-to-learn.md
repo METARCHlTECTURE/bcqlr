@@ -1,6 +1,7 @@
 ---
 title: Notes on Learning how to Learn
 categories: 01-Self-Efficacy
+tags: Notes Ongoing
 ---
 
 ## Basics

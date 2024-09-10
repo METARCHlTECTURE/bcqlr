@@ -1,6 +1,7 @@
 ---
 title: History of Contemporary Philosophy
 categories: 02-History
+tags: Notes
 ---
 
 > The three major contemporary approaches to academic philosophy are analytic philosophy, continental philosophy and pragmatism.

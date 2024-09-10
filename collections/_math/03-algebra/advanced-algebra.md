@@ -1,6 +1,7 @@
 ---
 title: Advanced Algebra
 categories: 03-Algebra
+tags: Notes Ongoing
 highlight: true
 ---
 

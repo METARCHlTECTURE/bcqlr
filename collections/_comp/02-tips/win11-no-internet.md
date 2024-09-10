@@ -1,6 +1,6 @@
 ---
 title: Initiate Windows 11 Offline without a Microsoft Account
-categories: 04-Tips
+categories: 02-Tips
 ---
 
 There were several ways to avoid internet connecting when first starting Windows 11 which is invalid now:

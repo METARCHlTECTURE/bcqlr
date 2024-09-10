@@ -1,6 +1,7 @@
 ---
-title: History of Europe
+title: Notes on History of Europe
 categories: 03-Europe
+tags: Notes
 highlight: true
 ---
 

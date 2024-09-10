@@ -1,6 +1,7 @@
 ---
 title: Notes on MATH 125, Mathematical Logic
 categories: 05-Mathematical-Logic
+tags: Notes Ongoing
 ---
 
 ## Introduction
@@ -58,3 +59,51 @@ Words
   - follow from 由……引起：指某个结果是由某个原因或前提所导致的
 
 ## String
+
+Let A be any set.
+
+DEF: the set of n-tuple of elements
+
+$$ A^n = {<a_1, ..., a_n> : a_i \in A} $$
+
+> Order makes sense.
+
+DEF: $$ A^{<\omega} = A^0 \cup A^2 \cup ... $$ the set of strings of elements from A.
+
+E.G. If A is the whole alphabet, then every English word is a member of $$ A^{<\omega} $$.
+
+> `cabaca` can be the short form of <c, a, b, a, c, a>
+
+## Sentential Logic
+
+> Simpler toy example (incomplete) of `first-order logic` (complete). Widely used in circuits & machine learning.
+
+Basic building block is `sentence`, which can be either TRUE or FALSE.
+
+### Language of Sentential Logic
+
+Symbols: 
+  - Parenthesis: ( )
+  - Operation: $$ \neg \land \lor \Rightarrow \Leftrightarrow \equiv $$
+  - Variable symbols: P Q $$ A_1  A_2  A_3 $$ ...
+
+An `experssion` is a string of symbols.
+
+> Only some strings of symbols are valid expressions. Bad expression: $$ \Rightarrow \Leftrightarrow \Rightarrow \Leftrightarrow ABAB $$
+
+DEF: `Well formed formulas, WFF`
+
+WFF are strings of symbols built as follows:
+  - Every variable symbol is WFF.
+  - If P and Q are WFF, so are:
+    - $$ \neg P $$
+    - $$ (P \land Q) $$
+    - $$ (P \lor Q) $$
+    - $$ (P \implies)
+
+
+Words
+  - sentence 命题
+  - deduce [dɪˈdjuːs] v.推断；演绎；推论
+    - deductive 演绎的 deduction 演绎
+    - deduct 减去、扣除 deductible 可扣除的

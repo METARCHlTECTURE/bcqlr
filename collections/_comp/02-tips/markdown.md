@@ -1,6 +1,6 @@
 ---
 title: Keep Notes with Markdown and Typora
-categories: 04-Tips
+categories: 02-Tips
 highlight: true
 ---
 

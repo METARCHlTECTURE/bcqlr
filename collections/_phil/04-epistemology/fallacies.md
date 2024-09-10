@@ -1,6 +1,7 @@
 ---
 title: Logical Fallacies and Cognitive Bias
 categories: 04-Epistemology
+tags: Cheatsheet
 highlight: true
 ---
 

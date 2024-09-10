@@ -1,11 +1,11 @@
 # 1. Site Settings
-title               : TOWER OF BABEL FOR THE IGNORANT
+title               : RUBBISH WITH NO VALUE
 owner               : "DeerRIDER"
 #url                 : "http://127.0.0.1:4000"
 url                : "https://bcqlr.com"
 ## baseurl            : ""
 permalink           : /:title/
-description         : "Personal site of DeerRIDER"
+description         : "Personal rubbish of DeerRIDER"
 markdown            : kramdown
 statement           : "Designed by DeerRIDER, All Rights Reserved"
 bgtext              : "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌∽√∀∂∆∇⋈∅∫∬∳∯∱∲ⅈⅉℂℍℚℝℕℙℤⅇℼℽ⅀ℿℾℽℼ" # texts randomly displayed in background
@@ -21,7 +21,6 @@ collection_order    :
     "phil",
     "math",
     "comp",
-    "prog",
     "note",
   ]
 collections:

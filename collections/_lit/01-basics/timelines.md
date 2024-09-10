@@ -1,6 +1,7 @@
 ---
 title: Timelines of Western Literature
 categories: 01-Basics
+tags: Cheatsheet
 ---
 
 ## 世界文学史大事年表

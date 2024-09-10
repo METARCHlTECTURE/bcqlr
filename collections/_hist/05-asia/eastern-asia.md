@@ -1,6 +1,7 @@
 ---
-title: History of Eastern Asia
+title: Botes on History of Eastern Asia
 categories: 05-Asia
+tags: Notes
 ---
 
 ## 夏 ﹝~2070bc-1617bc﹞

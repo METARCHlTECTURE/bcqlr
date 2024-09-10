@@ -1,6 +1,7 @@
 ---
 title: Notes on Semiotics
 Categories: 07-Semiotics
+tags: Notes
 ---
 
 ## 符号学的基本概念

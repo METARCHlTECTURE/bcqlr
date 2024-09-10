@@ -1,6 +1,7 @@
 ---
 title: History of Renaissance Philosophy
 categories: 02-History
+tags: Notes
 ---
 
 > 文艺复兴是 14 世纪到 16 世纪在欧洲兴起的一场有关艺术、文学、自然科学和建筑等方面的思想文化运动。由于其*搜集整理古希腊文献*的杰出工作，通常被称为“文艺复兴”。实质上则是`人文主义运动`。

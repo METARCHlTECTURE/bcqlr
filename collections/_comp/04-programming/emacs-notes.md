@@ -1,6 +1,7 @@
 ---
 title: Emacs Notes
 categories: 02-Programming
+tags: Notes
 ---
 
 ## Tricks

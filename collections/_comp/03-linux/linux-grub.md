@@ -1,6 +1,7 @@
 ---
 title: Grub Configurations
 categories: 03-Linux
+tags: Cheatsheet
 ---
 
 ## Introduction to GNU Grub

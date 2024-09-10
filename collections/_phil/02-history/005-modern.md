@@ -1,6 +1,7 @@
 ---
 title: History of Modern Philosophy
 categories: 02-History
+tags: Notes Ongoing
 ---
 
 `启蒙主义`

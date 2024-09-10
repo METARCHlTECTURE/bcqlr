@@ -1,7 +1,7 @@
 ---
 title: Notes on Mathematical Analysis by Chen
 categories: 02-Analysis
-toc_level: 4
+tags: Notes Ongoing
 ---
 
 

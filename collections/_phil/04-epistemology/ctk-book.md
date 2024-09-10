@@ -1,6 +1,7 @@
 ---
 title: Texts of Contemporary Theories of Knowledge
 categories: 04-Epistemology
+tags: Texts Ongoing
 ---
 
 Author: John Pollock, Joseph Cruz

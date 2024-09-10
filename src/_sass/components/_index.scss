@@ -1,0 +1,58 @@
+
+.index_title{
+    font: 30px Monospace;
+}
+
+.ascii_art{
+    font: 18px Georgia, sans-serif;
+    text-align: center;
+    line-height: 150%;
+    a {
+      color: $red;
+    }
+}
+
+
+@media screen and (max-width: 1200px) and (min-width: 800px) {
+    .index_title{
+        font: 26px Monospace;
+    }
+    .ascii_art {
+       font: 16px Georgia, sans-serif;
+       text-align: center;
+       line-height: 150%;
+    }
+}
+
+@media screen and (max-width: 800px) and (min-width: 600px) {
+    .index_title{
+        font: 22px Monospace;
+    }
+    .ascii_art {
+       font: 14px Georgia, sans-serif;
+       text-align: center;
+       line-height: 150%;
+    }
+}
+
+@media screen and (max-width: 600px) and (min-width: 400px) {
+    .index_title{
+        font: 20px Monospace;
+    }
+    .ascii_art {
+       font: 11.5px Georgia, sans-serif;
+       text-align: center;
+       line-height: 150%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .index_title{
+        font: 18px Monospace;
+    }
+    .ascii_art {
+       font: 9px Georgia, sans-serif;
+       text-align: center;
+       line-height: 150%;
+    }
+}

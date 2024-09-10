@@ -1,6 +1,7 @@
 ---
 title: Emacs Cheatsheet
 categories: 02-Programming
+tags: Cheatsheet
 ---
 
 <!--

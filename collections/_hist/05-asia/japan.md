@@ -1,6 +1,7 @@
 ---
-title: History of Japan
+title: Notes on History of Japan
 categories: 05-Asia
+tags: Notes
 ---
 
 声明：本表内容由本人整理，部分内容取自《岩波日本史》、《维基百科》、《日本史》（王仲涛、汤重南）、维基百科等。准确性无法保证，禁止用作商业用途。

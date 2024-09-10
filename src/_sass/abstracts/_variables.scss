@@ -5,7 +5,7 @@ $red:     #cd0000;
 $green:   #00cd00;
 $lightgreen: #81ff81;
 $yellow:  #cdcd00;
-$blue:    #436fff;
+$blue:    #0011ff;
 $magenta: #df4cdf;
 $cyan:    #4ef9ff;
 $white:   #e7e3e3;
@@ -29,15 +29,15 @@ $article-italic: $lightgreen;
 $article-keyword: $red;
 
 // font size
-$font-size-h1: 22px;
-$font-size-h2: 21px;
-$font-size-h3: 20px;
+$font-size-h1: 21px;
+$font-size-h2: 19px;
+$font-size-h3: 19px;
 $font-size-h4: 19px;
 $font-size-h5: 18px;
 $font-size-h6: 17px;
+$font-bigger: 16px;
 $font-size-primary: 15px;
 $font-smaller: 14px;
-$font-bigger: 16px;
 $blk-duration: 1.2s;
 $blk-timing-function: cubic-bezier(0.98, -0.23, 0.65, 0.7);
 
@@ -56,6 +56,7 @@ $thick-border: 2.1px solid $color-primary;
 $secondary-border: 1.35px solid rgba($color-primary, 0.87);
 $medium-border: 0.95px solid rgba($color-primary, 0.83);
 $thin-border: 0.5px solid rgba($color-primary, 0.6);
+$dotted-border: 0.7px dotted rgba($color-primary, 0.87);
 
 // syntax highlight
 $code-primary: $color-primary;

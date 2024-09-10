@@ -1,6 +1,7 @@
 ---
 title: Methodology of Philosophy
 categories: 03-methodology
+tags: Notes Ongoing
 highlight: true
 ---
 

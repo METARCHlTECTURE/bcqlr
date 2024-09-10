@@ -1,6 +1,7 @@
 ---
 title: Linux Shell, Sed Cheatsheet
 categories: 03-Linux
+tags: Cheatsheet
 ---
 
 <table>

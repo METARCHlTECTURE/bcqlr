@@ -1,6 +1,7 @@
 ---
 title: Myths of Ancient Civilizations
 categories: 04-Notes
+tags: Notes
 ---
 
 

@@ -1,6 +1,7 @@
 ---
 title: Notes on 6.001, Structure and Interpretation of Computer Programs
 categories: 05-Languages
+tags: Notes Ongoing
 ---
 
 ## Lecture 1A

@@ -1,6 +1,7 @@
 ---
 title: French Pronouncation Tips
 categories: 03-French
+tags: Cheatsheet
 ---
 
 ## Letters and their pronunciation

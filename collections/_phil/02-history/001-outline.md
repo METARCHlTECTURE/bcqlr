@@ -1,6 +1,7 @@
 ---
 title: Outline of the Development of Western Philosophy
 categories: 02-History
+tags: Cheatsheet
 highlight: true
 ---
 

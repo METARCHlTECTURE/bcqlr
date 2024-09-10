@@ -1,6 +1,7 @@
 ---
 title: Notes on Practical Common Lisp
 categories: 98-Lisp
+tags: Notes
 ---
 
 ### Chapter 4

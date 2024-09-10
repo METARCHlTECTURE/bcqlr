@@ -1,6 +1,7 @@
 ---
 title: History of Ancient Greek Philosophy
 categories: 02-History
+tags: Notes
 highlight: true
 ---
 

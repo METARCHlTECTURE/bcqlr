@@ -1,6 +1,7 @@
 ---
 title: T-SQL Cheatsheet
-categories: 04-Tips
+categories: 02-Tips
+tags: Cheatsheet
 ---
 
 ## Basics

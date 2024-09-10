@@ -1,6 +1,7 @@
 ---
 title: History of Medieval Philosophy
 categories: 02-History
+tags: Notes
 ---
 
 **特征**：

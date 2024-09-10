@@ -1,6 +1,7 @@
 ---
 title: Notes on Modern Epistemology
 categories: 04-Epistemology
+tags: Notes
 ---
 
 Epistemology [ɪˌpɪstə'mɒlədʒi]

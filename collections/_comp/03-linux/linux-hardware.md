@@ -1,6 +1,7 @@
 ---
 title: Linux - Check Hardware infomation
 categories: 03-Linux
+tags: Cheatsheet
 ---
 
 ## 操作系统、内核

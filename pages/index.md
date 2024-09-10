@@ -10,59 +10,42 @@ highlight: false
 permalink: /
 ---
 
-# TOWER OF BABEL FOR THE IGNORANT
+<h1 class="index_title"> RUBBISH WITH NO VALUE </h1>
 
+<div class="ascii_art">
+  <pre> "Did you dance today, junkie?"</pre>
+</div>
 <br>
 
-`For me, being interested or not surpasses all else, and constructs my entire existence.`
+<div class="ascii_art">
+<pre>
+.--------.--------------------------------------------------.
+|  ~ `  __)_____________________________________###__   ~   |
+|  )   |.-------------------------------------------.|      |
+|,`._,-|| <a href="/ch">START</a>             10:24             24601  |  ~~  |
+|      || ----------------------------------------- ||      |
+|      ||   ╦  ╦ ╔═╗ ╦   ╦ ╦ ╔═╗ ╦   ╔═╗ ╔═╗ ╔═╗    ||,'`.  |
+|      ||   ╚╗╔╝ ╠═╣ ║   ║ ║ ║╣  ║   ║╣  ╚═╗ ╚═╗    ||    `'|
+|      ||    ╚╝  ╩ ╩ ╩═╝ ╚═╝ ╚═╝ ╩═╝ ╚═╝ ╚═╝ ╚═╝    ||`--'`-|
+|,.    ||                        OS ‌BETA V 1.06     ||      |
+| \`._,||   _____________   _______    _________    ||   _,-|
+|.__`\_||  | <a href="/ch">Cheatsheets</a> | | <a href="/nt">Notes</a> |  | <a href="/og">Ongoing</a> |   ||,-' ,'|
+|::::::||  '-------------' '-------'  '---------'   || ,'  ;|
+|::::::|| Being interested or not surpasses all else||-._,._|
+|:::::_|| and constructs my entire existence        ||::::::|
+|:,-'' ||_____________________+_____________________||::::::|
+|     ,`-------,----------.-------.------------------'::::::|
+|  ,         ,':::::::::::|   O   |::::::::::::::::::::::SSt|
+'-'---------'-------------'-------'-------------------------'
 
-`(๑•̀ㅂ•́)و✧ 感不感兴趣对我来说比什么都重要，可以说是我人生的全部。`
-
-## Quick Access
-
-<tr>
-    <td>
-        <ul>
-            {% if site.collection_order %}
-                {% for col_in_order in site.collection_order %}
-                    {% for collection in site.collections %}
-                        {% if collection.label == col_in_order %}
-                            {% for post in collection.docs %}
-                                {% if post.publish != false %}
-                                   {% if post.highlight == true %}
-                                    <li>
-                                        <a class="a_title" href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-                                    </li>
-                                    {% endif %}
-                                {% endif %}
-                            {% endfor %}
-                        {% endif %}
-                    {% endfor %}
-                {% endfor %}
-            {% else %}
-                {% for collection in site.collections %}
-                    <p class="h_collection_label">
-                        {% if collection.alias %}
-                            {{collection.alias}}
-                        {% else %}
-                            {{collection.label}}
-                        {% endif %}
-                    </p>
-                    {% for post in collection.docs %}
-                        {% if post.publish != false %}
-                            <li>
-                                <a class="a_title" href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
-                            </li>
-                        {% endif %}
-                    {% endfor %}
-                {% endfor %}
-            {% endif %}
-        </ul>
-    </td>
-</tr>
-
-**Knowing yourself is the beginning of all wisdom.**
-  - Aristotle
-
-**“We should consider every day lost on which we have not danced at least once.“**
-  - Friedrich Wilhelm Nietzsche
+   ,----------------------------------------------------,
+   | [] [][][][]  [][][][][]  [][][][]  [][__] [][][][] |
+   |                                                    |
+   | [][][][][][][][][][][][][][____]  [][][]  [][][][] |
+   | [_][][][][][][][][][][][][][][_]  [][][]  [][][][] |
+   | [][_][][][][][][][][][][][][<a href="/tt">ENT</a>]          [][][][] |
+   | [__][][][][][][][][][][][][____]    []    [][][]|| |
+   | [__][_][______________][_][_][_]  [][][]  [__][]|| |
+   `----------------------------------------------------'
+  </pre>
+</div>

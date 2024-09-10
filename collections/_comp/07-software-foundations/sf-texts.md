@@ -1,8 +1,10 @@
 ---
 title: Texts of Software Foundations
+categories: 07-Software-Foundations
+tags: Texts Ongoing
 ---
 
-原书地址：https://softwarefoundations.cis.upenn.edu/；版本：Version 6.6 (2024-01-03 15:03, Coq 8.17 or later)；翻译来自 ChatGPT-4o；释义来自于必应词典；本页面仅供个人学习，不对外开放，无法被搜索引擎收录。
+原书地址：https://softwarefoundations.cis.upenn.edu/；版本：Version 6.6 (2024-01-03 15:03, Coq 8.17 or later)；翻译来自 ChatGPT-4；释义来自于必应词典；本页面仅供个人学习，不对外开放，无法被搜索引擎收录。
 
 # Volume 1 Logical Foundations 逻辑基础
 

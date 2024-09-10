@@ -1,6 +1,7 @@
 ---
 title: Notes on Phenomenology
 Categories: 06-Phenomenology
+tags: Notes
 ---
 
 ## 一句话解释

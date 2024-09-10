@@ -1,5 +1,6 @@
 ---
-title: History of Ancient Egypt
+title: Notes on History of Ancient Egypt
+tags: Notes
 categories: 04-Africa
 ---
 

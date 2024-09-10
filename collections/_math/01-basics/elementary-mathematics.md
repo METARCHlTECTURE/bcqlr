@@ -1,6 +1,7 @@
 ---
 title: Quick Review of Elementary Mathematics
 categories: 01-Basics
+tags: Notes
 ---
 
 <!-- TOC -->

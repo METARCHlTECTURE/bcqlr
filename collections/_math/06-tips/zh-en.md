@@ -1,6 +1,7 @@
 ---
 title: Glossary of Mathematical Terms in English and Chinese
-categories: 01-Basics
+categories: 06-Tips
+tags: Cheatsheet Ongoing
 layout: compact
 ---
 

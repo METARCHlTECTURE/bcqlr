@@ -1,6 +1,7 @@
 ---
 title: Notes on Introduction of Philosophy
 categories: 01-Basics
+tags: Notes
 ---
 
 ## 什么是哲学？

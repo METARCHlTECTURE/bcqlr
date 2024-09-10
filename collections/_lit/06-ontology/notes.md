@@ -1,6 +1,7 @@
 ---
-title: Ontology of Literature
+title: Notes on Ontology of Literature
 categories: 06-Ontology
+tags: Notes
 ---
 
 TODO:

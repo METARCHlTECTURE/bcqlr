@@ -1,6 +1,7 @@
 ---
 title: Notes on Code Aesthetic
 categories: 02-Programming
+tags: Notes
 ---
 
 Video Course: [Youtube @CodeAesthetic](https://www.youtube.com/@CodeAesthetic)

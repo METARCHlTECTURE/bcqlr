@@ -1,6 +1,7 @@
 ---
-title: History of Middle Asia
+title: Notes on History of Middle Asia
 categories: 05-Asia
+tags: Notes
 ---
 
 ## 中亚主要国家兴衰

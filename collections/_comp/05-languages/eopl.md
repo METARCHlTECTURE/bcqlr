@@ -1,6 +1,7 @@
 ---
 title: Notes on Essentials of Programming Languages 
 categories: 05-Languages
+tags: Notes
 ---
 
 ## Chapter 1 Inductive Sets of Data

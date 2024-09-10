@@ -1,6 +1,7 @@
 ---
 title: Texts on A New History of Western Philosophy
 categories: 02-History
+tags: Texts Ongoing
 ---
 
 # Part 1 Ancient Philosophy
