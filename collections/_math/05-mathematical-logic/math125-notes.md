@@ -101,6 +101,7 @@ WFF are strings of symbols built as follows:
     - $$ (P \lor Q) $$
     - $$ (P \implies)
 
+### Truth Assignments
 
 Words
   - sentence 命题
