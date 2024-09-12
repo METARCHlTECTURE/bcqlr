@@ -6,15 +6,36 @@ tags: Notes
 
 ## Tricks
 
-1. M-x eww 浏览网页
-2. M-x dictionary-word 和 dictionary-mode 查词，不过不好用
-3. M-x flyspell-mode 用flyspell前端配合Aspell做拼写检查
-4. auto-complete 自动补全
-5. M-x slime cl的REPL等
-6. M-x run-scheme scheme的REPL等，包括F1自动运行本文件中的代码 
-7. [高级 Emacs 文本操作](http://www.ibm.com/developerworks/cn/education/aix/au-emacs3/index.html#resources) 
-8. M-x ediff比较文件
-9. magit使用git
-10. hs-minor-mode折叠代码
-11. ido 在minibuffer区的候选列表 C-r 上一个 C-s 下一个 
-12. 修改过的 .emacs 文件马上生效, 可以用 M-x eval-current-buffer
+## Wysiwyg Markdown Editor
+
+### Hide markup
+
+1. Enable `M-x markdown-toggle-markup-hidding (C-c C-x RET)`
+
+### Display inline math formula
+
+> Emacs package "math-preview" requires external nodejs program "math-preview"
+
+1. Install math-preview
+
+```shell
+npm install -g git+https://gitlab.com/matsievskiysv/math-preview
+```
+
+2. Upgrade Emacs by `M-x package-upgrade-all`
+
+3. Install math-preview plugin by `M-x package-install RET math-preview`
+
+### Functions
+
+| Emacs Functions        | Explanation                          |
+| ---------------------- | ------------------------------------ |
+| math-preview-all       | Preview equations in buffer          |
+| math-preview-region    | Preview equations in selected region |
+| math-preview-at-point  | Preview equation at current position |
+| math-preview-clear-all | Clear equation images in buffer      |
+| math-preview-copy-svg  | Copy SVG code to clipboard           |
+
+## ediff - File Comparing
+
+## magit

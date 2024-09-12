@@ -62,13 +62,11 @@ Words
 
 Let A be any set.
 
-DEF: the set of n-tuple of elements
-
-$$ A^n = {<a_1, ..., a_n> : a_i \in A} $$
+DEF. the set of n-tuple of elements $$ A^n = {<a_1, ..., a_n> : a_i \in A} $$
 
 > Order makes sense.
 
-DEF: $$ A^{<\omega} = A^0 \cup A^2 \cup ... $$ the set of strings of elements from A.
+DEF. $$ A^{<\omega} = A^0 \cup A^2 \cup ... $$ the set of strings of elements from A.
 
 E.G. If A is the whole alphabet, then every English word is a member of $$ A^{<\omega} $$.
 
@@ -82,7 +80,7 @@ Basic building block is `sentence`, which can be either TRUE or FALSE.
 
 ### Language of Sentential Logic
 
-Symbols: 
+Symbols:
   - Parenthesis: ( )
   - Operation: $$ \neg \land \lor \Rightarrow \Leftrightarrow \equiv $$
   - Variable symbols: P Q $$ A_1  A_2  A_3 $$ ...
@@ -91,17 +89,39 @@ An `experssion` is a string of symbols.
 
 > Only some strings of symbols are valid expressions. Bad expression: $$ \Rightarrow \Leftrightarrow \Rightarrow \Leftrightarrow ABAB $$
 
-DEF: `Well formed formulas, WFF`
+DEF. `Well formed formulas, WFF`
 
 WFF are strings of symbols built as follows:
-  - Every variable symbol is WFF.
-  - If P and Q are WFF, so are:
-    - $$ \neg P $$
-    - $$ (P \land Q) $$
-    - $$ (P \lor Q) $$
-    - $$ (P \implies)
+  1. Every variable symbol is WFF.
+  2. If P and Q are WFF, so are:
+    1. $$ \neg P $$
+    2. $$ (P \land Q) $$
+    3. $$ (P \lor Q) $$
+    4. $$ (P \implies Q) $$
 
 ### Truth Assignments
+
+Consider formula $$ P \land \neg Q $$, its truth value **depends on** its variable's truth value.
+
+> Truth value: TURE or FALSE.
+
+DEF. $$ S = \{ A_1, A_2, ..., A_k \} $$, a truth assigment is a **function** which assigns each variable in S a truth value.
+
+E.G. 
+
+> `Disjunction` ($$ \\lor $$, or):From the Latin word *disjunctio*, which is derived from: **"dis-"**: A Latin prefix meaning "apart," "asunder," or "separation." **"jungere"**: A Latin verb meaning "to join" or "to yoke." So, **disjunction** literally means "a separation of things that were joined together."
+  
+> `Conjunction` ($$ \\land $$, and): From the Latin word *coniunctio*, derived from: **"con-"**: A Latin prefix meaning "together" or "with." **"jungere"**: Same Latin verb meaning "to join" or "to yoke." Thus, **conjunction** means "a joining together" or "combining."
+
+Truth Table for all the binary operations.
+
+| P | Q | AND  (∧) | OR  (∨) | NAND  (~∧) | NOR  (~∨) | XOR  (⊻) | Conditional  (⇒) | Bi-conditional  (⇔) |
+|---|---|----------|---------|------------|-----------|----------|------------------|---------------------|
+| T | T | T        | T       | F          | F         | F        | T                | T                   |
+| T | F | F        | T       | T          | F         | T        | F                | F                   |
+| F | T | F        | T       | T          | F         | T        | T                | F                   |
+| F | F | F        | F       | T          | T         | F        | T                | T                   |
+
 
 Words
   - sentence 命题

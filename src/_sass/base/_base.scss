@@ -109,9 +109,10 @@ ul {
 blockquote {
   margin: $global-section-margin 0em 0.55em 0em;
   font-size: $font-smaller;
-  font-style: none;
   line-height: 1.5;
   color: $article-blockquote;
+  padding: 0 0 0 0.6em;
+  border-left: 2.5px solid $article-blockquote; /* 修改为你想要的颜色和宽度 */
 }
 // footnote mark
 sup a{
