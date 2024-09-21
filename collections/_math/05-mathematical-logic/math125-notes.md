@@ -115,7 +115,7 @@ E.G.
 
 Truth Table for all the binary operations.
 
-| P | Q | AND  (∧) | OR  (∨) | NAND  (~∧) | NOR  (~∨) | XOR  (⊻) | Conditional  (⇒) | Bi-conditional  (⇔) |
+| P | Q | AND  (∧) | OR  (∨) | NAND  (~∧) | NOR  (~∨) | XOR  (⊻) | Conditional (⇒) | Bi-conditional (⇔) |
 |---|---|----------|---------|------------|-----------|----------|------------------|---------------------|
 | T | T | T        | T       | F          | F         | F        | T                | T                   |
 | T | F | F        | T       | T          | F         | T        | F                | F                   |
