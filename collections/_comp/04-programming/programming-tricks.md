@@ -1,6 +1,6 @@
 ---
 title: Programming Tricks
-categories: 01-Basics
+categories: 03-Programming
 ---
 
 ## 开发工具篇

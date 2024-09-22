@@ -424,10 +424,6 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
   - MIT SICP 课程的现代版本，使用 Python 语言教学。 
   - Brian Harvey 在 2011spring 第一节课的开场白是：“这里是cs61a，世界上最好的计算机课。”接着他又说道：“并不是因为我，而是因为我们用的教材——《计算机程序的构造与解释》。”
 
-**【课程】Stanford CS106a: Programming Methodology**  [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1zs411h7t8）[#课程主页](https://see.stanford.edu/Course/CS106A)
-  - 在线课件及IDE: [#Stanford Karel](https://stanford.edu/~cpiech/karel/learn.html)
-  - 非常细致地以 Java 语言讲解了编程思想。
-
 **【书籍】程序设计语言-实践之路 Programming Language Pragmatics** [#豆瓣](https://book.douban.com/subject/2152385/)
   - 这是一本很有特色的教材，其核心是讨论程序设计语言的工作原理和技术。本书融合了传统的程序设计语言教科书和编译教科书的有关知识，并增加了一些有关汇编层体系结构的材料，以满足没学过计算机组织的学生们的需要。书中通过各种语言的例子，阐释了程序设计语言的重要基础概念，讨论了各种概念之间的关系，解释了语言中许多结构的形成和发展过程，以及它们演化为今天这种形式的根源。书中还详细讨论了编译器的工作方式和工作过程，说明它们对源程序做了什么，以及为什么要那样做。书的每章最后附有复习题和一些更具挑战性的练习。这些练习的特别价值在于引导学生进一步深入理解各种语言和技术。本书第2版新增了脚本语言问题的讨论，涵盖 Perl、Python、Ruby、Tcl、PHP、JavaScript、XSLT 等和其他语言。
 
@@ -663,6 +659,10 @@ Idris 是一种相对较新的`纯函数式`编程语言，特别强调`依赖�
 
 Java 是一种广泛使用的高级编程语言，由Sun Microsystems（现为Oracle的一部分）在1995年发布。它被设计成一种通用、`面向对象`、类似C++但更简单的编程语言。Java 的设计哲学强调了可移植性、高性能、健壮性和安全性，使其一度成为企业应用、网络应用、桌面应用、移动设备和嵌入式系统开发的热门选择。
   - Java 的口号是“一次编写，到处运行”。这是因为其运行在`Java虚拟机（JVM）`上，不需要考虑底层硬件和操作系统。
+
+**【课程】Stanford CS106a: Programming Methodology**  [#哔哩哔哩-中英字幕](https://www.bilibili.com/video/BV1zs411h7t8）[#课程主页](https://see.stanford.edu/Course/CS106A)
+  - 在线课件及IDE: [#Stanford Karel](https://stanford.edu/~cpiech/karel/learn.html)
+  - 非常细致地以 Java 语言讲解了编程思想。
 
 **【书籍】Effective Java**
 
