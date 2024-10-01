@@ -202,3 +202,39 @@ input[type="checkbox"]:checked::before {
   font-size: 15px;
   font-weight: bold;
 }
+
+// resize table when screen is thin
+
+@media screen and (max-width: 800px) and (min-width: 400px) {
+  thead {
+    th {
+      padding: 5px 5px !important;
+      font-size: $font-smaller !important;
+    }
+  }
+  tbody {
+    td {  
+      padding: 4px 5px !important;
+      font-size: $font-tiny !important;
+    }
+  }
+}
+
+@media screen and (max-width: 400px) {
+  body {
+    line-height: 1.55;
+    font-size: $font-smaller;
+  }
+  thead {
+    th {
+      padding: 1px 1px !important;
+      font-size: $font-tiny !important;
+    }
+  }
+  tbody {
+    td {  
+      padding: 1px 1px !important;
+      font-size: $font-micro !important;
+    }
+  }
+}
