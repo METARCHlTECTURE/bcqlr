@@ -144,6 +144,11 @@ Haskell是一种纯函数式编程语言，具有强大的类型系统和高级�
 
 **【科普】硬件茶谈 带你认识 CPU & 硬核科普** [#哔哩哔哩](https://space.bilibili.com/14871346/channel/collectiondetail?sid=153373) [#哔哩哔哩](https://space.bilibili.com/14871346/channel/collectiondetail?sid=550815)
 
+**【科普】Core Dumped 系列直观编程科普** [#哔哩哔哩](https://space.bilibili.com/392208938/channel/collectiondetail?sid=3139667) [#油管](https://www.youtube.com/@CoreDumpped)
+
+**【书籍】Digitized : The Science of Computers and How It Shapes Our World** [#豆瓣](https://book.douban.com/subject/10575200/)
+  - 这是一部全面介绍计算机科技发展历程的著作，从算法到现代超级计算机，再到互联网和人工智能，无不涉猎。作者以清晰流畅的文笔，深入浅出地揭示了计算机科技对人类社会的影响和变革。
+
 > 不要急功近利——你可以从“科普”“奶头乐”开始，不需要一开始就给自己“上强度”。只要沉浸进去就会发现，计算机科学真的很有趣，兴趣可以推动你走下去。
 
 ## 核心基础

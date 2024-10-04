@@ -4,6 +4,8 @@ categories: 02-English
 tags: Notes
 ---
 
+## Subtle Differences
+
 Understanding subtle differences between English words often requires careful attention to context, connotation, and specific nuances. Here are a few examples of how seemingly similar words differ in meaning and usage:
 
 ### 1. **See / Look / Watch**
