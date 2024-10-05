@@ -1,25 +1,24 @@
 ---
 layout: compact
-title: English Grammer Cheatsheet
+title: English Grammer Quick Reference
 categories: 02-English
 tags: Cheatsheet
 toc_level: 4
 ---
 
-## 关键语法索引
+## 重要语法索引
 
-| 基础 | [**句子成分：主谓宾、定状补**](#句子成分sentence-components) | [**词性：名动代、形副介**](#词性parts-of-speech) |
-| 动词 | [**现在分词、过去分词作形容词**](#现在分词过去分词作形容词的区别) | [**现在分词、不定式作名词**](#现在分词不定式作名词的区别) | [**不规则过去式、过去分词表**](#附录-a-不规则动词过去式过去分词表格) |
+| 基础 | [**句子成分：主谓宾、定状补**](#句子成分sentence-components) | [**词性：名动代、形副介**](#词性parts-of-speech) | [**主谓一致**](#主谓一致subject-verb-agreement)
+| 动词 | [**现在分词、过去分词作形容词**](#现在分词过去分词作形容词的区别) | [**现在分词、不定式作名词**](#现在分词不定式作名词的区别) | [**不规则过去式、过去分词表**](#不规则动词过去式过去分词表格) |
 | 动词变化 | [**第三人称单数**](#动词变化规则第三人称单数) | [**现在分词**](#动词变化规则动词-ing-形式) | [**过去式、过去分词**](#动词变化规则动词过去式) |
 | 动词语法 | [**时态**](#16-种时态-16-tenses) | [**被动语态**](#被动语态-passive-voice) | [**虚拟语气**](#虚拟语气subjunctive-mood) |
 | 从句 | [**名词性从句**](#1-名词性从句-noun-clauses) | [**定语从句**](#2-定语从句-relative-clauses) | [**状语从句**](#3-状语从句-adverbial-clauses) | 
-|从句 | [**条件从句**](#4-条件从句-conditional-clauses) | [**比较从句**](#5-比较从句-comparative-clauses) |
 | 名词 | [**名词复数变化规则**](#名词变化规则复数形式plural-form) | [**不可数名词**](#不可数名词uncountable-nouns) | [**名词与冠词**](#冠词article) |
 | 代词 | [**人称代词、物主代词、反身代词**](#人称代词personal-pronouns物主代词possessive-pronouns反身代词reflexive-pronouns) | [**不定代词**](#不定代词indefinite-pronouns) | [**疑问代词**](#疑问代词interrogative-pronouns提出问题询问对象) |
-| 形容词 |
-| 副词 |
-| 介词 |
-| 连词 |
+| 形容词 | [**比较级、最高级**](#形容词的级别degrees-of-adjectives) | [**形容词排序规则**](#形容词的排序规则order-of-adjectives) | [**形容词作名词**](#形容词作名词) |
+| 副词 | [**副词的分类**](#副词的分类) | [**副词与形容词的区别**](#副词与形容词的区别) | [**易混淆的形容词和副词**](#易混淆的形容词和副词) |
+| 介词 | [**介词分类和常见介词**](#介词分类和常见介词) | [**介词搭配**](#介词搭配) | [**介词短语**](#介词短语) |
+| 连词 | [**连词分类和常见连词**](#连词conjunctions) | [**引导从句的连词**](#从属连词subordinating-conjunctions) |  [**表达复杂逻辑关系、句子结构的连词**](#其他类型的连词other-conjunction-types) |
 
 ## 词性和句子成分 （Parts of Speech and Sentence Components）
 
@@ -147,7 +146,9 @@ toc_level: 4
    - **疑问句**: `Did` she `go` to the store?
    - **用法**: 描述*过去某个特定时间发生的动作或事件*。
 
-##### **【动词变化规则】动词过去式**（除某些特殊变化外，大部动词的过去式与过去分词相同）
+##### **【动词变化规则】动词过去式、过去分词**
+
+除某些特殊变化外，大部动词的过去式与过去分词相同。
 
 - **一般规则**：直接在动词原形后加 **-ed**。
   - 例：*play → played*、*want → wanted*
@@ -159,7 +160,130 @@ toc_level: 4
   - 例：*stop → stopped*、*plan → planned*
 - **以非重读的闭音节结尾的动词**：直接加 **-ed**，不双写最后一个辅音字母。
   - 例：*open → opened*、*visit → visited*
-- **特殊变化**，参见[附录 A: 不规则动词过去式、过去分词表格](#附录-a-不规则动词过去式过去分词表格)
+- **特殊变化**参见下表。
+
+##### 不规则动词过去式过去分词表格
+
+| infinitive  | simple past    | past participle |
+| ----------- | -------------- | --------------- |
+| be          | was/were       | been            |
+| beat        | beat           | beaten          |
+| become      | became         | become          |
+| begin       | began          | begun           |
+| bend        | bent           | bent            |
+| bet         | bet            | bet             |
+| bite        | bit            | bitten          |
+| bleed       | bled           | bled            |
+| blow        | blew           | blown           |
+| break       | broke          | broken          |
+| breed       | bred           | bred            |
+| bring       | brought        | brought         |
+| build       | built          | built           |
+| burn        | burnt/burned   | burnt/burned    |
+| burst       | burst          | burst           |
+| buy         | bought         | bought          |
+| catch       | caught         | caught          |
+| choose      | chose          | chosen          |
+| come        | came           | come            |
+| cost        | cost           | cost            |
+| cut         | cut            | cut             |
+| deal        | dealt          | dealt           |
+| dig         | dug            | dug             |
+| do          | did            | done            |
+| draw        | drew           | drawn           |
+| dream       | dreamt/dreamed | dreamt/dreamed  |
+| drink       | drank          | drunk           |
+| drive       | drove          | driven          |
+| eat         | ate            | eaten           |
+| fall        | fell           | fallen          |
+| feed        | fed            | fed             |
+| feel        | felt           | felt            |
+| fight       | fought         | fought          |
+| find        | found          | found           |
+| fly         | flew           | flown           |
+| forget      | forgot         | forgotten       |
+| forgive     | forgave        | forgiven        |
+| freeze      | froze          | frozen          |
+| get         | got            | got, gotten     |
+| give        | gave           | given           |
+| go          | went           | gone            |
+| grow        | grew           | grown           |
+| hang        | hung           | hung            |
+| have        | had            | had             |
+| he is       | he was         | he has been     |
+| hear        | heard          | heard           |
+| hide        | hid            | hidden          |
+| hit         | hit            | hit             |
+| hold        | held           | held            |
+| hurt        | hurt           | hurt            |
+| I am        | I was          | I have been     |
+| keep        | kept           | kept            |
+| know        | knew           | known           |
+| lay         | laid           | laid            |
+| lead        | led            | led             |
+| lean        | leant/leaned   | leant/leaned    |
+| leave       | left           | left            |
+| lend        | lent           | lent            |
+| let         | let            | let             |
+| lie**       | lay            | lain            |
+| light*      | lit            | lit             |
+| lose        | lost           | lost            |
+| make        | made           | made            |
+| mean        | meant          | meant           |
+| meet        | met            | met             |
+| pay         | paid           | paid            |
+| put         | put            | put             |
+| quit        | quit           | quit            |
+| read /ri:d/ | read /red/     | read /red/      |
+| ride        | rode           | ridden          |
+| ring        | rang           | rung            |
+| rise        | rose           | risen           |
+| run         | ran            | run             |
+| say         | said           | said            |
+| see         | saw            | seen            |
+| sell        | sold           | sold            |
+| send        | sent           | sent            |
+| set         | set            | set             |
+| shake       | shook          | shaken          |
+| shine       | shone          | shone           |
+| shoe        | shod           | shod            |
+| shoot       | shot           | shot            |
+| show        | showed         | shown           |
+| shrink      | shrank         | shrunk          |
+| shut        | shut           | shut            |
+| sing        | sang           | sung            |
+| sink        | sank           | sunk            |
+| sit         | sat            | sat             |
+| sleep       | slept          | slept           |
+| slide       | slid           | slid            |
+| speak       | spoke          | spoken          |
+| speed       | sped           | sped            |
+| spend       | spent          | spent           |
+| spill       | spilt/spilled  | spilt/spilled   |
+| spread      | spread         | spread          |
+| spring      | sprang         | sprung          |
+| stand       | stood          | stood           |
+| steal       | stole          | stolen          |
+| stick       | stuck          | stuck           |
+| sting       | stung          | stung           |
+| stink       | stank          | stunk           |
+| swear       | swore          | sworn           |
+| sweep       | swept          | swept           |
+| swim        | swam           | swum            |
+| swing       | swung          | swung           |
+| take        | took           | taken           |
+| teach       | taught         | taught          |
+| tear        | tore           | torn            |
+| tell        | told           | told            |
+| think       | thought        | thought         |
+| throw       | threw          | thrown          |
+| understand  | understood     | understood      |
+| wake        | woke           | woken           |
+| we are      | we were        | we have been    |
+| wear        | wore           | worn            |
+| weave       | wove           | woven           |
+| win         | won            | won             |
+| write       | wrote          | written         |
 
 > 动词的过去式并不仅仅局限于`一般过去时`（Simple Past Tense）中，它还可以出现在其他时态或语法结构中，例如在`某些完成时态`、`条件句`、`虚拟语气`、`间接引语`中等。
 
@@ -251,7 +375,7 @@ toc_level: 4
 
 ##### **【动词变化规则】过去分词**
   - **规则变化与过去式相同**。
-  - **特殊变化**，参见[附录 A: 不规则动词过去式、过去分词表格](#附录-a-不规则动词过去式过去分词表格)
+  - **特殊变化**，参见[【动词变化规则】过去式](#动词变化规则动词过去式过去分词)
 
 > 过去分词（Past Participle）是动词的一种非谓语形式，通常表示已完成的动作或被动状态。在英语语法中，过去分词有多种用法，例如在`完成时态`（Perfect Tenses）中表示已完成的动作，在`被动语态`（Passive Voice）中表示被动状态，或者`作为形容词`用来修饰名词或代词。
 
@@ -480,30 +604,54 @@ toc_level: 4
 
 名词性从句在句子中**充当主语、宾语或表语**，相当于名词的作用。
 
+**常用引导词**分为三类: 
+  - 连词 **that, whether, if**
+  - 关系代词 **who, what, which** 
+  - 疑问副词 **how, when, where, why**
+
 #### 1.1 **主语从句** (Subject Clauses)
   - **结构**: What/Whether/That + 从句 + 动词
   - **例句**: `What he said` is true.（他所说的是真的。）
-  - **常用引导词**: that, whether, if, what, how, when, where, who, why
+
+在正式语体中，主语从句通常放在句首，但在口语中，有时会用形式主语“**it**”引导主句，把从句放在句末，以使句子结构更自然。
+  - 例句：**It** is obvious **that** she likes you.  
+
 
 #### 1.2 **宾语从句** (Object Clauses)
   - **结构**: 主语 + 动词 + that/what/if/whether + 从句
   - **例句**: I know `that she is coming`.（我知道她会来。）
-  - **常用引导词**: that, if, whether, what, how, when, where, who, why
-  - **注意**: "that" 在口语中有时会省略。
+
+**注意**: "**that**" 在口语中有时会省略。
+
+**宾语从句的语序保持陈述句语序**（主语在前，谓语在后），不能使用疑问句语序：
+  - 错误：Do you know **where is he**?
+  - 正确：Do you know **where he is**?
 
 #### 1.3 **表语从句** (Predicative Clauses)
   - **结构**: 主语 + be 动词 + that/what/who + 从句
   - **例句**: The problem is `whether we can trust him`.（问题是我们是否能信任他。）
-  - **常用引导词**: that, whether, if, what, how, when, where, who, why
+
+引导表语从句的`疑问词通常表示主语所问的内容`：
+  - 例句：The question is **who will lead the team**.  
+    （问题是谁将带领团队。）
+
+**注意**: 引导表语从句的连词“**that**”通常不能省略。
 
 #### 1.4 **同位语从句** (Appositive Clauses)
   - **结构**: 从句解释前面的名词
   - **例句**: The fact `that he passed the exam` surprised everyone.（他通过考试这一事实让大家感到惊讶。）
-  - **常用引导词**: that, whether, if, what, how, when, where, who, why
+
+**同位语从句与定语从句的区别**:
+- **同位语从句**对名词的内容进行`解释`，**定语从句**`修饰`名词。
+  - 例句：The idea **that we should start early** is good.  
+    （这个我们应该早点开始的想法很好。）—— **同位语从句**（解释“idea”的内容）
+
+  - 例句：The idea **which he proposed** is good.  
+    （他提出的想法很好。）—— **定语从句**（修饰“idea”）
 
 ### 2. **定语从句** (Relative Clauses)
 
-修饰名词或代词，**提供附加信息**。通常由关系代词引导（who, whom, whose, which, that）。
+定语从句修饰名词或代词，**提供附加信息**。通常由关系代词（**who, whom, which, that**）或关系副词（**when, where, why**）引导。
 
 #### 2.1 **限制性定语从句** (Restrictive Relative Clauses)
 
@@ -517,6 +665,9 @@ toc_level: 4
   - **whose**：指人或物，表示`所有关系`（例: The girl `whose bag is red`.）
   - **which**：指物，作`主语`或`宾语`（例: The car `which is parked outside`.）
   - **that**：指人或物，作`主语`或`宾语`（例: The movie `that I watched`.）
+  - **where**：表示地点。
+  - **when**：表示时间。
+  - **why**：表示原因。
 
 #### 2.2 **非限制性定语从句** (Non-restrictive Relative Clauses)
 
@@ -526,52 +677,137 @@ toc_level: 4
   - 例句: My sister, `who lives in New York`, is coming to visit.（我住在纽约的姐姐要来看我了。）
   - 常用引导词: who, whom, whose, which
 
-> 注意: 非限制性定语从句中不能用 "that"。
+**注意**: 非限制性定语从句中不能用 "that"。
 
-### 3. **状语从句** (Adverbial Clauses)
+### 3. **状语从句** (Adverbial Clauses)、
+
 状语从句`修饰整个句子`，表时间、原因、条件、目的、结果等。
+
+1. **状语从句的语序通常保持正常陈述语序**，即主语在前，谓语在后。
+   - 错误：If **will you** come, tell me.
+   - 正确：If **you will** come, tell me.
+
+2. **主从句顺序的变化**：状语从句可以放在主句之前或之后。放在主句之前时，通常用逗号分隔：
+   - 例句：**If** it rains, we’ll stay inside.（状语从句在主句之前）
+   - 例句：We’ll stay inside **if** it rains.（状语从句在主句之后）
+
+3. **虚拟语气的使用**：在某些条件状语从句中，尤其是与过去、未来可能性不大的条件搭配时，需要使用虚拟语气：
+   - 例句：**If** I **were** you, I **would** quit the job.  
+     （如果我是你，我就会辞职。）
 
 #### 3.1 **时间状语从句** (Time Clauses)
   - **解释**: 表示`动作发生的时间`
   - **结构**: 主句 + when/while/before/after + 从句
   - **例句**: I will call you `when I arrive`.（我到达时会给你打电话。）
-  - **常用引导词**: when, while, before, after, as soon as, since, until, as
+  - **常用引导词**: **when, while, before, after, as soon as, since, until, as**
+
+**例句**：
+  - **When**：当……时候
+    - 例句：Call me **when** you arrive.（当你到达时给我打电话。）
+  - **While**：当……时候
+    - 例句：We chatted **while** we were waiting.（我们等候时聊了聊。）
+  - **Before**：在……之前
+    - 例句：Finish your work **before** you leave.（在你离开之前完成工作。）
+  - **After**：在……之后
+    - 例句：Let’s eat **after** we finish the job.（我们完成工作后再吃饭。）
+  - **Until/Till**：直到……为止
+    - 例句：I will wait **until** you come back.（我会等到你回来。）
+  - **As soon as**：一……就
+    - 例句：**As soon as** I finish, I’ll call you.（我一完成就给你打电话。）
+  - **Since**：自从……以来
+    - 例句：I have been happy **since** I met you.（自从遇见你，我一直很快乐。）
 
 #### 3.2 **原因状语从句** (Reason Clauses)
   - **解释**: 表示`动作发生的原因`
   - **结构**: 主句 + because/since/as + 从句
   - **例句**: She stayed home `because she was sick`.（她因为生病待在家里。）
-  - **常用引导词**: because, since, as, now that, inasmuch as
+  - **常用引导词**: **because, since, as, now that, inasmuch as**
 
 #### 3.3 **条件状语从句** (Condition Clauses)
   - **解释**: 表示`某动作发生的条件`
   - **结构**: 主句 + if/unless + 从句
   - **例句**: `If it rains`, we will stay inside.（如果下雨，我们就待在室内。）
-  - **常用引导词**: if, unless, as long as, provided that
+  - **常用引导词**: **if, unless, as long as, provided that**
+
+**例句**：
+  - **If**：如果
+    - 例句：**If** you study hard, you will pass the exam.（如果你努力学习，你就能通过考试。）
+  - **Unless**：除非（相当于“if ... not”）
+    - 例句：**Unless** it stops raining, we can’t go out.（除非雨停了，否则我们不能出去。）
+  - **As long as**：只要
+    - 例句：You can stay **as long as** you are quiet.（只要你安静，你就可以待着。）
+  - **Provided that**：只要（表示条件）
+    - 例句：You can borrow my car **provided that** you drive carefully.（只要你开车小心，你就可以借我的车。）
 
 #### 3.4 **目的状语从句** (Purpose Clauses)
   - **解释**: 表示`动作的目的`
   - **结构**: 主句 + so that/in order that + 从句
-  - **例句**: She left early `so that she could catch the train`.（她早走是为了赶上火车。）
-  - **常用引导词**: so that, in order that, lest, for fear that
+  - **常用引导词**: **so that, in order that, in case, lest, for fear that**
+
+**例句**：
+  - **So that/In order that**：以便（表示目的）
+    - 例句：He studied hard **so that** he could pass the exam.（他努力学习以便能通过考试。）
+  - **In case**：以防万一
+    - 例句：Take an umbrella **in case** it rains.（带把伞以防下雨。）  
+  - **Lest**：以免（较为正式）
+    - 例句：He spoke quietly **lest** he should wake the baby.（他说话很轻，以免吵醒孩子。）
   
 #### 3.5 **结果状语从句** (Result Clauses)
   - **解释**: 表示`动作导致的结果`
   - **结构**: 主句 + so...that/such...that + 从句
-  - **例句**: The box was `so` heavy `that I couldn’t lift it`.（盒子太重了，我抬不动。）
-  - **常用引导词**: so…that, such…that
+  - **常用引导词**: **so…that, such…that**
+
+**例句**：
+  - **So ... that**：如此……以至于
+    - 例句：He was **so tired that** he couldn’t keep his eyes open.（他太累了，以至于眼睛都睁不开。）
+  - **Such ... that**：如此……以至于
+    - 例句：It was **such** a hot day **that** we decided to stay indoors.（天气太热了，我们决定呆在室内。）
 
 #### 3.6 **让步状语从句** (Concession Clauses)
   - **解释**: 表示尽管某种情况存在，结果却不同
   - **结构**: 主句 + although/even though/though +
-  - **例句**: `Although it was raining`, they went out.（尽管在下雨，他们还是出去了。）
-  - **常用引导词**: although, though, even though, while, whereas
+  - **常用引导词**: **although, though, even though, even if, while, whereas, no matter**
+
+例句：
+  - **Although/Though/Even though**：尽管
+    - 例句：**Although** it was raining, we went out.（尽管下雨，我们还是出门了。）
+  - **Even if**：即使
+    - 例句：**Even if** you are tired, you must finish the task.（即使你很累，你也必须完成任务。）
+  - **While/Whereas**：尽管（表示对比）
+    - 例句：**While** he likes sports, she prefers reading.（虽然他喜欢运动，但她更喜欢读书。）
+  - **No matter + 疑问词**：无论
+    - 例句：**No matter where** you go, I will follow.（无论你去哪儿，我都会跟着。）
   
 #### 3.7 **方式状语从句** (Manner Clauses)
-  - 解释: 表示动作进行的方式
-  - 结构: 主句 + as/like/as if + 从句
-  - 例句: Do it as I showed you.（照我给你示范的做。）
-  - 常用引导词: as, as if, as though
+  - **解释**: 表示动作进行的方式
+  - **结构**: 主句 + as/like/as if + 从句
+  - **例句**: Do it as I showed you.（照我给你示范的做。）
+  - **常用引导词**: **as, as if, as though**
+
+#### 3.8 **比较状语从句（Adverbial Clause of Comparison）**
+
+  - **解释**:表示主句与从句的比较关系。
+  - **常用引导词**：**than, as ... as, the more ... the more**
+
+**例句**：
+  - **Than**：比……
+    - 例句：He runs faster **than** I do.（他跑得比我快。）
+
+  - **As ... as**：和……一样
+    - 例句：She is **as** tall **as** her sister.（她和她姐姐一样高。）
+
+  - **The more ... the more**：越……越……
+    - 例句：**The more** you read, **the more** you learn.（你读得越多，你学得越多。）
+
+#### 3.9 **地点状语从句（Adverbial Clause of Place）**
+  - **解释**:地点状语从句表示主句动作发生的地点。
+  - **常用引导词****where, wherever**。
+
+**例句**：
+  - **Where**：在……地方
+    - 例句：I will go **where** you go（你去哪儿我就去哪儿。）
+  - **Wherever**：无论在哪里
+    - 例句：You can find peace **wherever** you go.（无论你去哪里，你都能找到宁静。）
 
 ### 4. **条件从句** (Conditional Clauses)
 
@@ -591,15 +827,6 @@ toc_level: 4
 
   - 结构: If + 过去完成时，主句 + would/could have + 过去分词
   - 例句: If I had known, I would have helped you.
-
-### 5. **比较从句** (Comparative Clauses)
-
-用来`比较两者或多者之间的差异`。
-
-  - **结构**: 主语 + as...as + 从句
-  - **例句**: She is `as tall as` her brother.
-  - **结构**: 主语 + 比较级 + than + 从句
-  - **例句**: He is `more intelligent than` I thought.
 
 ## 名词 (Noun)
 
@@ -996,7 +1223,7 @@ toc_level: 4
   - *The car **parked outside** belongs to Mr. Smith.*（停在外面的车属于史密斯先生。）——**过去分词短语**
   - *My friend, **a talented musician**, is going on a tour.*（我的朋友，一位才华横溢的音乐家，即将巡演。）——**名词同位语**
 
-### 二、名词短语的常见类型及例子
+### 名词短语的常见类型及例子
 
 #### 1. 简单名词短语（Simple Noun Phrase）
 简单名词短语通常只有一个名词或代词，可能带有一个简单的限定词。
@@ -1031,7 +1258,7 @@ toc_level: 4
   - *The house **on the corner** belongs to my family.*（角落上的房子是我家的。）
   - *The cat **under the table** is sleeping.*（桌子底下的猫在睡觉。）
 
-### 三、名词短语的常见结构及例子
+### 名词短语的常见结构及例子
 以下列出了名词短语的几种常见结构模式及其例子。
 
 | **名词短语结构模式**           | **例子**                                                      | **解释**                                       |
@@ -1048,11 +1275,111 @@ toc_level: 4
 | **限定词 + 名词 + 不定式短语** | *the best way to learn*（学习的最好方法）                     | 不定式短语作为名词的补充说明。                 |
 | **名词 + 介词短语 + 定语从句** | *the car in the garage that I bought*（我买的那辆车库里的车） | 介词短语和定语从句同时修饰名词。               |
 
+### 主谓一致（Subject-Verb Agreement）
+
+**主谓一致**是英语语法中一个非常重要的语法规则，指的是**句子的主语与谓语动词在人称（person）和数（number）上必须一致**。即，当主语是单数时，动词也必须是单数形式；当主语是复数时，动词则应使用复数形式。主谓一致规则不仅适用于简单句，还涉及到各种复杂句型中的一致性问题。
+
+**主谓一致的基本规则**：
+  - **单数主语 + 单数动词**：
+    - 例句：The **dog** **barks**. （狗叫。） 
+  - **复数主语 + 复数动词**：
+    - 例句：The **dogs** **bark**. （狗叫。）
+  - **主语是第一人称（I/we）或第二人称（you）时，谓语动词用复数形式**：
+    - 例句：**I go** to school every day.
+    - 例句：**You are** my best friend.
+  - **第三人称单数主语时，动词通常加“s”或“es”**：
+    - 例句：She **likes** music.
+    - 例句：He **goes** to work by bus.
+
+#**特殊主谓一致规则**
+
+
+#### **不定代词作主语**
+当不定代词（如：**someone, everyone, no one, anybody, nobody, something**）作主语时，谓语动词用**单数**形式。
+
+- **例句**：
+  - **Everyone** **wants** to be happy. （每个人都想要幸福。）
+  - **Something** **is** wrong. （出问题了。）
+
+- **注意**：这些代词虽然表示的是不特定的人或物，但它们在语法上被视为单数主语。
+
+#### **集体名词作主语**
+集体名词（如：**team, family, class, group, government, staff**）表示一个整体时，通常被视为**单数**主语，谓语动词用单数形式。
+
+- **例句**：
+  - The **team** **is** winning. （这支队伍正在获胜。）
+  - The **family** **has** a new car. （这家人有了一辆新车。）
+
+- **注意**：当强调集体名词中的个体成员时，可以视为复数主语，谓语动词用复数形式。
+  - 例句：The **team** **are** arguing among themselves.（这支队伍的队员们正在争论。）
+
+#### **名词短语或主语从句作主语**
+名词短语（如：**the news, the cost of goods**）或由主语从句（如：**What he said**）构成的主语通常视为单数。
+
+- **例句**：
+  - **The cost of goods** **has** risen significantly. （商品成本大幅上涨。）
+  - **What he said** **makes** sense. （他说的有道理。）
+
+#### **复合主语的主谓一致**
+- **使用“and”连接的复合主语**通常被视为复数，谓语动词用复数形式。
+  - 例句：**Tom and Jerry** **are** friends. （汤姆和杰瑞是朋友。）
+
+- **使用“and”连接但表示同一概念的复合主语**，谓语动词用单数形式。
+  - 例句：**Bread and butter** **is** my favorite breakfast. （黄油面包是我最喜欢的早餐。）
+
+#### **就近原则（Proximity Agreement）**
+当两个或多个名词或代词通过“**or, either ... or, neither ... nor**”连接时，动词形式与**最靠近的主语**一致。
+
+- **例句**：
+  - Either **my brothers or my sister is** coming. （不是我兄弟，就是我妹妹要来。）
+  - Neither **the teacher nor the students are** happy. （老师和学生都不高兴。）
+
+#### **量词和数词作主语**
+- **表示时间、金钱、距离等的量词短语**，通常用单数形式。
+  - 例句：**Ten dollars** **is** not enough. （十美元不够。）
+
+- **表示数量的短语**：
+  - A number of + 复数名词 + 复数动词：
+    - 例句：A number of students **are** present.（一些学生出席。）
+  - The number of + 复数名词 + 单数动词：
+    - 例句：The number of students **is** increasing.（学生人数正在增加。）
+
+#### **与动词形式有关的主谓一致**
+英语动词根据主语的人称和数变化，尤其在一般现在时中，动词需要根据主语的不同进行形式上的变形。
+
+**第三人称单数动词形式（-s 或 -es）**
+- 一般现在时的动词在主语是**第三人称单数**时，需要在动词后加 **-s** 或 **-es**。
+  - 例句：She **reads** books.（她读书。）
+
+- **规则**：
+  - 直接加“s”：go → goes, read → reads
+  - 以“ch, sh, s, x, o”结尾的动词加“es”：watch → watches
+  - 以辅音字母 + “y”结尾的动词，将“y”变为“i”加“es”：study → studies
+
+**主语是“there is / there are”结构**
+- “**There is**”用于单数主语，“**There are**”用于复数主语。
+  - 例句：**There is** a book on the table.（桌子上有一本书。）
+  - 例句：**There are** many books on the table.（桌子上有许多书。）
+
+#### **英语主谓一致中的常见错误类型**
+
+- **主语和动词形式不匹配**：
+  - 错误：The books **is** on the table.
+  - 正确：The books **are** on the table.
+
+- **复合主语的动词形式不一致**：
+  - 错误：Neither my father nor my brothers **is** going.
+  - 正确：Neither my father nor my brothers **are** going.（动词与最接近的主语一致）
+
+- **集体名词视作复数时动词使用错误**：
+  - 错误：The team **is** arguing among themselves.
+  - 正确：The team **are** arguing among themselves.（当集体名词强调个体成员时）
+
 ## 冠词（Article）
 
 **冠词**是英语中用于修饰名词的限定词，它帮助确定名词的`特定性`或数量。在名词短语中，冠词位于名词前面，起到限定名词范围、表示其特指或泛指的作用。掌握冠词的用法，可以更准确地表达名词的意义。英语中主要有三种冠词：**不定冠词（a, an）**、**定冠词（the）**和**零冠词（zero article）**。
 
-### 一、冠词的分类与用法
+### 冠词的分类与用法
 
 #### 1. 不定冠词（Indefinite Article）
 
@@ -1135,7 +1462,7 @@ toc_level: 4
   2. **语言名词**前不加冠词：*She speaks Spanish.*（她会说西班牙语。）
   3. **节假日、月份和星期名词**前不加冠词：*We celebrate Christmas.*（我们庆祝圣诞节。）
 
-### 二、冠词的使用规则与例外情况
+### 冠词的使用规则与例外情况
 
 #### 1. **冠词与名词的搭配规则**
 
@@ -1239,15 +1566,15 @@ toc_level: 4
 
 `反身代词`表示`主语和宾语是同一个人或事物`，即动作由主语发出又作用于主语自己。反身代词的构成为人称代词 + self/selves。
 
-|        人称        | 主格 | 宾格 | 形容词性物主代词 | 名词性物主代词 | 反身代词（Reflexive Pronouns） |
-|:------------------:|:----:|:----:|:----------------:|:--------------:|:------------------------------:|
-| 第一人称单数       | I    | me   | my               | mine           | myself                         |
-| 第一人称复数       | we   | us   | our              | ours           | ourselves                      |
-| 第二人称单数/复数  | you  | you  | your             | yours          | yourself/yourselves            |
-| 第三人称单数（男） | he   | him  | his              | his            | himself                        |
-| 第三人称单数（女） | she  | her  | her              | hers           | herself                        |
-| 第三人称单数（物） | it   | it   | its              | its            | itself                         |
-| 第三人称复数       | they | them | their            | theirs         | themselves                     |
+|        人称        | 主格  | 宾格  | 形容词性物主代词 | 名词性物主代词 | 反身代词（Reflexive Pronouns） |
+| :----------------: | :---: | :---: | :--------------: | :------------: | :----------------------------: |
+|    第一人称单数    |   I   |  me   |        my        |      mine      |             myself             |
+|    第一人称复数    |  we   |  us   |       our        |      ours      |           ourselves            |
+| 第二人称单数/复数  |  you  |  you  |       your       |     yours      |      yourself/yourselves       |
+| 第三人称单数（男） |  he   |  him  |       his        |      his       |            himself             |
+| 第三人称单数（女） |  she  |  her  |       her        |      hers      |            herself             |
+| 第三人称单数（物） |  it   |  it   |       its        |      its       |             itself             |
+|    第三人称复数    | they  | them  |      their       |     theirs     |           themselves           |
 
 ### 不定代词（Indefinite Pronouns）
 
@@ -1256,13 +1583,13 @@ toc_level: 4
 #### 1. **常见不定代词分类与用法**
 不定代词根据其表示的数量和类别，可以分为以下几组：
 
-| **类别**       | **单数形式**                 | **复数形式**        | **例子**                                                                                   |
-|----------------|-----------------------------|---------------------|------------------------------------------------------------------------------------------|
-| **表示数量**   | **some, any**                | **some, any**       | *Somebody is knocking on the door.*（有人在敲门。）<br>*Are there any seats left?*（还有座位吗？）     |
-| **表示全部**   | **everyone, everything**     | **all, both**       | *Everyone likes ice cream.*（每个人都喜欢冰淇淋。）<br>*Both of them are right.*（他们俩都对。）    |
-| **表示否定**   | **nobody, nothing, none**    | **none**            | *Nobody knows the answer.*（没人知道答案。）<br>*None of these are useful.*（这些都没用。）         |
-| **表示选择**   | **each, either, neither**    | -                   | *Each of them has a ticket.*（他们每个人都有一张票。）<br>*Neither of us is going.*（我们都不去。）    |
-| **表示泛指**   | **somebody, anybody, nobody**| **others**          | *Somebody left their bag here.*（有人把包落在这儿了。）<br>*Others are waiting outside.*（其他人在外面等。） |
+| **类别**     | **单数形式**                  | **复数形式**  | **例子**                                                                                                     |
+| ------------ | ----------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------ |
+| **表示数量** | **some, any**                 | **some, any** | *Somebody is knocking on the door.*（有人在敲门。）<br>*Are there any seats left?*（还有座位吗？）           |
+| **表示全部** | **everyone, everything**      | **all, both** | *Everyone likes ice cream.*（每个人都喜欢冰淇淋。）<br>*Both of them are right.*（他们俩都对。）             |
+| **表示否定** | **nobody, nothing, none**     | **none**      | *Nobody knows the answer.*（没人知道答案。）<br>*None of these are useful.*（这些都没用。）                  |
+| **表示选择** | **each, either, neither**     | -             | *Each of them has a ticket.*（他们每个人都有一张票。）<br>*Neither of us is going.*（我们都不去。）          |
+| **表示泛指** | **somebody, anybody, nobody** | **others**    | *Somebody left their bag here.*（有人把包落在这儿了。）<br>*Others are waiting outside.*（其他人在外面等。） |
 
 #### 2. **特殊用法与注意点**
 1. **-body, -one, -thing 系列的不定代词**：
@@ -1304,13 +1631,13 @@ toc_level: 4
 
 #### 1. **常见疑问代词的用法**
 
-| **疑问代词** | **用法**                                  | **例子**                                                  |
-|--------------|-------------------------------------------|-----------------------------------------------------------|
-| **who**      | 询问**人的主语**或**身份**                   | *Who is that man?*（那个人是谁？）                          |
-| **whom**     | 询问**人的宾语**（较正式用法）                | *Whom did you see?*（你看见了谁？）                          |
-| **whose**    | 用于询问某物的**归属者**或**所有权**，表示“谁的”                             | *Whose book is this?*（这是谁的书？）                        |
-| **what**     | 用于询问事物、活动、状态或某人的职业、身份等，表示“什么”         | *What is your job?*（你的工作是什么？）                      |
-| **which**    | 询问**特定范围中的选择**，表示“哪一个”         | *Which dress do you prefer?*（你喜欢哪条裙子？）              |
+| **疑问代词** | **用法**                                                 | **例子**                                         |
+| ------------ | -------------------------------------------------------- | ------------------------------------------------ |
+| **who**      | 询问**人的主语**或**身份**                               | *Who is that man?*（那个人是谁？）               |
+| **whom**     | 询问**人的宾语**（较正式用法）                           | *Whom did you see?*（你看见了谁？）              |
+| **whose**    | 用于询问某物的**归属者**或**所有权**，表示“谁的”         | *Whose book is this?*（这是谁的书？）            |
+| **what**     | 用于询问事物、活动、状态或某人的职业、身份等，表示“什么” | *What is your job?*（你的工作是什么？）          |
+| **which**    | 询问**特定范围中的选择**，表示“哪一个”                   | *Which dress do you prefer?*（你喜欢哪条裙子？） |
 
 #### 2. **注意点**
 1. **who 与 whom 的区别**：
@@ -1336,13 +1663,13 @@ toc_level: 4
 
 #### 1. **常见关系代词及其用法**
 
-| **关系代词** | **用法**                                      | **例子**                                                     |
-|--------------|-----------------------------------------------|--------------------------------------------------------------|
-| **who**      | 引导**人**的定语从句，作主语                    | *The boy **who** is playing is my brother.*（正在玩的那个男孩是我弟弟。） |
-| **whom**     | 引导**人**的定语从句，作宾语（较正式）            | *The girl **whom** you met is my friend.*（你遇到的那个女孩是我朋友。）    |
-| **whose**    | 引导**人的所属关系**                            | *The man **whose** car was stolen is very upset.*（车被偷的那个人很沮丧。） |
-| **which**    | 引导**物**的定语从句，作主语或宾语                | *The book **which** you gave me is great.*（你给我的那本书很棒。）         |
-| **that**     | 引导**人或物**的定语从句，作主语或宾语（更常用）    | *The car **that** he drives is new.*（他开的那辆车是新的。）                |
+| **关系代词** | **用法**                                         | **例子**                                                                    |
+| ------------ | ------------------------------------------------ | --------------------------------------------------------------------------- |
+| **who**      | 引导**人**的定语从句，作主语                     | *The boy **who** is playing is my brother.*（正在玩的那个男孩是我弟弟。）   |
+| **whom**     | 引导**人**的定语从句，作宾语（较正式）           | *The girl **whom** you met is my friend.*（你遇到的那个女孩是我朋友。）     |
+| **whose**    | 引导**人的所属关系**                             | *The man **whose** car was stolen is very upset.*（车被偷的那个人很沮丧。） |
+| **which**    | 引导**物**的定语从句，作主语或宾语               | *The book **which** you gave me is great.*（你给我的那本书很棒。）          |
+| **that**     | 引导**人或物**的定语从句，作主语或宾语（更常用） | *The car **that** he drives is new.*（他开的那辆车是新的。）                |
 
 #### 2. **关系代词省略**
 当关系代词在从句中作**宾语**时，可以省略。
@@ -1358,13 +1685,13 @@ toc_level: 4
 
 连接代词主要包括以下几种：**who, whom, whose, what, which**。它们可以用来`引导`不同类型的`名词性从句`，并在从句中担任各种句子成分。
 
-| **连接代词** | **用法**                                 | **例句**                                                     |
-|--------------|------------------------------------------|--------------------------------------------------------------|
-| **who**      | 引导名词性从句，表示**不确定的人或身份**   | *I wonder **who** she is.*（我想知道她是谁。）                  |
-| **whom**     | 引导名词性从句，表示**不确定的宾语对象**   | *I don’t know **whom** they chose.*（我不知道他们选择了谁。）    |
-| **whose**    | 引导名词性从句，表示**不确定的所属关系**   | *We need to find out **whose** car is blocking the road.*（我们需要知道是谁的车挡在路上了。） |
-| **what**     | 引导名词性从句，表示**不确定的事物**       | *Can you tell me **what** happened?*（你能告诉我发生了什么吗？）  |
-| **which**    | 引导名词性从句，表示**特定范围内的选择**   | *He didn’t specify **which** book he wanted.*（他没有说他想要哪本书。） |
+| **连接代词** | **用法**                                 | **例句**                                                                                      |
+| ------------ | ---------------------------------------- | --------------------------------------------------------------------------------------------- |
+| **who**      | 引导名词性从句，表示**不确定的人或身份** | *I wonder **who** she is.*（我想知道她是谁。）                                                |
+| **whom**     | 引导名词性从句，表示**不确定的宾语对象** | *I don’t know **whom** they chose.*（我不知道他们选择了谁。）                                 |
+| **whose**    | 引导名词性从句，表示**不确定的所属关系** | *We need to find out **whose** car is blocking the road.*（我们需要知道是谁的车挡在路上了。） |
+| **what**     | 引导名词性从句，表示**不确定的事物**     | *Can you tell me **what** happened?*（你能告诉我发生了什么吗？）                              |
+| **which**    | 引导名词性从句，表示**特定范围内的选择** | *He didn’t specify **which** book he wanted.*（他没有说他想要哪本书。）                       |
 
 #### 连接代词与疑问代词的区别
 
@@ -1382,7 +1709,7 @@ toc_level: 4
 
 2. **疑问代词**在句中用于直接提问，而**连接代词**用来引导从句表达某个疑问或不确定的内容。
 
-### 四、连接代词的特殊用法
+### 连接代词的特殊用法
 
 1. **连接代词作从句的主语或宾语时不可省略**。
    - **例子**：
@@ -1403,7 +1730,7 @@ toc_level: 4
 
 **形容词**是用来`描述、修饰名词`或`代词`的词类，表示名词或代词的**性质、状态、数量、大小、颜色、形状**等特征。
 
-### 形容词的作用与功能
+### 形容词的用法与功能
 
 形容词可以在句中起到**修饰名词**、**限定名词的范围**、**描述名词的性质**或**表示名词的数量**等作用。形容词在句子中常充当以下几种成分：
 
@@ -1422,11 +1749,74 @@ toc_level: 4
    - *They caught the boy **stealing**.* （stealing 作为宾语补足语）
    - 转化为被动语态：*The boy was caught **stealing**.* （stealing转化为主语补足语）
 
+5. **形容词作状语（Adjective as Adverbial）**：某些形容词可以在句中充当状语，表示伴随状态或情感，通常描述主语在某种状态下做某事。形容词作状语常见于以下结构：
+   1. **With + 宾语 + 形容词**
+      - 例句：She left the room **with** her head **held** high. (她昂首离开了房间。)
+   2. **独立主格结构**
+      - 例句：The meeting **over**, everyone left. (会议结束后，大家都离开了。)
+   3. **形容词作伴随状语**
+      - 例句：He stood there **motionless**. (他静静地站在那里。)
+      - 例句：She came home **tired**. (她疲惫地回到了家。)
+
+6. **形容词作动名词或不定式的补语**：形容词可以用在动名词或不定式后，表示动名词或不定式动作的性质或状态。
+  - **例句**：
+    - The problem is **difficult** to solve. (这个问题很难解决。) —— 形容词“difficult”修饰不定式“to solve”。
+    - The movie was **exciting** to watch. (这部电影看起来很刺激。) —— 形容词“exciting”修饰动名词“watch”。
+
+7. **形容词作感叹句的核心**：形容词在感叹句中可以用来表示强烈的情感或态度，通常放在句首，表示“多么……”。
+   - **例句**：
+     - **How beautiful** the flowers are! (这些花多么美丽！)
+     - **What an interesting** book! (多么有趣的一本书！)
+
+8. **形容词作修饰性补足语（Adjectival Complement）**：形容词用于补充说明名词的特征或状态，通常出现在某些固定句型中。
+   - **例句**：
+     - There are many problems **unresolved**. (有许多未解决的问题。)
+     - We left the door **open**. (我们让门开着。)
+
+### 形容词的常见句型结构
+
+1. **It + be + 形容词 + to do sth.**
+   - 例句：It is **important** to stay healthy. (保持健康很重要。)
+   
+2. **It + be + 形容词 + that …**
+   - 例句：It is **obvious** that he lied. (很明显他撒谎了。)
+   
+3. **主语 + be + 形容词 + for sb. to do sth.**
+   - 例句：This book is **difficult** for me to read. (这本书对我来说很难读。)
+
+
+### **形容词作名词**
+形容词可以作为名词使用，表示某类人或某类事物。常见的用法如下：
+
+#### **表示一类人（the + 形容词）**
+- 形容词前加定冠词 **“the”**，表示某类人，通常指代某种特征的人群（单数看作复数，谓语动词用复数形式）。
+- **例句**：
+  - The **rich** should help the **poor**. (富人应该帮助穷人。)
+  - The **young** often seek adventure. (年轻人常常追求冒险。)
+- **常见用法**：
+  - The **old** (老人)
+  - The **young** (年轻人)
+  - The **blind** (盲人)
+  - The **sick** (病人)
+  - The **deaf** (聋人)
+
+#### **表示抽象概念（the + 形容词）**
+- 形容词前加“the”也可以表示某种抽象概念或状态。
+- **例句**：
+  - He is a seeker of the **unknown**. (他是未知事物的探寻者。)
+  - The **impossible** can sometimes become possible. (不可能的事有时也会成为可能。)
+
+#### **形容词单独作名词**
+- 某些形容词可以直接用作名词，表示某种特定事物。
+- **例句**：
+  - Silk feels **smooth**. (丝绸摸起来很光滑。) —— “smooth”作名词，表示“光滑感”。
+  - The evil **good** is oft interred with their bones. (恶人的好行为常常被遗忘。) —— “good”在这里表示“好事”。
+
 ### 形容词的级别（Degrees of Adjectives）
 
 形容词根据其描述的程度和比较方式，可以分为**原级（Positive Degree）**、**比较级（Comparative Degree）**和**最高级（Superlative Degree）**。
 
-#### 1. **原级（Positive Degree）**
+#### **原级（Positive Degree）**
 表示事物的普通性质或特征，没有涉及比较。
 
 - **例子**：
@@ -1437,7 +1827,7 @@ toc_level: 4
 - **例句**：
   - *This house is **big**.*（这房子很大。）
 
-#### 2. **比较级（Comparative Degree）**
+#### **比较级（Comparative Degree）**
 表示**两个**事物之间的**差异**，用于表示“更……的”意义。常在形容词后加 **-er** 或用 **more** 构成。
 
 - **规则变化**：
@@ -1450,7 +1840,7 @@ toc_level: 4
   - *She is **taller** than me.*（她比我高。）
   - *This book is **more interesting** than the last one.*（这本书比上一本有趣。）
 
-#### 3. **最高级（Superlative Degree）**
+#### **最高级（Superlative Degree）**
 表示**三个或更多**事物之间的差异，用来表示“最……的”意义。常在形容词后加 **-est** 或用 **most** 构成。
 
 - **规则变化**：
@@ -1461,7 +1851,35 @@ toc_level: 4
 
 - **例句**：
   - *She is the **tallest** in her class.*（她是班上最高的。）
-  - *This is the **most beautiful** place I’ve ever seen.*（这是我见过的最美的地方。）
+  - *This is the **most beautiful** place I’ve ever seen.*（这是我见过的
+
+#### 不规则变化形容词
+
+| **形容词**                     | **比较级**   | **最高级**  |
+| ------------------------------ | ------------ | ----------- |
+| good 好的                      | better       | best        |
+| bad  坏的                      | worse        | worst       |
+| far 远（**实际距离**）         | farther      | farthest    |
+| far 远（**抽象意义或程度**）   | further      | furthest    |
+| little                         | less         | least       |
+| many 多的（**可数**）          | more         | most        |
+| much 多的（**不可数**）        | more         | most        |
+| old 老的（**一般比较**）       | older        | oldest      |
+| old 老的（**家庭成员的长幼**） | elder        | eldest      |
+| well 健康的                    | better       | best        |
+| ill 生病的                     | worse        | worst       |
+| late 晚的/迟的                 | later/latter | latest/last |
+
+
+#### **形容词作比较级和最高级的特殊用法**
+
+1. **形容词的比较级表示选择**
+   - 例句：The **bigger**, the **better**. (越大越好。)
+   - **结构**：The + 比较级，the + 比较级。表示随着一个特征的变化，另一个特征也随之变化。
+
+2. **形容词的最高级表示唯一**
+   - 例句：This is the **best** way to solve the problem. (这是解决问题的最佳方法。)
+   - **特殊用法**：最高级常与“the only, the very”等词搭配使用，表示某事物在某范围内是最……的。
 
 ### 形容词的排序规则（Order of Adjectives）
 
@@ -1484,269 +1902,749 @@ toc_level: 4
 **口诀**：`美小圆旧黄，法国木厨房`。
   - 美（评价）、小（大小）、圆（形状）、旧（年龄）、黄（颜色），法国（产地）木（材质）厨房（名词）。
 
-### 形容词的用法注意事项
+### 形容词的固定搭配
 
-1. **形容词的位置**：
-   - **作定语**时，形容词通常位于名词之前：
-     - *a beautiful flower*（一朵美丽的花）
-   - **作表语**时，形容词位于系动词之后
+#### **形容词 + 介词 固定搭配**
 
-## 副词
+| **形容词**      | **常见搭配介词** | **例句**                                                        | **含义**                |
+| --------------- | ---------------- | --------------------------------------------------------------- | ----------------------- |
+| **afraid**      | of               | She is **afraid of** spiders.                                   | 害怕……                  |
+| **angry**       | about / with     | He was **angry about** the delay.<br>She is **angry with** him. | 对某事生气 / 对某人生气 |
+| **anxious**     | about            | I’m **anxious about** the exam results.                         | 为……担忧                |
+| **aware**       | of               | Are you **aware of** the risks?                                 | 意识到……                |
+| **capable**     | of               | He is **capable of** doing the job well.                        | 有能力做……              |
+| **famous**      | for              | The city is **famous for** its history.                         | 因……而闻名              |
+| **good / bad**  | at               | She is **good at** math.<br>He is **bad at** cooking.           | 擅长/不擅长……           |
+| **interested**  | in               | She is **interested in** painting.                              | 对……感兴趣              |
+| **different**   | from             | This style is **different from** that one.                      | 与……不同                |
+| **responsible** | for              | He is **responsible for** the mistake.                          | 对……负责                |
+| **similar**     | to               | This is **similar to** my idea.                                 | 与……相似                |
+| **tired**       | of               | I’m **tired of** waiting.                                       | 厌倦……                  |
+| **pleased**     | with             | She is **pleased with** her performance.                        | 对……满意                |
+| **suitable**    | for              | This movie is **suitable for** children.                        | 适合……                  |
+| **married**     | to               | He is **married to** a famous actress.                          | 与……结婚                |
+| **familiar**    | with             | Are you **familiar with** this topic?                           | 熟悉……                  |
+| **afraid**      | of               | He is **afraid of** heights.                                    | 害怕……                  |
+| **satisfied**   | with             | She is **satisfied with** the results.                          | 对……满意                |
+| **worried**     | about            | I’m **worried about** my future.                                | 担心……                  |
+| **known**       | for              | This product is **known for** its quality.                      | 因……而出名              |
+| **opposed**     | to               | They are **opposed to** the plan.                               | 反对……                  |
+| **excited**     | about            | She is **excited about** the trip.                              | 对……感到兴奋            |
+| **keen**        | on               | He is **keen on** playing soccer.                               | 喜爱……                  |
+| **jealous**     | of               | She is **jealous of** her colleague’s success.                  | 嫉妒……                  |
+| **proud**       | of               | He is **proud of** his achievements.                            | 为……感到骄傲            |
 
-## 介词
-
-## 连词
-
-## 附录 A: 不规则动词过去式、过去分词表格
-
-| infinitive  | simple past    | past participle |
-| ----------- | -------------- | --------------- |
-| be          | was/were       | been            |
-| beat        | beat           | beaten          |
-| become      | became         | become          |
-| begin       | began          | begun           |
-| bend        | bent           | bent            |
-| bet         | bet            | bet             |
-| bite        | bit            | bitten          |
-| bleed       | bled           | bled            |
-| blow        | blew           | blown           |
-| break       | broke          | broken          |
-| breed       | bred           | bred            |
-| bring       | brought        | brought         |
-| build       | built          | built           |
-| burn        | burnt/burned   | burnt/burned    |
-| burst       | burst          | burst           |
-| buy         | bought         | bought          |
-| catch       | caught         | caught          |
-| choose      | chose          | chosen          |
-| come        | came           | come            |
-| cost        | cost           | cost            |
-| cut         | cut            | cut             |
-| deal        | dealt          | dealt           |
-| dig         | dug            | dug             |
-| do          | did            | done            |
-| draw        | drew           | drawn           |
-| dream       | dreamt/dreamed | dreamt/dreamed  |
-| drink       | drank          | drunk           |
-| drive       | drove          | driven          |
-| eat         | ate            | eaten           |
-| fall        | fell           | fallen          |
-| feed        | fed            | fed             |
-| feel        | felt           | felt            |
-| fight       | fought         | fought          |
-| find        | found          | found           |
-| fly         | flew           | flown           |
-| forget      | forgot         | forgotten       |
-| forgive     | forgave        | forgiven        |
-| freeze      | froze          | frozen          |
-| get         | got            | got, gotten     |
-| give        | gave           | given           |
-| go          | went           | gone            |
-| grow        | grew           | grown           |
-| hang        | hung           | hung            |
-| have        | had            | had             |
-| he is       | he was         | he has been     |
-| hear        | heard          | heard           |
-| hide        | hid            | hidden          |
-| hit         | hit            | hit             |
-| hold        | held           | held            |
-| hurt        | hurt           | hurt            |
-| I am        | I was          | I have been     |
-| keep        | kept           | kept            |
-| know        | knew           | known           |
-| lay         | laid           | laid            |
-| lead        | led            | led             |
-| lean        | leant/leaned   | leant/leaned    |
-| leave       | left           | left            |
-| lend        | lent           | lent            |
-| let         | let            | let             |
-| lie**       | lay            | lain            |
-| light*      | lit            | lit             |
-| lose        | lost           | lost            |
-| make        | made           | made            |
-| mean        | meant          | meant           |
-| meet        | met            | met             |
-| pay         | paid           | paid            |
-| put         | put            | put             |
-| quit        | quit           | quit            |
-| read /ri:d/ | read /red/     | read /red/      |
-| ride        | rode           | ridden          |
-| ring        | rang           | rung            |
-| rise        | rose           | risen           |
-| run         | ran            | run             |
-| say         | said           | said            |
-| see         | saw            | seen            |
-| sell        | sold           | sold            |
-| send        | sent           | sent            |
-| set         | set            | set             |
-| shake       | shook          | shaken          |
-| shine       | shone          | shone           |
-| shoe        | shod           | shod            |
-| shoot       | shot           | shot            |
-| show        | showed         | shown           |
-| shrink      | shrank         | shrunk          |
-| shut        | shut           | shut            |
-| sing        | sang           | sung            |
-| sink        | sank           | sunk            |
-| sit         | sat            | sat             |
-| sleep       | slept          | slept           |
-| slide       | slid           | slid            |
-| speak       | spoke          | spoken          |
-| speed       | sped           | sped            |
-| spend       | spent          | spent           |
-| spill       | spilt/spilled  | spilt/spilled   |
-| spread      | spread         | spread          |
-| spring      | sprang         | sprung          |
-| stand       | stood          | stood           |
-| steal       | stole          | stolen          |
-| stick       | stuck          | stuck           |
-| sting       | stung          | stung           |
-| stink       | stank          | stunk           |
-| swear       | swore          | sworn           |
-| sweep       | swept          | swept           |
-| swim        | swam           | swum            |
-| swing       | swung          | swung           |
-| take        | took           | taken           |
-| teach       | taught         | taught          |
-| tear        | tore           | torn            |
-| tell        | told           | told            |
-| think       | thought        | thought         |
-| throw       | threw          | thrown          |
-| understand  | understood     | understood      |
-| wake        | woke           | woken           |
-| we are      | we were        | we have been    |
-| wear        | wore           | worn            |
-| weave       | wove           | woven           |
-| win         | won            | won             |
-| write       | wrote          | written         |
-
-## 附录 B: 常见不可数名词
-
-不可数名词通常`不带复数形式`。
-
-不可数名词`不能与不定冠词（a/an）连用`，通常用一些或任何来表示数量。
-  - **正确**: I need **some** information.
-  - **错误**: I need **a** information.
-
-例句：
-- **His **advice** helped me a lot.** (他的建议对我帮助很大。)
-- **The **furniture** in this room is expensive.** (这个房间里的家具很贵。)
+#### **形容词 + 名词 固定搭配**
 
 
-| **不可数名词**  | **用法示例**                                     | **含义** |
-| --------------- | ------------------------------------------------ | -------- |
-| **water**       | I drink **water** every day.                     | 水       |
-| **bread**       | She bought some **bread**.                       | 面包     |
-| **milk**        | Can I have some **milk** in my coffee?           | 牛奶     |
-| **rice**        | We need to buy some **rice**.                    | 大米     |
-| **sugar**       | Please add some **sugar** to my tea.             | 糖       |
-| **music**       | He listens to **music** while working.           | 音乐     |
-| **information** | I need more **information** about the project.   | 信息     |
-| **homework**    | The teacher assigned too much **homework**.      | 作业     |
-| **furniture**   | We bought new **furniture** for the living room. | 家具     |
-| **advice**      | She gave me some helpful **advice**.             | 建议     |
-| **happiness**   | **Happiness** is the key to a good life.         | 幸福     |
-| **travel**      | **Travel** broadens the mind.                    | 旅行     |
-| **luggage**     | My **luggage** is too heavy.                     | 行李     |
-| **education**   | **Education** is important for success.          | 教育     |
-| **weather**     | The **weather** is nice today.                   | 天气     |
-| **news**        | I heard some good **news** yesterday.            | 新闻     |
-| **cattle**      | The **cattle** are grazing in the field.         | 牛群     |
-| **pollution**   | **Pollution** is a serious issue.                | 污染     |
-| **fruit**       | I eat a lot of **fruit** every day.              | 水果     |
-| **software**    | This **software** is easy to use.                | 软件     |
-| **happiness**   | **Happiness** is what we strive for.             | 幸福     |
+| **形容词**  | **常见搭配名词**               | **例句**                                     | **含义**                      |
+| ----------- | ------------------------------ | -------------------------------------------- | ----------------------------- |
+| **heavy**   | rain, traffic, smoker          | There is **heavy rain** today.               | 大量/严重的（与具体名词搭配） |
+| **strong**  | wind, influence, argument      | A **strong wind** is blowing.                | 强烈的/有力的                 |
+| **deep**    | sleep, understanding, thought  | He is in **deep sleep**.                     | 深度的/深刻的                 |
+| **high**    | price, speed, quality          | This car has a **high speed**.               | 高的/优质的                   |
+| **great**   | importance, success, deal      | This is of **great importance**.             | 重大的/重要的                 |
+| **poor**    | health, performance, condition | He is in **poor health**.                    | 差的/糟糕的                   |
+| **quick**   | response, decision, action     | She made a **quick decision**.               | 快速的                        |
+| **real**    | value, problem, interest       | This is a **real problem** we need to solve. | 真实的/实际的                 |
+| **serious** | problem, injury, mistake       | This is a **serious problem**.               | 严重的                        |
+| **true**    | love, friend, story            | He is a **true friend**.                     | 真正的                        |
+| **strong**  | leader, will, character        | He is a **strong leader**.                   | 坚强的                        |
+| **rich**    | history, culture, resource     | The country has a **rich history**.          | 丰富的                        |
+| **bright**  | future, idea, student          | She has a **bright future**.                 | 光明的/有前途的               |
+| **close**   | relationship, friend, call     | They have a **close relationship**.          | 亲密的                        |
+
+#### **形容词 + 动词 固定搭配**
+
+| **形容词** | **常见搭配动词**               | **例句**                                  | **含义**   |
+| ---------- | ------------------------------ | ----------------------------------------- | ---------- |
+| **become** | famous, rich, clear            | He **became famous** overnight.           | 变得……     |
+| **feel**   | happy, sad, cold               | I **feel cold** today.                    | 感觉……     |
+| **grow**   | tired, old, weak               | He **grew old** very quickly.             | 逐渐变得…… |
+| **sound**  | interesting, strange, familiar | That **sounds interesting**.              | 听起来……   |
+| **look**   | good, tired, happy             | You **look tired** today.                 | 看起来……   |
+| **seem**   | angry, busy, surprised         | He **seems busy**.                        | 似乎……     |
+| **remain** | calm, silent, unchanged        | Please **remain calm**.                   | 保持……     |
+| **prove**  | effective, useful, difficult   | The method **proved effective**.          | 证明是……   |
+| **make**   | sure, clear, possible          | Please **make sure** everything is ready. | 确保……     |
+
+## 副词（Adverb）
+
+副词是一种`修饰词`，用来`修饰动词、形容词、其他副词、整个句子或某些词组`。它的作用是`提供更多细节`，表明行为、状态或特征的方式、时间、地点、频率、程度等。以下是副词的主要语法知识点及其用法。
+
+### **副词的分类**
+
+副词可以根据它们的功能或所修饰的内容分为以下几类：
+
+1. **方式副词（Adverbs of Manner）**
+   - 表示动作或行为的方式，`回答“how”`（怎样做）。
+   - 常见例子：**quickly, slowly, carefully, loudly, happily**。
+   - 位置：通常放在动词后或句尾。
+   - 例句：She speaks **fluently**. (她说得很流利。)
+
+2. **时间副词（Adverbs of Time）**
+   - 表示动作发生的时间，`回答“when”`（何时）。
+   - 常见例子：**yesterday, today, now, soon, later**。
+   - 位置：通常放在句尾或句首。
+   - 例句：I will call you **tomorrow**. (我明天给你打电话。)
+
+3. **地点副词（Adverbs of Place）**
+   - 表示动作发生的地点或方向，`回答“where”`（在哪里）。
+   - 常见例子：**here, there, everywhere, outside, nearby**。
+   - 位置：通常放在动词或句尾。
+   - 例句：Let's go **outside**. (我们到外面去吧。)
+
+4. **频率副词（Adverbs of Frequency）**
+   - 表示动作发生的频率，`回答“how often”`（多频繁）。
+   - 常见例子：**always, usually, often, sometimes, never**。
+   - **频率副词的位置**：`通常位于助动词、情态动词（如 can、will）之后，实义动词之前。`
+   - 例句：He **always** gets up early. (他总是早起。)
+
+5. **程度副词（Adverbs of Degree）**
+   - 表示某个动作或状态的程度，`回答“how much”`（多……）。
+   - 常见例子：**very, too, quite, enough, almost, extremely**。
+   - 位置：通常放在被修饰的形容词或副词之前。
+   - 例句：It is **very** cold today. (今天很冷。)
+
+6. **疑问副词（Interrogative Adverbs）**
+   - 用于引导疑问句，[**不同于疑问代词**](#疑问代词interrogative-pronouns提出问题询问对象)。
+   - 常见例子：**how, when, where, why**。
+   - 例句：**How** did you do that? (你是怎么做到的？)
+
+7. **连接副词（Conjunctive Adverbs）**
+   - 用于`连接句子或句子成分`。
+   - 常见例子：**however, therefore, moreover, thus, meanwhile**。
+   - 例句：She didn’t like the movie; **however**, she stayed till the end. (她不喜欢这部电影；然而，她还是看到了结尾。)
+
+### **副词的位置**
+
+副词在句子中的位置会影响句子的意思。常见的位置有以下几种：
+
+1. **放在动词后面**
+   - 例句：He runs **fast**. (他跑得很快。)
+
+2. **放在动词或助动词之前**
+   - 例句：She **always** gets up early. (她总是早起。)
+   - 例句：I have **never** seen such a beautiful sunset. (我从未见过如此美丽的日落。)
+
+3. **放在句首或句尾**
+   - 例句：**Yesterday**, I met an old friend. (昨天，我遇见了一个老朋友。)
+   - 例句：We will finish the project **soon**. (我们很快就会完成项目。)
+
+4. **放在形容词或副词之前**
+   - 例句：The movie was **extremely** interesting. (这部电影非常有趣。)
+   - 例句：She sang **very** well. (她唱得非常好。)
+
+### **副词的比较级和最高级**
+
+某些副词也有比较级和最高级的形式，特别是表示方式和程度的副词。规则变化和形容词相似。
+
+1. **规则副词的比较级和最高级**：
+   - 在副词后加“**-er**”和“**-est**”：
+     - fast → **faster**, **fastest**
+     - hard → **harder**, **hardest**
+
+2. **多音节副词的比较级和最高级**：
+   - 在副词前加“**more**”和“**most**”：
+     - carefully → **more carefully**, **most carefully**
+     - quietly → **more quietly**, **most quietly**
+
+3. **不规则副词的比较级和最高级**：
+
+| **原级** (Positive) | **比较级** (Comparative) | **最高级** (Superlative) |
+| ------------------- | ------------------------ | ------------------------ |
+| well                | better                   | best                     |
+| badly               | worse                    | worst                    |
+| little              | less                     | least                    |
+| much                | more                     | most                     |
+| far                 | farther / further        | farthest / furthest      |
+
+### **副词与形容词的区别**
+
+| 区别             | 形容词                                                                                             | 副词                                                                                                                            | 例子                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| ---------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| **修饰对象**     | 修饰`名词`或`代词`。                                                                               | 修饰`动词`、`形容词`、`其他副词`、`整个句子`或`词组`。                                                                          | She is a beautiful girl. (她是一个漂亮的女孩。) —— 形容词“beautiful”修饰名词“girl”。<br>She sings beautifully. (她唱得很美妙。) —— 副词“beautifully”修饰动词“sings”。<br>He runs very fast. (他跑得非常快。) —— 副词“very”修饰副词“fast”。<br>Honestly, I didn’t expect that. (老实说，我没想到会这样。) —— 副词“Honestly”修饰整个句子。                                                                                                                                            |
+| **在句中的位置** | 通常位于`名词`或`代词之前`，或者在`系动词`（be, seem, look, feel 等）`后面`，作`表语`（predicate） | `灵活使用`，位置因所修饰的成分不同而有所变化                                                                                    | The red car is mine. (那辆红色的车是我的。) —— 形容词“red”位于名词“car”之前。<br>She seems happy. (她看起来很开心。) —— 形容词“happy”位于系动词“seems”之后。在动词后面（方式副词）：She dances gracefully. (她跳舞跳得很优雅。)<br>在动词之前（频率副词）：He often visits his parents. (他经常看望父母。)<br>在形容词或其他副词之前（程度副词）：It is extremely cold today. (今天非常冷。)<br>在句首或句尾（时间、地点副词）：Yesterday, I went to the park. (昨天，我去了公园。) |
+| **在句中的作用** | 用来`描述主语或宾语的性质或状态`，通常回答**“**它是什么样的？**”或“**它处于什么状态？**”。         | 用来`描述动作、状态或其他描述词的特征`，通常回答“**如何发生的？**”、“**在何时/何地发生的？**”、“**发生得有多频繁或多严重？**”。 | The food is delicious. (这食物很美味。) —— 形容词描述主语“food”的特征。<br>I found the problem difficult. (我发现这个问题很难。) —— 形容词描述宾语“problem”的特征。<br>She runs quickly. (她跑得很快。) —— 副词描述动作“run”。<br>He is too tired to move. (他太累了，无法动弹。) —— 副词描述形容词“tired”。                                                                                                                                                                        |
+| **构成方式**     | 形容词有时是通过添加后缀（如“`-ful`”, “`-less`”, “`-able`”, “`-ous`”等）构成。                     | 副词通常通过在形容词后加“`-ly`”构成（但有些例外），表示方式或程度。                                                             | 形容词：help → helpful (有帮助的) care → careless (粗心的)<br>副词：quick → quickly (快速地)careful → carefully (小心地)                                                                                                                                                                                                                                                                                                                                                            |
+
+### **特殊用法**
+某些副词可以修饰整个句子，表示说话者的态度或观点。这类副词被称为**句子副词（Sentence Adverbs）**。
+
+- 例句：**Fortunately**, nobody was hurt. (幸运的是，没人受伤。)
+- 例句：**Honestly**, I didn’t expect this result. (老实说，我没想到这个结果。)
+
+### 易混淆的形容词和副词
+
+#### 形容词、副词同型
+
+以下是一些常见的形容词和副词形式相同的词（形容词副词同型），它们在句子中既可以作为形容词使用，也可以作为副词使用，取决于它们在句子中的功能和位置。
+
+| **词汇**     | **作为形容词的意思** | **作为副词的意思** | **例句**                                                                                                                                     |
+| ------------ | -------------------- | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **fast**     | 快速的               | 快速地             | - **形容词**: The train is **fast**. (火车很快。)<br>- **副词**: He runs **fast**. (他跑得很快。)                                            |
+| **early**    | 早的                 | 早地               | - **形容词**: He is an **early** riser. (他是个早起的人。)<br>- **副词**: She arrived **early**. (她来得很早。)                              |
+| **hard**     | 艰难的/坚硬的        | 努力地/费力地      | - **形容词**: This is a **hard** problem. (这是个困难的问题。)<br>- **副词**: She works **hard**. (她工作很努力。)                           |
+| **late**     | 晚的/迟的            | 晚地/迟地          | - **形容词**: He took the **late** train. (他坐了晚班火车。)<br>- **副词**: He arrived **late**. (他到得很晚。)                              |
+| **long**     | 长的                 | 长久地             | - **形容词**: She has **long** hair. (她有长头发。)<br>- **副词**: They waited **long**. (他们等了很久。)                                    |
+| **high**     | 高的                 | 高地               | - **形容词**: The mountain is very **high**. (这座山很高。)<br>- **副词**: The bird flew **high**. (鸟飞得很高。)                            |
+| **low**      | 低的                 | 低地               | - **形容词**: The ceiling is **low**. (天花板很低。)<br>- **副词**: Speak **low**. (低声说话。)                                              |
+| **deep**     | 深的                 | 深地               | - **形容词**: The river is very **deep**. (河流很深。)<br>- **副词**: He dived **deep** into the water. (他潜入水中很深处。)                 |
+| **near**     | 近的/接近的          | 近地/接近地        | - **形容词**: The restaurant is **near**. (餐馆很近。)<br>- **副词**: Come **near** to see better. (靠近一点看得更清楚。)                    |
+| **wide**     | 宽的/广泛的          | 宽地/广泛地        | - **形容词**: The road is very **wide**. (道路很宽。)<br>- **副词**: Open your eyes **wide**. (把眼睛睁大。)                                 |
+| **right**    | 正确的/右边的        | 正确地/恰当地      | - **形容词**: This is the **right** answer. (这是正确的答案。)<br>- **副词**: Do it **right**. (正确地做这件事。)                            |
+| **wrong**    | 错误的               | 错误地             | - **形容词**: The information is **wrong**. (信息是错误的。)<br>- **副词**: You did it **wrong**. (你做错了。)                               |
+| **straight** | 直的                 | 直地               | - **形容词**: Draw a **straight** line. (画一条直线。)<br>- **副词**: Go **straight** ahead. (一直往前走。)                                  |
+| **daily**    | 每日的               | 每天               | - **形容词**: This is a **daily** routine. (这是每日的惯例。)<br>- **副词**: She visits her grandmother **daily**. (她每天探望她的祖母。)    |
+| **weekly**   | 每周的               | 每周               | - **形容词**: We have a **weekly** meeting. (我们有每周例会。)<br>- **副词**: The magazine is published **weekly**. (这本杂志是每周出版的。) |
+| **monthly**  | 每月的               | 每月               | - **形容词**: It’s a **monthly** payment. (这是每月的付款。)<br>- **副词**: We pay rent **monthly**. (我们按月支付房租。)                    |
+| **yearly**   | 每年的               | 每年               | - **形容词**: It’s a **yearly** event. (这是每年的活动。)<br>- **副词**: We meet **yearly**. (我们每年见面。)                                |
+| **clean**    | 干净的               | 干净地             | - **形容词**: The room is very **clean**. (房间很干净。)<br>- **副词**: He wiped the table **clean**. (他把桌子擦干净了。)                   |
+| **slow**     | 慢的                 | 慢地               | - **形容词**: The traffic is very **slow** today. (今天的交通很慢。)<br>- **副词**: Please drive **slow**. (请慢慢开车。)                    |
+| **fair**     | 公平的               | 公平地             | - **形容词**: This is a **fair** decision. (这是一个公平的决定。)<br>- **副词**: They played the game **fair**. (他们公平地进行了比赛。)     |
+| **early**    | 早的                 | 早地               | - **形容词**: I am an **early** bird. (我是个早起的人。)<br>- **副词**: He left **early** today. (他今天走得很早。)                          |
+
+#### 形容词和其 -ly 形式含义不同
+
+| **形容词（Adjective）** | **副词（Adverb）** | **用法与区别**                                                                                                                                                                                                                                      |
+| ----------------------- | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **late**                | **lately**         | - **late**: 迟的/晚的（形容词或副词）。<br>例：He arrived **late**. (他到得很晚。)<br>- **lately**: 最近（副词）。<br>例：I haven’t seen her **lately**. (我最近没见到她。)                                                                         |
+| **hard**                | **hardly**         | - **hard**: 努力地/用力地（形容词或副词）。<br>例：She works **hard**. (她工作很努力。)<br>- **hardly**: 几乎不（表示程度）。<br>例：He **hardly** knows me. (他几乎不认识我。)                                                                     |
+| **high**                | **highly**         | - **high**: 高的/高地（形容词或副词），表示物理高度。<br>例：The bird flew **high**. (鸟飞得很高。)<br>- **highly**: 非常地/高度地（表示程度）。<br>例：She is **highly** respected. (她备受尊敬。)                                                 |
+| **near**                | **nearly**         | - **near**: 近的/接近的（形容词或副词）。<br>例：The station is **near**. (车站很近。)<br>- **nearly**: 几乎/差不多。<br>例：I **nearly** finished my work. (我几乎完成了工作。)                                                                    |
+| **deep**                | **deeply**         | - **deep**: 深的/深地（形容词或副词），表示物理上的深度。<br>例：He dived **deep** into the sea. (他潜入海中深处。)<br>- **deeply**: 深刻地/非常地（表示感情）。<br>例：She is **deeply** in love. (她深深地陷入了爱中。)                           |
+| **free**                | **freely**         | - **free**: 免费的/自由的（形容词），可作副词，表示“免费地”。<br>例：Children can enter **free**. (儿童可以免费进入。)<br>- **freely**: 自由地/随意地（无拘束地）。<br>例：He spoke **freely** about his thoughts. (他畅所欲言地表达了自己的想法。) |
+| **short**               | **shortly**        | - **short**: 短的/矮的（形容词）。<br>例：He is **short**. (他很矮。)<br>- **shortly**: 很快/不久（副词），表示时间上的“即将发生”。<br>例：He will arrive **shortly**. (他很快就会到达。)                                                           |
+| **pretty**              | **prettily**       | - **pretty**: 相当/颇（形容词或副词，常表示程度）。<br>例：It’s **pretty** cold today. (今天挺冷的。)<br>- **prettily**: 优美地/漂亮地（副词，表示行为方式）。<br>例：She dances **prettily**. (她跳舞跳得很漂亮。)                                 |
+| **sure**                | **surely**         | - **sure**: 确定的/肯定的（形容词）。<br>例：I am **sure** about that. (我对此很肯定。)<br>- **surely**: 确实/无疑（副词，表示说话者的确信）。<br>例：This will **surely** happen. (这肯定会发生。)                                                 |
+| **wide**                | **widely**         | - **wide**: 宽的/宽地（形容词或副词），表示物理宽度。<br>例：Open your eyes **wide**. (睁大眼睛。)<br>- **widely**: 广泛地（表示范围）。<br>例：This book is **widely** read. (这本书被广泛阅读。)                                                  |
+| **direct**              | **directly**       | - **direct**: 直接的（形容词或副词），表示动作或路径的直接性。<br>例：Take the **direct** route. (走直线路线。)<br>- **directly**: 直接地/马上（副词，表示方式或时间）。<br>例：I’ll call you **directly**. (我会马上打电话给你。)                  |
+| **easy**                | **easily**         | - **easy**: 容易的/舒适的（形容词）。<br>例：This is an **easy** job. (这是一项容易的工作。)<br>- **easily**: 容易地/轻松地（副词，表示方式）。<br>例：He solved the problem **easily**. (他轻松地解决了这个问题。)                                 |
+| **near**                | **nearly**         | - **near**: 接近的/靠近的（形容词或副词，表示物理或空间上的接近）。<br>例：The school is **near**. (学校很近。)<br>- **nearly**: 几乎/差不多（表示程度）。<br>例：He **nearly** fell off the chair. (他差点从椅子上掉下来。)                        |
+| **slow**                | **slowly**         | - **slow**: 慢的/缓慢的（形容词）。<br>例：The traffic is **slow**. (交通很慢。)<br>- **slowly**: 慢慢地/缓慢地（副词，表示动作方式）。<br>例：She walked **slowly** down the street. (她慢慢地沿着街道走。)                                        |
+| **close**               | **closely**        | - **close**: 近的/靠近的（形容词或副词，表示距离）。<br>例：Stay **close** to me. (紧挨着我。)<br>- **closely**: 密切地/仔细地（表示程度或方式）。<br>例：She looked **closely** at the document. (她仔细看了那份文件。)                            |
 
 
-## 附录 C: 常见介词
 
-介词通常与`名词`、`代词`或`名词短语`搭配使用，`形成介词短语`。
 
-介词短语可以用作句子中的`状语`或`定语`。
+## 介词（Prepositions）
 
-| **介词**    | **用法示例**                                    | **含义**       |
-| ----------- | ----------------------------------------------- | -------------- |
-| **in**      | She lives **in** New York.                      | 在（内部）     |
-| **on**      | The book is **on** the table.                   | 在（表面上）   |
-| **at**      | We will meet **at** the park.                   | 在（具体地点） |
-| **for**     | This gift is **for** you.                       | 为了（目的）   |
-| **to**      | He goes **to** school every day.                | 到（方向）     |
-| **from**    | I received a letter **from** my friend.         | 从（来源）     |
-| **with**    | She went **with** her sister.                   | 和（伴随）     |
-| **about**   | We talked **about** the movie.                  | 关于（主题）   |
-| **after**   | Let's meet **after** lunch.                     | 在（时间之后） |
-| **before**  | He arrived **before** the meeting.              | 在（时间之前） |
-| **between** | The park is located **between** the two houses. | 在（两者之间） |
-| **among**   | She is **among** friends.                       | 在（多者之间） |
-| **during**  | We stayed indoors **during** the storm.         | 在（期间）     |
-| **without** | I can't live **without** my phone.              | 没有（缺少）   |
-| **over**    | The plane flew **over** the mountains.          | 在（上方）     |
-| **under**   | The cat is sleeping **under** the table.        | 在（下方）     |
-| **inside**  | The keys are **inside** the drawer.             | 在（内部）     |
-| **outside** | They are playing **outside**.                   | 在（外部）     |
-| **toward**  | She walked **toward** the door.                 | 向（方向）     |
-| **through** | We walked **through** the forest.               | 穿过（空间）   |
-| **along**   | We walked **along** the river.                  | 沿着（方向）   |
-| **across**  | He swam **across** the lake.                    | 穿过（横过）   |
-| **against** | She leaned **against** the wall.                | 靠（位置）     |
-| **by**      | The book was written **by** J.K. Rowling.       | 由（作者）     |
-| **since**   | I have lived here **since** 2010.               | 自（某时间起） |
-| **until**   | I will wait **until** you arrive.               | 直到（某时间） |
+`介词`是用来表示名词或代词与句子中其他词语之间的关系的词。介词通常表示**时间、地点、方向、方式、原因**等，并且与其后的名词、代词或动名词构成`介词短语`。
+### 介词分类和常见介词
 
-## 附录 D: 常见连词
 
-连词用于`连接词、短语或句子`，通常`不改变`所连接部分的`语法形式`。
+#### **表示时间的介词（Prepositions of Time）**
 
-`有些连词可以引导从句`，通常需要根据句子的上下文进行选择。
+表示时间的介词用来描述动作或事件发生的时间点或时间段。
 
-| **连词**       | **用法示例**                                          | **含义**   |
-| -------------- | ----------------------------------------------------- | ---------- |
-| **and**        | I like apples **and** oranges.                        | 和，且     |
-| **but**        | She is smart, **but** she is not very diligent.       | 但是       |
-| **or**         | Would you like tea **or** coffee?                     | 或者       |
-| **nor**        | He doesn’t like tea, **nor** does he like coffee.     | 也不       |
-| **for**        | She must be tired, **for** she has been working hard. | 因为       |
-| **so**         | It was raining, **so** we stayed indoors.             | 所以       |
-| **yet**        | He is young, **yet** very wise.                       | 然而       |
-| **although**   | **Although** it was raining, we went for a walk.      | 尽管       |
-| **because**    | I stayed home **because** it was late.                | 因为       |
-| **since**      | **Since** it’s your birthday, let’s celebrate!        | 由于       |
-| **unless**     | I won’t go **unless** you come with me.               | 除非       |
-| **while**      | **While** I like coffee, she prefers tea.             | 而，尽管   |
-| **when**       | Call me **when** you arrive.                          | 当         |
-| **where**      | I know a place **where** we can eat.                  | 在哪里     |
-| **after**      | We can go **after** dinner.                           | 在…之后    |
-| **before**     | Finish your homework **before** you go out.           | 在…之前    |
-| **as**         | **As** it was raining, we stayed inside.              | 因为，随着 |
-| **whether**    | I don’t know **whether** to go or stay.               | 是否       |
-| **as long as** | You can stay here **as long as** you are quiet.       | 只要       |
-| **as soon as** | I will call you **as soon as** I arrive.              | 一…就…     |
+| **常见介词**   | **用法说明**                                       | **例句**                                            |
+| -------------- | -------------------------------------------------- | --------------------------------------------------- |
+| **at**         | 用于具体时间点、时间短语、节日时间。               | - at 5 o’clock (在5点)<br>- at noon (中午)          |
+| **on**         | 用于特定日期、特定的日子或某一天的时间段。         | - on Monday (在星期一)<br>- on Christmas (在圣诞节) |
+| **in**         | 用于较长时间段（年、月、季节）、一天中的某个部分。 | - in 2023 (在2023年)<br>- in the morning (在早晨)   |
+| **since**      | 自从某一时间点以来，一直持续到现在。               | - since 2010 (自2010年以来)                         |
+| **for**        | 表示时间长度，持续了多长时间。                     | - for three years (持续三年)                        |
+| **before**     | 某一时间之前。                                     | - before noon (中午之前)                            |
+| **after**      | 某一时间之后。                                     | - after dinner (晚饭之后)                           |
+| **by**         | 表示不晚于某一时间（截止时间）。                   | - by next week (到下周之前)                         |
+| **until/till** | 一直到某个时间点为止。                             | - until 8 p.m. (直到晚上8点)                        |
+| **during**     | 在某段时间内（通常与特定名词如节日、活动搭配）。   | - during the meeting (在会议期间)                   |
+| **from...to**  | 从某时到某时。                                     | - from Monday to Friday (从周一到周五)              |
 
-## 附录 E: 可以引导从句的连词
+#### **表示地点的介词（Prepositions of Place）**
 
-这些连词通常用于引导从句，与主句一起构成复杂句。
+地点介词用来表示人或物体所在的地点或位置。
+| **介词**        | **用法说明**                                   | **例句**                                                    |
+| --------------- | ---------------------------------------------- | ----------------------------------------------------------- |
+| **in**          | 在某个三维空间的内部；用于国家、城市或区域。   | - in the room (在房间里)<br>- in London (在伦敦)            |
+| **on**          | 在某物体的表面；用于街道、楼层或特定位置。     | - on the table (在桌子上)<br>- on the second floor (在二楼) |
+| **at**          | 在某个具体地点、建筑物或位置点。               | - at the door (在门口)<br>- at school (在学校)              |
+| **under**       | 在……下面（垂直下方）。                         | - under the bed (在床下)                                    |
+| **over**        | 在……上方（垂直上方，但不接触表面）。           | - over the bridge (在桥上)                                  |
+| **above**       | 在……上方（不一定垂直，可以表示抽象的“高于”）。 | - above the clouds (在云层上方)                             |
+| **below**       | 在……下方（不一定垂直，可以表示抽象的“低于”）。 | - below the average (低于平均水平)                          |
+| **between**     | 在两者之间。                                   | - between the two buildings (在两栋建筑物之间)              |
+| **among**       | 在三者或以上之间。                             | - among the trees (在树丛中)                                |
+| **in front of** | 在……前面。                                     | - in front of the TV (在电视前)                             |
+| **behind**      | 在……后面。                                     | - behind the curtain (在帘子后面)                           |
+| **next to**     | 在……旁边；紧挨着。                             | - next to the supermarket (在超市旁边)                      |
+| **beside**      | 在……旁边。                                     | - beside the lake (在湖边)                                  |
+| **opposite**    | 在……对面。                                     | - opposite the bank (在银行对面)                            |
+| **near**        | 在……附近。                                     | - near the station (在车站附近)                             |
 
-有些连词（如 "although", "though", "even though"）用于表示让步关系，而有些（如 "if", "unless"）用于条件关系。
+#### **表示方向的介词（Prepositions of Direction）**
 
-| **连词**         | **用法示例**                                          | **含义**       |
-| ---------------- | ----------------------------------------------------- | -------------- |
-| **that**         | She said **that** she would come.                     | （表述或内容） |
-| **if**           | I will go **if** it doesn’t rain.                     | （条件）       |
-| **whether**      | He asked **whether** I would join them.               | （选择）       |
-| **because**      | I stayed home **because** it was raining.             | （原因）       |
-| **although**     | **Although** it was late, I decided to call.          | （让步）       |
-| **though**       | **Though** he was tired, he finished the work.        | （让步）       |
-| **since**        | **Since** it’s your birthday, we should celebrate.    | （原因）       |
-| **unless**       | I won’t go **unless** you come with me.               | （条件）       |
-| **as**           | **As** it was getting late, we decided to leave.      | （原因）       |
-| **while**        | **While** I agree with you, I have some reservations. | （对比）       |
-| **when**         | Call me **when** you arrive.                          | （时间）       |
-| **where**        | I’ll show you the place **where** we met.             | （地点）       |
-| **before**       | Finish your homework **before** you go out.           | （时间）       |
-| **after**        | We can go **after** we finish our work.               | （时间）       |
-| **as soon as**   | I will let you know **as soon as** I hear from her.   | （时间）       |
-| **as long as**   | You can borrow my book **as long as** you return it.  | （条件）       |
-| **in case**      | Take an umbrella **in case** it rains.                | （条件）       |
-| **even though**  | **Even though** he was busy, he helped me.            | （让步）       |
-| **if only**      | **If only** I had more time to study!                 | （假设）       |
-| **in case that** | Bring a jacket **in case that** it gets cold.         | （条件）       |
+方向介词用来描述动作的方向或目标。
+
+
+| **介词**    | **用法说明**                 | **例句**                                                       |
+| ----------- | ---------------------------- | -------------------------------------------------------------- |
+| **to**      | 朝向某个方向；到达某一地点。 | - go to school (去学校)<br>- drive to the station (开车去车站) |
+| **towards** | 朝着……方向，但未到达。       | - walk towards the park (朝公园走去)                           |
+| **into**    | 进入（某个内部）。           | - jump into the pool (跳入泳池)                                |
+| **onto**    | 到……上面去。                 | - climb onto the roof (爬上屋顶)                               |
+| **out of**  | 从……出来。                   | - get out of the car (下车)                                    |
+| **through** | 穿过（从内部通过某个空间）。 | - go through the tunnel (穿过隧道)                             |
+| **across**  | 横过；穿过（横向）。         | - walk across the street (过马路)                              |
+| **along**   | 沿着……。                     | - walk along the river (沿着河流走)                            |
+| **past**    | 路过……；经过……。             | - walk past the store (走过商店)                               |
+| **around**  | 围绕；在……周围。             | - walk around the park (绕着公园走)                            |
+
+#### **表示方式、工具的介词（Prepositions of Manner and Instrument）**
+
+表示方式、工具和原因的介词用来说明某种行为的方式、使用的工具或动作的原因。
+
+| **常见介词** | **用法说明**                         | **例句**                                                              |
+| ------------ | ------------------------------------ | --------------------------------------------------------------------- |
+| **by**       | 表示方式、交通工具（后面不加冠词）。 | - by car (乘汽车)<br>- by phone (通过电话)                            |
+| **with**     | 用……（表示工具、手段或伴随）。       | - cut with a knife (用刀切)<br>- travel with friends (和朋友一起旅行) |
+| **without**  | 没有……（表示缺少或没有某物）。       | - He left **without** saying a word. (他一句话没说就离开了。)         |
+| **like**     | 像……一样（表示相似性）。             | - She sings **like** an angel. (她唱歌像天使一样。)                   |
+| **as**       | 作为……（表示身份或角色）。           | - He works **as** a teacher. (他是一名教师。)                         |
+
+
+#### **表示原因和目的的介词（Prepositions of Reason and Purpose）**
+表示动作或事件的原因和目的的介词。
+
+| **常见介词**   | **用法说明**                             | **例句**                                                                                  |
+| -------------- | ---------------------------------------- | ----------------------------------------------------------------------------------------- |
+| **for**        | 表示目的或原因；为了……，因为……。         | - He came for a meeting. (他来开会。)<br>- She was fined for speeding. (她因超速被罚款。) |
+| **because of** | 表示原因，后接名词或代词。               | - The game was canceled because of the rain. (比赛因雨取消。)                             |
+| **due to**     | 表示原因，通常放在句中或句末，后接名词。 | - The delay was due to traffic. (延误是因为交通堵塞。)                                    |
+
+#### **表示所属和关系的介词（Prepositions of Possession and Relationship）**
+这些介词表示某物属于谁，或者某物与其他事物的关系。
+
+| **常见介词** | **用法说明**         | **例句**                                                                   |
+| ------------ | -------------------- | -------------------------------------------------------------------------- |
+| **of**       | 表示所属或组成部分。 | - the color of the car (汽车的颜色)<br>- a member of the team (团队的成员) |
+| **about**    | 表示关于某个主题。   | - a book about history (一本关于历史的书)                                  |
+
+### 介词搭配
+
+介词与特定的动词、形容词或名词搭配使用时，会构成一些固定的表达或习惯用法。这些搭配在英语中非常常见，但它们往往不遵循普通的语法规则，因此需要熟悉并记忆。以下是常见的介词搭配及其用法解析。
+
+#### 1. **动词 + 介词 搭配**
+动词常与特定的介词搭配使用，表示特定的意义。这些搭配有时构成固定短语，表示某种习惯用法。
+
+##### 1.1 **常见动词 + 介词搭配**
+
+| **动词**        | **常搭配的介词** | **例句**                                       | **含义**             |
+| --------------- | ---------------- | ---------------------------------------------- | -------------------- |
+| **agree**       | with             | I **agree with** your opinion.                 | 同意（某人的意见）   |
+| **belong**      | to               | This book **belongs to** me.                   | 属于                 |
+| **care**        | about            | He doesn’t **care about** money.               | 关心，担心           |
+| **depend**      | on               | It **depends on** the weather.                 | 取决于，依靠         |
+| **look**        | for              | I’m **looking for** my keys.                   | 寻找                 |
+| **listen**      | to               | Please **listen to** me.                       | 听                   |
+| **talk**        | about            | We **talked about** the project.               | 谈论                 |
+| **think**       | of               | What do you **think of** the idea?             | 认为，对……看法       |
+| **believe**     | in               | She **believes in** hard work.                 | 相信                 |
+| **concentrate** | on               | I can’t **concentrate on** my work.            | 集中（注意力）       |
+| **apologize**   | for              | I **apologize for** the mistake.               | 因……道歉             |
+| **rely**        | on               | You can always **rely on** me.                 | 依靠，依赖           |
+| **apply**       | for              | He **applied for** the job.                    | 申请（职位、入学等） |
+| **wait**        | for              | We are **waiting for** the bus.                | 等待                 |
+| **worry**       | about            | Don’t **worry about** the future.              | 担心                 |
+| **laugh**       | at               | They **laughed at** his joke.                  | 嘲笑，因……笑         |
+| **participate** | in               | She **participated in** the contest.           | 参加                 |
+| **result**      | in               | The accident **resulted in** several injuries. | 导致，结果是         |
+| **succeed**     | in               | He finally **succeeded in** passing the exam.  | 成功做某事           |
+| **suffer**      | from             | Many people **suffer from** allergies.         | 遭受……的折磨         |
+| **consist**     | of               | Water **consists of** hydrogen and oxygen.     | 由……组成             |
+
+##### 1.2 **动词短语固定搭配（Phrasal Verbs with Prepositions）**
+某些动词与介词搭配后，形成动词短语，表示与原动词不同的意义。
+
+| **动词短语**        | **例句**                                        | **含义**     |
+| ------------------- | ----------------------------------------------- | ------------ |
+| **look after**      | Could you **look after** my dog while I’m away? | 照顾         |
+| **look forward to** | I’m **looking forward to** meeting you.         | 期待         |
+| **get along with**  | She **gets along with** her colleagues.         | 与……相处融洽 |
+| **take care of**    | She **takes care of** her parents.              | 照顾         |
+| **come up with**    | He **came up with** a brilliant idea.           | 提出，想出   |
+| **run out of**      | We **ran out of** milk.                         | 用完，耗尽   |
+| **break up with**   | She **broke up with** her boyfriend last week.  | 与……分手     |
+| **give up**         | He **gave up** smoking.                         | 放弃         |
+| **put up with**     | I can’t **put up with** his bad temper anymore. | 容忍         |
+| **look down on**    | She **looks down on** people without a degree.  | 看不起       |
+| **look up to**      | He **looks up to** his father.                  | 尊敬         |
+
+#### 2. **形容词 + 介词 搭配**
+形容词常与特定的介词搭配，表示对某事或某人的态度或情感。
+
+| **形容词**      | **常搭配的介词** | **例句**                                                    | **含义**          |
+| --------------- | ---------------- | ----------------------------------------------------------- | ----------------- |
+| **afraid**      | of               | She is **afraid of** spiders.                               | 害怕              |
+| **angry**       | at / with        | I’m **angry at** the delay.<br>He is **angry with** me.     | 对某事/对某人生气 |
+| **bored**       | with             | I’m **bored with** this movie.                              | 对……感到无聊      |
+| **proud**       | of               | He is **proud of** his achievements.                        | 为……感到自豪      |
+| **similar**     | to               | This color is **similar to** that one.                      | 与……相似          |
+| **famous**      | for              | Paris is **famous for** its beauty.                         | 因……而闻名        |
+| **responsible** | for              | She is **responsible for** the accident.                    | 对……负责          |
+| **interested**  | in               | He is **interested in** history.                            | 对……感兴趣        |
+| **excited**     | about            | The children are **excited about** the trip.                | 对……感到兴奋      |
+| **satisfied**   | with             | I’m not **satisfied with** the service.                     | 对……感到满意      |
+| **keen**        | on               | She is **keen on** playing tennis.                          | 喜爱……            |
+| **married**     | to               | He is **married to** a famous actress.                      | 与……结婚          |
+| **jealous**     | of               | He is **jealous of** his brother’s success.                 | 嫉妒……            |
+| **happy**       | about / with     | I’m **happy with** my job.<br>I’m **happy about** the news. | 对……感到高兴      |
+| **worried**     | about            | She is **worried about** her future.                        | 担心……            |
+| **afraid**      | of               | He’s **afraid of** heights.                                 | 害怕              |
+
+#### 3. **名词 + 介词 搭配**
+名词常与介词一起构成固定搭配，表示与名词相关的行为、事物或关系。
+
+| **名词**         | **常搭配的介词** | **例句**                                              | **含义**     |
+| ---------------- | ---------------- | ----------------------------------------------------- | ------------ |
+| **advantage**    | of               | The **advantage of** living here is the good weather. | ……的优势     |
+| **reason**       | for              | What’s the **reason for** your absence?               | ……的原因     |
+| **solution**     | to               | There’s no simple **solution to** this problem.       | ……的解决方案 |
+| **interest**     | in               | He has an **interest in** photography.                | 对……感兴趣   |
+| **relationship** | with             | I have a good **relationship with** my colleagues.    | 与……的关系   |
+| **invitation**   | to               | Thanks for the **invitation to** your party.          | ……的邀请     |
+| **connection**   | with             | There is a strong **connection with** the community.  | 与……的联系   |
+| **example**      | of               | That’s a good **example of** teamwork.                | ……的例子     |
+
+### 介词短语
+
+介词短语（Prepositional Phrases）是由介词与名词、代词或动名词（动词的ing形式）一起构成的固定表达结构，通常在句子中用作状语、定语或表语。这些短语常常具有特定的含义，使用时必须掌握它们的固定搭配。以下是常见介词短语的分类及其用法解析。
+
+#### **表示地点和位置的介词短语**
+这类介词短语用来描述人或事物的位置、方向或相对关系。
+
+| **介词短语**             | **例句**                                                 | **含义**        |
+| ------------------------ | -------------------------------------------------------- | --------------- |
+| **in front of**          | The car is parked **in front of** the building.          | 在……前面        |
+| **in the middle of**     | They are standing **in the middle of** the field.        | 在……中间        |
+| **next to**              | He sat **next to** his sister.                           | 紧挨着/在……旁边 |
+| **beside**               | There is a lamp **beside** the bed.                      | 在……旁边        |
+| **behind**               | The garden is **behind** the house.                      | 在……后面        |
+| **between ... and**      | The park is **between** the school **and** the hospital. | 在……和……之间    |
+| **above**                | The airplane flew **above** the clouds.                  | 在……上方        |
+| **below**                | The sun disappeared **below** the horizon.               | 在……下方        |
+| **on the top of**        | Put the book **on the top of** the shelf.                | 在……顶部        |
+| **under**                | The dog is sleeping **under** the table.                 | 在……下面        |
+| **at the back of**       | There’s a small garden **at the back of** the house.     | 在……的后面      |
+| **on the left/right of** | The library is **on the left of** the building.          | 在……的左/右边   |
+| **opposite**             | The restaurant is **opposite** the bank.                 | 在……对面        |
+| **inside**               | There is a gift **inside** the box.                      | 在……里面        |
+| **outside**              | They are standing **outside** the store.                 | 在……外面        |
+| **around**               | There is a fence **around** the garden.                  | 围绕……          |
+
+#### **表示时间的介词短语**
+这类短语表示某个动作或事件发生的时间、时间段或持续时间。
+
+| **介词短语**                         | **例句**                                       | **含义**         |
+| ------------------------------------ | ---------------------------------------------- | ---------------- |
+| **at the beginning of**              | We’ll meet **at the beginning of** the month.  | 在……开始时       |
+| **at the end of**                    | The project is due **at the end of** the week. | 在……结束时       |
+| **in the morning/afternoon/evening** | I always exercise **in the morning**.          | 在早晨/下午/晚上 |
+| **at noon**                          | Let’s have lunch **at noon**.                  | 在中午           |
+| **at midnight**                      | The train arrives **at midnight**.             | 在午夜           |
+| **during**                           | The store is closed **during** the holidays.   | 在……期间         |
+| **for a while**                      | Let’s rest **for a while**.                    | 休息一会儿       |
+| **from ... to**                      | I work **from** 9 a.m. **to** 5 p.m.           | 从……到……         |
+| **by**                               | Please finish this task **by** tomorrow.       | 在……之前         |
+| **on time**                          | The train left **on time**.                    | 准时             |
+| **in time**                          | We arrived **in time** for the concert.        | 及时             |
+| **since**                            | We’ve been friends **since** childhood.        | 自……以来         |
+| **until/till**                       | I’ll wait **until** you come back.             | 直到……为止       |
+| **at the moment**                    | She is not available **at the moment**.        | 此刻             |
+
+#### **表示原因、方式、手段的介词短语**
+这类短语用来说明某种行为的方式、使用的工具或动作的原因、目的。
+
+| **介词短语**       | **例句**                                                 | **含义**     |
+| ------------------ | -------------------------------------------------------- | ------------ |
+| **because of**     | The match was postponed **because of** the rain.         | 因为……       |
+| **due to**         | The delay was **due to** bad weather.                    | 由于……       |
+| **thanks to**      | We succeeded **thanks to** your help.                    | 多亏……       |
+| **in case of**     | **In case of** fire, use the emergency exit.             | 万一……发生时 |
+| **in spite of**    | He continued working **in spite of** his illness.        | 尽管……       |
+| **in terms of**    | This job is satisfying **in terms of** salary.           | 就……而言     |
+| **in favor of**    | They voted **in favor of** the proposal.                 | 支持……       |
+| **in addition to** | **In addition to** being a teacher, he is also a writer. | 除……之外     |
+| **by accident**    | I met her **by accident**.                               | 偶然         |
+| **on purpose**     | Did you do it **on purpose**?                            | 故意         |
+| **by mistake**     | I took the wrong book **by mistake**.                    | 错误地       |
+| **in a hurry**     | He left **in a hurry**.                                  | 匆忙地       |
+| **on behalf of**   | I’m writing **on behalf of** my company.                 | 代表         |
+| **in charge of**   | He is **in charge of** the project.                      | 负责         |
+| **by means of**    | We solve problems **by means of** cooperation.           | 通过……手段   |
+| **in need of**     | She is **in need of** help.                              | 需要……       |
+| **by hand**        | The invitation was written **by hand**.                  | 用手工       |
+| **in advance**     | Please book your tickets **in advance**.                 | 提前         |
+
+#### **表示状态或情感的介词短语**
+这类短语表示人物或事物的状态、情感或条件。
+
+| **介词短语**       | **例句**                                    | **含义**     |
+| ------------------ | ------------------------------------------- | ------------ |
+| **in a good mood** | She is always **in a good mood**.           | 心情好       |
+| **in trouble**     | He got **in trouble** at school.            | 遇到麻烦     |
+| **in love with**   | He is **in love with** her.                 | 爱上……       |
+| **in touch with**  | I’m still **in touch with** my classmates.  | 与……保持联系 |
+| **out of touch**   | We’ve been **out of touch** for years.      | 失去联系     |
+| **in control of**  | She is **in control of** the situation.     | 控制……       |
+| **out of control** | The fire is **out of control**.             | 失去控制     |
+| **in danger of**   | The species is **in danger of** extinction. | 处于……危险中 |
+| **in debt**        | He is deeply **in debt**.                   | 负债         |
+| **out of debt**    | He is finally **out of debt**.              | 还清债务     |
+| **in charge of**   | Who is **in charge of** this team?          | 负责         |
+| **in doubt**       | His honesty is **in doubt**.                | 怀疑         |
+
+#### **表示比较和对比的介词短语**
+这类短语用来表示事物之间的比较或对比关系。
+
+| **介词短语**           | **例句**                                                            | **含义**     |
+| ---------------------- | ------------------------------------------------------------------- | ------------ |
+| **compared with**      | **Compared with** last year, sales have increased.                  | 与……相比     |
+| **in comparison with** | The new model is more efficient **in comparison with** the old one. | 与……相比     |
+| **in contrast to**     | Her relaxed attitude is **in contrast to** his strictness.          | 与……形成对比 |
+| **different from**     | This design is completely **different from** the others.            | 与……不同     |
+| **similar to**         | This solution is **similar to** the previous one.                   | 与……相似     |
+| **the same as**        | His opinion is **the same as** mine.                                | 与……相同     |
+| **opposite to**        | My office is **opposite to** the library.                           | 与……相对     |
+
+#### **表示条件和目的的介词短语**
+这类短语用于表达条件、目的或意图，常用在引导条件句或表示行为的动机。
+
+| **介词短语**           | **例句**                                                             | **含义**     |
+| ---------------------- | -------------------------------------------------------------------- | ------------ |
+| **in order to**        | She studied hard **in order to** pass the exam.                      | 为了……       |
+| **for the purpose of** | The funds were raised **for the purpose of** research.               | 为了……的目的 |
+| **with the aim of**    | They started the project **with the aim of** improving safety.       | 以……为目的   |
+| **with a view to**     | The company expanded **with a view to** increasing its market share. | 目的是……     |
+| **in case of**         | **In case of** emergency, call 911.                                  | 如果发生……   |
+| **for fear of**        | He left early **for fear of** missing the train.                     | 由于害怕……   |
+| **in the hope of**     | They invested **in the hope of** making a profit.                    | 怀着……的希望 |
+
+#### **表示状态或变化的介词短语**
+这些介词短语表示事物的状态、变化或发展过程。
+
+| **介词短语**           | **例句**                                      | **含义**   |
+| ---------------------- | --------------------------------------------- | ---------- |
+| **in progress**        | The construction is **in progress**.          | 正在进行中 |
+| **under construction** | The road is **under construction**.           | 在建设中   |
+| **in a mess**          | His room is **in a mess**.                    | 乱糟糟     |
+| **under pressure**     | He is working **under pressure**.             | 在压力之下 |
+| **in danger**          | They were **in danger** of losing their home. | 处于危险中 |
+| **in a hurry**         | Don’t drive **in a hurry**.                   | 匆忙       |
+| **out of order**       | The vending machine is **out of order**.      | 发生故障   |
+| **in good condition**  | The car is **in good condition**.             | 状况良好   |
+| **under control**      | The situation is now **under control**.       | 受到控制   |
+
+#### **表示例外或排除的介词短语**
+这类介词短语用来表示某种例外或排除在外的情况。
+
+| **介词短语**   | **例句**                                        | **含义**                 |
+| -------------- | ----------------------------------------------- | ------------------------ |
+| **except for** | **Except for** John, everyone was present.      | 除……之外                 |
+| **apart from** | **Apart from** the cost, the trip was great.    | 除……之外（包含或不包含） |
+| **other than** | There’s no one here **other than** me.          | 除了……以外               |
+| **aside from** | **Aside from** his bad habits, he’s a nice guy. | 除了……之外（一般为负面） |
+
+#### **表示补充和强调的介词短语**
+这些短语用于补充信息或强调句子中的某些内容。
+
+| **介词短语**       | **例句**                                                     | **含义**       |
+| ------------------ | ------------------------------------------------------------ | -------------- |
+| **in addition to** | **In addition to** English, she speaks Spanish.              | 除……之外       |
+| **along with**     | He came **along with** his family.                           | 和……一起       |
+| **together with**  | The teacher, **together with** the students, went on a trip. | 连同，和……一起 |
+| **as well as**     | She is smart **as well as** diligent.                        | 既……又         |
+| **besides**        | There’s nothing **besides** work in his life.                | 除……之外（还） |
+| **moreover**       | She is talented. **Moreover**, she is hardworking.           | 而且           |
+
+#### **表示条件和假设的介词短语**
+这类短语常用于引导条件句，表示在某个条件下或某种假设的情况下会发生的情况。
+
+| **介词短语**          | **例句**                                            | **含义**   |
+| --------------------- | --------------------------------------------------- | ---------- |
+| **in case of**        | Take an umbrella **in case of** rain.               | 以防万一…… |
+| **in the event of**   | **In the event of** a fire, use the emergency exit. | 如果发生…… |
+| **on condition that** | He agreed to help **on condition that** I paid him. | 在……条件下 |
+
+#### **表示因果关系的介词短语**
+这些短语用于说明原因、结果或因果关系。
+
+| **介词短语**            | **例句**                                                | **含义**     |
+| ----------------------- | ------------------------------------------------------- | ------------ |
+| **as a result of**      | The match was canceled **as a result of** heavy rain.   | 由于……       |
+| **owing to**            | The project was delayed **owing to** a lack of funds.   | 由于……       |
+| **thanks to**           | He succeeded **thanks to** your support.                | 多亏……       |
+| **as a consequence of** | He lost his job **as a consequence of** his negligence. | 作为……的结果 |
+| **due to**              | The flight was delayed **due to** bad weather.          | 由于……       |
+
+#### **表示目的或意图的介词短语**
+这些介词短语用来表示做某事的目的或意图。
+
+| **介词短语**              | **例句**                                                    | **含义**     |
+| ------------------------- | ----------------------------------------------------------- | ------------ |
+| **for the sake of**       | They stayed together **for the sake of** the children.      | 为了……的利益 |
+| **for the purpose of**    | He went abroad **for the purpose of** further study.        | 目的是……     |
+| **with the intention of** | He left early **with the intention of** catching the train. | 意图是……     |
+
+#### **表示比较和衡量的介词短语**
+这类短语表示事物之间的比较或对比。
+
+| **介词短语**           | **例句**                                          | **含义** |
+| ---------------------- | ------------------------------------------------- | -------- |
+| **in comparison with** | Her work is excellent **in comparison with** his. | 与……相比 |
+| **relative to**        | The price is high **relative to** its quality.    | 相对于…… |
+
+
+
+
+## 连词（Conjunctions）
+
+`连词`是一种连接词，用来连接单词、短语、从句或句子。它们能够表示**并列关系、因果关系、转折关系、条件关系、时间关系**等，从而使句子结构更加复杂和语意更加清晰。连词根据其功能可分为**并列连词（coordinating conjunctions）**、**从属连词（subordinating conjunctions）**、**关联连词（correlative conjunctions）**等几大类。
+
+### **并列连词（Coordinating Conjunctions）**
+
+并列连词用来`连接结构相同或相似的单词、短语、从句或句子`，表示平行或并列关系。常见的并列连词包括 **and, but, or, so, for, nor, yet**。
+
+**并列连词的用法规则**：
+  - **并列句中主语一致时，可以省略第二个主语**：
+    - 例句：I called him **and** (I) waited for an answer.
+  - **连接两个句子时，连词前常加逗号**：
+    - 例句：I wanted to help, **but** I didn’t know what to do.
+
+**常见并列连词及用法**
+| **连词** | **含义**    | **例句**                                              | **用法说明**                                     |
+| -------- | ----------- | ----------------------------------------------------- | ------------------------------------------------ |
+| **and**  | 和/而且     | She likes apples **and** oranges.                     | 连接相同性质的词或句子，表示添加或并列关系。     |
+| **but**  | 但是/然而   | He is rich, **but** unhappy.                          | 表示转折或对比，表示前后内容的反差。             |
+| **or**   | 或者/否则   | Do you want tea **or** coffee?                        | 连接两个或多个选择项，表示选择关系。             |
+| **nor**  | 也不/也没有 | He cannot sing, **nor** can he dance.                 | 用于表示否定的并列，常与前面的否定内容配合使用。 |
+| **so**   | 所以/因此   | It was raining, **so** I stayed at home.              | 表示因果关系，表示前因后果。                     |
+| **for**  | 因为/由于   | He can’t come, **for** he is ill.                     | 表示原因（常见于书面语）。                       |
+| **yet**  | 然而/但是   | It’s a small car, **yet** it’s surprisingly spacious. | 表示转折，与“but”意义相似，但语气更为正式。      |
+
+
+
+### **从属连词（Subordinating Conjunctions）**
+从属连词用来`引导从句`（状语从句、条件从句、原因从句、时间从句等），表示主句与从句之间的关系。从属连词有很多种，常见的包括 **because, if, although, since, when, while, until, as, unless** 等。
+
+**从属连词的用法规则**：
+  - **从属连词引导的从句可以放在主句之前或之后**：
+    - 例句：**Because** I was tired, I went to bed early.
+    - 例句：I went to bed early **because** I was tired.
+   - **从句放在句首时，常在从句和主句之间加逗号**：
+    - 例句：**Although** it was late, he continued to work.
+
+| **连词**              | **含义**         | **例句**                                            | **用法说明**                             |
+| --------------------- | ---------------- | --------------------------------------------------- | ---------------------------------------- |
+| **because**           | 因为             | I stayed at home **because** it was raining.        | 表示原因，从句通常放在主句之后。         |
+| **since**             | 自从/因为        | I haven’t seen her **since** she left.              | 表示时间或原因（时间上常与完成时连用）。 |
+| **if**                | 如果             | **If** you work hard, you will succeed.             | 表示条件，引导条件从句。                 |
+| **unless**            | 除非             | **Unless** you hurry, you will miss the train.      | 表示条件，相当于“if not”。               |
+| **although / though** | 虽然             | **Although** it was raining, we went out.           | 表示让步，常用于表示与主句相反的情况。   |
+| **while**             | 当……时/而        | **While** I was reading, he was sleeping.           | 表示时间（当……时）或对比（而）。         |
+| **when**              | 当……时           | I was nervous **when** I took the exam.             | 表示时间。                               |
+| **after**             | 在……之后         | **After** I finished dinner, I went for a walk.     | 表示时间顺序。                           |
+| **before**            | 在……之前         | **Before** I go to bed, I usually read a book.      | 表示时间顺序。                           |
+| **as**                | 当……时/因为/随着 | **As** time went by, he got better.                 | 表示时间、原因或伴随情况。               |
+| **until**             | 直到……为止       | We waited **until** he arrived.                     | 表示时间，常与否定句搭配使用。           |
+| **whether**           | 是否             | I don’t know **whether** he will come or not.       | 表示选择或不确定性，常与“or not”连用。   |
+| **so that**           | 以便             | He studied hard **so that** he could pass the exam. | 表示目的，从句通常放在主句之后。         |
+| **as soon as**        | 一……就           | **As soon as** he arrives, I’ll call you.           | 表示紧接着的动作，常用于表示时间顺序。   |
+| **in case**           | 以防万一         | Take an umbrella **in case** it rains.              | 表示预防某种情况的发生。                 |
+| **even if**           | 即使             | I will go **even if** it rains.                     | 表示让步条件，表示某种情况发生的可能性。 |
+
+
+### **关联连词（Correlative Conjunctions）**
+关联连词是成对出现的连词，用来连接句子或词语中的两个对等部分，常见的包括 **both ... and, either ... or, neither ... nor, not only ... but also** 等。
+
+**关联连词的用法规则**：
+  - **关联连词连接的成分应保持一致性和对称性**：
+    - 例句：She is **both** talented **and** hardworking.（两个形容词）
+    - 例句：You can **either** stay **or** leave.（两个动词）
+  - **“not only ... but also”可以用于句首倒装，强调句子内容**：
+    - 例句：**Not only** does he play the piano, **but** he **also** sings.（倒装句型）
+
+
+| **连词**                  | **含义**   | **例句**                                                  | **用法说明**                                       |
+| ------------------------- | ---------- | --------------------------------------------------------- | -------------------------------------------------- |
+| **both ... and**          | 两者都     | She is **both** smart **and** hardworking.                | 用于连接两个相同性质的成分，表示“两者都”。         |
+| **either ... or**         | 或者……或者 | You can **either** stay **or** go.                        | 用于表示选择关系，表示“不是……就是……”。             |
+| **neither ... nor**       | 既不……也不 | He **neither** drinks **nor** smokes.                     | 表示否定关系，表示“两者都不”，谓语动词用肯定形式。 |
+| **not only ... but also** | 不仅……而且 | He is **not only** a teacher **but also** a writer.       | 用于强调连接的两个成分。                           |
+| **whether ... or**        | 是否……或者 | I don’t know **whether** he will come **or** not.         | 用于表示选择或两种情况的可能性。                   |
+| **both ... and**          | 两者都     | She speaks **both** English **and** French.               | 表示两者都具备某种特性。                           |
+| **no sooner ... than**    | 一……就     | **No sooner** had he arrived **than** it started to rain. | 表示两个紧接着发生的动作，前用倒装结构。           |
+| **hardly ... when**       | 一……就     | **Hardly** had I sat down **when** the phone rang.        | 用于描述一个动作刚发生，另一个动作就紧接着发生。   |
+
+
+### **其他类型的连词（Other Conjunction Types）**
+
+除了常见的并列连词、从属连词和关联连词之外，还有一些特殊类型的连词，用来`表达复杂的逻辑关系或句子结构`。
+
+#### **连接词性状语的连词**
+连接词性状语（Adverbial Conjunctions）用来连接句子之间的逻辑关系，它们在语法上不是连词，但可以起到类似连词的作用。常见的包括 **therefore, however, nevertheless, furthermore, meanwhile, consequently** 等。
+
+| **连接词**       | **含义**  | **例句**                                                        | **用法说明**                 |
+| ---------------- | --------- | --------------------------------------------------------------- | ---------------------------- |
+| **however**      | 然而      | It was raining; **however**, we went out.                       | 表示转折或相反的情况。       |
+| **therefore**    | 因此      | He was ill; **therefore**, he didn’t come.                      | 表示因果关系，前因后果。     |
+| **nevertheless** | 尽管如此  | It was very late; **nevertheless**, they continued to work.     | 表示让步或转折。             |
+| **furthermore**  | 此外      | She is talented; **furthermore**, she is hardworking.           | 表示补充或进一步的说明。     |
+| **consequently** | 结果      | He didn’t study hard; **consequently**, he failed the exam.     | 表示结果或因果关系。         |
+| **meanwhile**    | 与此同时  | He was studying; **meanwhile**, she was cooking.                | 表示时间上的同时发生或补充。 |
+| **thus**         | 因此/如此 | He didn’t know the answer; **thus**, he asked for help.         | 表示因果关系，表示结果。     |
+| **moreover**     | 而且/此外 | The weather was terrible; **moreover**, the flight was delayed. | 表示补充或进一步的信息。     |
+
+#### **表示因果关系的连词**
+这类连词用来表达原因和结果之间的逻辑关系。
+
+| **连词**      | **含义**  | **例句**                                              | **用法说明**                   |
+| ------------- | --------- | ----------------------------------------------------- | ------------------------------ |
+| **because**   | 因为      | He stayed at home **because** he was ill.             | 表示原因，通常放在原因从句中。 |
+| **since**     | 由于      | **Since** you’re here, let’s start the meeting.       | 表示原因或时间。               |
+| **as**        | 因为/由于 | **As** it was late, we decided to go home.            | 表示原因，通常放在原因从句中。 |
+| **for**       | 因为      | We couldn’t stay long, **for** it was getting late.   | 表示原因，多用于书面语中。     |
+| **so**        | 所以      | It started raining, **so** we stayed indoors.         | 表示结果，通常放在结果从句中。 |
+| **therefore** | 因此      | She didn’t study; **therefore**, she failed the test. | 表示因果关系，前因后果。       |
+
+#### **表示目的的连词**
+这些连词用来引导表示目的的从句。
+
+| **连词**          | **含义**  | **例句**                                                    | **用法说明**                   |
+| ----------------- | --------- | ----------------------------------------------------------- | ------------------------------ |
+| **so that**       | 以便      | He studied hard **so that** he could pass the exam.         | 表示目的，通常放在目的从句中。 |
+| **in order that** | 为了      | She left early **in order that** she could catch the train. | 用于正式语境，表示目的。       |
+| **for fear that** | 以防/唯恐 | He stayed quiet **for fear that** he might be discovered.   | 表示担心或预防某种情况的发生。 |
+
+#### **表示条件的连词**
+这些连词用来引导表示条件的从句，表示某种情况发生的前提或条件。
+
+| **连词**              | **含义**   | **例句**                                                      | **用法说明**                         |
+| --------------------- | ---------- | ------------------------------------------------------------- | ------------------------------------ |
+| **if**                | 如果       | **If** it rains, we will cancel the trip.                     | 引导条件从句，表示假设或可能性。     |
+| **unless**            | 除非       | **Unless** you hurry, you will miss the bus.                  | 表示“除非……否则……”，相当于“if not”。 |
+| **provided that**     | 只要/如果  | You can go, **provided that** you finish your homework first. | 表示条件或前提。                     |
+| **as long as**        | 只要       | **As long as** you work hard, you will succeed.               | 表示时间或条件。                     |
+| **on condition that** | 在……条件下 | He agreed to help, **on condition that** he gets paid.        | 表示条件，用于正式语境中。           |
+
+#### **表示让步的连词**
+这些连词用来引导表示让步的从句，表示某种条件虽然存在，但主句的情况仍然发生。
+
+| **连词**        | **含义**  | **例句**                                                | **用法说明**                           |
+| --------------- | --------- | ------------------------------------------------------- | -------------------------------------- |
+| **although**    | 虽然      | **Although** it was raining, we went out.               | 表示让步，从句的情况与主句相反。       |
+| **even though** | 即使      | **Even though** he was tired, he kept working.          | 强调让步的程度，比“although”语气更强。 |
+| **though**      | 尽管      | He kept running, **though** he was out of breath.       | 可用于句首或句尾，表示让步。           |
+| **whereas**     | 而/却     | Some people like coffee, **whereas** others prefer tea. | 表示对比或转折，多用于书面语。         |
+| **while**       | 虽然/尽管 | **While** I like chocolate, I don’t eat it often.       | 表示对比或让步。                       |
+| **even if**     | 即使      | I’ll go, **even if** it rains.                          | 表示假设性的让步条件。                 |
+
+#### **表示结果的连词**
+这些连词用来引导表示结果的从句。
+
+| **连词**          | **含义**     | **例句**                                                     | **用法说明**                                 |
+| ----------------- | ------------ | ------------------------------------------------------------ | -------------------------------------------- |
+| **so**            | 所以         | He was ill, **so** he stayed home.                           | 表示结果，从句表示前因后果。                 |
+| **so ... that**   | 如此……以至于 | He was **so** tired **that** he couldn’t keep his eyes open. | 表示程度和结果，通常用来连接程度与结果从句。 |
+| **such ... that** | 如此……以至于 | It was **such** a beautiful day **that** we went for a walk. | 用于表示程度与结果的连结，通常修饰名词。     |
+
