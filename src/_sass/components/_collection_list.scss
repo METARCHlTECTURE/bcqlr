@@ -7,6 +7,7 @@
   background: mix(rgba($color-primary, 0.6), rgba($color-bg, 0.6));
   visibility: hidden;
   z-index: 4;
+  text-align: center;
 }
 .collection_list_background {
   position: absolute;
@@ -16,12 +17,15 @@
   height: 100%;
 }
 .collection_list {
-  top: 15%;
-  left: 13%;
+  top: 13%;
+  // left: 13%;
+  display: inline-block;
   height: 76%;
   max-height: 1000px;
   width: 74%;
-  position: absolute;
+  max-width: 900px;
+  // position: absolute;
+  position: relative;
   z-index: 5;
   margin: 0 auto;
   overflow: none;

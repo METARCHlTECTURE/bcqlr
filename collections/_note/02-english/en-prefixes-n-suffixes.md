@@ -1,6 +1,7 @@
 ---
 title: Prefixes and Suffixes in English
 categories: 02-English
+tags: Cheatsheet
 ---
 
 ## Prefix
