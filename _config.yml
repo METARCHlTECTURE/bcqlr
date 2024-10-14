@@ -96,13 +96,20 @@ sass:
   sass_dir          : src/_sass
 
 # 7. Plugins
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
  # - jekyll-seo-tag
   - jekyll-mermaid
 
-# 8. Others
+# 8. JS version
+# Search Plugins on: https://cdnjs.com/
+# This is applied in ./src/_includes/head.html
+mathjax_version     : "3.2.2"
+mermaid_version     : "11.3.0"
+
+# 9. Others
 # Cross-Origin Resource Sharing header
 webrick:
   headers:

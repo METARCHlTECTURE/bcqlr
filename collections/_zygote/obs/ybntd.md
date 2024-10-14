@@ -1,6 +1,7 @@
 ---
-title: 文学是如何做到“美”的
+title: ybntd
 ---
+
 Ut euismod elit sit amet gravida ornare. Quisque tempor urna at enim convallis iaculis. Donec rutrum nunc sit amet massa varius scelerisque. Quisque ut metus nulla. Vestibulum eu porta lacus. Cras sit amet tortor sit amet lacus molestie placerat nec eu sapien. Fusce vestibulum eu enim nec egestas. Nullam rhoncus efficitur orci. Duis euismod laoreet facilisis. Sed varius justo ut lorem varius sodales tincidunt eget ipsum. Nam ut neque non mi venenatis consequat.
 
 Pellentesque sit amet felis nisl. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Suspendisse blandit tempor justo et sagittis. Quisque vitae erat quis elit efficitur vulputate blandit eget augue. Proin dui est, molestie et rhoncus eget, feugiat ac turpis. Pellentesque tristique felis sit amet felis euismod, vitae fringilla tellus sollicitudin. In gravida odio id augue lacinia suscipit. Quisque ex metus, vehicula eu mi nec, fringilla volutpat nulla. Donec bibendum at velit at eleifend. Integer magna velit, ornare ut turpis vitae, pellentesque fringilla eros. Sed rutrum ullamcorper nibh, et iaculis diam dignissim ac. Mauris volutpat, nibh ut facilisis mollis, mauris dui elementum enim, eu lacinia lorem massa nec tortor. Mauris placerat ac nisi et fermentum. Nullam molestie, purus in luctus pellentesque, sem velit ornare libero, ut aliquet libero augue id metus. Aliquam sed fermentum nunc.
@@ -59,58 +60,43 @@ Nam pellentesque pellentesque ex. Nunc sagittis nibh non risus fermentum mattis 
 
 In volutpat nisi magna, vel pharetra est aliquam vel. Donec pulvinar sit amet tellus quis tincidunt. Nulla in ipsum sagittis, consequat quam in, faucibus libero. Aliquam facilisis at dui a vehicula. Sed vulputate posuere eleifend. Nam ultricies iaculis rhoncus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi ac erat id turpis efficitur tincidunt in vitae massa. Donec vestibulum quam eget lacus ultricies, et cursus augue commodo. Proin condimentum dolor ac tellus tincidunt suscipit. Nullam consectetur risus eu lectus cursus ornare. Cras a sodales magna.
 
-Cras lacinia tristique mi, vel tincidunt dui hendrerit sed. Nulla lobortis egestas rhoncus. Nunc consequat velit in condimentum iaculis. Proin ac magna vitae lorem tincidunt dapibus. Praesent mattis mollis nunc, id luctus erat lobortis et. Donec vestibulum felis id est porta, lobortis egestas enim ornare. Vestibulum gravida quis lectus accumsan sodales. Maecenas nec justo tristique, vulputate sem vitae, porta quam. Vestibulum eget sodales leo. Aliquam malesuada mattis facilisis.<!-- 
-注：本文写于作者初学西方文学史，`仅为了记录一时的想法`，以待学成以后校验。`一派胡言，请勿相信`。
+Cras lacinia tristique mi, vel tincidunt dui hendrerit sed. Nulla lobortis egestas rhoncus. Nunc consequat velit in condimentum iaculis. Proin ac magna vitae lorem tincidunt dapibus. Praesent mattis mollis nunc, id luctus erat lobortis et. Donec vestibulum felis id est porta, lobortis egestas enim ornare. Vestibulum gravida quis lectus accumsan sodales. Maecenas nec justo tristique, vulputate sem vitae, porta quam. Vestibulum eget sodales leo. Aliquam malesuada mattis facilisis.
 
-对于文学作品有多么“美”，在什么地方上“美”，不同人有不同的看法。于是“和稀泥”者出现了，他说：“文学艺术的美是主观的，没有标准，读者说了算!”不学无术的人出现了:“艺术都要雅俗共赏的，群众喜欢的就是好文学！”这种拍读者和群众马屁的弱智言论总是不绝于耳。
+<!-- 摹仿马尔科斯的思路，以萨勒坦1840-1940的故事为蓝本，混合时代改变但人性的不变性。-->
 
-文学是如何做到美的，不妨用理性去分析一番。
-
-从过去的经验归类，文学一共有三个地方可以“承载”美：“形式”、“内容”、“意涵”。
-
-首先来检验一下文学的“形式”。东西方文学各自发展，产生了许多文学载体：从最早的史诗、抒情诗、叙事诗，到注重格式、韵律的格律诗、十四行诗，最终到文学的集大成者小说。先是形式逐渐成熟，到小说则是尽力摆脱形式的枷锁。这是因为，文学的“形式”之美是空洞的、机械重复的。
-
-你要欣赏文学的“形式之美”，你就得先学一堆“规矩”，把自己埋在“先贤的习惯”里，然后带着镣铐，像做填空题一样，挖空心思去填满一个作品。当然，这里是可以有新东西的，你可以创造新的奇思妙想的规矩，让后人模仿你，让后人钻进了你的“规矩”、你的“习惯”里。
-
-规矩越来越多，欣赏的门槛就越来越高。**语言**的自然功能是承载思想、表达意义。规矩的不断迭代更新，反倒**成为了“沟通”和“理解”的阻碍，成为了承载意义的阻碍**。文学的“高手”埋在故纸堆里“悟”先人的“规矩”，当时也没什么教程，就像破解密码一样。悟到了，就可以和其他“高手”成功加密通讯，相视一笑，商业互吹：“你是个高手，失敬失敬！”“哪里哪里，远比不上仁兄吶！”
-
-“形式”之美的加密通讯越卷越严重，欣赏文学的门槛越来越高；但是读者付出了许多汗水，得到的却是空虚的内容。自然而然“形式之美”就被淘汰了。这种“形式”之美的内卷，早就到了头。不信你可以问司马相如，后世谁还能写出那般辞藻华美的赋，你问唐人，为什么责怪“唐人把诗都写尽了”。
-
-值得一说的是，我们的小学、初中的语文教育，还停留在这个初级阶段。老师们低劣的文学修养，让他们对华丽的词藻、精美的排比、生僻的用典推崇备至；甚至折腾小学生们摘抄“好词好句”，多记忆典故，导致人们普遍沉溺于朗朗上口或晦涩难懂的文字。古人的一些文字游戏也被推上台面，被当作，比如“全篇写‘雨‘，却不带‘雨’字”。这些东西毫无意义，十分肤浅。
-
-说完了最肤浅的，再说说最深刻的，“意义之美”。荀子说：“文以明道”，韩愈提倡“文以载道”，大抵是说，文章的目的是为了承载人类的思想，给人们交换思想。这个想法，是**让文学回归到语言的本质**。文学的本体，也就是作品自身，只是容器，没有作用。这样走向了另外一个极端。
-
-这个说法没有直接的问题，但也“干掉”了文学的本体。试想，现在最有严密道理书是什么书？最富含深刻思想的书是什么书？数学、理论物理的书最有道理，哲学专著则汇集了人类最伟大深刻的思想，这些东西能算是艺术吗？这些书里包含文学吗？含量几乎为零。
-
-可见，没有文学不阻碍人类的生存。但文学还有其存在的意义和不可替代性。
-
-另外，还有一点让文学不能成为纯粹的思想载体，那就是实施困难——作家们可能并没有多么深刻的思想和道里。思想和道理不是绝对的，也随着时代、环境、语境的不同而变化，没有办法区别优劣。
-
-精力成本也是大问题。作家们用文字记录了所思所想的原材料，也就是他们的经历、回忆、情绪、感受、想象等；这就已经很消耗它们极大的精力了。于是，术业有专攻。而那些哲学家、数学家，往往为了清晰表达自己的意思，就已经挖空心思了（尼采、海德格尔：？），他们没有必要在意笔下文字的文学性，那不是首要的。
-
-最后，文学仅能在“内容”上做文章了，这次它发挥了它的全部潜力——复制并超越这个世界。
-
-人类最宝贵的东西是人类自己，人类最复杂、蕴含最多可能性的是思想（之所以不说是“经历”，人类的思想无法还原客观经历，只能以自己的思想去描述经历；并且人类可以从思想中产生“想象”）。哲学的发展需要多次反思思想、推演思想；语言文字能尽量最原本地记录思想。
-
-如何记录呢？**还原一个真实合理的、正在运转中的世界，使读者能身处不同的环境，这就是文学的内容之美**。于是我们可以看到，莎士比亚笔下的人物不再是标签化的，而是性格和思想逐渐成长；费尔丁不再写正邪分明的人物，而是赋予了他们复杂的性格；曹雪芹借贾母之口嫌弃“才子佳人”的套路，给后世呈现了栩栩如生的贾府兴衰录。文学中的人物，越来越像真正的人；文学中的世界，越来越像真实的世界。
-
-文学的内容还不止于仅仅记录。**文学可以进一步超越当前的现实世界和孤独的个人**，去探讨“平行世界”中的势态发展（如《悲惨世界》），去将历史人物的感受“平移”给当代读者（如《百年孤独》），去体会另外一个人的性格和思想模式（如《洛丽塔》）……无法尽举，我所知也不足。
-
-所以，文学的“内容之美”自然而然地成为了现代文学的最大艺术性。
-
-（那么可不可以“形式”“内容”“思想”全都要呢？对于作者来说，每个都需要极大的经历才能修习好；即使写出来了，形式阻碍内容和思想的表达；如果能总结为思想，则内容失去了必要；若不能总结为思想，则内容包含的信息则比思想的总结多得多。）
+<!-- 人物分类： -->
+<!-- 墨守陈规迂腐保守主义者，作为老派，好为人师，拥有强大的超我； -->
+<!-- 市侩机会主义者，盲目短视、漠视道义； -->
 
 
-## 为何文学无可替代
+<!-- 共性：具有与现代人相同的一些特性，并且重点讲述  -->
 
-说明了为什么“内容之美”成为了现代文学的首要艺术性之后，我想再谈谈为何文学无可替代。
+<!-- 1.每个人都有非理性、不认同有知识和道义的存在；（是否是注重经验、不知何为理性、思考、推理-->
+<!-- 2.只在对话中出现的中的理想主义者 -->
+<!-- 3.隐忍、能苟？？？这里存疑，因为对其具体表现形式还不确定。？？？？ -->
+<!-- 4.结合晚期的画，赢了赢了又赢了，赢麻了！ -->
+<!-- 5.对面子的狂热（面子狂热者？），对于面子问题的在意；地位比较低下者对自己面子的践踏/由于长期没有获得面子的机会，所以心理状态极卑贱；或者势利眼，遇高位者则卑微、曲意逢迎，遇低位者则作威作福、支配折腾（实际上形成了完全相反的两类人） -->
+<!-- 5.补充事例 1. 上海名媛拼单买丝袜等奢侈品并拍照；2. 好表面的面子，alphago战胜柯洁后，许多厂商仅看到了“比专业棋手强xxxx”一点，开发自己的“撑门面”ai，并无openai的从0掌握规则的能力，也未认识到openAI的创新之处在哪 3.好面子的原因？4.面子工程、面子正册 -->
+<!-- 6.二极管现象 -->
+<!-- 7.沉溺于表象，对于“本质”概念没有任何的认知 -->
+<!-- 8.奴役思想的：精神上的奴役System，体系化的精神奴役，控制、地位、权力思想。这里有一个左脚踩右脚上天的、螺旋加强的循环：软性奴役的泛滥->权力地位思想的繁盛必要->权力欲望的激发，导致了更广泛、程度更深的奴役 -->
+<!-- 9.对个人攻击的使用：喜欢苛求自己——父母帮助孩子苛求自己——长大了则形成逆反，喜欢甩锅作为苛求自己的补偿和防御 -->
+<!-- 10. 严重的结果论，赢了就是对的，输了就是错的！可与4联动，解释。而且有种明知故犯的意味，就故意显示自己“不理性、没分析，但是就是对的！”（瞪羚逻辑）。 -->
+<!-- 11.对于人性的漠视。大部分人言语中总是有身份地位的斗争，尊重的不是人格而是身份地位。打压下位者的人性，这是**歧视**行为。歧视的对象是下位者（但和黑人不同，黑人总体是下位者，可以明显划分——但荒漠中无法明确划分成歧视和被歧视的两个群体，歧视可以攻守转换，闲鱼翻身。 歧视和奴役相辅相成！！！！！-->
+<!-- 12.对于结论的痴迷——服务于一种攻击和自恋的心理需求。寻求结论-畜积结论-寻找他人输出结论。结论的内容不重要、向谁输出不重要，重要的是满足对于自己超我的想象，使自己站在一个高的心理位置（相对他人）。 **他们不需要查证，因为他们的核心需求并非是**-->
+<!-- 13.承认不足很难——无法承认二流、无法真正地虚心。盛行地谦逊品德只是虚伪，而内心深处无法真诚接受自己不如人。 -->
+<!-- 14.对努力的迷信——解决问题的第一思路就是内卷 or 逃避真正的问题，以努力掩盖问题；对与理性、方法、技巧则不够关心（世界杯踢球事件 阿根廷技术技巧；日韩拼抢；荷法靠天赋的身体 -->
+<!-- 标题 一百年太短？-->
 
-随着科技的发展，新的艺术形式在近 200 年不断涌现。摄影、电影、动画等，普遍成为了人类消遣娱乐的工具，远远没有超越文学；旧有的绘画、音乐的技艺也获得了快速发展，但其地位仍不足以撼动文学。
 
-第一，文学最大的长处是，它使用了文字作为载体。人类的语言文字塑造了人类的思想；甚至，以语言学的角度，语言就是思想本身。人类最复杂、最多样化的地方是思想，文字是关于人类思想的第一手材料（而不是看到的美女，触摸到的冰冷的石头），人类的所有可能性都必然包含在文字内，并只能以文字作为记录。对比电影、动画、电子游戏，后三者需要人们通力合作，而人与人之间是不可能共通思想的，人类只能互相交流那些较为简单、较为清晰的思想——只有这样的题材才能搬上银幕，自然就无法像文学那样呈现丰富的人类题材。另外，高成本的艺术形式，收回成本并营利才是第一要务，艺术性则没那么重要。
+<!-- 在特别提倡个人奋斗、受苦才能获得幸福和成就的亚洲文化，竟然努力是最没用的，到处充斥着特权阶级、关系户。大一体院学生开保时捷能去顶级券商实习，而对没有关系的金融毕业生要求苛刻至极、必须是国外顶级大学毕业生才能有机会；某个县几百个同族人进入各个政府机构。d -->
 
-第二，文字具有最高的记录和读取效率。如果要记录一个人某一段时间的状态，那写一篇日记是最高效的，可能只需要数个小时，就能把一天的所思所想、遇到的人事物事无巨细地写下来。如果想要了解一个人的一生，阅读他的传记是最高效的。对比漫画、中国画、歌曲，它们同样使用了文字，但是限于生产效率，文字和画面、旋律虽然能互为补充，刺激人类的感官，但远远跟不上人类形成思想的速度。每个人每天都在大量的形成经验和记忆，这个世界上，人类近百亿、事件无数、思想无数，只能以文字撷取最值得记录的一部分。
+<!-- 一个崇尚痛苦的区域 -->
+<!-- 文化中充斥没苦硬吃、讲究吃苦是福的自我洗脑。并且，一切“人生正途”都是要吃苦才能获得，像娱乐行业、服务行业、游戏行业被看作是不正当的、游手好闲的产业。这样的行业可以提供无数就业机会、给无数人的人生赋予意义，却被“家长”们疯狂打压、诋毁，只有受苦的工作才叫工作。它们潜意识的、从始至终都不认为快乐的事情可以成为工作。 -->
+<!-- 然而截然相反地是，普遍的自制力不足。并且，家长无法抵抗诱惑，并且觉得享乐是自己的特权。垄断享受乐趣的同时又夸大、渲染、宣传自己经历了痛苦，快乐只不过是一份不够充分的延迟补偿。 -->
 
-第三，文学有最复杂的艺术技巧，并以之探索最多的人类可能性。
 
-暂时只想到这些，但已足可证明文学在艺术中有无可取代的地位。 -->
+
+那天吃饭，全家人都指着那碗肉说香。告诉我那是新炒的牛肉，像牛肉干一样好吃，而且为了让我能吃还特意没放辣椒。那时候我9岁还是10岁，他们突如其来的热情让我直觉那个肉不能吃。但架不住他们一直说，我妈后面没耐心了，还直接夹一块放我碗里催我吃。没办法。我夹起来闻了闻，肉确实很香，就吃了。然后所有人开始狂笑。我舅一边笑一边问我香不香，我没说话，他说你根本吃不出来这什么肉。我说不是说牛肉吗？我舅说牛肉怎么会是这种味道，这种肉你以前应该没吃过，是不是很香？我看着他笑到扭曲的脸，忽然有种不祥的感觉。他想吃我养的小黑小白不是一两天了，以至于我都不敢把它们放家里，而是把它们养在楼下车棚。每次他说想吃兔肉被我阻止，都会来上一句:你吃过就知道了，兔子肉很香的。我起身奔下楼，打开车棚的门一看，里面是空的。兔子睡觉的笼子也是空的。而且用来喂草的盘子，还有放笼子下面接便便的纸壳子，都被扔垃圾桶了。小黑小白是和我关系很好的一个同学送我的礼物，她因为转学，就把这对小兔送给我留作纪念。求了我妈很久她才同意让我养。我养了快两年，每次开心难过都会找它们陪。回到家看着那碗肉，我心突突跳。还是不敢相信那真是我的小白和小黑。我书包里还装着给它们新摘回来的奶浆草。直到我舅把我带到阳台，让我看崩在墙上的两张兔皮，一黑一白。那天，一向沉默乖顺的我拼尽了全力脚踢我舅，谁都拉不住那种。被我妈用皮带抽，扇巴掌也没放弃。我脱力倒地时，终于没人笑了，也没人再碰那碗肉。我一身伤地抱着那碗肉和两张兔皮到车棚前的桃树下，把它们埋了。眼泪流的路都看不清。后来我没再吃过兔肉，也没再养过兔子。逢年过节回去和他们一起吃饭，只吃我自己带回去的菜。我没办法忘记他们吃了我的好伙伴，还骗着我吃。只为让我承认，它们的肉好吃。
+
+<!-- 宣示了大人的统治的绝对性，无论如何也要达到，可以凌驾、抹平孩子的意志。然后重复了自己的价值观，人应该以利益为准绳（好吃），而不感情用事（痛惜畜生、朋友），抑制感情（感情无用论）不矫情 -->
