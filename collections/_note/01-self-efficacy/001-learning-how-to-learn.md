@@ -30,3 +30,1929 @@ To build chunks:
   - Focused practice and repetition, the creation of strong memory traces helps to create chunks. Focusing attention to connect parts of the brain to tie together ideas helps one started in creating a chunk.
     - These doen's work right when angry, stressed, depressed.
   - Human's attention helps make connectionsd to information in various part through 4 slots of working memory.
+
+
+## Transcript
+
+### 01 集中与发散思维概论
+
+What do you do when you just can't figure something out? For zombies, It's pretty simple. They can just keep bashing their brains against the wall. But living brains are a lot more complex. It turns out though, that if you understand just a little bit of some of the basics about how your brain works, you can learn more easily and be less frustrated. Researchers have found that we have two fundamentally different modes of thinking here. I'll call them the focused and the defuse modes or familiar with focusing. It's when you concentrate intensely on something you're trying to learn or to understand. But we're not so familiar with defuse thinking. Turns out that this more relaxed thinking style is related to a set of neural resting states. We're going to use an analogy of the game of pinball to help us understand these two thinking modes. Incidentally, both metaphor and analogy are really helpful when you're trying to learn something new. If you remember, a pinball game works, but you pull back on the plunger, release it, and a ball goes binding out, bouncing around on the rubber bumpers and and how how you get point. So here's your brain with the ears right here and the eyes looking upwards, and we can lay that pinball machine right down inside it. So there you go. There's the analogy for the focus mode. The blue robot bumpers here replaced very close to one another. See the orange pattern here towards the top. It represents a familiar thought pattern, maybe involving something simple, like adding some numbers or more advanced ideas, like literary criticism, or calculating electro magnetic flux. You think of that boom, it takes off, moves smoothly along. And then as it's bouncing around on the butlers, you're able to figure out the problem you're trying to solve or the concept you're going to understand that's related to something you rather formal you're with. So look at how that thought moves smoothly around on the fuzzy underlying orange ual pathway in some sense, as if it's travelling along a familiar, nicely paved road. But what if the problem you're working on needs new ideas or approaches, concepts you having thought of before? That's symbolized here by this neural pattern towards the bottom of the pin bowl machine area. But if you haven't thought that thought before, you don't even know how that pattern feels or where it is. So how are you going to develop that new thought in the first place? Not only do you not know where the pattern is or what the pattern looks like, but see all the Weber bumpers that are blocking your access. Whatever direction you do decide to move in. To get to this new thought pattern, you need a different way of thinking. And that's represented here by the diffuse mode. Look at how widely space the rubber bumpers are thought takes off. Look at how it moves widely, bounces around around it, travel a long way before being interrupted by hitting a bumper. In this defuse mode of thinking, you can look at things broadly from a very different big picture perspective. You can make new neural connections traveling long, new pathways you can focus on as tightly as you often need to, finalizing the sort of problem solving and understand the finest aspects of a concept. But you can at least get to the initial place you need to be in to home, in on the solution. Now, as far as the neuroscientists know right now, you're either in the focus mode or the defuse mode of thinking. It seems you can't be in both thinking modes at the same time. It's kind of like a coin. You can see either one side or the other side of the coin, but not both sides. At the same time, being in one mode seems to limit your access to the other mode's way of thinking. In our next video, we're going to see how some extraordinary people access their defuse ways of thinking to do great things. Bikes for learning, about learning. I'm Barbara O. Clock. 
+
+### 02 课程结构介绍
+
+Welcome to learning how to learn. Your brain has amazing abilities, but it didn't come with an instruction manual. Perhaps the greatest gift that our brains give us is the ability to learn new things every day. On my way here, I thought about the journey that will take us to the last day of the course and how much we will learn along the way. Our goal is to give you a better understanding of how we learn so that your brain becomes a better learner. These insights are based on solid research from neuroscience, from cognitive psychology, and also from dozens of leading structures and practitioners in difficult to learn subjects. Whether you are a nervous or an expert, you will find great new ways to improve your skills, techniques for learning, especially related to math and science. This course is meant to help you reframe how you think about learning to help reduce your frustration and increase your understanding. We approach things a little differently. You're not expected to have an in depth background in any particular subject. Instead, you're expected to take these ideas and apply them to whatever subject you're trying to learn or improve in to help you learn more deeply, effectively and with less frustration. You'll hear experts from a variety of different disciplines talking about their best tips for learning more effectively. You can benefit from these ideas, whether you are struggling in high school or soaring through math and sciences c graduate levels at a University. I'm a co director of a science and learning center that is sponsored by the National Science Foundation based here in lawyer. In recent years, we've made great strides from research and discovering how to learn most effectively, finding a way to simply and effectively share these ideas with you has been a big undertaking, but we feel it's well worth doing. You'll see that many of these ideas, although simple, are incredibly powerful. And along the way, we will also learn a lot in the process of teaching you. You'll see how you can fall yourself about whether you actually know the material. You'll discover new ways to hold your focus and embed the material more deeply and powerfully in your mind, and you learn to condense key ideas you're learning about so you can grasp them more easily, master the simple practical approaches outlined here, including simple tips to help prevent procrastination, and you'll be able to learn more effectively and with less frustration. This course is meant to enrich both you're learning and your life. You'll be able to get what you want from this material. So welcome to the course and happy learning. 
+
+### 03 利用集中与发散思维
+
+So let's take a look at some famous people from history who use their different thinking modes to help them with their problems, solve it. If you look at that night I write there he was self, the door Dolly, a very well known surrealist painter of the twelve years century. He was the very definition of a wild and crazy guy. You've could see him here with his pet osca bubble. Dollar used to have an interesting technique to help him come up with his fantastically creative surrealist paintings. He'd relax in a chair and let his mind go free, often still mainly thinking about what he still previously been focusing on. He'd have a key in his hand, dangling it just above the floor, and as he would slip into his dreams, falling asleep, the key would fall from his hands and the claim would wake him up just in time, so it could gather up those defuse mode connections in ideas in his mind, and often go back into the focus de, bringing with him the new connections he'd made back in the defuse mode. Now you might think, well, you know, is ok for an artist, but what does they have to do with more scientific or mathematical kinds of thinking? Well, if you look down here, this guy was Thomas Edicson, one of the most brilliant inventors ever. According to legend, what Edison used to do was, he'd say, relaxed in his chair, holding bow bearings in his hand. He relaxed away, letting his mind run free, although it would often noodle back in a much more relax way to what he'd been focusing on previously. When Edison would fall asleep, the ball bearings would drop and clapper to the ground, just as with thali, and it would wake at this. And up and off he go with his ideas from the diffuse mode, ready to take them into the focus mode and build on them. So the bottom line is when you're learning something new, especially something that's a little more difficult, your mind needs to be able to go back and forth between the two different earning modes. That's what helps you learn effectively. You might think of it as a bidden elegance to building your strength by lifting weights. He would never plan to compete in a weight lifting competition, waiting until the very day, day before I meet, and spending that entire day working out like a thing. I mean, it just doesn't happen that way. To gain muscular structure, you need to do a little work every day, gradually allowing your muscles to grow. Similarly, to build neural structure, you need to do a little work every day, gradually, allowing yourself to grow a neural scuffle to hang you're thinking on a little bit every day, and that's the trick. In summary, then we learned that analogies provide powerful techniques for learning. We learned about how the brain's two different thinking modes, focused and defuse each helps us learn, but in very different ways. And finally, we learn that learning something difficult can take time. Your brain needs to alternate at ways of learning as a grapples with, and it simulates the new material. Thanks for learning about learning. I'M Barber Oakly. 
+
+### 04 什么是学习
+
+Welcome to learning how to learn. My name is terra yin Oski. Let me introduce you to your brain. First, some brain surgery. We take off the the school and take out the brain. This brain way, three pounds, but it consumes ten times more energy by weight than the rest of the body of very expensive organ. It is the most complex device in the known universe. All of your thoughts, your hopes, your fears are in the neurons in this brain. We prize our abilities to do chess and math, but it takes years of practice to acquire these skills. And digital computers are much better at it than we are. It came as a surprise to discover that what we do so well and take for granted, like seeing, hearing, reaching, running, are all much more complex problems than we thought and wait beyond the capability of the world's fastest digital computers. What this illustrate is that we are not consciously aware of how our brains work. Brains, they evolved to help us navigate complex environments. And most of the heavy lift is done below our level of consciousness, and we don't need to know how it's done in order to survive. Psychologists who studied the unconscious mind have found that influences include thought processes, memory, emotions and motivation. We are only aware of a very small fraction of all the activity in the brain, so we need to rely on brain imaging techniques to guide. Here is the activity map of someone's brain who was asked to lie still at rest in a brain imaging scanner. On the left is the side view of the brain, and on the right is the view from the middle. The colors indicate brain areas whose activities were were highly correlated, as shown by the time courses below color coded to the brain areas. The blue areas are highly active when the subject interacts with the world, but turn off in the resting state. The red, orange areas are most active in the resting state and are called the default mode network. Other brain areas are also a more active when you arresting, and these areas can be further divided into groups of areas that have common patterns of activity. This is a new, an intense area of research, and it will take time to sort out all the resting states and their functions. There are a million billions synapses in your brain where memories are stored. The old view of the brain is that once it matures, the strengths s in Epsom can be adjusted by learning. But the pattern of conservative does not change much unless there is brain damage. But now we know that brain and activity is dynamic and remain so even after it matures. With new optical techniques for imaging, single connections between neurons called synapses, ses, we can see constant turn over with Newton app is being formed and others disappearing. This raises a puzzle in the face of so much turn over how to memory, say, stable after so many years. This is a picture of one dander oc branch on a neuron which you sees inputs from other neurons. The synapses are are the spiny nbs. Coming off the dance right on the top. The dance write was image before learning. The same gender right is shown below after learning and after sleep. Multiple synapses is that are newly formed together on the same branch, are indicated by the White airheads. You are looking down into the brain of a new animal. This is really a fantastic new technique. Synapse ses are less than the Mike run in diameter in comparison to human hair is around 20 microns in diameter. R this new technique allows us to see how learning changes the structure of the brain with a resolution that is near the limit of light microscope. This illustrates that, intriguingly, you are not the same person you were after a night sleep or even an app. It as if you went to bed with one brain and woke up with an upgrade. This is a better deal than you can get for Microsoft. Shakespeare, the great English poets already knew this. Here is Macbeth lamenting his asthma sleep that needs up the Ravel sleeve of care. The death of each days life saw labor's boss, bottom of heard minds, great nature, second course, cheap nurture in life's east. Here, Shakespeare is making an analogy between needle clothes and sleep that kits up the loose threads of experience and concerns during the day and weaves them into the tapestry of your life story. You will learn in this first week how to take advantage of your own conscious mind, and also sleep to make it easier to learn new things and solve problems. During the the lectures, we ask yourself, how does the brain do this? A good place to find out more about your brain is the website, brain facts, that org. Brain facts. One word that work. You will find a wealth of interesting things about brains in behavior, and in particular, about learning a memory. I am touristy Oski happy learning until we meet again. 
+
+### 05 拖延症简介
+
+Everybody has some issues with procrastination because if you're working on something, it means you're not working on a lot of other things. But some people have more issues with procrastination than others. In this video, we're going to give you a little insight into procrastination, why it arises, and a powerful little tool to help you address it. When you look at something you really rather not do, it seems that you activate the areas of your brain associated with pain. Your brain, naturally enough, looks for a way to stop that negative stimulation by switching your attention to something else. But here's the trick. Researchers discovered that not long after people might start actually working on what they didn't like, that neural discomfort disappear. So seems what happens when you procrastinate is something like this. First, you observe and get a cue about something that causes a tiny bit of unease. You don't like it. So to make this sensation go away, you turn your attention from whatever cause that on needs. You turn towards something more pleasant, but result you feel happier temporarily. We're going to talk more about procrastination later on, but in the meantime, I'm going to let you in on a handy little mental tool. This tool is called the paleo o was invented by Franchesca civil OO in early 1980. Commodore o is Italian for tomato. The timer you use often looks like a tomato, and really a timer is all there. Is that this elegant little technique? All you need to do is set a timer to 25 minutes, turn off all interruptions and in focus. That's yet, most anybody can focus for 25 minutes. The only last important thing is to give yourself a little reward when you're done a few minutes of web surfing, a cup of coffee or a butter chocolate, even just stretching or chatting mindlessly, allowing your brain to enjoy ably change its focus for a while. You'll find that using the Commodore technique is very effective. It's a little like doing an intense 25 minute workout at a mental gym, followed by some mental relaxation. Kill it a try. Next we're going to see how one very shy ten year old changed her brain. 
+
+### 06 实践使记忆永远
+
+Yah that's me. When I was ten, I loved animals, handicrafts and dreaming. Back then I was the blitt ant queen of anti math. I neglected, ignored, funt and downright hated math and science all through great school, middle school and high school. It's strange to realize I'm now a professor of engineering. I am listed in the army right out of high school to study language at the defense Language Institute at me at 18, looking very nervous and very focused while throwing a hand grenade. I only started to study math and science when I was 26 years old. After I got out of the military. At first, it was really hard. There were all these quick thinkers in my classes who seem to get everything a lot easier and faster than me. Sometimes I take a break for a few months. ID go out and work as a Russian translator on Soviet trawlers. That's me, up in the bearing sea. And I'd come back to school and try and learn more. As I gained technical Nohl doors started opening up for me. I ended up working as a radio operator at the south pole station in Antarctica. That's where I met my husband. I always say, had to go the end of the earth to meet that me here. Years after only ten minutes outside, at -70 degrees fern height, with a 60 mile an hour wind, the windchill takes it off the charts. Now, I wasn't natural in math and science, not at all. The way I succeeded was to gradually begin to figure out some tricks. But let's back up a step. In the greater scheme of all the different careers and disciplines that people can pursue, why are those involving math and science sometimes a bit more challenging? We think it may be related, at least in part, to the abstract nature of the ideas. I mean, let's take a cow, for example, outstanding in a field. If you have the word cow, you can point right to a cow to learn what that word means. Even the letters for the word cow, C, O, W, are roughly analogous sounds that they see for. But for mathematical ideas, there's often no analogous thing you can point to. There are no plus signs staining out in a field, no multiplication, division or other kinds of things that can directly equate to mini mathematical or scientific terms. Terms are are abstracted. In other words, what you might say, Yeah, but what about words like love or est or hope? Those are all abstract. Yes, they are. But the thing is, these abstract terms are often related to our emotions. We can feel our emotions, even if we can see and point to concrete examples like we could with the cow. This means it's important to practice what ideas and concepts you're learning, and math and science, just like anything else you're learning, to help in hands and strengthen the neural connections you're making during the learning process. You can see on your left here the symbolic representation of a thought pattern neurons become linked together through repeated use. The more abstract something is, the more important it is to practice in order to bring those ideas into reality. For you, even if the ideas you are dealing with, our abstract, the neural thought patterns you are creating, our real and concrete, at least they are, if you build and strengthen them through practice, here's a way, the picture, what's going on when you first begin to understand something. For example, how to solve a problem. The neural pattern form is there, but very weak, kind of like the thin pattern at the top of our pinball machine analogy here, when you solve the problem, again, fresh from the start, without looking at the solution, you begin deepening that neural pattern, kind of like the darker pattern you see here in the middle. And when you have the problem down cold, so you didn't go over each step completely consciously in your mind without even looking at the solution, and you've even had practice on related problems, why then? The pattern is like this dark from pattern you can see towards the bottom of the pinball frame. Practice makes permanent. When you're learning, what you want to do is study some, study it hard by focusing intently, then take a break, or at least change your focus to something different for a while. During this time of seeming relaxation, your brain's diffuse mode has a chance to walk away in the background and help you out with your conceptual understanding. Your your neural murder, in some sense, has a chance to dry if you don't do this, if instead you learn by crammed, your knowledge base will look more like this, all in a jumble with everything confused, a poor foundation. If you have problems with procrastination, when when you want to use the Amedeo, that brief timer, this helps you get going using brief periods, each, each of of focus tention that will help you start building the neural patterns you need to be more successful in learning more challenging materials. Next step will be talking about chunking, the vital essence of how you grasp and master key ideas. I'M Barber o Cliff. 
+
+### 07 记忆概论
+
+When I look back on my childhood, or I remember some words from Spanish or from Russian, thus it it, or I bring to mind one of Maxwell s. Equations. I'm drawing on portions of my brain involved in long term memory. But when I'm trying to hold a few ideas in mind to connect them together so I can understand a concept or solve a problem, I'm using my working memory. Obviously, sometimes I bring something for my long term memory into my working memory so I can think about it. So the two types of memory are related. There are lots of different ways to slice our understanding of memory. But for this course on learning, we're going to talk about only these two major memory systems, working memory and long term memory. Working memory is the part of memory that has to do with what you're immediately and conscious ly processing in your mind. You're working memories centered out of the prefrontal cortex, although as we will see later, there are also connections to other parts of your brain so you can access long term memories. Researchers used to think that our working memory could hold around seven items or chunks, but now it's widely believed that the working memory holds only about four chunks of information. We tend to automatically group memory items into chunks. So it seems our working memory is bigger than it actually is. Although your working memory is like a blackboard, it's not a very good blackboard. You often need to keep repeating what you're trying to work with so it stays in your working memory. For example, you'll sometimes repeat a phone to yourself until you have a chance to write it down repetitions needed so that you're meta lic vampyres. That is, natural dissipating processes don't flux those memories away. You may find yourself shutting your eyes to keep any other items from intruding into into the limited lots of your working memory as you concentrate. So we know that short term memory is something like an inefficient mental blackboard. The other former memory, long, long term memory, is like a storage warehouse. And just like a warehouse is distributed over a big area, different kinds of long term memories are stored in different regions of the brain. Research is known that you first try to put an item of information in long term memory. You need to revisit it at least a few times to increase the chances that you'll be able to find it later when you might need it. The long term memory storage warehouse is immense. It's got room for billions of items. In fact, there can be so many items they can bury each other, so can be difficult for you to find the information you need unless you practice and repeat at least a few times. Long term memory is important because it's where you store fundamental concepts and techniques that are often involved in whatever you're learning about. When you encounter something new, you often use your working memory to handle it. If you want to move that information into your long term memory, it often takes time and practice to help with this process. User technique called space repetition. This technic involves repeating what you're trying to retain or what you want to do. Is space this repetition out? Repeating a new vocabulary world or a problem solving technique, for example, over a number of days. Extending your practice over several days does make a difference. Research has shown that if you try to glue things into your memory by repeating ing something 20 times in one evening, for example, it wants stick nearly, as well as if you practice at the same number of times over several days. This is like building the brick wall we saw earlier. If you lead time for the the order to dry, that is time for the synaptic connections to form and strengthen. You won't have a very good structure. And talk about lasting structure. Look at this part of the acropolis here. Thanks for learning about learning. I'm Barbara. Okay. 
+
+### 08 睡眠在学习中的重要性
+
+You might be surprised to learn that just plain being awake creates toxic products in your brain. How does the brain get rid of these poisons? Turns out that when you sleep, your brain sells shrink. This causes an increase in the space between your brain cells. It's like unlocking a link fluid can slow, PaaS these cells and wash the talks ones out to sleep, which can sometimes seem like such a waste of time, is actually your brain's wave keeping itself clean and healthy. So let's get right to a critical idea, taking a test without getting enough sleep means you're operating with a brain. Is that that little mediocre toxins floating around in it poisons and make it so you can think very clearly it's kind of like trying to drive a car that's got sugar in its gas tank doesn't work too well. In fact, getting too little sleep doesn't just make you do worse on test. Too little sleep over too little of a time can also be associated with all sorts of nasty conditions, including headaches, depression, heart disease, diabetes and just plain dying earlier. But sleep does more than just allow your brain to wash away toxins. It's actually an important part of the memory and learning process. It seems that during sleep, your brain tides of ideas and striped thinking about it, learning it, raises the less important parts of memories in Smulders anew, sly, strengthen areas that you need or want to remember. During sleep, your brain also rehearsals some of the tougher parts of whatever you're trying to learn, going over and over neural patterns to deep in and strengthen them. Sleep has also been shown to make a remarkable difference in your ability to figure out difficult problems and to understand what you're trying to learn it. As if the complete the activation of the conscious, you, in the prefect of cortex of the forefront of your brain, helps other areas of your brain start talking more easily to one another, allowing them to put together the Ural solution to the learning task. You you're sleeping. Of course, you must also plan the seed for your diffuse mode by first doing focus mode work. If you're going over what you're learning right before you take a nap or going to sleep for the evening, you have an increased chance of dreaming about it. If you go even further and set it in mind that you want to dream about the material, it seems to improve your chances of dreaming about it still further. Dreaming about what you're studying can substantially enhance your ability to understand. It's about how consolidate your memories into easier to grasp chunks. And now time for a little sleep. 
+
+### 09 Terrence Sejnowski博士访谈
+
+This video will be especially fun because I have a chance now to interview my coin. Spector doctor turned Sejnowski Terrence's pioneering research in neural networks and computational neural science had made him a living legend. Doctor anal sky is an an investigator. How how uses Medical Institute and the Francis quick professor of the sole Institute for biological studies, where he directs the computation on Neurobiology Laboratory above and beyond all of that doctors. And osi is also in the elite group of only ten living scientists to have been elected to all three of the National Academies in engineering, science and medicine. What I think is perhaps most impressive, however, is that Terry has also graduated more computational neuroscientist than any other scientists in some sense. Then this makes doctor turn sannyasi AA leading father figure for for the modern field of neurosis. The ultimate goal of doctor Sanusi is research is to build linking principles from brain to behavior using computational models. Today, I'm going to ask Terry a few questions about how you learns and how he thinks about learning so that we might all get a better sense of how to improve our own learning. So what do you do to help yourself learn more easily when you're looking at something completely new? Well, I like就get into the thick of it。I don't get much out of just going and reading a lot of books. And when I was in graduate school, I made the transition from physics to biology. In the way I did it was to get into a biology lab and get involved in experiments. And I'm a firm believer in learning by doing and learning by osmosis from people who are experts. How do you keep yourself paying attention, doing something like a boring lecture? I found that there isn't a simple way to keep yourself attending something that you not interested in. But I have found a little trick to we lay the the speaker and then is by asking a question, and the interruption often gives rise to discussion that is a lot more interesting. And it actually follows a general principal, which is that you learn a lot more by active engagement rather than passive listening. So what do you do to get into and take advantage of the few small thinking? I find that when I'm jogging or out getting exercise, that is a wonderful way to get the mind disengaged from the normal train of thought. And I find that it's very, very possible and sort of come up with new thoughts, new ideas. And it's almost as if your brain goes into a new mode, you're running along, things are passing you by, and you start thinking about what's happening, for example, of things that your brain has been working on Europe, conscious thoughts bubble to the surface. And it often new ideas that you are, are going to be then helpful to you later on. The only problem I have is remembering all those great ideas, because when I get back and take a shower, and a lot of them have evaporated. And that's why I like to take a little little book along with me so I can take notes and remember what it is that I was thinking about. So do you multitask or or if you don't, how do you resist the urge to multitask when you want to multiple? Well, I wouldn't survive if I couldn't multitask. And most of my day is spent talking with students, listening to lectures, interacting with a lot of people who are passing through visitors. They're just a lot of things that are bombarding you, email, texting and any of these are very important things that you want to do. But if you can't juggle, then it's hard to get through the day. However, I enjoy the evenings when the hubbub of the day quiet down, and I get a chance to go into a more perfecting mode, and that's when I actually get my best work done. Do you do two things at the same time? Whatever. Well, you know, you can actually do two things consciously the same time because those will get mixed up. It is passed by with a lot of training actually to do two things at once is but it's you're not doing it efficiently for me. Multi asking is is being able to switch back and forth context switching from one topic to another. And some people are better at that than others in the words, sometimes it takes a while to get into the swing of things. You're middle of writing a paper, for example. It may take hours before you get to the point where you can actually be productive and you are actually able to get something accomplished. But if if if you跟after getting late，you know, into middle of something, switching from that to another task is sometimes very difficult to do if you're, if your middle of something. But I can do that very easily. I can switch back and forth. And I seem to build to go back to the original task and and and take up where I left off. So so that's one way of of accomplishing a lot. And I get I unfortunately have a lot of very good students and helpers and enormously productive environment that I am working. And so it's been, is this really a joy to be here? So how do you apply your knowledge of neuroscience to your own learning? Well, I think there are many little ways that I have applied what I've actually learned in the lab. And let me give you is one example to make a concrete. One of my colleagues are the sult Institute. Rusty gage made a very important discovery. If you read the textbook, it'll tell you that all the neurons that you have in your brain, you had at birth and after birth, the wiring takes place and learning and changes the the connections between neurons, but the same, same neurons that you had when you were born, some some e. So you know, there is a shanky of your of your cortex. However, rusty discovered that in an important part of your brain for learning and memory, the hippocampus, and which is located rate in the middle here of this model, brain new neurons are being born even in your adult. And this, insist, is very important for learning. And memory is obviously something that is very, very useful to be able to have new neurons. Now here's what we discovered together. We discovered that if you have a animal, we use a rat as our model system. And if you give it an Enrica environment in which the rat is able to move around and do things and interact with other rats, that and then look in the hippocampus, you find that the strength of the connections between the news is much stronger. There it can be made by a factor of too much stronger then interred that has been kept in a cage with. There is empower ish's environment now. And here's now the key. Okay, so having a revision environment is is even as an adult is going to help you, right? Instead of flocking yourself in AA month in the room, you really want to be sounded by, other people who are stimulating you and and then that are happening that you can actively participate in. So so that's important. But now here is something rusty covered, which I think is incredibly important, that in the absence of of vibration environment, exercise will also increase the number of new neurons that are being born and survive. And so I am very avid at running. I pretty mentioned that I get less of good ideas when I run, but I also know that my brain is helping me remember things because of the fact that I have new neurons being born and surviving in my hippocampus. So that's one of many examples that I can point to in which what we've learned about neuroscientists from their science has really changed the way I think. And it's a pity if you look at the way our new educational reforms in in schools, what do they cut out when they want to add a new session on, for example, learning something, for example, how to PaaS a test, right? Tests are being given out to help assess how well the student is doing, how well school is doing. Well, it's races, and what happens during the recess exercise is running around. It's exactly what you need your brain needs that needs that moment of pause of of of using your muscles rather than your brain, to be able to process that information into it and get the neurons working on it. So I think that this is something that is should be a policy that we can need to have our children out there running room. Have there been any special techniques you've acquired over the years that help you focus, learn or create more effectively? I find that being in AA creative environment where other people are, are creative is, is, is a way of enhancing Young creativity. I think that although the image we have of the creative thinker as being isolated genius, maybe true of some people, is not true of me, I really find that I have better ideas. If I'm talking to somebody and trying to explain to them my ideas. Often that process can. It boosts their creative process. And in fact, I think that you know, having other people around to bounce your ideas off is really, for me, of a very, very important part of doing science. How about test taking in any special advice there? Tests are like any other scale. You can learn them. You can learn to be a better test taker. And you have a lot of good ideas about about, I discovered that you need need to to avoid, for example, don't get hung up. If you can't answer question, go on to the next because you can always come back. And in fact, often the answer to the problem that was holding you back may actually pop into your brain later on in the test. This is how our brains work. Work is the things work along terrible tracks. How do you approach your creative work in science? How do you keep yourself creative in the face of the Onslow lot of routine day by day tasks? I been very fortunate because I have a great lab and my students and colleagues keep me Young in terms of learning new things, looking at things with new perspectives. So I think that having由此around really is AA great way to keep yourself youthful。If you had any advice for a Young high school or college doing about how to learn effectively, what would you say that success isn't necessarily come by being smart? I know a lot of smart people who are not successful, but I know a lot of people who are very, very passionate and persistent. A lot of success in life is the passion and persistence of really saying the course, saying working on it and not letting go, not giving up. That's really, I think, the most important quality that I see in students that I work with who are very successful. Terry, I cannot thank you enough for your great answers that I think people will find very helpful. Wonderful. Now I want to just give a little intro here. I like to introduce you to Francis Crick brain. So I first met Francis 30 years ago, and this brain was sitting in his office, and Francis was a close colleague of, I moved here about 25 years ago, and Scotto Francis much, much better. And one day we were chatting, and Francis pointed out the spring that had been sitting there for decades and said, tired. You know that I just recently realized that this brain is actually much bigger than a real brain. And in fact, you could not fit the sprain in my Scholl. If you actually look at the relative of sizes. This is a teaching tool for medical students. You can take part of the parts of the brain. But it is an interesting that France is quick. Didn't realize that until much, much later when he actually look at it with new eyes. And so we know this is something about learning with fresh, new eyes. Isn't it extraordinary, even in a Nobel price winning discovery of dna? Well, there are things to discover every day, but things around those ordinary things that you just have to look at them with a different set of as a different perspective. 
+
+### 10 第一单元总结
+
+Although living brings are pretty complex, this week we've used metaphor and analogy and zombies to help us simplify matters. In essence, people have two fundamentally different modes of thinking for the purpose of this. This course, we've able to focus and defuse. We used a simple pinball analogy to help us understand the differences between the modes. The focus mode has tight spacing for the rubber bombers, which seems that in sentence, help keep your thoughts concentrated. The diffuse mode, on the other hand, and more widely, space bummers that allow for more broad ranging ways of thinking, the focus mode is centered more in the prefrontal cortex, and it often seems to involve thinking about things are somewhat familiar with. For example, if you're familiar with multiplication and you're trying to solve a multiplication problem or you're trying to find a word that rhymes with another word, you're probably stepping along the somewhat familiar pathways of the focus mode. But if you're trying to solve or figure out something new, it often cries out for the more broad ranging perspectives of the diffuse mode. This mode, as it turns out, is representative of the brain's mini neural resting states. Creative thinkers throughout history, whatever their discipline, have found ways to access the defuse mode, often more directly and quickly. But we all access this mode quite naturally when we do things like go for a walk or take a shower, or even just drift off to sleep, when we find ourselves stuck on a problem, or even if we're unsure of a situation in the course of living our daily life. It's often a good idea, once you ve focused directly on the situation to let things settle back and take a bit more time. That way, more neural processing can take place, often below conscious awareness in the diffuse mode. The thing is, it often takes time for neural processing to take place, and time is welcome to build the new neural structures that allow us to learn something new. This is why Pacelle procrastination is so very important. The easiest way to tackle procrastination is to use the paleo al technique, that brief, 25 minutes stretch of focus concentration, followed by a bit of mental relaxation. It's through practice and repetition that we can help enhance and strengthen the neural structures were building as we're learning something new. Practice and repetition is particularly important for more abstract topics. Memory, of course, is an important aspect of learning. There are four slots in our working memory. Things can fall out of those slots unless we keep repeating them to hold them in mind. In that sense, working memory is like a not very good blackboard. Long time memory, on the other hand, is like a storage warehouse. If you placed and repeated something well enough to get it into long term memory, you can usually call it up later if you need it, although you may need an occasional bit of repetition, fresh the memory up. It's never a good idea to cramming learning by repeating things many times all in one day because like trying to build muscle by lifting weights all in one day, there's no time for solid structures to grow. We've also learned of the importance of sleep and washing away the tokens and developed during our these activities. You want to avoid taking tests or doing anything difficult with little sleep the night before, because it's like trying to think with poison on the brain. And just as importantly, exercise is surprisingly valuable and helping improve both our memory and our ability to learn. We've had a lot of fun while learning this week. I'll bet I'll find next week's material to be even more exciting. I'm Barbara. Okay. Thanks for learning how to learn. 
+
+### 11 Maryanne Nestor的特别提示
+
+Hi I'm Mary Anne one of the ta as for the learning how to learn course the first module is almost over and I would like to take a minute to encourage you I can tell you from my own experience this course has changed how I studied and learned before this course I would studied hard but no matter how much I studied I could retain what I learned honestly I thought it was something wrong with me then I took this course and I found out it was the way I was learning or thought I was learning that was the problem all these years of schooling including an undergraduate degree and a master's degree.And I never had one instructor show me what the instructors in this course share with us using the techniques I learned in this course I don't know how to retain the information I want to learn.Participants in other courses sometimes dropped the first week but don't do that in this course you will lose out on an opportunity of a lifetime knowing how we can learn effectively is a life skill everyone needs no matter where we are in life it's never too late.If you see me in the discussion forums say hello I'd love to hear your thoughts and how we can help each other learn how to learn.
+
+### 12 组块概论
+
+When Benny Lewis turned 21, the only language he spoke was English. Actually, he had done quite poorly with languages in school. Truth be told, he initially had problems even with English, and had to go to speech therapy when he was Young because of it, so many is not naturally gifted with with languages. He has a degree in electronic engineering. So where I went from language engineering, many went the other way around. Benn's love affair with other cultures and speaking foreign languages began in 2000. And after graduation from the University, when he moved to Spain, he discovered that learning language wasn't so hard when you apply the right method. In his current career as a full time language hacker over the last dozen years, he's discovered people from all around the world who have learned to stop making excuses about why they can learn a language, and have instead learned how to learn a new language. I read beneath book, which is the best book on language of learning I've ever read his language, absolutely brilliant. If you think you don't have the language gene or your too old, don't have time or are just too shy to try, bi spoke will help you get past these hurdles. So it's a pleasure to welcome here. Benny Lewis Beny, your life is always filled with so many adventure. So tell me, what is your latest adventure? My latest adventure is that this year I am trying to make America multilingual. Other countries is dealing with that generally only speak English. And I am currently about 11 or 2000 miles into my 7000 miles a road trip across America and at the whole west coast, the northeast, I'm going to every single stage and I'm trying to encourage people to learn languages. Wow, what an endeavor and what an important endeavor up. You know you talk about people sometimes wanting to learn languages for the wrong reasons. And what are those wrong reasons and what if you discovered is more motivating factor for learning languages? Right? Well, there are quite a lot of wrong reasons. The worst of all is to show off. If you think that I would learn this language so people, will they get me smart, or people would like me more, and ID have to pick up up girls or anything along those language and just not going to work because if you, what you really do need is a passion for that language, for the culture, and I can speak the language and inherited for the reasons of how fascinating that languages and that's going to motivate you to to speakers if you've either things like you just want you just want to get an aim and language and just you have any the University and that's not a very good motivator because you are not actually interested in using that language. So I highly recommend you try to embrace the culture so you to spend time speaking with other human beings and you'll get to the motivation is going to help you to skyrocket your progress. And like that approach, you talk about how children have one big advantage. Can you tell us what that advantages? And sure. So I think that the fact that children are not so much perfectionists like adults, and to be children are okay with making mistakes. They kind of stumble and fall, and we we had them along, and they play games in the language, and they live the language, wherein language learning adults plan to to study dusty o grammar books. And it can be afraid of making mistakes that they won't speak at all. And this is a huge mistake, because in language learning, it's not like we visualized in an academic setting where every mistake you make, if you are red ex, and if you make enough, you get an x. That's not the real world. In the real world, you can make lots of mistakes, but people will still understand you. If I have just started to learn a language, you may think I should wait until I say, excuse me, kinds. Or could you direct me to the nearest bathroom please? Or I could do, say, bathroom where? And people understand that that's not a perfectly formed sentence, but you have to be a good beginner learner and a good beginning of learner knows to make a few mistakes or a lot of mistakes to get their point across. And they are find children does that. Their main advantage is that there they're okay. We just saying something and they're not going to over analyze everything that comes out of their math. The good news is this is not an inherent advantage stash and they're to them and not build into us. It's just kind of the way Children Act and we can learn from that. We can learn to try to have some fun with our language, laugh at the fact that we're making mistakes and realized people are not nicer than you think and they're going to be very patient with them. I think that an important point is, well, of course, just being willing to make mistakes, making those mistakes and in realizing the most people are actually pretty friendly and accommodating as you are learning and adjusting and getting situated. 11 thing that you've talked about that I think is a really important point, is the idea of self fulfilling profit prophets. And you talk a little bit about that. Well, myself for for instance, but got into language journey as an adult. But I failed at five years learning German in school. I barely passed my exams after at at ten or eleven years learning Irish or galt. And I live in Spain for six months and I did not to pick up, pick up any Spanish. And I really, genuinely feel that the reason this happened, it was because of a series of of the third propac's. When I was in Spain and 21 years old, I told myself, you know, I'm too old to learn a language. Now. I passed this cut off age of 14 and the thing is, it's a fulfilling prophecy because I believe this was true. So I thought, okay, well, there's no point in doing any work now. So I only put like minimal effort in. And because of that, I don't make any progress. And then I look at that lack of progress, and I like you, I see it is just goes to prove that adults and active language partners, and it makes no sense when you actually look at it that way. And it was the same in school and school. I initially didn't be so well in my exams and I was taking and I can be filed in this exam. So I guess there's no point in studying. And then of course, I did worse in my exams and it was just a constant feedback that loop. And like there's a quote from Henry Ford that I like relevant to this. He says whether you think you can or think you can arrive and I think that that's the case itself of vetting prophesies. People need to put these excuses aside that I have any any time you make the time. I'm too old. You're not too old. There are so many ways you can realize that none of these are real issues, that the actual reason you haven't learn the language is your devotion to these reason. You say that successful language learners learn despite the challenges. What do you mean by that? So people have this idealized vision. The the grass is always greener on the other side. They see someone who successfully learn the language, and they think to themselves, this person has had it easy. They must have had rich parents who who paid for traditional whole life. They must have just been blessed to have had, had the right dna to have them, them language Hering gene. They must have had it so easy and just stumbled across native speakers and had a perfect situation. This is simply not the case. This is what we like to tell ourselves, once again, in ourselves of fielding propac's. I don't have the ideal situation. I don't have good luck. All of this, and the other person does. And in talking to a lot of language of nation, they find each one of them have their own challenges to to go through. There are some really well known language learners on YouTube who are very impressive in their language schools. But they, their family people, they have a family to raise. They may be working, warn or two jobs. You know, it's not like they lay around with with millions of dollars and just spend all day long learning languages. They have their own challenges and they even pay across a very, very inspirational stories of a lady who's partially death and clinical blind at the same time. And she still managed to learn five languages. So this shows me that no matter what the setback s people have, they find a way around them. And, you know, and you can say all that guy has it easy because he can travel, and I can, but then find a way to learn language despite not traveling. They're actually great ways to gash immersion virtually. You can get Skype based conversational practice. You can listen the strange radio 24 hours a day if you wanted. You could create a virtual emersion environment. But any one of these things are issues that other people may have. You may have advantages that other successful language learners may not have. You may be able to afford a private teacher. You may have. You may have spare time on your weekends when someone else worked two jobs or has a family to support, and has less time flexibility when someone, person in the world has had challenges to go through. And it's just unrealistic to think, wow, is me. I have this unfortunate situation, no one else to stand. I guarantee you, no matter what what your problem is, a successful language learner has had dash and if not more problems, and still managed to overcome. And people sometimes have a history of failure when y've tried to learn new languages. What you say to someone who's failed when they're learning a new language. And have you ever felt like giving up in your language studies? I felt like giving up millions of times, even in my more experiences stages of learning a language. And the thing is, it's like I said before, nobody has it has a super duper easy, including successful and experience language learners. So I was huge, for instance, when I try to learn Spanish and tested out a lot of things that that were huge failures. I, I ent six months trying to learn Spanish, and I got nowhere. In that time, one of the things I did was I, I bought ed as senior to a senior of the lost in yours, which is the lord of the page. And I thought, if I just went through this book page by page with the dictionary, then after I reach paid 700 and IY flew in Spanish HI had this like ridiculous idea, and I took a whole week to get the language. So when I was a paid to, I was thinking to Spanish. I got to me a decade to read this book at this page. So I was thinking, just, just, just a naias. I was best and to learn a Spanish or any other language. And even like more recently, a couple of years ago, I was learning Magian and I didn't find a Magian language itself to be so complicated. It's not actually a lot, lot more straightforward. Think so. I was learning it in the country, which I actually do not recommend people. I recommend you learn the language in advance for of the Internet so that when you're in the country, you can experience the culture. I think it's kind of a bit of a waste to be in the country to be in study mode when you should be out enjoying it. And I like the time I was not not doing that, and I found a very difficult to adjust the cultural side of things. And I slowed me down dramatically in the language of side of things. So no matter how experiencing is that they are going to run into problems that are going to get slow down. And it is like anything, if if at first you don't succeed, try, try, try again. And like a lot of people in language learning with reach of flat toe as well, they may make it a little bit of progress and get stuck. And then they think I'm broken. I'm not a good language partner. And I found that that is the exact opposite. People need to try different techniques. So my suggestion is the people getting to speak in the language. Immediately, I gave tips for people to speak from the very first day and then that may work for you. It may not work for you, but you try something out. And if you still say after trying this out for a few weeks, I'm still not making any progress at all. And that doesn't mean you're not a good language owner. It means you're using a system that is not good for you. If you are studying a lot and you not making progress, you may need to abandon a study based approach and try to interact with the language a lot more. So that's that's what I suggest. I love these ideas and these approaches. I know they were very helpful for me with Russian in this course. One of the things we talk about is the importance of pushing your attention very hard. For example, when you're using something like the Commodore technique and then relaxing, you talk about something like that with your mini mission brain melting technique. Or could you tell us all about that, right? Yeah, I actually affect fan of the palette of technique as well. I've used that a lot during my intensive study days, and so I definitely agree with that. I've tried to study all the day just how it doesn't work. You need different breaks. But then that also applies over the longer term. So when I was learning in some languages intensely over a couple of months and then all my focus and like I've given up tv, I've given up like you know going to the cinema go, going out and so on. And and I find I reach a certain point where my brain just feels saturated and I can't really take in anymore. And it's unfortunate, but I tried to study, and it just goes in one year about the other. So I apply this to the kind of mediums term scale. And what I would do is I would start like if I'm in an intensive learning periods. This is not people who were studying an hour a week, but people who were studying like three or four or more hours a day. So you're putting every spare second you have into it. Then I would be working hard for five or six days a week, and then I would take one day off. And I would just repeat that process, because if you viewed H consistently for too long, you and you may over exert yourself. So if I find that I kind of apply this Commodore technique and over over several days and then even bigger than match, I would repeat this process for four weeks. And then on at the end, once a month, I would take the whole weekend off. So it's weird, you would think, you know, I just have to study intensively. And once again, this is not something necessarily true for everybody. But I found that I my limit is about six days of consistent study and I need a little break and then three or four weeks of consistent study and I need a proper longer break. Well, boring into some of the specific details of how you learn. You mentioned that the road rehearsal just repeating words over and over again, for example, it is a good way to remember it. What's a better way? It's not a good way to remember it. But it kind, kind, it works a little bit. I mean, reputation is part of learning any language. But the catch is icy, wrote repetition as a symmetrical. So for instance, when I was learning German, then I saw that the word for table is Tish. So I just said to myself, Tish table, Tish table, Tish table, dish table, whatever. It was a time of a thousand times. And I kind of work such that when I was reading German, and if I saw the word tissues to a table, because I kind of had that repetitive association, and if I heard spoken and I remember it, but there's a huge dune, is it doesn't work symmetric. It doesn't work the other way. If you want to say that they were a table in German. I don't have anything that lapses you too too that you just have the Tish kind of association. So in that case, I highly recommend people consider using the Monica because this kind of glue se the word to your to your memory. So for instance, work that example with the German Tish, I would think myself, okay, let's imagine a table made out of tissues. So I have a you know table made out of kitchen roll or whatever it is. And I put a drink on it and a table collapses. The drink spills everywhere. I have to get all of this all of these issues and I have to wipe it up because it created a huge mess. So what that does is it puts the association, in my mind, of visualizing a table made out of tissues, so that when I speaking German and I want to say table, I can just think for second, the tables made out of tissues. And I have that association. So you have a link that connects the words you want to to, the word you want to say to the translation. And the thing is, you don't need to do this forever because you only need the association a couple of times, and then the world just becomes a natural part of you. So there's a great website and memorized doc com mm A, I say, and this as people voting up their favorite Nyoni s that's a great system. Another one is other than the month ics, I am a big fan of space repetition. So there's an app you can install on your smart phone called anti. And this presents the words to you in a way that you see them just before you would forget them. And another problem with, like memorizing a big list is you may see a word that's important to you, but you may not see again for a very long, long time. And you may see the simple words over and over again. So when you use a particular system, it shows you the harder words way more frequently and the easier words way less frequent. I like your ideas of not only nomics, but creative Nyoni. S for example, with tonal languages, you use the idea of something falling or something rising in your memory tricks. And I've never thought of doing something like that before. So I think these kinds of ideas are enormously helpful. And actually, in your book, I have read your book. I love your book. There are dozens and dozens more helpful ideas, and I could ask you dozens and dozens more questions, but I want people to actually read your books, and I get to live off here. And with that, I'd just like to thank you so much for your wonderful and very insightful for answers. Thank you very much. Really appreciate you. Have me on to talk, everybody give them them some inspiration. 
+
+### 13 什么是组块
+
+Doctor Robert builder directs the consortium for neuropsychiatric phenomenon, which is a team of more than 15 investigators, most centered at the University of	California and los Santos. The consortium aims to understand neural psychological antitype es of the most wide scale of the combination of human research, basically research and informative strategies. Basically, doctor builder is digging to create a fundamentally new understanding of how to look at personality disorders and diseases that have an effect on personality. In this regard, doctor builder also direct and and cocoa Rex, a su of the important titles on the most most interest, and the doctor builder is the director of the ten bomb centre for the biology of creativity, one of the most important programs in the country involved in the study of creativity. So with that is a pleasure to speak here with doctor Robert builder. Thank you so much for joining us here today. Doctor builder, you're one of the world's foremost experts and creativity. So I have a question for you. Sometimes my students will tell me, now, wait a minute, other people have solved this problem before. So if I think about it and figure out how to solve this problem, I actually not being creative while I'm solving this problem, because other people have already solved this problem. What in your thoughts on that situation? Well, I think until you've solve problem yourself, you haven't exercise your brain and made the unique connections in your brain that are needed to solve that problem. So we could distinguish between those things that are created for the world, which that may not be creative with respect. Everything else has been done before. But if we think about what's been done, that unique for you, something new for you and that has value to you, that that assist the secretary of the creativity and I wlan for for your brain to do that in order to Ursule other creative problems. Well, I couldn't agree more. So I glad you made that point when you're trying to learn something new and you speak publicly, sometimes you, like everyone, is criticized it. What advice do you have for handling this kind of criticism? You know, someone, told me something that I'm surprised I only heard a few weeks ago and they said, leadership is the ability to disguise panic and, I think that if I had to think of all the occasions I had when I had great concern about what was going on or about handling criticisms, and I think that, it may only be through repeated panic that one learns, had to cope with that a little bit better. Always difficult but but I think you the only advice I can give to others is to you know always adopt the same kind of curiosity about your own shortcomings and your own difficulty to getting the big picture and understanding the entire scope of the problem that you would apply to others and to any problem in general. I like that to sort of be be willing to accept this comfort sometimes because that's necessary. You know some people would say that it's only when you experience some just comfort that you're actually accomplishing some kind of change. So it to the extent that one wants to make progress, it's necessarily going to involve some degree of discomfort as the nature of change, physical change in the brain has to involve some work and that working has to involve some, some discomfort. I going to agree more. I'm reminded my old swimming coach used to say, no pain, no gain. And that may also be true of the brain such as those all properties are really so true. You know why they're problems? Eve pants, some very interesting insights regarding creativity and being disagreeable. Could you give our viewers just a little bit of inside about that? Sure. Sure. So it's interesting that when we've studied personality, but it turns out that there are various models of personality or temperament or character, but they pretty much all boil down to five factors. And these have been very reliably seen over time the way that I find easiest to remember those five factors it is to use the acronym m ocean, which stands for openness. Come here and just as extra version, agreeable lass and neuroticism. And now when we've looked at their personality characteristics of people and then try to relate their personality characteristics to their, degree of a creative achievement, we find that their two correlations, one of them is not surprising at all, openness to new experience associated creative hiedi. But then we find something is perhaps not quite as intuitive. There is a correlation also with agreeable mess, but that correlation is negative. So it means that people who are less agreeable or more disagreeable, tend to show higher create achievement. And I think that we might consider this to be a set of non conforming, those who tend to challenge the acute challenge models and and believe things just because other people set them. I think that these are folks who are more likely to be creative achievements. I think so too. That's that's a very interesting and is a counter intuitive finding. Yes. Usually people think agree of illness is in a nice positive trade and indeed agree of illness is a nice nice ize positive trade yet their occasions when disagreeableness can push the envelope help us to challenge prior conventions and make the kinds of pushes forward of the ga that are outside the box. I think it's sometimes it's just it's hard to walk that fine line between being, being, being agreeable because things makes sense and then sometimes stepping back and being willing to be disagreeable because it doesn't make sense to you. And then sometimes you find out actually it does make sense, but sometimes your right to be disagreeable. So finding that find line of where to agree and where to disagree and being willing to disagree if you think that that something is not quite right, I think that's an important important line to find Yeah it's it's difficult to know how to balance the correct approach. And indeed I think that's one of the corner stones of creativity and just by following from the root definitions of creativity which typically emphasize on the one in the whatever the product is to be considerative has to be new but then also has to be useful or valued by someone so this involves a kind of attention between doing something that may be totally driven by your own vision of things and those things that are going to end up being adopted or used by others. So it means that you can create things that may be novel, wonderful and strange, but if they're too novel, too strange, they're not going to be considered wonderful by others. So finding this sweet spot in the range between what you find to be the newest and most value one exciting and what others are believe that I think that a lifelong process of deliberation and and balance, that's so true. I think writers in particular, writers and inventors are both. They have to face what other people's opinions of their work are and is sometimes it's just surprising what they'll come back with something that you thought was perfect, a real gem. People will come back and and give you insights that allow you to understand that maybe your perceptions weren't quite right. That's right. Yeah. I've I've gotten that feedback, maybe a little defensive effort. And then you try to warm up to it and try to simple l what what do they have in mind? Any particular tips on how you learn most effectively? 啊，我要I think people vary a lot in terms of the degree to which they are dominated by words or images，you know, verbal versus visual kinds of warning style. And so I find that, I do best if I can go between the two because I love words and language. I was actually once accused by my my students of being accessed via Dalian and got a little plug from them and and I was embarrassed, didn't know what accessed a daily and meant until I got the black and then anybody watched this that I can look it up anyhow I love words and so there's a new ones there that I really like but at the same time I feel like I don't have a complete understanding unless like somehow map it, graphed it or visualized it. And so I like to go back and forth between between those two kinds of approaches. The other thing that I really like to do, and sometimes we recommended this, exercises to enhance creativity, is to do a powers of ten exercise. And for those who haven't seen it, there's a great video. You can easily get it online. We just look up powers of ten video. I think that will do the job basically starts with an image of a man, so lying in a hammer and then the camera zoom ten feet above, then 100 feet above, then thousand feet above, both by powers of ten until ultimately you you're exploring the cosmos and other space and and then it zoos back down and the Ming and goes powers of ten inside the spin goes into the cell, goes down and revealing the molecule and and then finally, and what's really mind blowing and how far you have to go when you start getting into a sophomore ic space where you're really surrounded by nothing. This it seems even more bass than the perspective sell. So I think that getting that kind of exercise, getting perspective, try to figure out what's the higher altitude of stepping back from the problem and think, well, Oh, well, why am I doing this? What's the bigger picture? But then also drilling into into individual space and detail by zoom in and zooming out from the problem. I usually try to get a much better idea, the problem scope and a different perspective on that problem that is very worthwhile. I've never really thought of problems solving in in that perspective. I think that maybe a little bit what you do, a bit subconsciously or just naturally when you get away from the problem and you get new perspective when you're just going out for a walk or something like that. But that's an an interesting perspective. Zoom in and zooming out. I think the brain probably does some of this spontaneously, and particularly during sleep, because if you think about what happens to you sleep, you've got a washing away of all of the conscious top down coding, a control over your faults. It probably permits different neural networks to assemble themselves in ways that may make sense spontaneously but are free from the guided process of our top down remind. And so I think that that's one of the reasons why people will awake from sleep dreams are the relaxed and they're not thinking about problems and all the sudden have come up with a solution. All components were there but are required a release, at least temporarily, the constraints that we've been applying for the problem to recognize a new solution that may be how August calculate recognized the benzine ring you know from seeing the the snake biting its tail. Well, I think it's sometimes I like to think of it is an an octopus of attention and it turns off during sleep and so the tentacles of the octopus randomly go about and that's what helps create some of these innovative new ideas. Well, that's interesting. You are I think you were reading my mind because when I was thinking about August calculi, who dreamed about a snake biting his tail, I was also thinking, well, what if instead of a snake biting its tail e he had imagined a spider where we have been an octopus, then we'd have a completely different structure. HA organic chemistry before us. We would never discovered the benzine rank. Well, there we go. Well, that's what they say. Insights that are from the subconscious like that are there. They can sometimes be invaluable. But we would have got to check them because sometimes they may seem right, but they're not actually right. That's right. Yeah. And there you know, I'm mindful of speaking those spiders, the fantastic experiments we're done in the early investigation of LSD, the holus Magen where different drugs were given to spiders and see what impact it had on their web making skills. And, while many people felt that they became incredibly created while under the influence of valley, and while many people felt they had great insights while they run to the influence, vlsi, the spires, it turns out, made really lousy webs when they were n of the influence of vlsi. And I think a lot of people who had been putting down what they were thinking about at the time that they were doing Elsy found later when they were no no longer under the influence that the people that they had created, that they had acted what they think gets gets I think that's true. There's there's interesting perspectives from history of different people's in sights whilst other drugs and not another drugs. And sometimes I think it is actually surprisingly good, but other times it's surprisingly terrible. So so there's definitely a mixture there. This is this is true. I was just reviewing with the class different kinds of visual representations of dualities, or balances between opposing forces. So we were talking about the yen, yen gg, symbol of the eaten eternal mot. But one of the symbols that one of my one of my favorites probably because I understand of the least, is the intersecting giants or intersecting comes that were described by Yates and his wife George and those those images were probably created while they were run of the influence of opium. I will definitely have to go look those up now. So doctor builder, I so appreciate your your an Abassi in polymath Oh boy, now I have something also work out myself. So I greatly appreciate your insights here. And on behalf of all the students of learning how to learn, I like you. Thank you. Bar is always great talking to you. 
+
+### 14 怎样形成组块 第一部分
+
+Ganny Greyfriars grew up in the newspaper business. Her father owned struggling weekly paper in the Vancouver, Canada while going to high school in college. She worked there until she graduated in for a few more years. Then she became a senior editor at a large metropolitan and daily where she worked for about a year. Following that, she became pregnant with triplets and decided she still didn't have nearly enough work. She wanted to be self employed. So the publication coach was born, Interestingly, definitely says that she struggled with writers blocked during all of her years of newspaper and didn't address the problem until she started their own business. She's also the author of the popular book Aten house, steps to writing faster, better through her website, WWW publication coach点com。She offers the weekly News Letter power writing. It's weekly brief and best of all, it's free. I've been a subscriber for years myself and I encourage you to sign up as well. Meanwhile its my great pleasure to welcome deathly here today defining your professional writing coach, tell me about your own past struggles with writers. Block, well, you know, the interesting thing for me is that I struggled enormously with writing, even when I was a professional reporter at a daily newspaper. Now you might think, how can someone who works at a daily newspaper have writers? Block, did you have to write every day? But the thing is, I was a born editor, and when I work the newspapers, I did a little bit of writing and mostly editing. And I love editing, and I ve always loved editing. And a few times when I had to write, when I worked for the daily newspaper, I found it very stressful and extremely difficult. And partly, I guess, because I was an editor, and so I was a little bit embarrassed about how slower writer I was, but also because I hadn't really learned the tricks and techniques I've since edited. And I it it faster, easier and better. Well, I think we'll be talking about some others tricks. And one of the ways I think that we might talk about that is just, how did you teach your trip lets the right? Did you use some of those tricks? Well, you know, I taught my triples to do many things. There are 20 years old now, and they're all the University, which is great. They're so different, you'd barely know they were siblings. Never mind triplet, I don't know whether would be fair to say I told them to write, but I certainly gave them some of those tricks and techniques I give my own clients, and they too have found them very helpful. Well, let's hold in on one of those tricks. I mean, how would you describe the difference between defuse mode and focus mode when you're thinking about and when it comes to writing? Yeah that's that's a really, really important point because for me, the diffuse mode, I call that the creative or writing mode and the focus mode and call the editing brain and, what one of the big mistakes that many people make when they're writing is they try to write with their editing brain. And the metaphor I like to use, as I say, imagine that these two different parts of your brain and the editing people, and now put them in a car. What do you know about that? Only one person can drive. So if you are critical or focused brain is driving, your defused brain is asleep in the back seat. And that's not what anyone wants when they're writing. You want your defuse brain to be active in a wait to be the one that driving when you're writing. And so one of the techniques I like to use to help people engage their defuse rain is mind mapping. Now, the important thing about my mapping is it a little bit different from concept mapping. And I don't know too much about concept mapping because I not accept of myself, but my mapping, which is also called clustering, some people may know it by that name. Instead, is where you take a piece of paper and you turn it sideways. And that's really, really important. Having the paper sideways is essential, because what that does is that kind of liberate your brain. And it says, Oh, I can go up in any direction if you, if you have paper in the source standard, eight and half by eleven way, that's going to make your brain think that you need to write a list or worse, outline. And I really encourage students, in particular, not to outline before writing. And I know this flies in the face of what many Green in English teachers will cancel you do. But the thing is, if you think about it, outlining engages your focused brain. That's the part of the brain that's good at spelling and grammar and alphabetical order in the sort, very specific tasks. And when you're writing, you want to create, you want to think of things, you want to make new connections. And that's where you really need the defused brain. So to mind map, take that piece of paper, turn it sideways and write the topic in the center of the page, then draw a circle around it, then once you have drawn that circle around it, and then just write whatever springs into your brain. The the thing I often like to say, and people find this little bit, grow sometimes, but I say it's kind of like vomiting onto the page so don't criticize yourself, don't second guess any of those ideas that occurs your brain, then write it down. So I did a mind map some years ago, and I use it when the teaching my map all the time, and I did it on the first day of school. And I don't mean I wrote in my map on the first day school. I wrote the my map about the first day of school. So what I wrote in the center of the page was first day of school. And part of the reason I picked this topic was because it breaks very easily into some obvious marking point. So one is great 11 is high school, one is University. So you can have different first days of school tied to those events. So then I wrote those down and and you'll see I've marked them the little cross touches. I did that after the fact, just so that when you look at the mind map, you can see this easily. And then if you look, you'll see next to the one, I've marked great one in the top right hand corner, I've written the words boosting. Now, what does a besting have to do with the first day of great one? Well, when I went to grade one first day of school, I'm standing in the school yard with my mother, and I got stung on the lamp, a bee. I will never, ever forget that moment. For me, first safe school will always be linked with being stung by a be right there on the lap. So all I had to rate is two words, beating. And everything comes back to me. I can picture the spot, the exact spot in the playground where I was standing. I can remember the cradled men who came up to me and said, what are you making such a big deal about? Because I was crying, you know, so is almost like a movie I can play in my own brain, just based on those two words. Now, one of the questions I often get when I talk about this, as people say, well, I can see how my mapping would be very useful for fiction, and I could see how it might even be useful for memoria. But what does it have to do with non fiction? And I have to say that I use mind mapping every day of my rating life, and I have never written any section ever. So I use it entirely for non infection. And what you can do is when you interview someone and take your notes, then you put the note aside and you do the mind map based on your memory of that interview and the things that are most interesting, I guarantee your brain will remember. Now for University students, the issues going to be a bit different because you're it is less likely you're going to be interviewing a bunch of people, is more likely you're going to be reading a bunch of books. But the same principle applies. If there is something that is really interesting to you and important and integral to your research, you're likely to remember that. And the things that are most important are going to float to the top of your memory, so you will remember them, and then you can mind map about them. Well, this is is very interesting because it's related to the techniques that brilliant Nobel price winning neuroscientist, Santiago R. Monica hou, use. When he was trying to only understand what was going on at an anatomical level, he would look very carefully at the cells he was watching in his microscope, and then he would turn, and he would try to draw them, and and and he would draw and withdraw until he he had abstract the key chunks that stock in his memory from when he was looking at them with the camera, with the microscope, versus when he was trying to draw them on the page. So in some sense, it seems what you're doing is is to try to abstract the key ideas that have somehow crustal Zed in your mind and using the mind map technique that really, really, really good way of putting it Yeah and you know it it interests me. In terms of education these days, I think we are downplaying a bit the value of memory. And you I don't know about you, but I have all my my phone numbers entered into my iphone. I don't remember a phone number and you more to save my life and and people don't memorize poetry anymore and you know there's all sorts of things that used to be part of the regular day to day life and regular schooling life that aren't there so much anymore. And so I think we're a little bit wary of forcing ourselves to rely on our memory at all. But the thing that strikes me about mind mapping is that if something is interesting or important to you, you're going to remember it at least you're going to remember it well enough to mind map. And then you know, of course, when you get to the point where you have to do citations, of course you have to look it up. You have to get that 100% right or you're you know quoting someone else. You you need to check it word for word, but for doing the my map for inspiring yourself to write, you're not needing that kind of 100% accuracy. You're just needing the inspiration. But what my map is so valuable for, I couldn't agree more, and I also couldn't agree more about the importance of memory. I think what we've done is. Mistakenly by by thinking well, memorization can be sometimes a bad thing or if you're just sitting there memorizing things without understanding them. But we've throw the baby out out with the bath and we've memorialization is bad. And that actually not true. I mean, the poets have to memorize a poem because it helps you to to understand the underlying meaning much more deeply. And in the same way, when you memorize, for example, the equation, it can help you understand that poetic undertone that understand the the equation and that actually the lost. But I have to bring out something, something evolution to in the past and that simply the idea of when you're trying to get into that defuse mode. And I'm saying this a little bit metaphorically because we haven't truly Analia ed what's going on. But that that mode where you're stepping back a little bit, you're not focusing completely and intently, but but you're trying to get something down on a on a page that sometimes in order to avoid that editorial mode, the best thing to do is to cover up your screen with a tow or or something like that and then that helps prevent you from going back and trying to edit what you just wrote and just get it out on the page Oh, absolutely. You know that is the number one mistake that most students and that not even state you don't have to be a student to make this mistake. Most beginning writers make is the edit while they write. And I like to say that that's kind of like trying to clear the table while you're still eating dinner. It just doesn't work very well. And one of the tricks I suggest to people they've developed this habit is that they turn off their monitor while they are writing. So you, of course, you need to be attached typist to be able to do that. But if you are attach, type and then turn off your monitor, and if that feels too drastic or if you have a mac that doesn't let you turn off your monitor separately, then just hang a toll over it. And if it will, out looking at what you're reading. And if I wrote for probably 40, more than 40, 40 years, well, I edited constantly while I wrote, and that was so dis functional and so bad for me, and it slowed me down so much and made writing so difficult and traumatic that I finally made the decision that I had to break that habit. And so I started turning off my monitor. I tried some other things as well that also really helped. There's a great app on the Internet called rate or die. So it's write or die dot com. And if you scroll down that screen a little bed, then you'll get to an area where you can enter the number of words you want to ride and enter time limit for yourself. And then you Press the button that says, I can't remember what it says, but something like start. And then you get a blank screen and you start to write. And what what happens is what inevitably happens. We, we will, we will write a few words and then we stop and we look off and staring into space while we're trying to plan what to right next. And what happens is the software notices were not taking. And after x number of seconds, I think it's about 10s of not moving the keyboard at all. Then the screen starts to pinking, and I like to comare it to a blush. And as the screens embarrassed for you and it gets Pinker and Pinker and Pinker, the longer you go without writing. And I haven't time this in a long time, so I can't remember exactly the time limit gets you. Let's say it's 20s if you've gone 20s without waiting at all then you get a loud punishing noise so it's either a crying baby, a car alarm or seven disco music. I'll leave it to you to decide which is worse but it's it's a very clever technique for teaching you to break the habit of editing value, right? I've used writer die myself and I think it does work very, very well. I love this approach of separating your editing from your actual, writing. For me, what I sometimes find is when I think think of something something and about to put it down and then I think of that terrible and I can't write that and then I'm editing in my head before I'm writing and when I stop that, when I just say, okay, I got to get that out, Hey, that's terrible. But I think it is. It's going to come out on the page. Terrible. And so surprised later when I look back and I think, Hey, you know what that actually wasn't is terrible. But I thought, in fact, I got me started and it's pretty good. And if that happens to so many, many people and and you know, I have to tell you, I have, I ve taught writing for so many years now. I can tell you that when I talk to people about that nasty little editing voice, that in the back of all of things, and I have, that is, and that is that the same thing to all of us? It says things like this is no good. My boss or teacher is going to hate this. This is boring. This is really, really bad, that the voice says really negative, essentially unhelpful things to all of us were all in the same boat. So what I like to do is I like to talk back to that voice. And I say things like, could you shut up for a minute? I don't have time to talk right now. I will talk to you when I'm editing, but I'm writing right now. I'm too busy. And if you can be conscious of that voice and talk back to it rather than just let it Gammer in your ear and you're better off. So I think the number one technique for dealing with that is just recognizing that it's happening, recognize recognition that it happens to everyone and taking some steps to deal with it. Well, I thank you so much defense. This this was very useful and a fantastic reminder even for me. I want to encourage everyone out there to please go ahead and explore writing up for you or Daphne's free newsletter, which is AWWW and publication coach dot com IA subscriber as well, and maybe even take a look at her great book and have steps to writing faster, better or Daphne's email course, which is called extreme writing makeover. So thank you so much. Again, definitely. And we'll see on the flip side, thanks, barb. They talk to you. 
+
+### 15 怎样形成组块 第二部分
+
+This week we're going to be talking about chunks compact packages of information that your mind can easily access we'LL talk about how you inform chunks how you can use them to improve your understanding of and creativity with the material and how chunks can help you do better on tests.We'LL also talk about illusions of competence in learning this is when you're using ineffective study methods of full your mind into thinking you're learning something when you're mostly just wasting your.We'LL cover what the less effective study methods are and tell you what methods research has shown will work better to help you in your studies finally we'LL talk about something called over learning which can solidly in green information in your mind but also can be a little like digging deeper ruts as you might spend your wheels ineff effectively in learning you can make your study time more valuable by inter leaving providing intelligent variety in your studies I'm Barbara oakley thanks for learning how to learn.
+
+### 16 能力错觉
+
+In this video, we're going to answer the question, what is a chunk when you first look at a Brita new concept? Sometimes doesn't make much sense. As shown by the jumble puzzle pieces here, chunking is the mentally that helps you unite bits of information together through meaning. The new logical whole makes the chunk easier to remember, and all makes it easier to fit the chunk into the larger picture of what you're learning. Just memorizing a fact without understanding or context doesn't help you understand what's really going on or how the concept fits together with other conception learning. Notice there are no interlocking puzzle edges on the puzzle peace to help you fit into other pieces. We talked earlier about working memory and how those four slots of working memory appeared to hang out in the part of your brain behind ind, your forehead, nose, the the profane cortex. When you're focusing your attention on something, it's almost as if you have an optics, the octopus of attention that slips its tentacles through those force. Lots of working memory when necessary, to help you make connections to information that you might have in various parts of your brain. Remember, this is different from the random connections of the diffuse mode. Focusing your attention to connect parts of the brain to tie together ideas is an important part of the focus mode of burning. It is also often what helps get you started in creating a chunk. Interestingly, when you're stressed, your attentional octopus begins to lose the ability to make some of those connections. This is why your brain doesn't seem to work right when your angry, stressed or afraid chunks are pieces of information, neural, scientifically speaking, that are bound together through meaning or use. You can take the letters P, O and p and bind them together into one conceptual, easy to remember chunk, the world pop. It's like converting A, A cumbersome computer file into a zip file. Underneath that single pop chunk is a symphony of neon that have learned to sing in tune with one another. The complex neural activity that together are simplifying abstract chunks of thought, whether those thoughts pretend to acronym ms ideas or concepts, are the basis of much of science, literature and art. Let's say, you want to learn how to speak Spanish. If your child hanging around the Spanish speaking household, learning Spanish is as natural as breathing. Your mothers says mama, and you say, mama right back to her, your neurons fire and wire together in a shimmering mental loop, cementing the relationship in your mind between the sound mama and your mother's smiling face. That since late neural loop is one memory trace, which is connected, of course, to many other related memory traces. The best programs for learning language, such as those at the defense Language Institute, where I learn Russian, incorporate structured practice that includes repetition and road focus mode, learning of the language along with more, and to feels like free speech with native speakers. The goal is to embed the basic words and patterns so you can speak as freely and creatively in your language as you do in your native language. As it turns out, one of the first steps towards gaining expertise in academic topics is to create conceptual chunks, mental leaps, unit scattered bits of information through meaning. The concept of neural chunks also applies to sports, music, dance, really just about anything that humans can get good at. Basically, a chunk means a network of neurons that are used to firing together so you can think of thought or performing action smoothly and effectively. Focused practice and repetition. The creation of strong memory traces helps you to create chunks. The path to expertise is built little by little. Small chunks can become larger, and all of the expertise service to underpin more creative interpretations as you gradually become a master of the material. In other words, as I'll see later, practice and repetition in building chunks aren't all you need to become a truly creative master of the material you learning. Chunking helps your brain run more efficiently. Once you chunk an idea, a concept or an action, you don't need to remember all the little underlying details. You've got the main idea, the chunk, and that's enough. It's like getting dressed a minority. You just think one simple thought, like I'll get trust, but it's amazing when you realize the complex squirrel underlying activities that take place with that one simple chunk of thought. Next we'll talk about how you can form a chunk. I'M Barber Oakly. Thanks for learning how to learn. 
+
+### 17 是什么激励了你？
+
+In this video, we're going to give you a little background about how to make a chunk. If you're learning to play a difficult song of the guitar, the neural representation of the song in your mind can be considered as a rather large chunk you would first listen to the song. Maybe you'd even watch someone else playing the song, especially if you were just the beginner who was learning things like how to hold the guitar. Getting an initial sense of the pattern you want a master for yourself is similar for most subjects or skills. You often have to grasp little bits of song that become neural, many chunks, which you will later join together into larger chunks. For example, over several days, you might learn how to smoothly play some musical passages on the guitar. And when you've grass those passages, you can join them together with other passengers, that you gradually putting everything together, so you can play the song in learning a sport, say, basketball, soccer, golf. You grasping, master various bitten pieces of the skills you need. You're creating little neural mini chunks that you can then gradually need together into larger neural chunks. Later, you can need a larger chunks into a larger, more complex chance that you can draw up up in an instant reaction, say, to a slight shift and twist in the soccer bowl, it's coming your way. The best chunks are the ones that are so well and grain that you don't even have to consciously about connecting the neural pattern together. That actually is the point of making complex ideas, movements or reactions into a single chunk. You can see this in language learning in the beginning, often just saying a single word with the proper nuance tone. An access involves a law of practice. Stringing exempt orange's sentences together involves the ability to creatively mixed together various, complex, many chunks and chunks in the new language. To see what I mean, try repeating the following tongue twister in the Indian language of Canada. Hi, I am Shilpa Kenny. I'm native speaker of Canada, which is one of the oldest language broken in India today. I'm gonna share your turn twister in Canada. So lets get started. Terry. Career ery mala mura, Carry, Carry, Carry. Mary, Mary, Mary, a Terri. Err, curry, Mary, 没有地图，not easy. Is it a lesser native speaker of Canada? But the language was learned bit by bit. Learning in math and science involves the same approach. When you're learning new math and science material, you're often given sample problems with work out solutions. This is because when you first trying to understand how to work a problem, you have a heavy cognitive load, so it helps to start out with the work through example. It's like first listening to a song before trying to play the song yourself. Most of the details of the workout solution are right there in your job is simply to figure out why the steps are taken the way they are. They can help you see the key features, underlying principles of a problem. One concern about using workout examples and math and science to help you in starting to form chunks is that it can be all too easy to focus too much on why an individual step works and not on the connection between steps, that is, on why this particular step is the next thing you should do. So keep in mind that I'm not just talking about cookie cutter. Just do as your told mindless approach when following a workout solution is more like using a road map to help you when travelling to a new place, pay attention to what's going on around you when you're using the map and soon you'll find yourself able to get there on your own. You'll even be able to figure out a way of Gidding there. Next will walk you through the actual steps of chunk formation and barber, okay, thanks for learning how to learn sometime to take it home. But to the store your past, you'll be playing in my yard. He will go sometimes in my pills side. 我曾经有为了夏日里大白，just怕爱过，知道。
+
+### 18 组块库的价值
+
+In this video, I'm going to walk through the basic steps behind how to make a talk. Every discipline is a little different. Chunking in the subject of history, for example, is quite different from chunky and chemistry on Karadi. In my explanations here, I'm going to mean little more more ords explaining chunking of mental ideas rather than physical body motions. But you'll see that the two approaches are closely related. So whether you're learning something mental or something physical, you'll find some helpful ideas here. The first step on chunky is simply to focus your undivided attention on the information you want to chunk. If you had the television going on in the background or you are looking up every few minutes to check or enter your phone or computer messages, it means you're going to have more difficulty in making a chunk because your brain is not really focusing on and chunking the new material. You you first learn to learn something. You're making new neural patterns and connecting them with preexisting patterns that are spread through many areas of the brain. Your to push tinkles, so to speak, can reach very well if some of them are off on other thoughts using up some of the limited slots in your working memory. The second step in chunking is to understand the basic idea you're trying to chunk, whether it's understanding a concept such as continental drift, seeing the connection between the basic elements of a plot for a story, grasping the economic principle of supply and demand, or comprehending the essence of a particular type of math problem. Students can often synthesize the gist that can figure out the main idea or ideas pretty naturally, or at least they Congress those ideas, if they allow the focus and defuse mode of thinking to take turns in helping them figure out what's going on. Understanding is like a super glue that helps hold the underlying memory aces together. It creates broad, encompassing traces. They can link the other memory aces if you create the chunk if you don't understand. Yes, but it's often a useless chunk that won't fit in with or relate to other material you're learning. That said, it's important to realize that just understanding how a problem was solved, for example, does not necessarily create a chunk that you can easily call to mind later. Don't confuse the aha of a breakthrough and understanding with solid expertise. That part of what you can asp an idea when a teacher presented in class, but if you don't review you it fairly soon, have you first learn it? It can seem incomprehension when it comes time to prepare for a test in math and science related subjects. Closing the ball can test in yourself, and whether you yourself can solve the problem you'd think you understand will speed up your learning. At this stage, you often realized the first time you actually understand something is when you can actually do it yourself is the same in many disciplines. Just looking at someone else is painting doesn't mean you could actually create that painting yourself. And just hearing a song won't give you the expertise you need to sing in the same, same resonant fashion. Just because you see it or even that you understand it, it doesn't mean that you can actually do it. Only doing it yourself helps create the neural patterns that underlie true mastery. The third step to chunking is gaining context. So you can see not just how, but also win to use this chunk context means going beyond the initial problem and seeing more broadly, repeating and practicing with both related and unrelated problems, so that you can see not only when to use the chunk, but win not to use it. This helps you see how you're newly formed chunk fit into the bigger picture. And other words, you may have a tool in your strategy or problems solving tool box, but if you don't know when to use that chunk, it's not going to do you a lot of good. Ultimately, practice helps you broaden the networks of neons that are connected to your chunk, ensuring it's not only firm but also accessible from many different parts. As you can see from this top down, bottom up illustration, learning takes place in two ways. There's a bottom up chunking process for practice, and repetition can help you both build and strengthen each chunk so you can easily access it whenever you need to. And there's also AA sort of top down big picture cross that allows you to see what you're learning and where it fits in. Both processes are vital in gaining mastery over the material. Context is warm, bottom up and top down. Learning meat clarify here, chunky may involve you learning how to use a certain problem solving technique. Context means learning when to use that technique instead of some other technique doing a wrap and two minute picture walk, throw a chapter in a book before you begin studying it, glancing at pictures and section heading ings can allow you to gain a sense of the big picture. So can listening to a very well organized lecture. These kinds of activities can help you know where to put the chunk share, constructing how the chunks relate to one another. Just as you see here with the image of the man in the car, learn the major concepts are points first. These are often the key parts of the good instructor or bookshop ters outline, flow charts, tables or concept maps. Once you have this done, fill in the details. Even if a few of the puzzle pieces are missing at the end of your studies, you can still see the big picture. So there you go, summer it up. Chunks are best built with focus, attention, understanding of the basic idea and practice to help you gain mastery and a sense of the big picture context. Those are the essential steps in making a chunk and fitting that chunk into a greater conceptual overview of what your own learning. But there's more, I'M Barber openly. Thanks for learning how to learn. 
+
+### 19 过度学习、抑制、思维定势与交？
+
+In this video, we're going to talk about, so the central ideas in getting your learning on track, the importance of recall, illusions of competence in learning, many testing and the value of making mistakes. One of the most common approaches for trying to learn material from a book or the notes is simply to reread it. But psychologist Geoffrey carpet is showed that this approach is actually much less productive than another very simple technique, recall, after you ve read the material, simply look away and see what you can recall from the material you've just read. Copec, his research, published in the Journal science, provided solid evidence. Along these lines, students studied scientific text and then practiced it by, we're calling as much of the information as they could. Then they restarted the text and we're called it. That is, they tried to remember the key ideas once more, the results in the same amount of time. By simply practicing and recalling the material, students learned far more and at a much deeper level that made them using any of the approach, including simply rereading the text, the number of times or drawing concept maps that supposedly reached the relationships in the materials under study. This improve learning comes whether students take a formal test or just informally test themselves. This gives an important reminder when we retrieve knowledge or not just being mindless robots, the retrieval process itself enhances deep learning and helps us to begin forming chunks. It almost as if the recall process helps build a little neural hooks that we can hang or thinking on. Even more of a surprised researchers was that the students themselves predicted that simply reading and recalling the materials wasn't the best way to learn. They thought concept mapping, growing diagrams that show the relationship between concepts would be the best. But if you're trying to build connections between chunks before the basic chunks are embedded in the brain, it doesn't work as well. It's like trying to learn advanced strategy and chess before you even understand the basic concepts of the pieces move. Using recall mental retrieval of the key ideas rather than passively reading will make your study time more focused and effective. The only time rereading tag seems to be effective is if you let time PaaS between the rereading so that it becomes more than exercise in space repetition. One way to think about this type of learning and recall the show me right here. As we mentioned earlier, there are four slots and working memory. When you're first learning how to understand a concept or a technique to solve a problem your entire working memory is involved in, the process is shown by sort of the dangle of connections between the force. Lots of working memory. As you begin to chunk the concept, you'll feel like connecting easily and smoothly in in your mind. Once the concept is chunked, it takes up only one slaughter working memory. It's final Tanee ously becomes one smooth stream is easy to follow and to use to make new connections. The rest of your working memory is left clear. That dangling strain of chunt material has, in some sense increased the amount of information available to your working memory. It as if the slot in working memory is a hyperlink that's been connected to a create thing one page. Now you understand why it is key that you are the one doing the problem solving or mastering the concepts, not whoever wrote the solution menu or book on whatever subject you're study. If you just look at the solution, for example, didn't tell yourself, Oh Yeah, I see why they did that, then the solution is not really yours. You've done almost nothing to meet those concepts into your own underlying neural circuitry, merely glancing at a solution and thinking you truly know it yourself is one of the most common illusions of competence in learning. You must have the information persisting in your memory if you're to master the material well enough to do well on test and to think creatively with it. In a related vein, you may be surprised to learn that highlighting and underlining must be done very carefully. Otherwise it can not only be ineffective, but also misleading it. As if making lots of motions with your hand confirm you into thinking you. You place the concept in your brain, if you still mark up the text, try to look for main ideas before making any Marks, and try to keep your underlining or highlighting to a minimum one sentence or less per paragraph. On the other hand, words are notes in the margin that satisfies ze key concepts are a very good idea. Jeff carp ki, the same researcher whose done such important work related to recall, has also done research on a related topic, illusions of competence in learning the reason students like to keep rereading their notes or a text books that that when they have the book for Google open right in front of them, it provides the illusion that the material is also in their brains, but it's not because it can be easier to look at the book. Instead of recalling, students persist in their reluctance studying in a way that just isn't very effective. This is a reminder that just wanting to learn a material and spending a lot of time with it doesn't guarantee you'll actually learn it. A super helpful way to make sure you're learning and not following yourself with delusions of competence is to test yourself on whatever you learning in some sense. That's what recall is actually doing, allowing you to see whether or not you really grasp an idea if you make a mistake and what you're doing, it's actually a very good thing. You want to try not to repeat your mistakes. Of course, all mistakes are very valuable to make in your little self test before high stakes real test, because they allow you to make repairs, and you're thinking flaws bit by bit. Mistakes help correct your thinking so that you can learn better and do better. As you know, now recall is a powerful tool, but here's another tip. Recalling material when you're outside your usual place of study can also help you strengthen your grasp of the material. You don't realize it, but when you're learning something new, you can often take in the liminal cues from the room in the space around you at the time you are originally learning the material. This can throw you off when you take test, because you often take test in the room, it's different from the room you were learning in by recalling and thinking about the material. When you are in various physical environments, you become independent of the cues from anyone given location that helps you avoid the problem with the test room being different from where you originally learned the material. I'M Barber, okay, guys, for learning about burning. The stakes are very valuable to make and that you're little啊啊呵呵啊啊。Ok, go back to the start of this one. 
+
+### 20 第二单元总结
+
+我要跟备案。It is hard to learn when you're not into it, but if it's something you're really interested in, learning is easy. Why is that most of the neurons in your cortex Carry information about what is happening around you and what you're doing? Your brain also has a set of defuse ly projecting systems of Dr. Modulators that Carry information not about the context of an experience, but its importance in value to your future. No, Remodulin ors are chemicals that influence how a neuron response to other neurons. And today we will discuss three of them, actually still calling dopamine and serotonin as of a coin. Neurons form neuromodulation connections to the cortex that are particularly important for focused learning when you are paying close attention. These acetate lan neurons project widely and activate circuits that control sync plasticity, leading to new long term memory. Newer modulators also have a profoundly impacts on your unconscious mind. One of the great brain discoveries in my lifetime has been that our motivation is controlled by a particular chemical substance called document, which is found in a small set of neurons in our brains, them shown here in orange. These don't mean neurons are part of a large brain system that controls reward learning. And in particular, in the basement ganglia, which is located in the Green region, above the dot mean neurons, and below the cortex at the top of the brain dolphin is released from these neurons when we receive an unexpected reward. Dope being signals project widely and have a very powerful effect that I learned. And this is something that also affects decision making and even the value of sensory inputs. Dog mean is in the business of predicting future rewards and not just the immediate reward. This can motivate you to do something that may not be rewarding right now, but will lead to a much better reward in the future. Addictive drugs artificially increased dot mean activity and full your brain into thinking that something wonderful has just happened. In fact, just the opposite has just happened. The sleep to craving independence, which can Hydrae your freewill and can motivate actions that are harmful to loss of dot min urs leads to a lack of motivation. And something called and hydrogenation is a loss of interest and things that once gave you pleasure. Severe loss of dot mean neons causes resting tremor, slowness, rigidity. This is called Parkinson's disease. Ultimately, it leads to catatonia a complete lack of any movement. Don't meme neurons are part of the unconscious part of your brain that you learned about in the first week when you promise to treat yourself to something. After a studies section, you are tapping into your dove mean system. Serotonin is a third defused nea moderator system that strongly affects your social life. In monkey troops, the alphabet has the highest level of Sarr Tonon activity and the lowest ranking mail has the lowest levels. Process, which is prescribe for clinical depression, raises the level of Cyr tonic activity. The level of sr tonne is also closely linked to risk taking behavior with higher risk in lower serotonin monkeys. Inmates in jail for violent crimes has some of the lowest levels of sartorian activity in society. Finally, your emotions strongly affect learning. As you are well aware, motions were once thought to be separate from cognition, but recent research has shown that emotions are intertwined with perception and attention and interacts with learning and memory. The middle in all man shape structure shown here, netsek down, down at the base of the brain, is one of the major centers where cognition and emotion are effectively integrated. The Midas part of the Olympic system, which, together with hippocampus, is involved in processing memory and decision making, as well as regulating emotional reactions, you will want to keep your middle, are happy to be an effective learner. The emotions and your nerve moderator systems are slower than perception and action, but are no less important for successful learning. If you want to learn more about to sea a Coleen dopamine and Sara Tony, look them up on brain facts that work a website that is filled with valuable facts about your brain. I am terrify, nasty, happy learning until we meet again. 
+
+### 21 Norman Fortenberry 博士的访谈
+
+The ability to combine chunk in new and original ways underlies a lot of historical innovation. Bill Gates and other industry leaders set aside extended weak long reading periods so that they can hold mini and varied ideas in mind during one time. This helps generate their own innovative thinking by allowing fresher mind, not yet forgotten ideas, to network among themselves. Basically, what people do to enhance their knowledge and gain expertise is to gradually build the number of chunks in their mind, valuable bits of information they can piece together in new and creative ways. Chess masters, for example, can easily access thousands of different chest patterns. Musicians, linguis and scientists can each access similar chunks of knowledge in their own disciplines. The bigger and more well practice your chunked mental library, whatever the subject you're learning, the more easily you'll be able to solve problems and figure out solutions, as will discover soon. Chunking isn't all you'll need to develop creative flexibility in your learning, but it's an important component. Chunks can also help you understand new concepts. This is because when you grasp one chunk, you'll find that that chunk can be related in surprising ways to similar chunks, not only in that field, but also in very different fields. This idea is called transfer. For example, concepts and problem solving method you learn for physics can be very similar to chunk concepts in business. I found some aspects of language learning. We're very helpful for me when I later began to learn computer programming. A chunk is a way of compressing information much more completely as you gain more experience and chunky in any particular subject, you'll see that the chunk are able to create a bigger, in some sense, that the weapons are longer. Not only are those ribbons longer, but the neural patterns are in science darker. They're more solid and family and grained. You have a library of concepts and solutions in Ternes Zed as chunk patterns. You can think of it as a collection of a library of neural patterns when you're trying to figure something out. If you have a good library of these chunks, you can more easily skip to the right solution by metaphorical speaking, listening to whispers from your defuse mode. Your defuse mode can help you connect to, or more chunks together in new ways to solve novel problems. Another way to think of it is this, if you your lines chunk, it is filling in a part of your larger knowledge picture, but if you don't practice with your growing chunks, they can remain faint, and it's harder to put together the big picture of what you're trying to learn. In building a chunked library, you're training your brain to recognize not only a specific concept, but different types and classes of concept, so that you can automatically know how to solve quickly or handle whatever you encounter. You'll start to see patterns and simplify problem solving for you. You'll soon find a different solution. Techniques are working at the edge of your memory before midterms or finals. It can be easy to brush up and have these solutions at the mental ready. There are two ways to figure something out or to solve problems, first, through sequential by step reasoning, and second, through more, more holistic intervention. Sequential thinking, where small step leads deliberate towards a solution, involves the focus mode. Intuition, on the other hand, often seems to require this creative defuse mode linking of several seemingly different focus mode thoughts. Most difficult problems and concepts are grasped through intuition, because these new ideas make a leap away from what you're familiar with. Keep in mind that the diffuse mode, semi random way of making connections means that the solutions that provides should be very carefully verified using the focused mode. Intuitive insights are always correct. You may think there are so many problems and concepts just in a single section or chapter. Whatever you are studying, there is just no way to learn them all. This is where the law of serendipity comes into play. Lady luck ck favors the one who tries just focus on whatever section you're studying. You finally want to put that first problem or concept in your mental library, whatever it is. And the second concept will go a little more easily. And the third more easily, still not that all of this is a snap, but it does get easier. I'M Barber Oakly. Thanks for learning about learning. 
+
+### 22 Scott Young的访谈
+
+When you're learning a new idea, for example, a new vocabulary word or a new concept or a new problem solving approach. You sometimes tend to practice it over and over again during the same study session. A little of this is useful and necessary, but continuing to study or practice after you've mastered what you can in the session is called overlearning. Overlearning can have its place that can help produce an automaticity that can be important when you're executing a serve in tennis or playing a perfect piano concerto. If you choke on tests or in public speaking, overlearning can be especially valuable. Did you know that even expert public speakers practice on the order of 70 hours for a typical 20 minute Ted Talk. Automaticity can indeed be helpful in times of nervousness, but be wary of repetitive overlearning during a single session. Research is shown it can be a waste of valuable learning time. The reality is once you've got the basic idea down during a session, continuing to hammer away at it during the same session doesn't strengthen the kinds of long term memory connections you want to have strengthened. Worse yet, focusing on one technique is a little like learning carpetry by only practicing with a hammer. After a while, you think you can fix anything by just bashing at it, using a subsequent study session to repeat what you're trying to learn is just fine and often valuable. It can strengthen and deepen your chunked neural patterns, but be wary. Repeating something you already know perfectly well is facing easy. It can also bring the illusion of competence that you've mastered the full range of material when you've actually only mastered the easy stuff. Instead, you want to balance your studies by deliberately focusing on what you find more difficult. This focusing on the more difficult material is called deliberate practice. It's often what makes the difference between a good student and a great student.
+
+All this is also related to a concept known as einshdul. In this phenomenon, your initial simple thought, an idea you already have in mind, or a neural pattern you've already developed and strengthened may prevent a better idea or solution from being found. We saw this in the focus pinball picture, where your initial pinball thought went to the upper part of the brain, but the solution thought pattern was in the , the crowd and bumpers of the focus mode. And the previous patterns you've built can create a sort of rut that prevent you from springing to a new place where the solution might be found.
+
+Incidentally, the German word Einstein means mindset. Basically, you can remember Einstein as installing a roadblock because of the way you were initially looking at something. This kind of wrong approach is especially easy to do in sports and science, not to mention other disciplines, because sometimes your initial intuition about what's happening or what you need to be doing is misleading. You have to unlearn your erroneous older ideas or approaches even while you're learning new ones.
+
+One significant mistake students sometimes make in learning is jumping into the water before they learn to swim. In other words, they blindly start working on homework without reading the textbook, attending lectures, viewing online lessons, or even speaking with someone knowledgeable. This is a recipe for syncing. It's like randomly allowing a thought to kind of pop off in the focus mode pinball machine without paying any real attention to where the solution truly lies.
+
+Understanding how to obtain real solutions is important in learning and in life. Mastering a new subject means learning not only the basic chunks, but also learning how to select and use different chunks. The best way to learn that is by practicing jumping back and forth between problems or situations that require different techniques or strategies. This is called into legal. Once you have the basic idea of a technique down during your study session, sort of like learning to ride a bike with training wheels, start interleaving your practice with problems of different types or different types of approaches, concepts or procedures. Sometimes this can be a little tough to do. A given section in a book, for example, is often devoted to a specific technique. So when you flip to that section, you already know which technique you're going to be using. Still do what you can to mix up your learning in science and math in particular, can help to look ahead at the more varied problem sets that are sometimes found at the end of chapters. Or you can deliberately try to make yourself occasionally pick out why some problems call for one technique as opposed to another. You want your brain to become used to the idea that just knowing how to use a particular concept, approach or problem solving technique isn't enough. You also need to know when to use it. Interleaving your studies, making it a point to review for a test, for example, by skipping around through problems in the different chapters and materials can sometimes seem to make your learning a little more difficult, but in reality, it helps you learn more.
+
+Deep play interleaving is extraordinarily important, although practice and repetition is important in helping build solid neural patterns to draw on, it's interleaving that starts building flexibility and creativity. It's where you leave the world of practice and repet competition and begin thinking more independently. When you interleave within one subject or one discipline, you begin to develop your creative power within that discipline. When you interleave between several subjects or disciplines, you can easily, more easily make interesting new connections between chunks and the different fields, which can enhance your creativity even further. Of course, it takes time to develop solid chunks of knowledge in different fields. So sometimes there's a tradeoff. Developing expertise in several fields means you can bring very new ideas from one field to the other, but it can also mean that your expertise in one field or the other isn't quite as deep as that of the person who specializes in only one discipline. On the other hand, if you develop expertise in only one discipline, you may know it very deeply, but you may become more deeply entrenched in your familiar ways of thinking and not be able to handle new ideas.
+
+Philosopher of science Thomas Keune discovered that most paradigm shifts in science are brought about by either young people or people who were originally trained in a different discipline. They're not so easily trapped by Einstein blocked thoughts due to their preceding training. And of course, there's the old saying that science progresses one funeral at a time, as people entrenched in the old ways of looking at things die off.
+
+Finally, don't make the mistake of thinking that learning only occurs in the kinds of subjects you acquire from teaching pictures or books. When you teach a child how to deal effectively with a bully, or you fix a leaky faucet, or you quickly pack a small suitcase for a business trip to Hong Kong.
+
+All of these illustrate the outcomes of important aspects of learning. Physicist Richard Feynman was inspired in his Nobel Prize winning work by watching someone throw a dinner plate into the air in a cafeteria. And Mike Roe of the television shows Dirty Jobs and somebody's GOTTA do it shows how important and exciting learning can be in a variety of different non academic disciplines. I'm Barbara Oakley. Thanks for learning about learning.
+
+### 23
+
+
+In this video, I'm going to synthesize some of the main ideas of this week's videos, in other words, will Trump our week on chunking. Here we go, chunks for pieces of information, neuroscientific speaking. They're bound together through use and often through meaning. You can think of the chunk as a syndicating network of neon that compactly synthesizes key ideas or actions. Chunks can get bigger and more complex, but at the same time, there are a single easy to access item that you can fit like a weapon into the spot on your working memory. Chance are best built with focused, undivided attention. Understanding of the basic idea and practice to help Deeping your patterns and to help you gain big picture context. Simple recall, trying to remember the key points without looking at the page is one of the best ways to help the chunking process along. It seems to help build neural hooks that help you better understand the material. Also try recalling material in places that are different from where you originally learn the material, so it becomes more deeply and grain and accessible. Reddit, less of what romeias this can be very helpful for tests. Transfer is the idea that a chunk you mastered in one area can to often help you much more easily learn chunks of information in different areas that can share surprising commonalty ties interleaf you're learning by practicing your choice of concepts, approaches and techniques all in one session. Chunks are very important, but they don't necessarily build flexibility, which is also important in becoming an expert with the material. If your learning illusions of competence and learning learn to recognize when you're falling yourself about whether you're actually learning the material, test yourself frequent using little mini test to see whether you're actually learning the material or whether you're been fooling yourself thinking you're learning when you're actually not recall is actually a form of mini testing. Try to avoid depending too much on highlighting, which can fall you into thinking that the material is going into your brain when it actually isn't. Mistakes are a good thing to make when you're learning. They allow you to catch illusions of competence. Avoid practicing only the easy stuff which can bring the illusion that you've master the material, deliberately practice what you find more difficult to gain full mastery of the material. I'm Stelling is when you're initial thought, an idea you've already had in mind or a neural pattern you've already developed well and strengthened, prevents a better idea or solution from being found or keep you from being flexable enough to accept new, better or more appropriate solutions. The law of serendipity is helpful. Lady luck favors the one who tries just take one tiny thing out to learn in another. Just keep trying and you'll be pleasantly surprised at the results. I'M Barber Oakley. Thanks for learning about learning. 
+
+### 24
+
+
+
+Speaker 1 
+ 
+For this interview, it's a pleasure to introduce you to one of today's leading figures in learning how to learn more effectively. Doctor Norman Fortenberg, the executive director of the American Society of Engineering Education. Doctor Fortenberry is MIT cubed. That is, he has his bachelors, masters and doctorate in mechanical engineering from the Massachusetts Institute of technology because of his interest in learning, Norman took an unusual career path. After teaching his first engineering classes, he realized that there was a disconnect. He knew a great deal about his research area, but he didn't know about how to teach effectively. The reality is that most new professors arrive at their universities without any training in how to teach effective. Doctor Fortenberry wanted to do something about this problem. His work at the National Science Foundation and the National Consortium for graduate to Greece for minorities in engineering and science have helped create a whole network of support for faculty in science, engineering, math and technology who want to help students learn effectively. In this interview, we'll get some practical ideas from Doctor Fortenberry on how you can most effectively approach your studies.
+
+Speaker 2 
+ 
+Thank you so much for being here, Doctor Fortenberry. I'm just so impressed. I have to ask it. You, here you are, you landed at MIT, which is one of the top educational institutions, at least technologically speaking, in the world, and you successfully climb your way up the ladder all the way through to get your PhD. Let's cut past the generalities and get to specifics. What were some of the most worthwhile tricks and approaches that you use to help you study and learn? Most effective?
+
+Speaker 3 
+ 
+Yeah, well, MIT is a very good institution and not just technologically. For example, it has one of the top political science departments in the world. But that said, the techniques that I pursued, the first and foremost was recognized that what worked in high school will not work in college. In high school, you're taught to do actually most of pre K you're taught you to do your own work, study alone, etc.
+
+Speaker 3 
+ 
+That is deadly in college, at least in engineering schools, the expectation is that you're part of a group. The expectation is that there are course notes and course bibles that are all over campus. There's an expectation that you have access to resources that if you don't have access to, you're in deep trouble. So you have to make sure that you live up to that expectation by making the connections to the people who have the resources that you need to succeed.
+
+Speaker 3 
+ 
+The key lesson in collegiate study, at least in engineering school, is you are part of a team. And if you don't have a team, you find a team. If you are a team, you maximize the team. But you have to be part of a group. Engineering is a team sport. You know, all the stereotypes are about the loan engineer and the loan programmer, but it's a team sport and you have to find your team as quickly as possible and make sure that the members of that team are very serious about their studies as well.
+
+Speaker 2 
+ 
+Okay, your competition at MIT included some of the top students in the world. How did your, you approach your studies so that you could frame things in a way to keep yourself from being intimidated? I.
+
+Speaker 3 
+ 
+Was intimidated. I was extremely intimidated. What it took was reminding myself and having others remind me, my peers, some of the administrators to remind me that I didn't suddenly become less smart once I got to MIT. There were some extremely bright people, but I was one of those bright people. And that I needed to build a community of support around me. I gave support. I received support. So, yes, you are entirely intimidated. At least I was. And people I knew were. But we knew that if we work together as a team, we would make it through. And so that was the key was to remember the objective is to learn the material. The objective is to finish the class. Even in grad school, the objective is to get the degree. And you keep your eye focused on the prize and you fight it out and you get through.
+
+Speaker 2 
+ 
+Early on in your college career, you took a more advanced calculus course that most people don't usually take, at least at that stage. I understand this set you back in your studies. How could you have avoided this scenario? And how did you keep going in the face of facing failure and hardship?
+
+Speaker 3 
+ 
+Well, the way to avoid the problem is this, is to. So this is all about balancing ego. I should have done what the overwhelming majority of students did, which was take the regular track calculus and not take the calculus with applications, which everybody said was the hard track. But I said, but it has applications, so I'm gonna be an engineer. That makes sense for me. Do there are times when there is wisdom and the wisdom of the crowd. There are times when being a living is not the brightest thing in the world to do. The challenge is figuring out which is which. But I think I could have informed my decision by not only talking to my peers but talking to some grad students and some administrators, you know, counseling deals, etc, about that choice and my background in calculus, which was not strong as I hadn't taken calculus before I was handed an AP book, and that was my calculus class senior year and Louisiana. So the thing is to recognize when one is making a reasonable choice and when one is not making a reasonable choice.
+
+Speaker 3 
+ 
+Now, how did I persist? I buckled down and studied very hard again with the study groups, and I spent a lot of extra time going over material two and three different ways to make sure that I understood it. Okay.
+
+Speaker 2 
+ 
+So what do you do to help prompt sort of what we call diffuse mode or neural resting states, the fresh perspectives you get from those kinds of states in your research and your work, how do you prompt.
+
+Speaker 3 
+ 
+Those? Well, I think it's very important the point that you make. One of the stories that I tell people is that, you know, it's okay, keep your nose to the Grindstone, that there are plenty people at that point talking about MIT, plenty of people walking around with no noses. But if you keep your nose to the Grindstone too long, you begin to cut into brain. And since brain is what you're trying to use, that's counterproductive. So it is important to take a break. My breaks involve total mental turn off.
+
+Speaker 3 
+ 
+I, I what? I read cartoons in the newspaper. I watch cartoons on television. I watch some of the, now I watch some of the silliest, most in aim television shows as a form of real, without naming any names, as a form of relaxation that allows me to turn off my conscious brain.
+
+Speaker 3 
+ 
+Your unconscious works. It's a lot like taking a nap. You know, there are so many things coming at you and pushing on you that you have to redirect your focus in order for your brain to work on background and come up with the answer. So I do things. Some people exercise. I used to exercise more. I need to exercise more, but I do things that shut my brain down in different ways.
+
+Speaker 2 
+ 
+Well, we share a little. My guilty pleasure is I love to read the national inquiry.
+
+Speaker 3 
+ 
+That would work, too.
+
+Speaker 2 
+ 
+Many of our viewers have brothers and sisters and friends who are trying to learn new things. So reflecting back on your own childhood and even your work today, how have other people helped you in your learning? And did people sometimes help you perhaps by not helping you? And do you have any practical suggestions for our viewers who are trying to learn how to learn?
+
+Speaker 3 
+ 
+There is very practical guidance on how to learning how to learn in any number of publications and online in terms of a systematic process for acquiring information. Some things I use with my son when he was younger in terms of using as many different modes of input as you can see something, write it out by hand so that you've got the muscle memory repeating it back to yourself. See it, say it's ballet, whatever. As many mo input modes, you've got your auditory learners, your visual learners, you saturate yourself with learning modes. That's one of the reasons why people need to be careful when you have a faculty member or a teacher to put something on overheads or Powerpoints these days, and you just take their overheads and don't really study them. The mechanical act of writing helps you to internalize that material as well as going back over the notes again helps you to internalize that material. So multi mode input is critical for learning again with the study groups and challenging each other because what you think, you know, you find out when you try to explain it to somebody else. That's why teaching is one of the best ways to learn. But even if you don't go full blown to tutoring somebody else, just in discussing it with a set of peers and colleagues, okay, this is what I think I know and they challenge you. Okay, well, that's not what I thought, but let me explain what and they will either, you will either validate what you thought or you will find in our of the fallacy in what you thought. And they do the same thing. And so you help each other by explaining material to each other. If you just write it out, yeah, I've got it. Well, you may not have it or you may have it wrong. And so you have to take the time to explain it, teach it, whatever to somebody else as a way to make sure that you in fact have what you think you have in terms of your learning.
+
+Speaker 2 
+ 
+I think active learning like this, really grappling with it and using information that's within your own mind, that's the best way to know you've really got it within your own mind. So you're exactly right. Norman, thank you so much.
+
+
+### 25
+
+
+Speaker 1 
+ 
+Scott Young is the ultimate adventurer in learning. He's compressed the entire four year MIT curriculum for computer science into one year of independent learning and is now wrapping up a year's travel, learning four different languages, Spanish, Portuguese, Chinese and Korean, through total immersion in each of the countries. Scott doesn't just study learning from an academic perspective. He immerses himself in learning and perceptively observes the results so that we can all gain from it. So it's a pleasure to welcome Scott Young. Scott, I'm always excited to follow your adventures. So tell me, where are you now and what is your latest learning challenge?
+
+Speaker 2 
+ 
+Right, so right now at the moment, I'm actually in South Korea, in Seoul, not too far away from Kangama actually, and I am learning Korean and this is part of a larger project where a friend and I are traveling for a year, staying three months in four different countries. So three months each, trying to learn the country, trying to learn the language of that country through not speak, making English as much as possible.
+
+Speaker 1 
+ 
+Wow, I'm just so impressed. You're sort of a Marco Polo of learning. And I was also impressed by your MIT challenge in learning. What you did was you compressed a four year curriculum of computer science into one year of independent learning. There are a lot of questions I have for you in relation to that experience as well as your language learning experience. So first, can you tell us how do you avoid illusions of competence in learning?
+
+Speaker 2 
+ 
+Right. Well, I'm a big fan of trying to dive into a position where you might be wrong as soon as possible. So when you're just listening to a lecture, reading a textbook, you can't ever really be wrong. There's no real check on whether you know what you know. And I really like getting into problems as quickly as possible with a language, trying to speak as quickly as possible, or if not speaking que as quickly as possible, testing my listening comprehension in a strict way. So with the MIT challenge, I would work on problem sets and I would do my best to do the problem sets without having the solutions at hand and try my best on any problem. And if I got stuck, if I couldn't finish, then of course go to the problem and check to see the solution and learn it. But I think only if you feel that grind a bit first, if you feel that tension, that stress that you're not quite sure how to finish it, only then will you really remember how to do the problem for the future. So if you don't have that feeling of not being sure how to do it in that strain, I think it's hard to really improve your knowledge.
+
+Speaker 1 
+ 
+So that goes right along with our own learning philosophy in this course, which is test yourself as frequently as possible. So one of the approaches that you have to learning that I absolutely love is that of self explanation. Can you explain to our viewers a little bit what you mean by yourself explanation? What is it and what kind of benefits can you get from it?
+
+Speaker 2 
+ 
+Right. Well, I got this idea reading a biography of Richard Feyman. He was a Nobel Prize winning physicist. And I forget the exact method that he used himself, but I remember him talking about, you know, being a Nobel Prize winner in theoretical physics. He's a smart guy. And he was talking about a particular academic paper, a particular concept he didn't understand. And his approach wasn't to throw his hands up and say, well, you know, I don't get it towards too difficult. But he went through meticulously, not only trying to understand everything that was in that paper, but of the papers it sourced, he read through them very carefully and comb through them and try to make sure he understood all the supporting ideas.
+
+Speaker 2 
+ 
+So for me, I've kind of adapted that into this idea of taking a blank piece of paper out and writing as if I'm trying to teach someone else what this idea is all about or what this process for solving a particular type of problem is all about or what it means. And what I find happens is that you usually get to points where you have some friction, where you have to be too vague or you can't really be as exact and precise as you wanna be. And those are usually the things that you don't understand. So you can go back to your notes, you can go back to the textbook, look up that exact spot and figure out, oh, this is the part I'm missing, step 3 of this process, or I don't really understand why step 3 works. Maybe I can ask someone, a teacher or a friend.
+
+Speaker 1 
+ 
+I think it's so smart to go look and intuit how other very creative people have approached their problem solving. And I always love Heinman's approach. He always said that it's very important that the first rule is not to fool yourself, but you are the easiest person to fool. So I just love how you're learning from other learners. Can you, can you, one of your approaches that I really like is that of creating vivid examples. Can you give us an example of that?
+
+Speaker 2 
+ 
+So the mind doesn't learn abstract things very well. It works a lot better when you have something very concrete you can point to and say, oh, this is how it works. And math and science is often full of things that are just pure abstractions. They only connect very loosely to things we can touch and feel.
+
+Speaker 2 
+ 
+So what I try to do is find simple analogies or metaphors and try to test them or see how to make them fit with the thing I'm trying to learn. So it's kind of like looking through your mind for examples or stories or things that you're familiar with. And like fitting a jigsaw piece into a puzzle, trying to figure out what's the right piece. So I'll give you a quick example of that.
+
+Speaker 2 
+ 
+I was learning about electricity and one of the concepts you learn early on is voltage. Now I didn't have a good intuition of what voltage was, so I'm trying to make a mental picture of what voltage could be. And I'm thinking about, you know, an electrical circuit. Well, it's a little bit like pipes with water. And so if the electrical circuits like pipes with water, then what are all the components and currents? Pretty easy. You can. That's like the water flow going. I can get that. But what was voltage? And I was like, well, is it like pressure? But if you look at the equations for pressure and if you look at the equations for voltage, they don't really look alike. So that felt wrong. And I realize that, you know, if you've studied electricity, you've usually also studied the gravity beforehand. And what was the same was electric potential and gravitational potential. So, oh, voltages like height. So I can imagine in my head that the high voltage wires are like pipes that are physically higher than the other pipes. So the water, when it rushes down, when it goes down from the high level to the low level, it gives off a lot more energy cuz it's falling.
+
+Speaker 2 
+ 
+And that metaphor really helped me because not only was it something concrete that I'll never forget, but it also was fairly accurate and that I tested out a couple things like pressure and I found, okay, this is the one that works. And sometimes this process can take a little bit of time. I'm recapping this in two seconds, but it really took me about an hour at it to comb through the notes to figure this one out. But you can ask professors, you can ask, you know, hey, is this kind of like this? And someone who really understands it can help you out or you can just do what I did and just try to fit different puzzle pieces and see what fits. Because even if you don't find a good puzzle piece, you can still learn a lot more that way.
+
+Speaker 1 
+ 
+Oh, I couldn't agree more. I do find that as the years have gone by, the most creative professors who I've worked with, researchers, are always the ones that use these kinds of analogies. And the ones who are more pedantic, a little bit more by the book, often aren't as creative about how they approach things. So I think that's a very intelligent way of going at everything.
+
+Speaker 1 
+ 
+Can you talk to our viewers just a little bit about motivation? How can you develop a passion for learning, perhaps even in subjects you think you don't have a passion for? Any suggestions for mental tools people can use to help motivate themselves when they're learning?
+
+Speaker 2 
+ 
+Well, I love this question because right now I'm learning languages and we're currently, I'm currently learning my sixth language, Korean, right now. And we're doing it in very tight kind time constraints. So I've gotten a few emails from people who have, you know, heard about the project. And they said, well, maybe you and your friend who are doing this have this natural talent for languages and, you know, this genetic gift. And I think it's so funny because I remember the first time I was trying to learn a foreign language, French, I spent about the same amount of time that I'm spending here and I barely pass the exam. I got a d and I'm, I feel like I'm a fairly smart fellow and other thing so I didn't really let it get to me. But I think it's true for a lot of subjects that being intelligent within that subject is often a factor of just how much exposure you've had to it. So if you're not used to math, don't take that as a sign that maybe you're bad at math, but just that you need to put more time in and you'll get more motivation.
+
+Speaker 2 
+ 
+It'll be more easy to motivate yourself. You'll have more interest once you're better at it, and you can get better at it by encouraging yourself to take on little steps, little mini projects. And once you complete that project, you build more confidence. With more confidence, you can do more things, you can understand more things and it becomes more interesting. And I just, I loved your story that you gave of learning math because I think that's just a perfect example. And it's too bad that a lot of people just don't conceptualize the world that way.
+
+Speaker 1 
+ 
+One thing that I really like about your own story is you failed, but you just Learned from failure. You didn't allow that to get to you. You just sort of shifted your strategies and figured out what strategy was more successful. And I think that's a sign of the best learners is not to be set back by failure. They just learn from it.
+
+Speaker 2 
+ 
+Absolutely.
+
+Speaker 1 
+ 
+So I love how you've developed projects for self education. Can you tell us a little more about what you've done this way and how our viewers might go about developing their own projects for self education.
+
+Speaker 2 
+ 
+Right. So I actually got this idea from a good friend. He's also in, I think, your recommended resources, Benny Lewis. And he was someone who told me, I remember you told me in person one day, it's like always have a mission. And basically just this idea of he would pick these 3 month missions for learning languages. Cuz that was usually how long he could secure a tourist visa to this place to try to learn as much as possible in three months.
+
+Speaker 2 
+ 
+But it really struck me how different that was from the regular approach of going and, you know, I'm gonna just learn this and I don't really have any concrete goals and I don't really have any specific motivation. And of course it tapers off and you don't achieve that much. And what I found really helpful is making very concrete projects that are exciting to me. Something that, you know, this is really interesting. So when I do the MIT challenge, just this idea kind of obsessed me, this idea of, you know, would it be possible learn the things that an MIT student would learn in school without going to MIT or this language learning project, you know, would it be possible to get to a conversational level or a decent amount of level through complete immersion in four different countries in a year. So I tend to pick these kind of grand projects, but I think you could pick something very simple. You could just say, you know, I want to try learning this over a month and I'm gonna obsess about it and make it interesting. And that's often how you can turn something it might otherwise be dull into something that fascinates you because it's this specific concrete challenge.
+
+Speaker 1 
+ 
+I like this approach. It seems very similar to what I did with helping to create this Mook. So yeah, any tips on effective use of online resources.
+
+Speaker 2 
+ 
+Right? So this is, I think, particular relevant to your audience because you know, a Mook audience, you're signed up through this, through co Coursera, and you probably know about Coursera and edx and all of the great Mook platforms. And I really think these platforms are the future because they have such high quality courses. But it's still early days. And I think that there's still a lot of subjects that people would like to learn, but maybe there isn't a mook for it.
+
+Speaker 2 
+ 
+And I think there's also some disadvantages to mooks. In particular, if you want to learn something a little bit more advanced, moves can sometimes be a bit harder because they tend to be written for audience with no prerequisites, no requirements. So you might feel if you wanted to do, you know, some physics that isn't just an intro physics class, this is a little bit harder because, you know, they're expecting that I haven't Learned calculus or I haven't Learned something different. And so what I recommend is using MIT's open courseware is incredible. It has literally hundreds, I don't know whether it has thousands of courses, but it has just such a huge volume of courses. And sometimes the courses aren't s really well supported. Like they don't have videos, they don't have, it's not as hands on as these moves, but I found sometimes what they'll have is they'll have the exams and the problem sets and a list of the readings and a link to a textbook. I could buy the textbook used on Amazon for 15 bucks sometimes and I would get it delivered and I would do it. And honestly, I felt like I sometimes learn more from those courses than the video lecture courses. So I think if you are willing to be a bit more adventurous, there's literally almost no topic you can't learn through this kind of structured university like format through the resources available online.
+
+Speaker 1 
+ 
+It's an explosion in learning how to learn. I mean, this, the, what's available now to the public is just absolutely phenomenal. And so anyone who has an interest in pretty much anything can do some great exploration. So as our wrap up question here, you've written that you can learn more by studying less. What do you mean by that?
+
+Speaker 2 
+ 
+All right. So I think you've touched on it a lot in this course that you're offering, that people get caught up in low efficiency, low intensity studying habits. And because they learn a lot slower with those methods, they end up spending a lot more time studying. And because they're spending a lot more time studying, which is naturally more hiring, you go into less efficient studying methods. It's a little bit like exercising. It's as if, you know, you're not getting the exercise results you want, so you extend your workout from one hour to two hour, but now you're not working out is more intensely. So you make it four hours. And now you know, you really can't do more than just a light jog for four hours or maybe just walking. And eventually it eats up all of your time. But you're not having the intensity that your muscles and your body really need to get physical improvement. And similarly, I think the same is true with mental improvement. So what I try to do is I try to pick specific chunks of time that I'm gonna study and they don't have to be too big. So right now in I'm learning Korean over these three months and I'm actually only doing three to four hours a day of studying time, which is considerably less than I would say a typical full time student study in Korean. But I think that I've been making quite good progress just because the actual time I'm spending is highly focuses this kind of test yourself feedback so that I'm using things like Anki for flashcards and I'm doing actual conversations one on one with the tutor. And these things are very efficient, but they are also very intense. But the benefit of that is that you have more time and you can relax outside of it.
+
+Speaker 1 
+ 
+Great advice and as always, great advice from you. I know I've Learned a lot and really enjoyed following your adventures and getting new tips on learning from you. So I thank you so much, Scott, and we'll see you on the flip side.
+
+Speaker 2 
+ 
+Well, thank you very much for letting me be a part of this. I really hope that the students taking this course found some value in the video I put together.
+
+
+
+
+### 26
+
+
+Speaker 1 
+ 
+This week, we're going to be talking about two seemingly different ideas, procrastination and memory. But the two topics are intimately related. Why? Because building solid chunks in long term memory, chunks that are easily accessible by your short term memory takes time. It's not the kind of thing you want to be putting off until the last minute. You already have one good tool for procrastination, the pomadoro, that powerful 25 minute concentrated period of energized focus.
+
+Speaker 1 
+ 
+This week, we're going to fill you in with more information about how procrastination happens and simple ways to tackle it. And this is key ways that don't take much willpower. Then we'll move on to talking about some of the best ways to access your brain's most powerful long term memory systems. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+
+### 27
+
+
+Speaker 1 
+ 
+Arsenic is incredibly toxic. For centuries until modern methods of detection were discovered, murderers found it to be a very popular substance. So you can imagine the shock at the 48th meeting of the German Association of Arts and Sciences in 1875, when two men sat in the front of the audience and downed more than double a deadly dose of arsenic. The next day, the men were back at the conference, smiling and healthy. How is it possible to take something so bad for you and stay alive and even look healthy despite the damage being done at a microscopic level to your body?
+
+Speaker 1 
+ 
+The answer has an uncanny relationship to procrastination. That's what we're going to be talking about in the next few videos. You've already Learned one handy tool to help you with procrastination, the Pomaduro, that 25 minute period of uninterrupt focus followed by a bit of relaxation. This week, we're going to learn more understanding a little about the cognitive psychology of procrastination, just like understanding the chemistry of poor poison can help us develop healthy preventatives.
+
+Speaker 1 
+ 
+In these videos, I'm gonna teach you the lazy persons approach to tackling procrastination. This means you'll be learning about your inner zombies, the routine, habitual responses your brain falls into as a result of specific cues. These zombie responses are often focused on making the hero now better. As you'll see, you can trick some of these zombies into helping you fend off procrastination when you need to.
+
+Speaker 1 
+ 
+Not all procrastination is bad. Even if you're pretty good already in handling procrastination, you'll learn some helpful insights here that can allow you to better prioritize your learning. The reason that learning to avoid procrastination so important is that good learning is a bit by bit activity. You want to avoid cramming, which doesn't build solid neural structures by putting the same amount of time into your learning, but spacing that learning out by starting earlier, you'll learn better first things first.
+
+Speaker 1 
+ 
+Unlike procrastination, which is easy to fall into, willpower is hard to come by. It uses a lot of neural resources. You shouldn't waste willpower on fending off procrastination, except when absolutely necessary.
+
+Speaker 1 
+ 
+Best of all, as you'll see, you don't need to. If you'll remember, we procrastinate about things that make us feel a little bit uncomfortable. You think about something you don't particularly like, and the pain centers of your brain light up. So you shift and narrow your focus of attention to something more enjoyable. This causes you to feel better, at least temporarily. But sadly, the long term effects of habitual avoidance can be nasty. When you put off your studies, it can become even more painful to think about studying it. You can choke on test because you haven't laid the firm neural foundations you need to feel comfortable with the material. Procrastination can be a single monumentally important Keystone.
+
+Speaker 1 
+ 
+Bad habit. A habit, in other words, that influences many important areas of your life if you improve your abilities in this area, many other positive changes will gradually begin to unfold.
+
+Speaker 1 
+ 
+Procrastination shares features with addiction. It offers temporary excitement and relief from sometimes boring reality. It's easy to fool yourself, for example, into thinking that the best use of any given moment is surfing the web for information instead of actually reading the textbook or doing the assigned problems, you start to tell yourself stories. For example, you might tell yourself that organic chemistry requires spatial reasoning, your weakness. So of course you're doing very poorly at it. You devise irrational excuses that sounds superficially reasonable, like, if I study too far ahead of the test, I'll forget the material. If you're troubled by procrastination, you may even start telling yourself that procrastination is an innate, unchangeable characteristic. After all, if procrastination were easily fixable, wouldn't you have fixed it by now? The higher you go in your studies, however, the more important it is to take control of procrastination. Habits at work in earlier years can turn around and bite you. What I'll show you in these next few videos is how you can become. I'm the master of your habits. You should be making the decisions, not your well meaning, but I'm thinking zombies, your habits. As you'll see, the strategies for dealing with procrastination are simple. It's just that sometimes they aren't intuitively obvious.
+
+Speaker 1 
+ 
+So let's return to that story that began this video. The arsenic eaters started with tiny doses of arsenic. In tiny doses, arsenic doesn't seem harmful. You can even build up an immunity to its effects. This can allow you to take larger doses and look healthy, even as the poison is slowly increasing your risk of cancer and ravaging your organs in a similar way. Procrastinators put off just that one little thing. They do it again and again, gradually growing used to it. They can even look healthy, but the long term effects, not so good. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+### 28
+
+2024-10-14 
+:14 CST|3min 13s
+
+Keywords:
+good habits、good study habits、belief habits、easy habit、Zombie responses、first item、first time、few key factors、zombie mode、habitual zombie mode、Barbara Oakley、immediate little feeling、no .、text message、next week、few hours、focused manner、other types
+
+Transcript:
+Speaker 1 
+ 
+Just imagine backing out of a driveway for the first time ever in your life. For some of you, that might seem like a pretty exciting problem position. The first time you might do this, you would be in hyper alert. The deluge of information coming at you would make the job seem almost possibly difficult. But once you've chunk how to back up down your driveway, all you have to do is think, let's go. And off you go. Your brain goes into this sort of zombie mode where it is only semi aware of a few key factors instead of being overwhelmed by all the data. It's the same idea with riding a bicycle. At first it's really hard, later it's easy.
+
+Speaker 1 
+ 
+Neuroscientifically speaking, chunking is related to habit. Habit is an energy saver force. It allows us to free our mind for other types of activities. You go into this habitual zombie mode far more often than you might think. That's the point of habit. You don't have to think in a focused manner about what you're doing while you're performing the habit. It saves energy. How it can be good and bad. They can be brief, like absolutely brushing back your hair, or they can be long. For example, when you take a walk or watch television for a few hours after you get home from work, you can think of habits as having four parts. The first is the queue. This is the trigger that launches you into zombie mode. The queue may be something as simple as seeing the first item in your to do list, time to start next week's homework, or seeing a text message from a friend, time to stop work. A queue by itself is neither helpful or harmful. It's the routine, what we do in reaction to that queue. That's what matters.
+
+Speaker 1 
+ 
+No. 2, the routine. This is your zombie mode. The routine, habitual response your brain is used to falling into when it receives the queue. Zombie responses can be useful, harmless, or sometimes harmful. No. 3, the reward. Every habit develops and continues because it rewards us. It gives us an immediate little feeling of pleasure. Procrastination's an easy habit to develop because the reward, moving your mind's focus to something more pleasant, happens so quickly and easily. But good habits can also be rewarded, finding ways to reward good study habits is important for escaping procrastination.
+
+Speaker 1 
+ 
+No. 4, the belief habits have power because of your belief in them. For example, you might feel you'll never be able to change your habit of putting off your studies until late in the day to change a habit, you'll need to change your underlying belief. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+
+### 29
+
+
+Speaker 1 
+ 
+One of the best ways of being effective in your learning is to use mental tools and tricks to inspire and motivate yourself. First, when it comes to learning in general, you should realize that it's perfectly normal to start with a few negative feelings about beginning a learning session, even when it's a subject you ordinarily like. It's how you handle those feelings that matters. Researchers have found that non procrastinators put their negative thinking aside, saying things to themselves like quit wasting time and just get on with it. Once you get going, you'll feel better about it. If you find yourself avoiding certain tasks because they make you feel uncomfortable, you should know there's another helpful a way to reframe things, and that's to learn to focus on process, not product. Process means the flow of time and the habits and actions associated with that flow of time. As in, I'm gonna spend 20 minutes working.
+
+Speaker 1 
+ 
+Product is an outcome. For example, a homework assignment that you need to finish to prevent procrastination. You want to avoid concentrating on product. Instead, your attention should be on building processes. Relate to simple habits that coincidentally allow you to do the unpleasant tasks that need to be done. For example, let's say you don't like doing homework in a particular class, so you put off working on the homework. It's only five questions. You think, how hard could that be? Deep down, you realize that answering those five questions could be a very lengthy job. It's easier to live in a fantasy world where the five questions are the 10 page report or whatever can be done at the last minute.
+
+Speaker 1 
+ 
+Your challenge here is to avoid focusing on the product, the answers to the questions. The product is what triggers the pain that causes you to procrastinate. Instead, you need to focus on the process or processes, the small chunks of time you need over days or even weeks to answer the questions or prepare for test. Who cares whether you finish the homework or grasp the key concepts in any one session? The whole point instead is you calmly put forth your best effort for a short period process. Notice how in this picture, physicists and surfer Garrett Leesi is focused on the moment, not on the accomplishment of having surf that wave for you.
+
+Speaker 1 
+ 
+One of the easiest ways to focus on process is to focus on doing a plumatoro, a 25 minute time to work session, not on completing a task. The essential idea here is that the zombie habitual part of your brain likes processes because it can march mindlessly along. It's far easier to enlist a friendly zombie habit to help with a process then to help with the product. By focusing on process rather than product, you allow yourself to back away from judging yourself, am I getting closer to finishing? And instead, you allow yourself to relax into the flow of the work. The key is when a distraction arises, which it inevitably will, you want to train yourself to just let it flow by. Of course, setting yourself up so that distractions are minimal is also a very good idea. Many students find that either a quiet space or noise canceling headphones, if you can afford them, can be helpful when they're really trying to concentrate. I'm Barbara Oakley. Thanks for learning about learning.
+
+
+
+### 30
+
+
+Speaker 1 
+ 
+In this video, we're going to get into the specifics of harnessing your zombie powers of habit to help you avoid procrastination while minimizing your use of willpower you don't want to do a full scale change of old habits. You just want to override parts of them and develop a few new ones. The trick to overriding a habit is to look to change your reaction to a queue. The only place you need to apply willpower is to change your reaction to the queue. To understand that it helps to go back through the four components of habit and reanalyze them from the perspective of a procrastination.
+
+Speaker 1 
+ 
+The first one is the queue. Recognize what launches you in to your zombie procrastination mode. Cues usually fall into one of the four following categories, location, time, how you feel, and reactions either to other people or to something that just happened. Do you look something up on the web and then find yourself web surfing? Does a text message disturb your studying, taking you 10 minutes to get back into the flow of things, even when you try to keep yourself on task.
+
+Speaker 1 
+ 
+The issue with procrastination is that because it's an automatic habit, you're often unaware that you've begun to procrastinate. You can prevent the most damaging cues by shutting off your cell phone or keeping yourself away from the internet and other distractions for brief periods of time as when you're doing a Pomaduro. No.2, the routine.
+
+Speaker 1 
+ 
+Let's say that instead of doing your studies, you often divert your attention to something less painful. Your brain wants to automatically go into this routine when you've gotten your queue. So this is the reaction point where you must actively focus on rewiring your old habit.
+
+Speaker 1 
+ 
+The key to rewiring is to have a plan. Developing a new ritual can be helpful. Some students make it a habit to leave their phone in their car when they head in for class, which removes a potent distraction. Many students discover the value of settling into a quiet spot in the library. Closer to home, the productive effects of simply sitting in a favorite chair at the proper time with all internet access disconnected.
+
+Speaker 1 
+ 
+Your plan may not work perfectly at first, but just keep at it. Adjust the plan if necessary, and savor those victories when your plan works. Don't try to change everything at once. The Pomaduro technique can be especially helpful in shifting your reaction to the cues.
+
+Speaker 1 
+ 
+No. 3 is the reward. This can sometimes require a little bit of investigation. Why are you procrastinating? Can you substitute an emotional payoff, maybe a feeling of pride for accomplishing something, even if it's small, a sense of satisfaction? Can you win a small internal bet or a contest about something you've turned into a personal game. Or allow yourself to indulge in a latte or read a favorite website, provide yourself maybe with an evening of mindless television or web surfing without guilt. And will you give yourself a bigger reward for a bigger achievement? Maybe movie tickets, a sweater or an utterly frivolous purchase.
+
+Speaker 1 
+ 
+Remember that habits are powerful because they create neurological cravings. It helps to add a new reward if you want to overcome your previous cravings. Only once your brain starts expecting that reward will the important rewiring take place that will allow you to create new habits? Many people find that setting a reward at a specific time, for example, breaking for lunch with a friend at the Delhi at noon or stopping the main task at five PM gives a solid mini deadline that can help spur work. Don't feel bad if you find that you have trouble getting into a flow state at first. I sometimes find it takes a few days of drudgery through a few cycles of the pomadoro technique before flow begins to unfold, and I find myself starting to enjoy work on a new topic. Also remember that the better you kid it something, the more enjoyable it can become.
+
+Speaker 1 
+ 
+No. 4 is the belief. The most important part of changing your procrastination habit is the belief that you can do it. You may find that when the going gets stressful, you long to fall back into old, more comfortable habits. Belief that your new system works is what can get you through.
+
+Speaker 1 
+ 
+Part of what can underpin your belief is to develop a new community, hang out with classmates or virtually hang out with mookmates who may have that can do philosophy that you too want to. Developing and encouraging culture with like minded friends can help us remember the values that in moments of weakness we tend to forget. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+### 31
+
+
+Speaker 1 
+ 
+Learning for most people involves a complex balancing of many different tasks. A good way for you to keep perspective about what you're trying to learn and accomplish is to once a week write a brief weekly list of key tasks in a planner journal. Then each day on another page of your planner journal, write a list of the tasks that you can reasonably work on or accomplish. Try to write this daily task list the evening before. Why the evening before? Research is shown that this helps your subconscious to grapple with the tasks on the list so you can figure out how to accomplish them. Writing the list before you go to sleep enlists your zombies to help you accomplish the items on the list the next day. If you don't write your tasks down on a list, they lurk at the edge of the four so slots in your working memory, taking up valuable mental real estate. But once you make a task list, it frees working memory for problem solving.
+
+Speaker 1 
+ 
+So let's look at one of my daily task lists. As you can see here, there are only 6 items. Some are process oriented. For example, I have a paper due to a journal in several months. So I spend a little focused time on most days working towards completing it. A few items are product oriented, but that is only because they are doable within a limited period of time.
+
+Speaker 1 
+ 
+Note my reminders. I wanted to keep my focus on each item when I'm working on it. And I wanna have fun. I did catch myself getting sidetracked because I forgot to shut down my email to get myself back into gear, I set a 22 minute Pomaduro challenge using a timer on my computer desktop. Why 22 minutes? Well, why not? I'd, I don't have to do the same thing each time. And notice too that by moving to Pomaduro mode, I switch to a process orientation. None of the items on my list is too big because I've got other things going on in my day, meetings to go to, a lecture to give. Sometimes I sprinkle a few tasks that involve physical motion on my list, even if it's just cleaning something, which I'll admit isn't ordinarily one of my favorite things to do somehow because I'm using them as diffuse mode breaks. I often look forward to them mixing other tasks up with your learning seems to make everything more enjoyable and keeps you from prolonged and unhealthy bouts of sitting.
+
+Speaker 1 
+ 
+Over time, as I've gained more experience, I've gotten much better at gauging how long it takes to do any given ask. You'll find yourself improving quickly as you become more realistic about what you can reasonably do in any given time. Make notes in your planner journal about what works and what doesn't. Notice my goal, finish time for the day, five PM doesn't seem quite right, does it? But it is right. And it's one of the most important components of your daily planner journal. Planning your quitting time is as important as planning your working time.
+
+Speaker 1 
+ 
+Generally, I aim to quit at five PM although when I'm learning something new, it can sometimes be a pleasure to look at it again after I've taken an evening break, just before I go to sleep. And occasionally there's a major project that I'm wrapping up, like say this Mook that has me running into a bit of overtime. You might think, well, yeah, you know, but you're a professor who's, shall we say, past your youthful study days.
+
+Speaker 1 
+ 
+Of course, an early quitting time is fine for you. However, one of my most admired study experts, Cal Newport, used a five PM quitting time through most of his student career. He ended up getting his PhD. From MIT. In other words, this method, implausible though it may seem for some, can work for undergraduate and graduate students in rigorous academic programs. Time after time, those who are committed to maintaining healthy leisure time along with their hard work, outperform those who doggedly pursue an endless treadmill, of course, your life may not lend itself to such a schedule. With breaks and leisure time, you may be running on fumes with two jobs in too many classes. But however your life is going, try to squeeze a little break time. I'm in one more thing as writing coach Daphne Greygrant recommends to our writing clients, eat your frogs first in the morning. Try to work on a most important and most dislike task first. At least just one Pomaduro as soon as you wake up. This is incredibly effective. Do you need to sometimes make changes in your plans because of unforeseen events? Of course. But remember the law of serendipity, lady luck favors the one who tries. Planning well is part of trying. Keep your eye on your learning goal and try not to get too unsettled by occasional roadblocks. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 32
+
+
+Speaker 1 
+ 
+Learning well often involves bit by bit, day by day building of solid neural scaffolds, rather like a weightlifter builds muscle with day to day exercise. This is why tackling procrastination is so incredibly important. You want to keep up with your learning and avoid last minute cramming. So with that, here's an overview of the key aspects of tackling procrastination. Keep a planner journal so you can easily track when you reach your goals and observe what does and doesn't work.
+
+Speaker 1 
+ 
+Commit yourself to certain routines and tasks each day. Write your plan tasks out the night before so your brain has time to dwell on your goals and help ensure success. Arrange your work into a series of small challenges. Always make sure you and your zombies get lots of rewards. Take a few minutes to savour the feelings of happiness and triumph, which also gives your brain a chance to temporarily change modes. Deliberately delay rewards until you finish the task.
+
+Speaker 1 
+ 
+Watch for procrastination cues. Try putting yourself in new surroundings with few procrastination cues, such as the quiet section of a library. Gain trust in your new system. You wanna work hard during times of focus, concentration, and also to trust your system enough so that when it comes time to relax, you actually relax without feelings of guilt or worry. Have backup plans for when you still procrastinate. No one's perfect, after all. Eat your frogs first every day. Happy experimenting. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 33
+
+
+Speaker 1 
+ 
+In this video. In the next, we're going to deepen our understanding of memory. As you're probably beginning to understand, memory is only part of learning and developing expertise, but it's often an important part. It may surprise you to learn that we have outstanding visual and spatial memory systems that can help form part of our long term memory.
+
+Speaker 1 
+ 
+Here's what I mean. If you were asked to look around the house you'd never visited before, you'd soon have a sense of the general furniture layout, where the rooms were, color scheme, the pharmaceuticals in the bathroom covered. In just a few minutes, your mind would acquire and retain thousands of new pieces of information. Even weeks later, you'd still hold far more in your mind than if you'd spent the same amount of time staring at a blank wall. Your mind is built to retain this kind of general information about a place. You can greatly enhance your ability to remember if you tap into these naturally supersized visual spatial memorization abilities. Our ancestors never needed a vast memory for names or numbers, but they did need a memory for how to get back home from a three day deer hunt or for the location of those plump blueberries on the rocky slopes to the south of the camp. These evolutionary needs helped lock in a superior where things are and how they look.
+
+Speaker 1 
+ 
+Memory system to begin tapping into your visual memory system, try making a very memorable visual image representing one key item you want to remember. For example, here's an image you could use to remember Newton's second law. F is equal to Ma. This is a fundamental relationship relating force to mass and acceleration that only took humans a couple 100,000 years to figure out. The letter F in the formula could stand for flying, m could stand for mule, and a, well, that's up to you. Part of the reason an image is so important to memory is that images connect directly to your right brain's visual spatial centers. The image helps you encapsulate a seemingly humdrum and hard to remember concept by tapping into visual areas with enhanced memory abilities. The more neural hooks you can build by evoking the senses, the easier it will be for you to recall the concept and what it means beyond merely seeing the mule. You can smell the mule. You can feel the same windy pressure the mule is feeling. You can even hear the wind whistling past.
+
+Speaker 1 
+ 
+The funnier and more evocative the images, the better. Focusing your attention brings something into your temporary working memory. But for that something to move from working memory to long term memory, two things should happen. The idea should be memorable. There's a gigantic flying mule, bring F is equal to Ma on my couch, and it must be repeated. Otherwise, remember your tiny metabolic vampires? They can suck away the neural pattern related to that memory before and strengthen and solidify.
+
+Speaker 1 
+ 
+Repetition is important. Even when you make something memorable, repetition helps get that memorable item firmly lodged into long term memory. Remember to repeat not a bunch of times in one day, but sporadically over several days, index cards can often be helpful. Writing and saying what you're trying to learn seems to enhance retention. For example, if you're trying to learn concepts in physics, you might take an index card and write the Greek letter row. That's a common abbreviation for density. You'd write it on one side and you'd write the remaining information on the other. Handwriting appears to help you to more deeply encode, that is convert into neural memory structure is what you're trying to learn. While you're writing out the kilograms per cubic meter, you might imagine a shadowy kilogram. Just feel that mass lurking in an oversized piece of baggage that happens to be one meter on each side. The more you can turn what you're trying to remember into something memorable, the easier it will be to recall. You wanna say the word and its meaning. Allowed to start setting auditory hooks to the material. Next, just look at the side of the card with the Greek letter row on it and see whether you can remember what's on the other side of the card. If you can't, flip it over and remind yourself of what you're supposed to know. If you can remember, put the card away now do something else. Perhaps prepare another card and test yourself on it.
+
+Speaker 1 
+ 
+Once you have several cards together, try running through them all and even mixing them around to see if you can remember them. This helps interleave your learning. Don't be surprised if you struggle a bit. Once you've given your cards a good try, put them away, wait and take them out again, maybe before you go to sleep. Remember that sleep is when your mind repeats patterns and pieces together solutions. Briefly repeat what you want to remember over several days, perhaps for a few minutes each morning or each evening. Gradually extend the time between the repetitions as the material firms itself into your mind by increasing your spacing as you become more certain of mastery, you'll lock the material more firmly into place.
+
+Speaker 1 
+ 
+Great flashcard systems like Anchi have built in algorithms that repeat on a scale ranging from days, 10 months. Interestingly, one of the best ways to remember people's names is to simply try to retrieve the people's names from memory at increasing time intervals after first learning the name. I'm Barbara Oakley. Thanks for learning about learning.
+
+
+
+### 34
+
+
+Speaker 1 
+ 
+Welcome back to learning how to learn. What would it be like if you couldn't learn new things? You would not be able to remember new people you met or remember what you were told. This actually happened to a famous patient in the Annals of memory research, whose initials were HM. At the age of 27, HM. Had an operation for epilepsy that took out his hippocampus on both sides of his brain. The hippo campus has a shape of a seahorse and is named from the Greek hippos, meaning horse, and compost, meaning sea monster. The operation was a success. The epilepsy was cured, but the price was steep.
+
+Speaker 1 
+ 
+HM. Could no longer remember new things. He had become profoundly amnesic. Curiously, you could have a normal conversation with HM, but if you left the room for a few minutes, he could not remember you or what you had discussed. In the film memento, the character played by Guy Pierce had this form of amnesia from a concussion. Note that he tattooed his body with messages so that he would not forget what he had to do. HN could learn other things, like a new motor skill, but he could not remember having Learned it. There are multiple memory systems for different types of learning from the studying HM. And animals with similar operations, we have Learned that the hippocampus is an important part of a brain system for learning and memory of facts and events. Without the hippocampus and its inputs, it is not possible to store new memories in the cortex, a process called memory consolidation that can take many years.
+
+Speaker 1 
+ 
+Hm. Could remember things from his childhood, but he had trouble remembering things that had occurred in the years just before his operation, things that had not yet become fully consolidated. Something similar happens when you have a bad concussion, but this usually resolves. Unlike HM. Who never improved, memories are not fixed, but living, breathing parts of your brain that are changing all of the time. Whenever you recall a memory, it changes a process called reconsolidation. It is even possible to implant false memories, which are indistinguishable from real ones, by simply suggesting and imagining, especially in children who have vivid imaginations.
+
+Speaker 1 
+ 
+Here is a summary. The green process of consolidation takes a brain state in active memory and stores it in long term memory. By modifying synapses on the dendrites of neurons, these long term memories can remain dormant for a long time until the memory is retrieved and reinstated by the red process. In short term working memory, the reinstated memory is in a new context, which can itself be transferred to long term memory, thereby altering the old memory. Through reconsolidation, our memories are intertwined with each other. As we learn new things, our old memories also change, like consolidation, reconsolidation also occurs during sleep. This is why it is more effective to space learning over time rather than mass learning all at once. If you want to study something for an hour, you will retain it longer if you spend 10 minutes each month over a semester than an hour on one day. In contrast, if you wait until the day before an exam to cram the material you may be able to retrieve for the next day on the exam, but it will quickly fade from memory.
+
+Speaker 1 
+ 
+In addition to neurons, brains have several types of supporting cells called glial cells. The astrosite is the most abundant glial cell in the human brain. Astrocytes provide nutrients to neurons, maintain extracellular ion balance and are involved with repair following injury. In this photo of the cortex, the astrocytes are staying green, and the neurons are blue. The intricate arms of the astrocytes wrap around the neurons, each embracing thousands of synapses.
+
+Speaker 1 
+ 
+A recent experiment suggests that these astrocytes may also have an important role in learning. When human exercise were put into mouse brains, the humanized mice Learned faster. Interestingly, when Einstein's brain was examined to find out what made him so awesomely creative. The only difference that could be found was that he had many more exercise than the average human. Could Astro sites be the key to understanding human intelligence? Well, the more we learn about the brain, the more we have to rethink learning. I'm Terry Sinowski. Happy learning until we meet again.
+
+
+
+### 35
+
+
+Speaker 1 
+ 
+In this video, we're going to delve deeper into memory. Another key to memorization is to create meaningful groups that simplify the material. Let's say you wanted to remember four plants that help ward off vampires, garlic, rose, Hawthorn and mustard. The first letters abbreviate to G, R, H, M. So all you need to do to remember is to use the image of a gram cracker.
+
+Speaker 1 
+ 
+It's much easier to remember numbers by associating them with memorable events. The year 1965 might be when one of your relative was born, for example, or you can associate numbers with a numerical system you're familiar with. For example, 11.0 seconds is a good running time for the hundred meter dash, or 75 might be the number of stitches on a knitting needle for the ski hats you like to make? Personally, I like to associate numbers with the feelings of when I was or will be at a given age. The No. 18 is an easy one. That's the age when I went out into the world. By age 104, I hope to be an old but happy great grandma.
+
+Speaker 1 
+ 
+Many disciplines use memorable sentences to help students memorize concepts. The first letter of each word in the sentence is also the first letter of each word in a list that needs to be memorized. Medicine, for example, is laden with memorable pneumonics, among the cleaner of which are some lovers try positions that they can't handle to memorize the names of the carpal bones at the hand. And old people from Texas eat spiders for the cranial bones.
+
+Speaker 1 
+ 
+Time after time, these kinds of memory tricks prove helpful. If you're memorizing something commonly used, see whether someone's come up with a particularly memorable memory trick by searching it out online. Otherwise, try coming up with your own.
+
+Speaker 1 
+ 
+The memory Palace technique is a particularly powerful way of grouping things you want to remember. It involves calling to mind a familiar place, like the layout of your house, and using it as a sort of a visual notepad where you can deposit the concept images that you want to remember. All you have to do is call to mind the place you're familiar with, your home, you're out to school, or your favorite restaurant, and voila, in the blink of an imaginative eye, this becomes the memory palace that you'll use as your notepad.
+
+Speaker 1 
+ 
+The memory palace technique is useful for remembering unrelated items such as a grocery list, milk, bread, eggs. To use the technique, you might imagine a gigantic bottle of milk just inside your front door. The bread plopped on the couch and a cracked egg drimbling off the edge of the coffee table. In other words, you'd imagine yourself walking through a place you know well, coupled with shockingly memorable images of what you wanna remember if you're studying finance, sociology, chemistry, or what have you, and you have lists to remember, you could use this same approach. The first time you do this. It will be slow. It takes a bit of time to conjure up a solid mental image. But the more you do it, the quicker it becomes. One study showed that a person using the memory palace technique could remember more than 95% of a 40 to 50 item list after only one or two practice mental walks where the items were placed on the grounds of the local university.
+
+Speaker 1 
+ 
+In using the mind this way, memorization can become an outstanding exercise, and creativity that simulate spontaneously builds neural hooks for even more creativity. Purists might sniff that using oddball memorization gimmicks isn't really learning, but research has shown that students who use these kinds of tricks outperform those who don't. In addition, imaging research on how people become experts shows that such memory tools speed up the acquisition of both chunks and big picture templates, helping transform novices to semi experts much more quickly, even in a matter of weeks. Memory tricks allow people to expand their working memory with easy access to long term memory.
+
+Speaker 1 
+ 
+What's more, the memory process itself becomes an exercise in creativity. The more you memorize using these innovative techniques, the more creative you become. This is because you're building these wild, unexpected possibilities for future connections early on, even as your first internalizing the ideas, the more you practice this type of memory muscles, so to speak, the more easily you'll be able to remember where. At first, it may take 15 minutes to build an evocative image for an equation and embed it, say, in the kitchen sink of your memory palace, it can later take only minutes or seconds to perform a similar task. You'll also realize that they should begin to internalize key aspects of the material. Taking a little time to commit the most important points to memory, you come to understand it much more deeply. The formulas will mean far more to you than they would if you simply look them up in a book, and you'll be able to sling those formulas around much more proficiently on tests and in real world applications.
+
+Speaker 1 
+ 
+You may say, well, you're just not that creative. An equation or theory could hardly have its own grandiose motivations or prosecuty emotional needs to help you understand and remember it. But always remember your child by creativity is still there inside. You just need to reach out to it. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 36
+
+
+Speaker 1 
+ 
+Learning to use your memory in a more disciplined, yet creative manner helps you learn to focus your attention even as you create wild, diffuse connections that build stronger memories. Here are the key ideas about memory we've covered in this course. We discussed two main memory systems involved in your ability to chunk concepts. The first is long term memory, which is like a storage warehouse. You need to practice and repeat in order to help store items in long term memory so you can retrieve them more easily. Practicing and repeating all in one day is a bad idea. You want to extend your practice to several days. This is why tackling procrastination is important. It helps you build better memories because you start earlier.
+
+Speaker 1 
+ 
+The second is working memory, which is like a poor blackboard that quickly fades. You can only hold about four items in your working memory when you master a technique or concept in some sense, it compacts the ideas so they can occupy less space in your working memory when you do bring them to mind. This frees your mental thinking space so that it can more easily grapple with other ideas.
+
+Speaker 1 
+ 
+We have outstanding visual and spatial memory systems. If you tap into those systems, it will help improve your memory. To begin tapping into your visual memory system, try making a very memorable visual image representing one key item you want to remember. Beyond merely seeing, try to feel, to hear, and even to smell something you're trying to remember. The funnier and more evocative the images, the better. As always, repetition over several days is really helpful.
+
+Speaker 1 
+ 
+Another key to memorization is to create meaningful groups that simplify the material. Try associating numbers with years or with systems you're familiar with, like running times. Many disciplines use memorable sentences. The memory palace technique, placing memorable images in a scene that's familiar to you, allows you to dip into the strength of your visual memory system, providing a particularly powerful way of grouping things you want to remember by making meaningful groups and abbreviations, you can simplify and chunk what you're trying to learn. So you can more easily, you store it in memory. And by memorizing material you understand, you can internalize the material in a profound way. You're reinforcing the mental library you need to become a genuine master of the material. Happy memories. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 37
+
+
+Speaker 1 
+ 
+Nelson Dellis is one of the most intriguing people I know. He was inspired to improve his memory after watching his grandmother, sad Klein. Due to alzheimer's, he now holds a number of memory records, including the US international record for memorizing a deck of shuffled cards in 40.65 seconds. The US international record for memorizing the most digits in five minutes with 339 digits memorized, as well as the most names memorized in 15 minutes, 201 names. He's the four time USA Memory Champion and currently ranks 26 in the world as a memory athlete. He's also a superb mountain climber, with two attempts on Everest and summits on Alaska's Mount McKinley, amongst many other big mountains around the world, Nelson grew up in England, France and the United States. He speaks both French and English as native languages. He attended high school in Florida and went on to major in physics and minor in mathematics at the university of Miami. He worked as a veterinary technician. And then after earning a master's degree in computer science, he worked as a software developer. But now with his shift into memory expertise, he's busy staying in mental shape, competition and teaching people around the world how they can improve their own memories. In fact, there's evidence that there are people out there with exceptional memory abilities who are not trained. You can take part in the test that scientists and Dart Neuroscience have developed to see how you stack up against Nelson and all the others who've taken the test so far. More about that later. It's such a pleasure to be interviewing you here today, Nelson. I have to say, I have a ton of questions I've always wanted to ask a memory expert. But first, I want to show our viewers just a little bit of your memory prowess. I'm gonna read a list of 25 single digit numbers. And let's see if you can remember them.
+
+Speaker 2 
+ 
+Okay, just make sure to ring them out at like one per second.
+
+Speaker 1 
+ 
+Okay, 8,7,8,4,2,1 already we've got them.
+
+Speaker 2 
+ 
+Let me just review in my mind.
+
+Speaker 2 
+ 
+Okay, alright, so starting from the beginning, it was 8,7,8,3,7,1,3,8,4,4,6,0,4,8,8,6,8,7,3,9,6,2,4,2,1.
+
+Speaker 1 
+ 
+How did you do that voice?
+
+Speaker 2 
+ 
+This is also as impressive. I can do it backwards if you want. So one, 2,4,2,6,9,3, a, 7,8,6,8,8,4,0,6,4,4,8,3,1,7,3,8,7,8.
+
+Speaker 1 
+ 
+Oh, my word. I, I'm really impressed. I wish I could do. That's pretty amazing. Now, I understand that you develop this kind of expertise by using a memory system that you're not a natural memory expert. Is that right?
+
+Speaker 2 
+ 
+That's right. This is something that I taught myself many years ago. Before that, I just had an average memory and I, you know, I trained using memory techniques and a lot of practice. And it's interesting, you know, a lot of people just assume that I have a natural memory or I was born with it. So they're always surprised to hear that it's actually something trained we're actually looking for. There are people looking for people who have those natural skills. And it's a point of interest to see if that exists out there.
+
+Speaker 1 
+ 
+Well, can you tell us a little bit about the system that you use to remember numbers? How much practice do you have to put in every day to keep up with this kind of system? And it, is it the kind of thing that's useful or worthwhile for an ordinary person to do?
+
+Speaker 2 
+ 
+Yeah, so keep in mind, I'm training for competition. So I take it to the next level. You know, it's my profession, it's my work. So I take it very seriously and spend hours a day training. But when I started, you know, it was just a hobby. And I think for the everyday person who maybe struggles with memory, you know, they'd wanna hear that.
+
+Speaker 2 
+ 
+It takes very limited, it takes a very short amount of time to get good at these techniques. You don't have to spend hours, is what I'm saying. But there are some things that are harder than others. For example, numbers requires a bit of prep. Basically, the way I do it is I'll come up with pictures for all these different numbers so that every time I see a number, I think of something else that's more familiar to my brain. So if you were gonna learn a number system and you wanted to get very good at numbers, you would have to put in a bit of prep time. But for the most part, it's pretty easy to do these memory techniques.
+
+Speaker 1 
+ 
+I like that. Sounds like it's something that's doable by normal human beings. Totally. But I'd like to shift now to something that I've always had a little bit of trouble with, and that's remembering names. What kind of techniques do you have for memorizing names?
+
+Speaker 2 
+ 
+Yep. So that's probably the most common question I get. Cuz that's probably the most useful everyday thing is how do I remember the name of someone I met or meet? So the idea is, well, basically any memory technique involves two things, in my opinion. One is visualization, so turning whatever you're trying to memorize into a picture, a mental picture that's filled with associations that mean something to you, right? To yourself.
+
+Speaker 2 
+ 
+The second thing is to attach that image to some location. There are different ways you can do that. The most common is this thing called a memory palace, where you use a familiar place like your house, and you attach these images to a bunch of different locations around a path in this place, your house. And the idea being is you remember your house, so it's easy to pick up where you left all of these things. And you can remember things in order easier.
+
+Speaker 2 
+ 
+For names, it's a bit different because people come in and out of your life. So you don't know where or how or if you should store a certain person. You may not ever see them again. So what happens is you use some distinguishing feature about them as the location to store the image for their name. So when I meet someone, I always ask, you know, well, first I pay attention. That's kind of the first thing. Then I'm focusing in on something about their face or body or their composure. And whatever sticks out, I go with. That's my location, that's my anchor. And then I ask for their name and I turn that name into whatever it reminds me of. It sometimes could be a friend who has the same name, a celebrity, a cartoon character. It could maybe s be a name that sounds like an objects or it just could be something it feels like or I break it down into smaller pieces and that reminds me of something. It's all a bit of practice. But once you have that picture, you can attach it or imagine it on that person's distinguishing feature. So that when you see them again, they come to you bringing that location and of the image for their name along with them.
+
+Speaker 1 
+ 
+This is really helpful for me, but I have to admit my special difficulty is in memorizing names rapidly. For example, if I'm introduced to five people consecutively, I might get the name Mary and the name Miguel. But by the time I've, I've gotten through, they've gotten through all five names. I've forgotten the other three names. The real problem is I'm just not a quick thinker. So by the time I come up with some kind of memorable gimmick, I've already missed the other couple of names. Sure. So any advice for people like me?
+
+Speaker 2 
+ 
+Yeah, and that's common. I mean, it's not easy to do that. What I just said very quickly, I'm not even amazing at it. If you rapid fire 5S to 10 names at me, I may not get all of them. I need to take time and make those images memorable. So what I recommend in situations like that, cuz that happens a lot of parties where someone's like, hey, Joe, this is Bob, Steve, Agnes, whatever, right? And it's just this quick introduction and you're flustered and you barely remember anything. So what you do is go and talk to these people one by one and don't be afraid to ask for their name again. I mean, if they expect you to have recall, to retain all of those names really fast, I mean, who can do that? So the key to remembering names is also not to be embarrassed to ask from the beginning, though. That's the key. You don't wanna ask for their name, you know, after two or three times having met them, right? You just keep avoiding and saying, hey guy, or have madam, you know, so it's one of these things where say you can catch all those names. I would go reintroduce myself, say like, hi, I'm sorry, I didn't catch your name. What is it? And then as you kind of have a back and forth conversation, you can in your mind, be then taking your time to come up with this picture at your own pace.
+
+Speaker 1 
+ 
+I see. That's very helpful. Now, sometimes there are people like Bill Clinton and, I mean, Bill Clinton is uncanny in his ability to remember people's names, even people he hasn't seen in like 10 years, he can instantly seem to recall their names. But for me, if I haven't seen a person after, say, three years, I have real problems. I just can't recall their name very quickly. And I can't be practicing. I've got a lot of other things to do and I never know who I might encounter. So any advice for this kind of situation?
+
+Speaker 2 
+ 
+Yeah, you know, person like Bill Clinton, you know, some people just have a knack for certain things. And I think he has a knack for that. Obviously, it's very important for him, too. I mean, it's important for everybody, but I think especially more so for him. And he's just a people person, you know, and I think that helps when you, he's the kind of person who will like get to know everybody who he meets, no matter how important or not. And I, that helps. That's, the memory is all about paying attention. And if you spend a lot of time on one thing, you're gonna remember it better.
+
+Speaker 2 
+ 
+Now, that's not to say that you're, you don't give anything about the person you meet. You know that you care. Obviously, so do I. But we all work differently. And what I would recommend in those situations, and I do this because I'm not the best, I have to try and make the effort. So what I'll do is usually, for example, when I get business cards, you know, I'll do the thing where I'm memorizing everybody's name, but then afterwards I make sure to take their business cards, review, even write little notes on the cards themselves, just stuff that stuck out about this person, you know, oh, we have this conversation about Mount Everest. You know, they were tall, had short hair. I really like the way he smelled or something like that, you know, just like stuff that was important to you and that comes out when you write it down, what you remember. And I keep a file of those and I'll go through them every once in a while.
+
+Speaker 2 
+ 
+That's actually a fun game to me because it reminds me of how many people I meet and how well I can remember them. And it becomes this game. And that I think that makes it a lot more fun and easier to remember names.
+
+Speaker 1 
+ 
+Memory is a key aspect of learning, but it often seems that becoming a memory expert involves learning a number of different kinds of systems. And all of these systems take a lot of practice, and they're only useful for specific types of memory. For example, cards or numbers or faces. Many of the learners in our course, however, they wanna do things like memorize complex equations or problem solving techniques. They want to know, they wanna remember the meaning of complex philosophical terms or monstrously convoluted verb conjugations. I mean, in Russian, we used to say that for every rule, there was an exception. And for every exception, there was a rule. So what kind of advice do you have for memorizing difficult theoretical concepts that are outside the boundaries of the kinds of things that are ordinarily memorized.
+
+Speaker 2 
+ 
+Right? So, you know, let me first say that in competitions, we memorize specific things, cards, numbers, names, because there has to be a way that we can uniformly test everybody on the same level every year, right? But you can't at the same time have an event or have a competition that figures out a way to test you on every possible way to memorize every possible thing. So the way I look at it, the way I tell people is, you know, we go into these competitions having trained specifically, cards, names, numbers. And it's almost like when you go to the gym, right, you're training to be healthy and fit overall. But you go in and you do specific exercises that do work on a specific muscle set, right, like your biceps, then your quads or whatever. And the goal is that all around, it'll prepare you to be able to be active in any way in real life.
+
+Speaker 2 
+ 
+So the same thing with memory is we do all these things, but it helps us kind of round out our memory and allow it to be able to memorize something like complicated equations or philosophical terms or whatever. So for those types of things, you know, the memorizing process is really the same. I know there are complex systems, but that's if you wanna get to a really high level. And most people don't need to. The basics are, this is one, come up with a picture. So if you're looking at equations or philosophical terms, you're gonna approach it the same. How do I turn that complicated thing into a picture? And by picture, you know, eh, like I was saying, with the names, it can be anything. It doesn't even have to do anything with what it actually is. I mean, you could be looking at an equation and the symbols look like, you know, seahorse and shovel, you know, doesn't matter. The point is you wanna turn what's abstract and complicated into something that, you know, and your brain already has hardwired in its brain. Then afterwards, you can insert meaning and understanding and all these things and comprehension. But the goal is come up with a picture. The second thing is to store it somewhere. Use, like I was saying, a memory palace somewhere where you can access this information at will. But I think the tricky part, especially for this complicated things that you're mentioning, it is coming up with the picture. And that takes a bit of practice, but we're all capable of it. We're very imaginative beings, and I think we can all come up with things on the fly if we really let ourselves.
+
+Speaker 1 
+ 
+Well, let's switch focus a little bit now from equations to text. Let's say that you have a complex or simply a very long section of text that you want to memorize. For example, the lengthy test text that's involved in questions on interviews. So I should point out that this kind of thing is especially difficult for me when I'm a little bit nervous on camera.
+
+Speaker 2 
+ 
+Yeah, with text, you know, it's difficult because there are a lot of words and a lot of little intricacies and filler words and, you know, well, if you're reading it and trying to remember it, just generally the idea of what's being said, that's okay. You can pick out keywords and memorize those or the general phrases or concepts. You know, if you're memorizing a speech word for word or a poem word for word, that's when those little words obviously in between of and or so those are important too.
+
+Speaker 2 
+ 
+But there are two different kind of approaches. I mean, if you're just trying to memorize a text in general to know the points, it just becomes what I was saying before, find these, maybe underline these keywords, these key points. And now you've just reduced this text to a list of words or groups of words. And then that just becomes turning those into pictures and storing them in a memory palace.
+
+Speaker 1 
+ 
+I see. So any advice for people who are getting a little bit older? How can they work to help keep up their memory skills?
+
+Speaker 2 
+ 
+Yeah, there's a few things. One, I, well, I really of try to stick to four kind of key dimensions of brain health. So at this point, when what I like to promote is really brain health rather than memory techniques, obviously that's a part of it. But ice got into this because of my grandmother and alzheimer's. And she had alzheimer's, and I wanted to improve my brain health for the rest of my life. So what I do is, one, is keeping my brain active. So, you know, not everybody wants to be a memory champion, but you can try to memorize things. People give you numbers or you have groceries to get, try to memorize it. Don't write it down. Learn a new skill. You know, there's so many things out there and I'm sure so many people wanna try new things and they say, oh, I can't do it, but try, right? These are the things that activate our brain and really get the juices going, and we'll keep your brain healthy.
+
+Speaker 2 
+ 
+Secondly is being active. So physical activity, and you don't have to be weightlifting crazy amounts or sprinting or anything, but just being active is very good for the brain. Third is being social. So involving yourself with friends and family in your community is, has been shown to be very helpful for brain health, not being in solitude and, and, and or recluse. It's helpful to be out with people.
+
+Speaker 2 
+ 
+And then finally, and this is a very important, especially as you we age, is diet. The things we eat obviously impact our body and our brain. And one of the main things in this, I suggest this to anybody cuz I do it every day. I take about 1,000 mg of DHA, Omega 3. And it's, you might be familiar, it's what we might get if we ate salmon or fish, certain fish, fatty fish or fish oil pills. Right. But that's a very important part to my diet. And I believe that that's, those are the keys to maintaining brain health, and that can be applied to, at any age.
+
+Speaker 1 
+ 
+I think all of these kinds of ideas are right in line with the things that we've been talking about in this course. So do you have any last bit of suggestion for people to help improve their ability to learn and remember?
+
+Speaker 2 
+ 
+Yeah, a few things is, you know, it's, I think when we were younger, you know, there was always when we were learning things as kids, we were playful, always coming up with imaginative things. And, you know, we looked at life very joyfully and relaxed. Right. And I think that's, you lose that obviously, as you age a bit because you have responsibilities and you get into a job and all these things.
+
+Speaker 2 
+ 
+But that's where memory really, I think, springs from, is our kind of child, inner child, you know, and it's nice to explore that at times. And I think to have a good memory, you need to kind of let go and explore that world a little more, being more creative and bit silly, a bit fun, and you'll find your memory improves. That's one thing.
+
+Speaker 2 
+ 
+The other thing is, you know, part of my mission is to try and get memory and understanding of memory and brain health to be something of the past so that we can all have healthy brains in the future. And I work with this company, Dark Neuroscience, and they have this awesome kind of research program where you can log in and take a little memory test, spans over two days, but it's very short. And we basically, it's a memory game that people take. And what we're doing is trying to get as many people as possible to take it, millions if we can. And the goal is to try and find people who have just naturally good memories because, you know, people look at me and I've trained, that's one thing. But we really wanna look at people who have this naturally, if that even exists. If they don't, that's also very enlightening.
+
+Speaker 2 
+ 
+So one thing is to be playful and childish and try to tap into your inner memory. The other thing is to please participate in this we call the Extreme Memory Challenge and people can log in. It's extreme memory challenge.com. And you'd be participating in a really great cause to he hopefully. And how alzheimer's or. And cognitive impairments.
+
+Speaker 1 
+ 
+Well, I so appreciate you taking the time today to speak with us, Nelson, and I strongly encourage all of our viewers to what, to enroll in the Extreme Memory Challenge. I think it could be a really an enhancement and help a lot of researchers who are working in a very important area. So again, my great thanks to you, Nelson, and best of luck in your future championships. Yes.
+
+Speaker 2 
+ 
+Thank you for having me.
+
+
+
+### 38
+
+
+Speaker 1 
+ 
+Doctor Keith Devlin is a very big guy in the world of math education, not to mention the world of math research. I'm introducing you to him here because I love how he thinks about learning in the world of mathematics and how his ideas about learning relate to learning in all sorts of topics way outside of mathematics.
+
+Speaker 1 
+ 
+Among many other duties, Keith is a co founder and executive director of Stanford's Human Sciences and Technologies Advanced Research Institute, a co founder and president of an educational technology company, brainquake, that creates mathematical learning video games. He's also a World Economic Forum Fellow, a fellow of the American Association for the advancement of science and a fellow of the American Mathematical Society. Last but definitely not least, he is the Math Guy on National Public Radio.
+
+Speaker 1 
+ 
+Welcome, Doctor Devlin. Thanks for being with us here today. Dr Devlin, let's just dive right in. What's the biggest tip you can share with our viewers about how to most effectively approach a math problem that they might be stuck on.
+
+Speaker 2 
+ 
+Well, the first thing, of course, is don't panic. That's the famous Douglas Adams motel from The Hitchhiker's Guide to the galaxy. And it holds just as much for mathematics as it did for The Hitchhiker's Guide. You have to begin by understanding what the problems about. What are you trying to do? What do you want to achieve? And what information do you have? You must have. Yeah, I mean, you've really got to avoid the thing that actually teaches, try to impress on you of trying to see if you can match it to some template and to act quickly. One of the worst things that I think happens in the school system is people come away thinking that solving math problems is something that has to be done at speed. Absolutely is not.
+
+Speaker 2 
+ 
+So you have to sit back, take a deep breath, begin by understanding the problem. If the problem involves numbers, put in a few simple numbers, threes and force, then, and just play with it to get a sense of it. If it's a geometric problem, do some little diagrams. Or you might, yeah, I often end up writing simple little graph diagrams with dots and lines connecting them, just something to give me a sense of what that problem's about.
+
+Speaker 2 
+ 
+At that point, you can ask yourself, do I know any techniques that look as though they would work for this problem? If they do, and you're in, look, the problem solve, actually that's usually very unsatisfying because you've just applied somebody else's thinking. Mathematics gets interesting when you have to force yourself to find upon a new method or some new approach. So let's assume that none of the techniques, you know, work. The next thing is, can I adapt an existing technique? Well, maybe you can't. If you can, that usually leaves you with a nice feeling because you've done something yourself. The really challenging ones and the ones where it gets actually exciting and fun is where you, you, you, it becomes clear, at least you think that nothing you know is gonna help you with that.
+
+Speaker 2 
+ 
+At that point, what you do is you, you, you basically, you bash away at it several times with just naive approaches. Almost certainly they won't work. You just try this, you try that, you come up with ideas based on what the problems asking you to do.
+
+Speaker 2 
+ 
+Because solving a problem is a journey you begin with the information you've got, either the information you're given with the problem or information you already know, you may have to add some extra information. You may do a Google search, find some extra information about it. At that point, the journey takes place and you have to get to the goal and solve the problem.
+
+Speaker 2 
+ 
+If none of the methods you try for the first now half hour, maybe I'm depending on the problem, it could be half hour, a couple of hours, sometimes it's a day or a few weeks. But if nothing happens, then the best thing to do is walk away from the problem. Don't do something else.
+
+Speaker 2 
+ 
+In my case, for most of my career, I was a long distance runner. If I really came up against it, I would put on my running gear, whatever the weather, and I'd got for a three or four hour run. And when I came back, air felt good, I felt relaxed. And quite often on the course of that ride or on that run over, when I got back, the problem seemed different, and I could have had some new ideas. As I got older, my knees gave away from 25 years of heavy duty running.
+
+Speaker 2 
+ 
+These days, I ride a bicycle. But I go on my bike and I go for three or four hour bike ride and I come back. First of all, I can approach the problem with a fresh eye. And secondly, in some cases, what seem to be an impossible problem has melted away. And I look at it and think, oh, Gee, that was obvious. Why didn't I see it before? Well, I don't quite think that because I know that the feeling you have when you solve a problem is always, why didn't I think of that before? And if that doesn't work, you start the cycle again, you bash, you weight it again, make no progress. And then again, you can have another bike crowd or another swim or whatever does you like to do a nice long walk. But it's important to keep ice, to keep oscillating between brushing away at it and then backing off and doing something else to let the brain do its own thing.
+
+Speaker 1 
+ 
+I think that was one of the hardest things for me to realize was how important it is to back away that sometimes, especially when it's something difficult, it is important to be able to focus on it as it is, to be able to back away from it and then come back later with a fresh perspective in a fresh mind. Okay? I.
+
+Speaker 2 
+ 
+It for difficult problems. I have never ever solve the difficult problem sitting at a desk or even sitting in my chair thinking about the problem. I've never done that, and I'm not sure it's possible to do that. Because if you think about if a problem solution requires something new, applying all of your conscious thinking by definition can't solve it because you're looking for something new.
+
+Speaker 2 
+ 
+The weird thing about the brain is when you've done that preparation of bashing away without success and you go and do something else. I've mentioned physical activity cuz I'm a sort of a physical active guy, although the biggest result in my PhD was actually when I was getting out of the bath. I, I'd taken a long bath. You don't have to sort of exert lots of energy. You have to do something different. Having a bath is a famous one amongst mathematicians for solving problems. But somehow weird stuff happens inside the brain when you're doing something else. And what three hours ago seemed like an impossible problem just melts away and everything just falls into place, the brain sorts it out when it's left alone to do it.
+
+Speaker 1 
+ 
+And that's exactly the kinds of ideas that we're talking about in our course.
+
+Speaker 2 
+ 
+It is important to do that initial work. It's no good just going out for a bike ride. You've got to have gone through that process of really coming up against it and seeing everything that doesn't work because that seems to set up the mind in order to do this mysterious stuff. It does when you're engaged in something else. When your conscious mind is engaged in something.
+
+Speaker 1 
+ 
+Else. Absolutely. It that's so important. Well, one thing that you've described is that in higher mathematics, there should be a lot less doing and a lot more thinking. Can you tell our viewers what you mean by that? And how does that relate to areas of learning that are outside mathematics?
+
+Speaker 2 
+ 
+Yeah, and this is really where you've got to unlearn lots of the things that you're taught at school. And actually, you're taught that teachers do that for very good reasons because of the way we, especially in the United States and parts of Europe, the way we subject people to endless test taking in with timed tests. The way to get through the school system is to learn to act fast under pressure of time. And that's the last thing you can do when it comes to mathematics. You've really got to let it take its course. It's not. I mean, people have different speeds. I've worked with some very fast mathematicians.
+
+Speaker 2 
+ 
+The young math professor from Stanford who won a Fields Medal recently, she has gone on record as saying his teachers at school thought she wasn't good at mathematics because she was so slow. Well, she may be slow, but she now has a, the equivalence of a Nobel Prize in mathematics. And congratulations to her for doing that. You really have to let it take its time. It's a slow process.
+
+Speaker 2 
+ 
+You gotta remember that mathematics is relatively recent, you know, two or three thousand years. So you're bringing what's essentially a Stone Age brain to a domain that's a couple of thousand years old. You've got, most mathematics is only a few decades old. So how can you take this brain that evolve to survive in the wiles and to, and then more recently to survive in social environments. How can you take that brain and apply it to solve this abstract problem in mathematics?
+
+Speaker 2 
+ 
+Well, the answer is, we don't really know how we do that. What we do know is that if you familiarize yourself with the problem to such an extent that problem is like a member of your family, then the act of solving that math problem is actually not unlike solving a difficult problem you have at home. You know, we're very good at solving social problems and problems about our environment because evolution sets us up for that. So somehow we have to figure out how to let that brain solve that abstract problem in mathematics. And the act of getting inside the problem and thinking about it for a long period of time so that it's so familiar. Then the natural circuits in the brain that serve as well all of the time actually come into play for a math problem. I mean, there's no proof of that, but that's certainly my own experience of what goes on. Yes.
+
+Speaker 1 
+ 
+Well, all I can say is three cheers for slow thinking. And I love the idea of thinking about math and a difficult problem is being something that's a member of your family.
+
+Speaker 2 
+ 
+It's, you know, I mean, Mathew, in many ways, mathematics problems are not, they're not fundamentally different from other problems, except in one respect, they're about totally abstract things. So someone solving a math problem has an initial problem that someone doesn't have if they're solving a problem in real life or a coaching problem in sort of football or what? You know, most of, I mean, I used to spend a lot of time rock climbing. And rock climbing is partly physical, but it's also a lot of problem solving because you're having to look for these moves. You're having to move your body in the right way. So there's an awful lot of problem solving that we do all of the time, and that's what the brain involved to do. And in the case of mathematics, however, the world in which you're solving those problems isn't one we're familiar with. You initially have to create that world inside of you. And this, I think, is why it's essential to knock away at the problem for 10,15 minutes a day, two days, before you let the brain do its own thing. My guess and my perception of what's going on is that process is making my mind familiar with that domain, with that problem to such an extent that problem is just like a problem I'd have with my family, my workplace or whatever. I've got all of this apparatus for solving real world problems and social problems. And once that math problem is inside my mind, it's another problem just like that. So solving the math problem usually isn't the hard part. The hard part is getting that problem familiar inside your mind. And the only way to do that it just keep living in the problem. Get inside the problem, really live inside that problem for 10 minutes, half an hour, maybe even a few days. In the case of Andrew Wiles solving Fermars Last theorem a few years ago, it took him seven years to really get inside that problem to the point where we could see the solution.
+
+Speaker 1 
+ 
+Well, part of what you do when you're spending a lot of time with a problem is you're, in some sense, reaffirming and growing the neural structures that are related to what you're trying to think about. And one of the things that Doctor Sanowski and I emphasize quite strongly in our course is how exercise helps actually build neural structures. It allows you to learn better. It allows you to memo and remember better. So how does exercise play a role in your own ability to do mathematics.
+
+Speaker 2 
+ 
+That's a good one. But it certainly is the case for me. In fact, when I was a PhD student to my closest colleague was, it was a mathematician from the United States came over to England when I was a student back in Bristol and he was a rock climber. In fact, I lent a rock clan with him. And we used to go on these three or four hour rock climbs and we would almost certainly, by the time we got to the top of the climb, we've done some mathematics, because you do a climb and you get to a ledge and you're tied up and then you chat for a while as you're sort of delayed onto the rock face and we talk about mathematics.
+
+Speaker 2 
+ 
+Now we'd forget the mathematics and we'd don't do the physical stuff of climbing. And when you're climbing, as when you're bicycling very fast, your mind is totally focused on that physical activity. That's so your entire world is physical. So you're focused on the climbing or you're focused on riding your bike. And, but stuff is going on in the background in your mind, it's working on those things that you've talked about. And we'd finish a pitch, we'd put, get up by sales back on delay, we'd talk about the problem, and we'd made progress on the problem.
+
+Speaker 2 
+ 
+So as a graduate students, I discovered this method of thinking, doing, thinking, doing was incredibly powerful. I can make conjectures and sort of self reflect as to why the physical activity is important. I mean, aspects clearly are you're focusing on that activity. It's very refreshing.
+
+Speaker 2 
+ 
+You know, the, we tend to think these days that the mind is separate from the body. I don't buy that. It certainly isn't the case for me. I find that if my body is tired, my mind is tired and vice versa. They stimulate each other. So the, you know, the mind did evolve to help the body survive. And I think it's a mistake to try and think of those as separates. If you nurture the body, the mind follows or anything that this is, this goes back to the ideas of having physical education in schools and so forth. This is hardly original, but I think we need to take it seriously. I've never, ever, well, I've solved problems in the math. That's a somewhat more relaxing case. But even in the bath, it's a reason, you know, it's an artificial environment in which you're relaxed, you're in water, you're doing things, you're fresh, you're freedom of the mind. The mind is absolutely not thinking about that problem. It's doing other things. In my case, definitely the, the bath example is notwithstanding, physical activity plays a big role. Exactly why, I don't know. But I do know it works.
+
+Speaker 1 
+ 
+Well. There is actually good research evidence. They're uncovering the biophysiological mechanisms by which it does take an effect. But I have to ask, with everything that you do, do you ever catch yourself, it's hard to believe, but do you ever procrastinate? And if you do, what do you do to get yourself out of it?
+
+Speaker 2 
+ 
+Well, first of all, I do many things. You know, I've got my own educational technology company. I do lots of biking. I run an institute at Stanford. I know my teaching. I know that I'm actually on Twitter a lot. I do a whole bunch of things. You might think I'm a multitasker. I absolutely do not multitask, not least because I know from the research that's been done here at Stanford, a lot of it by my late colleague Cliff NAS, that shows that a human beings cannot multitask, and b, the more you think you're good at multitasking, the worse you are at doing it. So I absolutely don't try to use this serial processor to multitask.
+
+Speaker 2 
+ 
+What I do is I serial task. I will work exclusively flat out for periods of time. Now, there may only be 10 minutes. There may be half an hour, or there may be, I mean, recently I had to develop a whole set of 75 puzzles, a new set of puzzles for my educational video game that we launched last fall. We wanted to bring out a different version. I worked nonstop on that for four days. I didn't do anything else other than 8 sleep and bicycle ride. And I, my entire focus, everything else went to one side, was to get that thing done. And four days later, I had the 75 puzzles worked and tested and everything. And then I moved to something else. So what I do is I work very intensely and very focused for periods of time. I mean, you know, it's amazing that friends and family are still by me because this is very focused and it excludes everything else. You know, it must, I must be really difficult to live with at those times, but everything gets excluded. I focus on it. And then I, there comes an end now, either because I finish the job or I just get tied and want to switch and I'm really getting frustrated with it. Then I'll switch and do something else. And what I've Learned to do very efficiently, switch from one to the other. It doesn't take me more than a few minutes at most to switch from one to the other.
+
+Speaker 2 
+ 
+The procrastination comes from recognizing that I need to make that switch. I'll keep going and keep going. I think I wanna do this other thing. And I do find myself doing lots of other little things. I'll go and start of read my Twitter feed and things for a while before making the switch. So the one moment where I will procrastinate is starting something new for obvious reasons. You've been in the groove, you've been making progress and it slowed down and you've got to get in another group. And I know that takes willpower and effort. And like everybody else, I do have a procrastination streak, but the only time it affects me is making that switch. Once I've done it, I'm aware in that domain until I've either solved that issue or done it or completed it or got tired of it and need a break. And that I found works extremely well.
+
+Speaker 1 
+ 
+That's actually something that we talk about in this course is just that idea of you don't need to use willpower all the time. You just need to put it one little place. Wherever you need, where you're getting that queue, that's where you need to be applying willpower. And that seems to be exactly what you do.
+
+Speaker 2 
+ 
+It is true that I'm fortunate to have been able to carve out a career for myself, where most of the time I'm doing stuff I really want to do. So even though I might not want to write that blog post, I know at the back of my mind that the moment I get into it and I've written the first sentences, writing that blog post would be the most important and most wonderful and rewarding thing in the world until it's finished. But then I have to sort of stop that and do something else. And that's when there's these hiatus moments when I procrastinate. It's the switching gears to something else that's, that's, that I find. I won't say I find it difficult because I've been doing it all my life. But you do need willpower to do. At least I find I need willpower to do that. And if I'm not careful, it will just fritter away with social media or whatever.
+
+Speaker 1 
+ 
+I feel the same way in how I handle things. One thing I like to do is I think of it, my life as like this enormous funnel where there's all these things that are demanding to be done, but then only one thing can go through the funnel at a time. And so you just gotta give it up and realize one thing is all you can be focusing on. And if you have that approach, it makes it a little easier to realize that you just can't do everything. You just do as much as you reasonable.
+
+Speaker 2 
+ 
+Yeah, I mean, one thing I do is when, you know, I actually just upgraded my computer system to a new Macintosh. The first thing I did was went into the system controls and switched off every single alert. I don't want visual alerts. I don't want noise alerts. I don't want to know if an email has come. I don't want to know if something's going on. I literally switch off all the alerts because I don't want things pushed to me. I want to go and find out things when I need them.
+
+Speaker 2 
+ 
+Because the last thing I want, if I am in the middle of working on an article, say, is to have some little beep going off to tell me some emails has arrived. I don't want to know that because that's a distraction. I want to be in the world of writing that article. Because if you take this human brain and you put it into a problem, into a domain, and you set it free, it loves what it's doing. It doesn't wanna give up. And that sure doesn't wanna be distracted. And so I don't distract it. I just let it do what it does.
+
+Speaker 1 
+ 
+Well, I thank you so much, Doctor Devlin, for sharing your wisdom with us here today. It's just been a great pleasure talking with you. And I know our viewers were really learn a lot from what you had to say.
+
+Speaker 2 
+ 
+Okay. The pleasures been all mine. Absolutely.
+
+Speaker 1 
+ 
+Thanks so much.
+
+
+
+### 39
+
+
+Speaker 1 
+ 
+Doctor Robert Gamash was named by Thomson Reuters as one of the World's most influential Scientific Minds for 2,014. He's also currently the associate vice president, Academic Affairs, Student Affairs and International Relations at the university of Massachusetts, while simultaneously serving as a professor in the department of Environmental, Earth and Atmospheric Sciences. Despite Doctor Gamash's long experience as an administrator, he was also the dean of the university of Massachusetts School of Marine Sciences for close to a decade.
+
+Speaker 1 
+ 
+Doctor Gamash is also clearly a very active researcher of the list of the 10 most sided publications by the university of Massachusetts Lowell faculty compiled in 2011. He was a co author on five of the 10, including the top three papers.
+
+Speaker 1 
+ 
+Doctor Gamash's current work relates to the problem of line shapes for molecules. Ultimately, this work is important in understanding planetary atmospheres in support of missions for NASA and the European Space Agency.
+
+Speaker 1 
+ 
+Professor Gamash is married to Suzanne and has two children, Justine and Peter, and a very clever dog, Newton, who helps Professor Gamage explain Newton's laws to his classes. With that, let's begin our questions.
+
+Speaker 1 
+ 
+Doctor Gamash, I'm so glad to have you here. And let's start with our first question, which is, you're bilingual in French and English. Can you talk a little bit about that bilingual background and how it might inform your learning in both the sciences and overall.
+
+Speaker 2 
+ 
+Sure, there are a few interesting points of my study of French. I've had the opportunity to work in France often. And early on, I decided I would learn the language. I was in my late 30s at the time. First, let me say that I'm dyslexic, and as a child, I had really a lot of trouble learning English, spelling, grammar, reading. I still have trouble reading. I'm a little bit slower than most people, especially with the precision needed for reading scientific articles. But my study of French really enforced my learning of English, and I'm really grateful for that.
+
+Speaker 2 
+ 
+In terms of learning, I use bilingual as an example of why students should study every subject every day. When I say this to students, I often get very strange looks, and I explain that, no, I'm not saying study for six hours out of class every day, but you should do the homework that's needed and spend at least 15 minutes on every subject. And I use being bilingual as an example.
+
+Speaker 2 
+ 
+When I go to France, my first couple of days I struggle to find words. After a few days, it's kind of smooth. What's interesting is when I come back to the United States, my first few days in the United States, I do the same thing. I'll have a colleague or a student come in my office and ask me a question, and my mind is just racing, looking for the English word. Thank goodness, after a few days, it's okay. So why is it we can speak English without thinking? And you know, the answer is that we're using it all the times with just there on our brain. So the example I use for them is if you study chemistry every day, you it's right there in your brain. You don't have to search for things. The same thing would work with physics or biology or psychology or history, any subject. If you study it every day, it's just there in your brain and you don't have to do a lot to recall information. It's just there.
+
+Speaker 1 
+ 
+You know, sometimes I think of it as like strumming a guitar. After you strum, it resonates and it continues to resonate and send out the sound. And I almost think that's what we're doing with our own brains when we're just keeping something in mind, we're keeping those neurons resonating a little bit so they don't sort of die away and go off to do other things. So I think that's a vitally important piece of advice. You observe that when you first began studying in the sciences, you stumbled across some particularly effective techniques. Can you tell us a little bit about those techniques?
+
+Speaker 2 
+ 
+Sure. I mean, the correct word here is stumble because when I was an undergraduate, there was not a lot of research on how we learn. And the things I did, I just stumbled upon them. Now they are back by research and you show a number of these things and you book and I can attest that they work. So when I was an undergraduate, I was taking physical chemistry in my third year, and I became fascinated with the fact that you could take equations, you could take simple rules of physics, and with that you could derive other equations. And what I did is I started doing every problem in the textbook. At first it was a little difficult, but with time, I could do problems as passes. I could look at them. So I notice that problem solving in other courses at the same time became easier. It was later in graduate school that I found that there was research, and this repetition actually hardwires your brain. So in my case, I hardwired my brain to solve problems.
+
+Speaker 1 
+ 
+Precisely. I think it's almost like, again, like learning an instrument. By practicing continuously, you can bring those parts of a melody to mind instantly and play them and fit them together in new ways more easily. And that can be a very effective technique for learning. Can you talk a little bit about how some of these techniques would you applied in science also can be useful in the humanities and social sciences.
+
+Speaker 2 
+ 
+Well, yes, they are. And you know, the interesting point is, while I was doing this and I was hardwiring my brain to solve problems, and I mentioned problem solving in other disciplines became easier. So it does spill over.
+
+Speaker 2 
+ 
+And you know, this technique is not unique to science. This would work with any subject matter that you would like to study. So I do recommend this for my science students and also for the non scientists. It's a great strategy to develop to get knowledge in a certain area. And again, one of the big benefits is it spills over to your other studies.
+
+Speaker 1 
+ 
+Exactly. I think it's very similar to the kinds of techniques I used when I was learning Russian. I tried to do all, do a lot of the additional practice exercises so that I can stretch my brain a little bit and become much more comfortable with the things that we were learning. Let me ask you this now, what kinds of techniques did you develop to handle matters when you found yourself getting stuck in problem solving in your study this.
+
+Speaker 2 
+ 
+Well, again, I have to say my discovery was serendipitous. When I started at Umass loll, I was entering a new field, and the early stages of that meant I had a lot of studying to do. So I would come home from a full day at work, and I would immediately sit down at my desk and start studying some more. And often I would get stuck on concepts or stuck on problems. Then I had to take a break for dinner. Or a few times I had friends come over just to say hello. And what I found was while eating dinner, in conversation, suddenly the answer would just pop up in my mind, and at the time, I would run off and write it down like I was gonna lose it if I didn't do it immediately. But the gears are always turning in the background. My wife used to joke that I had two brains.
+
+Speaker 2 
+ 
+Now when I get stuck, I deliberately take a break and try to do something to just to relax. You know, almost thoughtless can be as simple as bouncing a tennis ball off the wall or something like that after five to 10 minutes, I tend to go back to the problem with the answer. And, you know, sometimes I have to sleep on it. There are many mornings when I wake up and, you know, suddenly I have the answer in my brain.
+
+Speaker 1 
+ 
+Isn't that funny? And that kind of technique is so useful for so many different areas. One thing I love that you mention your family on your website. It's clear your family is very important to you. How do you balance your family life and your work life?
+
+Speaker 2 
+ 
+Well, that balance has always been important to me. I tell my students and my post docs that as a scientist involved in research, you're a little like a professional athlete every day. You have to get up and do something that's gonna make you a little bit better than the competition. Young faculty members at research universities live by the mantra, publish a Parish. However, this, you know, this is tremendous pressure, but if you're working all the time, it tends not to be productive. And as I just explained, that downtime can be very beneficial. The gears are always turning. So being with my wife, playing with my children or playing with my dogs has always given me a chance to relax my mind, to refresh my mind so that when I do go back to work, I can be productive.
+
+Speaker 1 
+ 
+Has this balance shifted from your early student days where you, do you have any particular advice for students who are at various stages in their life careers?
+
+Speaker 2 
+ 
+Well, the shift from the early days to now has been noticeable. When I was in graduate school, I was in two programs at the same time. So I was basically a study machine. And that downtime with my wife and my daughter also playing ice hockey in the winter, tennis in the summertime. That gave me a chance to, I used to say, you know, get the steam out. It refreshed me enough where I could go back and the time that I spent was productive.
+
+Speaker 2 
+ 
+Now I work as hard, but you know, I have experience. So things that things happen faster. But I do realize that the downtime is important and now I actively seek it out. My advice with students has been, you know, choose a career that you can do, something that you love when you love something, it's always easy to learn. I've been really lucky in my 36+ years here at Umas where, you know, I can't remember a single bad day. And I'm sure I probably had one, but I can't remember it. So, you know, the key point is do something you love, work hard at it, but it's important to have that downtime peeps you refreshed and you don't have to worry the gears will turn in the background. But working all the time, you get burnt out and you just can't accomplish what you can when you refresh yourself periodically.
+
+Speaker 1 
+ 
+Well, I think that's just fabulous advice. And one thing I agree heartily with is do something you love, but also realize that sometimes it takes a little longer to learn to love certain subjects. So sometimes it's good to be patient too. I do have a last question for you. How does your dog, Newton, help your students to learn more effectively?
+
+Speaker 2 
+ 
+Well, I use Newton in my previous dogs to lighten up the classroom. A picture of Newton, you know, watching a tennis ball fall. I was actually gonna do a video where I dropped an apple on his head, but my wife wouldn't let me. I also have a picture that I use of a previous dog, chaos, who was a 96 pound Irish wolfhound mix sitting at a table with an Advanced Atmospheric Dynamics book open. He's got glasses on and he's punching numbers into a calculator. And then I say to my students, you know, see, physics or science is so easy, even a dog can do it.
+
+Speaker 2 
+ 
+Of course, the next step is to choose examples that can give students a real feel for the subject and let them realize how simple physics of science in general can be. And that's the real art of being a professor, choosing these examples that make it easy. We have to remember we're not born, and that includes us knowing these disciplines, science or any other course. So you know, when we're doing this work, we have to lighten it up, but we have to choose these examples.
+
+Speaker 2 
+ 
+Science is compounded by the fact that people are very uncomfortable with numbers. I use an example where I pass tennis balls around the class so the student can see and feel, hold the ball. Then I asked them what size box could hold 10,732 balls. Being in the United States, I get the answer in feet and I make it a cube. So it's easy for them. Just give me one number and you know I get numbers and the hundreds of thousands seldom do I get a number that's below a 100. You wanna guess what the answer is?
+
+Speaker 1 
+ 
+No. You go for it.
+
+Speaker 2 
+ 
+It's four feet. And when I say that, you know, that just drives home the point that we really don't know numbers. So using examples in the classroom where they can really latch onto it is important because that's what helps drive deep learning.
+
+Speaker 1 
+ 
+That is really the ultimate example of the kind of things that we're talking about in this course. So Doctor Marsh, I cannot tell you how much I appreciate you're taking the time to be with us here today. And thank you so very much.
+
+Speaker 2 
+ 
+You're very welcome. Thank you.
+
+
+
+### 40
+
+
+Speaker 1 
+ 
+Welcome back to learning how to learn. Today, we're going to talk about how to become a better learner. As we learn more about the brain, we can become better learners. And here are two tips for how to learn better. Tip No. 1, the best gift that you can give your brain is physical exercise.
+
+Speaker 1 
+ 
+We once thought that all of the neurons in your brain were already present at birth, but we now know that in a few places, new neurons are born every day. One of these places is in your hippocampus, a brain area that is very important for learning new things that we already discussed earlier in the course. In this experiment, a rat is shown learning how to distinguish a picture of a flower from a picture of an airplane. In the background is a photo of neurons in the hippocampus, with the old neurons shown in blue and newly generated neurons in red. As the rat learns the task, these new neurons are recruited to help perform better pattern separation between the two pictures. These new neurons help you learn new things, but they will die if you don't use them. New experiences will rescue them. Exercise, interestingly, also helps new neuron survive. Exercise is by far more effective than any drug on the market today to help you learn better. It benefits all of your vital organisms, not just your brain.
+
+Speaker 1 
+ 
+It is unfortunate that schools are dropping gym and recess to make room for more instruction. Gym and recess are by far the most important parts of the curriculum. Here's another tip, and this has to do with practice. Making perfect, but only when your brain is prepared. There are certain critical periods in the development of your brain when sudden improvements occur in specific abilities, expect them to happen and prepare your brain for them. The critical period for first language acquisition extends up to puberty.
+
+Speaker 1 
+ 
+One of the best studied critical periods in the brain is when binocular depth perception, or stereopsis, matures during the first two years of life. Stereopsis is the magic behind magic eye pictures, like the one shown here. If you stare at this image and slightly cross your eyes, you will see staircases pop out of the page. There is a slight shift between the images and the two eyes and your brain interprets the slight shift as a difference in depth. Not everyone, however, can see this. Over 5% of the population is stereo blind. If the two eyes are not properly aligned during the first two years of development, the neurons and your visual cortex will fail to properly strengthen the inputs from the two eyes, and depth perception is permanently impaired. Well, that's the dogma. But Sue Berry, a friend of mine from graduate school at Princeton, was able to recover stereovision through eye exercises and wrote a book about it entitled Fixing My Gaze, a Scientist Journey into seeing in three dimensions. Practice can repair as well as train the brain, but this takes much longer, past the critical period. This brings us to zombies. Zombies can't learn. It is also clear from their behavior that they have brain damage, especially in the front of their cortex, which is the part that makes plans, as well as in their language areas, learning, planning, language. These are the skills that make us human. The prefrontal cortex is also involved in complex analysis in social behaviors, as well as decision making and planning. It is the last part of the cortex to mature. So until this happens, there may be a little bit of zombie in you. Another patient, EVR, suffered a stroke in the social parts of his prefrontal cortex. EVR had a high IQ and seemed normal, but he was ruined by making bad financial decisions and bad social interactions. He lost both his home and his family.
+
+Speaker 1 
+ 
+Good judgment takes a long time and a lot of experience to acquire. Learning is too important to be left behind in the classroom. Learning to learn is a skill you can master, and you can use it to improve every part of your life. You will be learning even more learning tips this week and can follow up on them at brain facts dot org. I'm Terry Sinowski. Happy learning to you until we meet again.
+
+
+
+### 41
+
+
+Speaker 1 
+ 
+This week, we're going to wrap up a slew of important ideas and techniques that will help round out and enhance your ability to learn well, using metaphors and analogies to work profitably with teammates and not to undercut your own strengths. And finally, to perform well on tests. One important thought though, before we launch into this week's videos, learning doesn't progress logically so that each day just adds an additional neat package to your knowledge shelf.
+
+Speaker 1 
+ 
+Sometimes you hit a wall in constructing your understanding. Things that made sense before can suddenly seem confusing. This type of knowledge collapse seems to occur when your mind is restructuring its understanding, building a more solid foundation. In the case of language learners, they experience occasional periods when the foreign language suddenly seems completely incomprehensible. Remember, it takes time to assimilate new knowledge. You'll inevitably go through some periods where you seem to take an exasperating step backwards in your understanding, this is a natural phenomenon. That means that your mind is wrestling deeply with the material. You'll find that when you emerge from these periods of temporary frustration, your knowledge base will take a surprising leap forward. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 42
+
+
+Speaker 1 
+ 
+One of the best things you can do to not only remember, but understand concepts is to create a metaphor or analogy for them. Often the more visual, the better a metaphor is just a way of realizing that one thing is somehow similar to another. Simple ideas like one geography teacher's description of Syria shaped like a bowl of cereal and Jordan as a Nike Air Jordan sneaker can stick with a student for decades. If you're trying to understand electrical current, it can help to visualize it as water. Similarly, electrical voltage can feel like pressure, a push, as you climb to a more sophisticated understanding of whatever topic you're concentrating on, you can revise your metaphors or toss them away and create more meaningful ones.
+
+Speaker 1 
+ 
+Metaphors and visualization, being able to see something in your mind's eye, have been especially helpful not only in art and literature, but also in allowing the scientific and engineering world to make progress. In the 1800s, for example, when chemists began to imagine and visualize the miniature world of molecules, dramatic progress began to be made. Here's a fun illustration of monkeys in a benzene ring from an insider spoof of German academic chemical life printed in 1886. Note the single bonds with the monkey's hands and the double bonds with their tiny little tails. It's often helpful to pretend that you are the concept you're trying to understand. Put yourself in electrons warm and fuzzy slippers as it burrows through a slab of copper, or sneak inside the of an algebraic equation and feel what it's like to poke your head out of the rabbit hole, but just don't let it get exploded by an inadvertent divide by zero. In chemistry, compare a cat ion with a cat that has paws and is therefore positive, and an ion with an onion that's negative because it makes you cry.
+
+Speaker 1 
+ 
+Metaphors are never perfect. But then in science, all models are just metaphors, which means they break down at some point. But never mind that metaphors and models are often vitally important in giving a physical understanding of the central idea behind find the process or concept you're trying to understand. Interestingly, metaphors and analogies are useful for getting people out of Einstein that is being blocked by thinking about a problem in the wrong way. For example, telling a simple story of soldiers attacking a fortress from many different directions at once can open creative paths for students to see how many low intensity rays can be effective, be used to destroy a cancerous tumor. Stories, even if they're just used as silly memory tricks, can also allow you to more easily retain what you're trying to learn. Metaphors also help glue an idea into your mind because they make a connection to neural structures that are already there. It's like being able to trace a pattern with tracing paper. Metaphors at least help you get a sense of what's going on. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 43
+
+
+Speaker 1 
+ 
+This is a good place for us to step back and look, again at chunking from another perspective. Notice what we're doing here. We're interleaving our learning by jumping back to revisit and deepen our understanding of a topic we've already covered.
+
+Speaker 1 
+ 
+There's an interesting connection between learning math and science and learning a sport. In baseball, for example, you don't learn how to hit in one day. Instead, your body perfects your swing from lots and lots of repetition over a period of years. Smooth repetition creates muscle memory, so your body knows what to do from a single thought, one chunk, instead of having to recall all the complex steps involved in hitting a ball.
+
+Speaker 1 
+ 
+In the same way, once you understand why you do something in math and science, you don't have to keep reexplaining the how to yourself every time you do it. It's not necessary to go around with 100 beans in your pocket and to lay out 10 rows of 10 beans again and again so that you get that 10*10 is equal to 100. At some point, you just know it from memory. For example, you memorize the idea that you simply add exponents, those little superscript numbers, when you're multiplying numbers that have the same base, 10 to the fourth times 10 to the fifth is equal to 10th of the ninth.
+
+Speaker 1 
+ 
+If you use the procedure a lot by doing many different types of problems, you'll find that you understand both the why and the how behind the procedure far better than you do after getting a conventional explanation from a teacher or a book.
+
+Speaker 1 
+ 
+The greater understanding results from the fact that your mind constructed the patterns of meeting rather than simply accepting what someone else has told you. Remember, people learn by trying to make sense out of the information they perceive. They rarely learn anything complex simply by having someone else tell it to them. Chessmasters, emergency room physicians, fighter pilots and many other experts often have to make complex decisions rapidly. They shut down their conscious system and instead rely on their well trained intuition, drawing on their deeply ingrained repertoire of chunks. At some point, self consciously understanding why you do what you do just slows you down and interrupts the flow, resulting in worse decisions. But wait, aren't chessmasters and people who can multiply six digit numbers in their heads exceptionally gifted? Not necessarily. I'm gonna tell it to you straight. Sure, intelligence matters.
+
+Speaker 1 
+ 
+Being smarter often equates to having a larger working memory. Your hot rod of a memory may be able to hold nine things in mind instead of four, and you can latch onto those things like a bulldog, which makes it easier to learn. But guess what? It also makes it more difficult for you to be creative. How's that? It's our old friend and enemy, Einstein. The idea you are already holding in mind can block you from fresh thoughts. A superb working memory can hold its thoughts so tightly that new thoughts can't easily peek through. Such tightly controlled attention could use an occasional whiff of ADHD, like fresh air. The ability, in other words, to have your attention shift even if you don't want it to shift. If you're one of those people who can't hold a lot in mind at once, you lose focus and start daydreaming in lectures and have to get to someplace quiet to focus so you can use your working memory. Twist it's maximum. Well, welcome to the clan of the creative.
+
+Speaker 1 
+ 
+Having a somewhat smaller working memory means you can more easily generalize your learning into new, more creative combinations, because your working memory, which grows from the focusing abilities of the prefrontal core text, doesn't lock everything up so tightly. You can more easily get input from other parts of your brain. These other areas, which include the sensory cortex, not only are more in tune with what's going on around you in the environment, but are also the source of dreams, not to mention creative ideas. You may have to work harder sometimes or even much of the time to understand what's going on. But once you get something chunked, you can take that chunk and turn it outside in and inside round, putting it through creative pieces. Even you didn't think you were capable of.
+
+Speaker 1 
+ 
+Here's another point to put in your mental chunker. It is practice, particularly deliberate practice on the toughest aspects of the material that can help lift average brains into the realm of those with more natural gifts. Just as you can practice lifting weights and get bigger muscles over time, you can also practice certain mental patterns that deepen and enlarge in your mind.
+
+Speaker 1 
+ 
+Whether you're naturally gifted or you have to struggle to get a solid grasp of the fundamentals, you should realize that you're not alone. If you think you're an impostor, that it's a fluke when you happen to do well on a test and that on the next test for sure they and your family and friends are finally going to figure out how incompetent you really are. This feeling is so extraordinarily common that it even has a name, the impostor syndrome. If you suffer from these kinds of feelings of inadequacy, just be aware that many others secretly share them. Everyone has different gifts. As the old saying goes, when one door closes, another opens. Keep your chin up and your eye on the open door. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 44
+
+
+Speaker 1 
+ 
+I love reading history and being inspired by the biographies of extraordinary people. One of the most unusual people I've ever read about is inspiring, not only because he was so extraordinary, but also because he was so ordinary.
+
+Speaker 1 
+ 
+Santiago Romani Kahal was a born troublemaker in rural Spain of the 1860s, there weren't many options for oddball juvenile delinquents. So that's how at 11 years old, Kahal found himself in jail. Kahal was stubborn and rebellious. Who knew that Santiago Romani Cahal would one day not only earn the Nobel Prize, but eventually become known as the father of modern neuroscience.
+
+Speaker 1 
+ 
+Kahal was already in his early 20s when he began climbing from bad boy delinquency into the traditional study of medicine. There's evidence that Mylan sheaves, the fatty insulation that helps signals move more quickly along a neuron, don't finish developing in some people until they're in their 20s. This may explain why teenagers often have trouble controlling their impulsive behavior. The wiring between the intention and the control areas of the brain isn't completely formed. When you use neural circuits, however, it seems to help build the myelin sheath over them, not to mention making many other microscopic changes. Practice appears to strengthen and reinforce connections between different brain regions, creating highways between the brain's control centers and the centers that store knowledge. In Kahal's case, it seems his natural maturation processes, coupled with his own efforts to develop his thinking, helped him to take control of his overall behavior. It seems people can enhance the development of their neuronal circuits by practicing thoughts that use those neurons. We're still in the infancy of understanding neural development, but what thing is becoming clear, we can make significant changes in our brain by changing how we think.
+
+Speaker 1 
+ 
+Kal met and worked with many brilliant scientists through his lifetime, people who were often far smarter than he. In Kahal's autobiography, however, he pointed out that although brilliant people can do exceptional work just like anyone else, they can also be careless and biased. Kahal felt the key to his own success was his perseverance, what he called the virtue of the less brilliant, coupled with his flexible ability to change his mind and admit errors?
+
+Speaker 1 
+ 
+Anyone, Kahal noted, even people with average intelligence can change their own brains, so that even the least gifted can produce an abundant harvest. People like Charles Darwin, whose theory of evolution has made him one of the most influential figures in human history, are often thought of as these sort of natural geniuses. You may be surprised to learn them, much like Kahal Darwin was a poor student in school, he washed out a medical school and ended up, to his father's horror, heading out on around the world voyage as the ship's naturalist. Out on his own, Darwin was able to look with fresh eyes at the data he was collecting, approaching material with a goal of learning it on your own can give you a unique path to mastery, often no matter how good your teacher and textbook are, it's only when you sneak off and look at other books or videos that you begin to see what you learn through a single teacher or book is a partial version of the full three dimensional reality of the subject, which has links to still other fascinating topics that are of your choosing. Taking responsibility for your own learning is one of the most important things you can do. Santiago Romani Kahal had a deep understanding not only of how to conduct science, but also of how people just interact with one another. He warned fellow learners that there will always be those who criticize or attempt to undermine any effort or achievement you make. This happens to everybody, not just Nobel Prize winners.
+
+Speaker 1 
+ 
+If you do well in your studies, the people around you can feel threatened. The greater your achievement, the more other people will sometimes attack and demean your efforts. On the other hand, if you flunk a test, you also may encounter critics who throw more barbs, saying you don't have what it takes. We're often told that empathy is universally beneficial, but it's not. It's important to learn to switch on an occasional cool dispatch. That helps you to not only focus on what you're trying to learn, but also to tune people out if you discover their interest lie in undercutting you. Such undercutting is all too common as people are often just as competitive as they are cooperative. When you're a young person, mastering such dispassion can be difficult. We're naturally excited about what we're working on, and we like to believe that everyone can be reasoned with, and not almost everyone is naturally good hearted. Forces like Santiago Ramoni Cahal. You can take pride in aiming for success because of the very things that make other people say you can't do it. Take pride in who you are, especially in the qualities that make you different, and use them as a secret talisman for success. Use your natural contrariness to defy the always present prejudices from others about what you can accomplish. I'm Barbara Oakley. Thanks for learning about learning.
+
+
+
+### 45
+
+
+Speaker 1 
+ 
+This is a CT skin. If you look carefully, the shadowed region right here reveals the damage caused by a right hemisphere ischemic stroke. Such a stroke can cause an unusual condition known as broad perspective perceptual disorder of the right hemisphere. People with this disorder can still function, but only partially. They can retain their intelligence, even a formidable way for solving complex math problems if that was a skill they'd had before. But an interesting anomaly, however, is if they make a mistake in their calculations, concluding something nonsensical, such as that a hot dog stand had a profit and loss statement with a loss of nearly $1 billion. It doesn't bother them. There's no big picture click that says, wait a minute, that answer does not make sense.
+
+Speaker 1 
+ 
+Although we need to be careful about faulty and superficial left brain right brain assumptions, we also don't want to throw the baby out with the bathwater and ignore worthwhile research that gives intriguing hints about differences between in the two hemispheres of the brain. There's a great deal of evidence from research that the right hemisphere helps us step back and put our work into big picture perspective. People with damage to the right hemisphere are often unable to gain aha insights.
+
+Speaker 1 
+ 
+The right hemisphere, as it turns out, is vitally important in getting into the right track. And doing reality checks, people with strokes can remind us that the dangers of not using our full cognitive abilities, which involve many areas of our brain. Even subtle avoidance of some of our capabilities can have a surprisingly negative impact on our work. In some sense, when you whiz through a homework or test question and don't go back to check your work, you're acting a little like a person who's refusing to use parts of your brain. You're not stopping to take a mental breath. And then revisit what you've done with the bigger picture in mind to see whether it makes sense. As leading neuroscientists VS. Rama Condran is noted, the right hemisphere serves as a sort of devil's advocate to question the status quo and look for global inconsistencies, while the left hemisphere instead tries to clink tenaciously to the way things were. This echoes the pioneering work of psychologist Michael Gazanaga, who posited the left hemisphere interprets the world force and will go to great lengths to keep those interpretations unchanging.
+
+Speaker 1 
+ 
+When you work in the focus mode, it's easy to make minor mistakes in your assumptions or calculations if you go off track early on, it doesn't matter if the rest of your work is correct, your answer is still wrong. Sometimes it's even laughably wrong. The equivalent of calculating a circumference of the earth that's only two and a half feet around. But these nonsensical results just don't matter to you because the more left centered, focused mode has associated with it a desire to cling to what you've done. That's the problem with the focus, sometimes a bit left hemisphere leaning mode of analysis. It provides for an analytical and upbeat approach, but abundant research evidence suggests that there's a potential for rigidity, dogmatism and egoctricity. When you're absolutely certain that what you've done on a homework or test is fine, thank you very much. Be aware that this feeling may be based on overly confident perspectives arising in part from the left hemisphere. When you step back and recheck, you're allowing for more interaction between the hemispheres, taking advantage of the special perspectives and abilities of each.
+
+Speaker 1 
+ 
+Nobel Prize winning physicist Richard Feynman perhaps said it best when he pointed out the first principle is that you must not fool yourself. And you are the easiest person to fool. One of the best ways to catch your blind spots and errors is to brainstorm and work with others who are also smartly focused on the topic. It's sometimes just not enough to use more of your own neural horsepower, both modes and hemispheres, to analyze your work. After all, everyone has blind spots. You're naively upbeat, focused mode can still skip right over errors, especially if you're the one who committed the original errors. Worse yet, sometimes you can blindly believe you've got everything nailed down intellectually, but you haven't. This is the kind of thing that can leave you in shock when you discover you flunked the test you thought you aced by making it a point to do some of your studying with friends, you can more easily catch where your thinking has gone astray. Friends and teammates can serve as a sort of ever questioning larger scale diffuse mode outside your brain that can catch what you missed or what you just can't see. And of course, explaining to friends helps build your own understanding.
+
+Speaker 1 
+ 
+The importance of working with others doesn't just relate to learning. It's also important in career building. A single small tip from a teammate to take a course from the outstanding professor, passionate, or to check out a new job opening can make an extraordinary difference and how your life unfolds.
+
+Speaker 1 
+ 
+A word of warning, however. Study groups can be powerfully effective for learning. But if study sessions turn into socializing occasions, all bets are off. Keep small talk to a minimum. Get your group on track and finish your work. If you find that your group meetings start five to 15 minutes late, members haven't read the material, and the conversation consistently veers off top topic, you're best off to find another group. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 46
+
+
+Speaker 1 
+ 
+We've mentioned it earlier, but it's worth repeating, testing is itself an extraordinarily powerful learning experience. This means that the effort you put into test taking, including the preliminary mini tests of your recall and your ability to problem solved during your preparation is of fundamental importance. If you compare how much you learn by spending one hour studying versus one hour taking a test on that same material. You'll retain and learn far more as a result of the hour you spent taking a. Testing, it seems, has a wonderful way of concentrating the mind.
+
+Speaker 1  
+Virtually everything we've talked about in this course has been designed to help make the testing process seem straightforward and natural. Simply an extension of the normal procedures you use to learn the material. So it's time now to cut directly to one of the final features of this course, a checklist you can use to see whether your preparation for test taking is on target. This checklist was developed by legendary educator Richard Felder. Although it was originally developed for engineers, it's actually suitable for many disciplines. As Doctor Felder says, the answer to the question, how should I prepare for the test, is do whatever it takes to be able to answer yes. Meaning usually to most of the questions on this list, did you make a serious effort to understand the text? Just hunting for relevant, worked out examples doesn't count. Did you work with classmates on homework problems or at least check your solutions with others? Did you attempt to outline every homework problem solution before working with classmates? Did you participate actively in homework group discussions, contributing ideas and asking questions? Did you consult with the instructor or teaching assistants when you were having trouble with something? Did you understand all your homework problem solutions when they were handed in? Did you ask in class for explanations of homework problem solutions that weren't clear to you? If you had a study guide, did you carefully go through it before the test and convince yourself you could do everything on it. Did you attempt to outline lots of problem solutions quickly without spending time on the algebra and calculations. Did you go over the study guiding problems with classmates and quiz one another? If there was a review session before the test, did you attend it and ask questions about anything you weren't sure about? And lastly, did you get a reasonable night's sleep before the test? If your answer is no, your answers to all the preceding questions may not matter.
+
+Speaker 1 
+ 
+Taking a test is serious business, just as fighter pilots and doctors go through checklists before takeoff and surgery, going through your own test preparation checklist can vastly improve your chances of success. The answer to the question, how should I prepare for the test, becomes clear once you filled out Doctor Felder's checklist. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 47
+
+
+Speaker 1 
+ 
+Now that you've gotten some insight into how your brain works, we can give you some final useful tricks that can empower your test taking the classic way students are taught to approach Tess is to tackle the easiest problems first. This is based on the idea that by the time you finish the relatively simple problems, you'll be confident in handling the more difficult. This approach works for some people, mostly because, well, anything works for some people. Unfortunately, however, for many people, it's counterproductive. Tough problems often need lots of time, meaning you'd wanna start on them first thing on a test us difficult problems can also scream for the creative powers of the diffuse mode. But to access the diffuse mode, you need to not be focusing on what you so badly want to solve, what to do, easy problems first or hard? The answer is to start with the hard problems, but quickly jump to the easy ones. Here's what I mean. When the test is first handed out to you, first take a quick look to get a sense of what it involves. You should do this in any case. Then when you start working the problems, start first with what appears to be the hardest problem. But steal yourself to pull away within the first minute or two if you get stuck or you get a sense so you might not be on the right track.
+
+Speaker 1 
+ 
+This does something exceptionally helpful. Starting hard loads the first most difficult problem in mind and then switches attention away from it. Both these activities are what allowed the diffuse mode to begin its work. If your initial work on the first hard problem has unsettled you, turn next to an easy problem and complete or do as much as you can. Then move next to another difficult looking problem and try to make a bit of progress again, change to something easier as soon as you feel yourself getting bogged down or stuck. When you return to the more difficult problems, you'll often be pleased that the next step or steps in the problem will seem to be more obvious to you. You may not be able to get all the way to the end immediately, but at least you can get further before you switch to something else on which you can make progress.
+
+Speaker 1 
+ 
+In some sense, with this approach to test taking, you're being little like an efficient chef. While you're waiting for a steak to fry, you can swiftly slice the tomato, garnish and turn to season the soup and then stir the sizzling onions.
+
+Speaker 1 
+ 
+The hard start. Jump to easy technique may make more efficient use of your brain by allowing different parts of the brain to work simultaneously on different thoughts. Using the hard start, jump to easy technique on tests guarantees that you will have at least a little work done on every problem. It's also a valuable technique for helping you avoid eincholing, getting stuck on the wrong approach because you have a chance to look at the problem from different perspectives. All of this is particularly important if your instructor gives you partial credit. The only trick with this approach is that you must have the self discipline to pull yourself off a problem once you find yourself stuck for a minute.
+
+Speaker 1 
+ 
+2. For most students, it's easy. For others, it takes discipline and willpower. This may be why test takers sometimes find that the solution pops to mind right as they walk out the door. When they give up, their attention switched, allowing the diffuse mode the tiny bit of traction it needed to go to work and return the solution too late.
+
+Speaker 1 
+ 
+Of course, sometimes people are concerned that starting a problem and then pulling away from it might cause confusion on an examination. This doesn't seem to be a problem for most people. After all, chefs learn to bring various facets of a dinner together. But if you still have worries about whether this strategy might work for you, try it first on homework problems. Also, keep in mind that if you haven't prepared well for a test, then all bets are off. Just take what simple point you can. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 48
+
+
+Speaker 1 
+ 
+If you're a stressed out test taker, keep in mind that the body puts out chemicals such as cortisol when it's under stress. This can cause sweaty palms, a racing heart, a knot in the pit of your stomach. But interestingly, research finds it's how you interpret these symptoms, the story you tell yourself about why you're stressed that makes all the difference. If you shift your thinking from this test has made me afraid to this test has got me excited to do my best. It can really improve your performance.
+
+Speaker 1 
+ 
+Another good tip for panicky test takers is to momentarily turn your attention to your breathing. Relax your stomach, place your hand on it and slowly draw a deep breath. Your hand should move out even as your whole chest is expanding outward like a barrel. By doing this type of deep breathing, you're counteracting the fight or flight response that fuels anxiety. This calm you down, but don't just start this breathing on the day of the test. If you practiced this breathing technique in the weeks before, just a minute or two here or there is all it takes. You'll slide more easily into the breathing pattern during the test. Remember, practice makes permanent. It's especially helpful to deliberately move into a deep breathing pattern in those final anxious moments before a test is handed out. I've gotten great tips on test taking from top professors from around the world, and here are some of the best.
+
+Speaker 1 
+ 
+Susan Sashna Hebert, a professor of psychology at Lakehead University, advises her students to cover up the answers to multiple choice questions and to try to recall the information so they can answer the question on their own. First, if her students might complain that the practice test was way easier than the real one, she asks, what makes the two situations different? When you took the practice test, were you at home relaxing with tunes on, taking it with a fellow student, no time limit. Did you have the answer key and class materials at hand? These circumstances are not exactly like a crowded classroom with a clock ticking away and no way to access the answers.
+
+Speaker 1 
+ 
+Tracy Magron, a professor of biological sciences at Saddleback College, tells her students to face your fears. Often your worst fear is not to get the grades you need for your chosen career. How can you handle this? Simple. Have a plan B for the alternative career. Once you have a plan for the worst possible agency, you'll be surprised that the fear will begin to subside. Professor, migrant nodes study hard up until the day of the test and then let it go. Tell yourself, oh, well, let me just see how many questions I can get, right? I can always pursue my other career choice that helps release stress so you can actually do better and get closer to your first career choice. And Bob Bradshaw, a professor of math at Alone College, tells his students about good worry and bad worry. Good worry helps provide motivation and focus, while bad worry simply wastes energy.
+
+Speaker 1 
+ 
+Here are a few final thoughts. The day before a test or test, have a quick final look over the materials to brush up on them. You'll need both your focus mode and diffuse mode muscles, so to speak, the next day. So you don't want to push your brain too hard. You wouldn't run a 10 mile race the day before. Running a Marathon. Don't feel guilty if you can't seem to get yourself to work too hard the day before a big examination. If you prepared properly, this seems to be a natural reaction, almost as if you're subconsciously pulling back to conserve mental energy while taking a test. You should also remember how your mind can trick you into thinking that what you've done is correct, even if it isn't. This means, whenever possible, you should blink, shift your attention, and then double check your answers using a big picture perspective, asking yourself, does this really make sense? There's often more than one way to answer a question. And checking your answers from different perspectives provides a golden opportunity for verifying what you've done if there's no other way to check except a step back through your logic. Keep in mind that simple issues have tripped up even the most advanced students. Just do your best in science classes, having your units of measurement match on each side of the equation can provide an important clue about whether what you've done is correct.
+
+Speaker 1 
+ 
+The order in which you would test is also important. Students generally will test from front to back when you're checking your work. If you start more towards the back and work towards the front, it sometimes seems to give your brain a fresher perspective that can allow you to more easily touch errors. Nothing's ever certain. Occasionally, you can study hard in the test, gods simply don't cooperate. But if you prepare well by practicing and building a strong mental library and you approach us taking wisely, you'll find that luck will increasingly be on your side. I'm Barbara Oakley. Thanks for learning how to learn.
+
+
+
+### 49
+
+
+Speaker 1 
+ 
+This week, we've done a wide sweep through some of the deepest aspects of learning. Metaphors and analogies aren't just for art and literature. One of the best things you can do to not only remember but more easily understand concepts in many different fields is to create a metaphor or analogy for them. Often the more visual, the better.
+
+Speaker 1 
+ 
+We've Learned from Nobel Prize winner Santiago Ramoni Kahal that if you change your thoughts, you can really, truly change your life. It seems people can enhance the development of their neuronal circuits by practicing thoughts that use those neurons. Like Santiago Ramoni Cahaol.
+
+Speaker 1 
+ 
+You can take pride in aiming for success because of the very things that make other people say you can't do it. Keep in mind that when you whiz through a homework or test question and you don't go back to check your work, you're acting a little like a person who's refusing to use parts of your brain. You're not stopping to take a mental breath and then revisit what you've done with the bigger picture in mind to see whether it makes sense. Over confidence in your results can result from using only one mode of thinking. By making it a point to do some of your studying with friends, you can more easily catch where you're thinking has gone astray.
+
+Speaker 1 
+ 
+Taking a test is serious business, just as fighter pilots and doctors go through checklists before takeoff and surgery, going through your own test preparation checklist can vastly improve your chances of success. Counter intuitive strategies such as the hard start jump to easy technique can give your brain a chance to reflect on harder challenges even as you're focusing on other, more straightforward problems.
+
+Speaker 1 
+ 
+Here are some last test taking pointers. The body puts out chemicals when it's under stress. How you interpret your body's reaction to those chemicals makes all the difference. If you shift your thinking from this test has made me afraid to this test is got me excited to do my best, it helps improve your performance. If you're panicked on a test, momentarily turn your attention to your breathing. Relax your stomach, place your hand on it and slowly draw a deep breath. Your hand should move outward and your whole chest should expand like a barrel. Your mind can trick you into thinking that what you've done is correct, even if it isn't. This means that whenever possible, you should link shift your attention and then double check your answers using a big picture perspective, asking yourself, does this really make sense? And finally, remember that not getting enough sleep the night before a test can negate any other preparation you've done. I'm Barbara Oakley. Thanks for learning about learning.
+
+
+
+### 50
+
+
+Speaker 1 
+ 
+Welcome to the last video of learning how to learn. If you're still listening to us, then you've come all the way through the course. And may remember at the beginning, I said that brains do not come with an instruction manual, so we have to write one ourselves. And that was one of our goals.
+
+Speaker 1 
+ 
+In this final video, we want to tell you how much we've enjoyed teaching and learning. We've Learned from you, as we hope you've Learned from us. The truth is, you've always been in the driver's seat when it comes to your own learning. But now that you have a better feeling for what's under your neural hood, you can use this to help you learn new things all during your lifetime.
+
+Speaker 2 
+ 
+What we're hoping is that as the days and months will pass, you'll continue to bring to mind some of the key ideas you've Learned in the course approaches, such as switching your mode of thinking from focused to diffuse can help reduce your frustration and allow for more creative problem solving. Strengthening your chunking can give you a firmer grasp of the material, even seemingly tiny changes in your daily approach to your work. Using the pomadoro technique, for example, can make a dramatic long term difference in your learning and in your ultimate success.
+
+Speaker 1 
+ 
+Learning is so vitally important to our future that most of us spend 12 to 16 of our earliest years of our lives in school, culminating in high school or college. But the focus in formal education is on the product of learning, not the process of learning. In this course, we've tried to give you a better sense of the learning process. Although this is our last video, we hope it's not our last chance to influence. You have not truly Learned something unless you can teach it to others. Teach those ideas to others, and you will find that they will continue to resonate and deepen in your own mind.
+
+Speaker 2 
+ 
+We hope you'll also have discovered how powerful these ideas can be in helping you broaden your interest, passion and expertise. Many people believe that what they're initially sort of naturally good at is what they're supposed to be doing in life. But I myself am living proof that passions can broaden, change and grow. The world is evolving and a broad toolkit that allows you to learn effectively in many different subject areas is one of the most powerful assets you can have.
+
+Speaker 1 
+ 
+Best of luck in your life of learning. Did all.
+
+Speaker 2 
+ 
+That.
+
+
+
+### 51
+
+
+Speaker 1 
+ 
+In this video, I'm very pleased to introduce you to Doctor Richard Felder and Doctor Rebecca Brent, two educators who have had an enormous impact on the landscape of education. I first met Richard Rebecca at the very beginning of my teaching career. I was lucky enough to attend a workshop they taught on student centered learning. That workshop changed the whole focus of my teaching and allowed me to understand learning in a whole new, deeper way. I think you'll find that your own understanding of learning will change as you listen to this interview.
+
+Speaker 1 
+ 
+Rich Felder has written the best selling book on introductory chemical engineering in the country and possibly in the world. He's also won the Lifetime Achievement Award from the American Society of Engineering Education for his enormously influential work. But don't make the mistake of thinking that Doctor Felder's work is only useful for engineers. A big reason he's so influential is that the approaches he uses are applicable to virtually any field of study. It is actually Doctor Felder's enormously gifted wife, Doctor Rebecca Brent, the president of the education consulting firm Education Designs and longtime director of the NSF sponsored Succeed Coalition Faculty Development Program, who has helped spearhead the broad multi disciplinary impact of the couple's work on education. I think you'll find Doctor Felder and Doctor Brent's work to have as powerful an influence on you as it had on me sell, you've written some extraordinarily helpful advice for students about how to prepare for tests. If you could sum that advice up in a nutshell, what would you say?
+
+Speaker 2 
+ 
+Let me first say something about how not to prepare for tests, which is what, probably what about 90+ percent of my students do to prepare for tests. 1. They may read the book. Generally, they ignore the book, but they may read the book like a novel, just go and flipping through it. Maybe they underline, which as far as I can tell is a singularly useless strategy for doing anything. And then when they've done that, maybe they look through the old homework solutions and read through them again like a novel. And then imagine that they've studied and that provides them with no help at all in preparing for the test.
+
+Speaker 2 
+ 
+First of all, the test is not gonna be just the homework again. It's gonna be new problems that they have to solve. So if that's how not to do it, how do you do it?
+
+Speaker 2 
+ 
+The only way that I've ever found that works to prepare for tests is, and I'm talking about problem solving tests now, the kind of I give an engineering is to work problems, to set problems up, not to work through them in detail. So I tell the students, you can start with the homework problems that you solve and then solve it again. Set up the solution without looking back at the worked out solution that was graded and see how far you get. If you can set it up. So the only thing that's left to do is algebra or a simple math. Then you're done.
+
+Speaker 2 
+ 
+Then go on to another problem. Don't waste your time doing algebra and arithmetic. You're not learning anything on that. And then maybe go to your book and pick out another couple of problems and try to set those up. And the more of that you do, the better you gonna be solving problems, the more likely you are to be able to solve the problems that show up on the test. And the other thing that I strongly advise is work with other people. Get into a study group, make it a serious study group and try to make sure that at least somebody in the study group is smarter than you are and really knows how to solve the problem. So that if you get stuck on something, this person's likely to be able to figure it out and all of you go marching along together and leave the beer and the snacks in the refrigerator. Just spend your time working through problems, setting them up, making sure you know how to solve it, going on, doing more problems. And then when you're either exhausted or you've covered as much as you need to cover, you can then hit the refrigerator.
+
+Speaker 1 
+ 
+This is so much like what we've talked about throughout this course as far as simply putting, you reading a book is not putting it necessarily in your brain. And to have to actively grasp the material and working with others sometimes is a very good way to help reinforce what you're learning and also fill in gap in what you're trying to learn about. So I think that's a fabulous advice and I have to say thank you for that wonderful checklist.
+
+Speaker 3 
+ 
+Welcome. I think there's also some things you can do when you get in the test because sometimes it's a high pressure situation. You may feel a lot of anxiety. And so taking a moment when you get the test, looking through the whole thing just to get a sense of where you're going, pick out the easy questions and start there. And then if you get stuck somewhere, go on to something else that you feel confident you can handle. Keep moving. You know, don't stop. Sometimes when we're anxious, we just freeze and keep moving, keep working. Even if you can't get everything, go for partial credit.
+
+Speaker 1 
+ 
+Right? Yes, some.
+
+Speaker 3 
+ 
+Of it. Put something down and that'll help you be more successful in the test. Also, I've had students who really felt rising anxiety if they got to a question that they couldn't answer right away. If you find yourself real and getting upset, to just start, take a deep breath, pause for a moment and then look back at it, just calming down a little bit.
+
+Speaker 1 
+ 
+And go a long way. Oh, it can. Well, that's one of the things we've also talked about in the course is breathing from the belly to help draw in and really do deep breathing. That's a very effective technique to neurophysiologically allow yourself to calm down.
+
+Speaker 1 
+ 
+And another interesting thing, and I think for viewers, this shows a bit of the difference in approach of different top quality educators. One thing we've talked about is just touch at the very beginning. When you're starting to look through a test, touch on and start working some of the more difficult problems just until you get stuck. So you, it takes willpower. You have to pull yourself off quickly as soon as you can detect that you're getting stuck. But that actually gets your focused attention on it, then pulls that attention away. And when you're working another easier problem, it allows you to, in the background, your diffuse mode is working away. And so then when you revisit that more difficult problem, you've got a little bit more going on intellectually because you've had time to think about it. If you wait for the, and be the hardest problems later in the test, sometimes that can create problems. So there's different approaches and I think different folks, if they're aware of the different kinds of approaches, it gives them more tools that they can use for their intellectual toolkits.
+
+Speaker 3 
+ 
+Exactly. I think that's always important to look at all the advice, look at all the suggestions, try things, give them enough of a try that you see how well they work for you. So I think that's important for your students. Oh, always.
+
+Speaker 2 
+ 
+I would extend that actually, the advice you just gave, I think is life advice, not just for taking tests. I mean, there's this magical phenomenon dominant that I've experienced many times in my life. If I'm working on something, a problem. When I was a student, it might be a problem on a homework assignment. It could have been a problem on a test. It could be a problem. And it could have been a problem in my doctoral research or in a, something I'm working on when I went into research as a faculty member.
+
+Speaker 2 
+ 
+But I'm struggling with something, I can't make any headway on it, my natural tendency is just to keep grinding on it and keep banging my head against that concrete wall and it doesn't damage the wall at all. It's not too good for my head. And what I found is when out of desperation or just because I needed a break or whatever, I stopped grinding on it and I went off and I did something else. I took a walk. I took a nap. I went to work on something else I was working on. And then when I came around later, got back to work on the problem, the solution was magically there.
+
+Speaker 2 
+ 
+And, you know, I tend to believe what I've read in cognitive science about the, all of the stuff going on underneath the conscious part that I'm aware of. And somewhere in that part of my brain is somebody or something that's a lot smarter than whatever I think of as me. And once I've gotten started on the problem, exactly as you've just described, and then I get away from it and it's like I'm turning it over to that part of my brain which is smarter, and it somehow solves the problem. When I come back. There's a solution like magic.
+
+Speaker 1 
+ 
+Yes, that's the idea is basically when you purposefully pull your attention off or allow your attention to drift off, that actually opens access to the resting, the neural resting states that you need to be able to solve the problem. And just alluding to some of these same life issues, sometimes my husband and I will be, we'll be thinking about a problem that we have to solve. For example, how do we schedule interviews? How do we, and we'll say, you know, we don't have to solve this tonight. And sure enough, within another day or two, the answers will come to us. My mother.
+
+Speaker 3 
+ 
+Used to call that give your subconscious and assignment. So I often think about that.
+
+Speaker 1 
+ 
+Your mother was very smart.
+
+
+
+### 52
+
+
+Speaker 1 
+ 
+Well, let me ask you this now, when yourself are faced with a new concept or you're trying to figure out something brand new and it's difficult, what advice would you have in general for learners to be able to grapple with and assimilate these new ideas or solve a new area that they're first facing.
+
+Speaker 1 
+ 
+Well, just like with the test question that we talked about, I think there are a lot of different ways to approach a difficult task. And in fact, as we were thinking about, talking about the, this issue, rich and I realize that we approach things differently.
+
+Speaker 1 
+ 
+My, I'm a rather big picture person, more of a global kind of learner. And so often when I'm looking at some difficult material, I'll take time if I have something, a chapter or some sort of text, I'll look through it. I'll just skim through. I'll read a little at the end. I'll pick up a piece here and there and then began to dig in a little bit deeper. But I do better and I sort of have a general sense of what it is I'm supposed to be learning. I might skip to the back and look at what kind of problems and I might supposed to be able to solve with this. And so when you're working in disciplines where problem solving is an important part, that can be a way to get into it to begin to make sense of it.
+
+Speaker 2 
+ 
+And the way that I differ from Rebecca is I'm a strongly sequential learner. And so I take the first step, then the next step. But again, I never Learned anything passively by anything non trivial. If it's just a simple fact or definition of a term, I can read it and memorize it. But if it's really conceptually difficult, whether it's part of a problem solving procedure or derivation that I'm trying to work through or anything else, the only way I learn anything is by doing it. So I'll read this and then I'll try to explain it to myself. Or what I, when I've Learned things best of anything at all is when I've had to teach. And I think practically every teacher will tell you the same thing. You know, I thought I knew this stuff. I got A's and all those courses back in college. But it wasn't until I had to explain it to these students that I was teaching that I found out that I really didn't understand it at the level that I thought I did.
+
+Speaker 2 
+ 
+And so I try to find examples. I try to find clear ways of explaining different of concepts. And in the course of doing that, that's when the real understanding came. And so this is another strong argument, among other things, for working in groups if you can, if you're working with other people and together you're trying to figure something out and you get a certain point and then you try to explain it to the others. You're reinforcing your understanding and they may or not, may not understand that after your finished figuring out how to explain it, but boy, do you. And so those two pieces of advice I Learned by doing things, by trying them. If it's a mathematical method or procedure or something in physics or in engineering, then I try to work out the solution myself without looking back at the book, the text or whatever it is. And when I can do it by myself without referring back, then obviously I know how to do it. And then to really reinforce that understanding, explaining it to someone else, put those two things together. And well, at least that's how I learn.
+
+Speaker 1 
+ 
+I think using your resources too, whatever those resources might be. You've got text, you've got things online, you have people who really understand that difficult thing that you're trying to learn. And so make, not being afraid to just go about, ask questions, work with all the resources you have to try to find what's gonna work for you to make it clear, to make you more confident about.
+
+Speaker 2 
+ 
+What you're doing. Yeah, absolutely. Playing off that one of my biggest problems as a professor is getting students to ask questions they don't want to do it. And it's not that, well, some of the, sometimes they're so confused that they don't know what to ask. But much more often it's a matter of fear. You know, I, if I ask a question in class, it could be seen by my classmates as a dumb question. And we as instructors can make all of the pretty speeches we want about how there are no dumb questions. All questions are good because they forget that, right? The students are not buying that. And besides, to be perfectly honest, there are dumb questions and we've all heard them. And so the student is reasoning, if I open my mouth to ask a question, I could be perceived as dumb by my colleagues, my classmates, my professor.
+
+Speaker 2 
+ 
+If I keep my mouth shut, I'm risking nothing. And so they don't ask. And I also can't persuade most of them to come to my office. I have office hours every week in which I tell the students I'm there for you. I promise I will be there. I will be welcoming of any questions that you ask. I'll find out where you're getting stuck, and you won't leave my office until you have the answer to that question. Maybe for the same fear, they don't want to come, and so they're not taking advantage of the resources that Rebecca was referring to. And if a student can be persuaded to overcome that fear and just ask, either in class or in the office. In five minutes, they can get things cleared up that they could spend three hours at home banging their heads against and not getting clear.
+
+Speaker 2 
+ 
+Let me go back to a couple of points I made before. The best way to get the illusion of competence when you don't really understand something is to listen to a lecture or to read a text like a novel or to read over old homework solutions and imagine that you understand them because you don't. The best way to get over the illusion of competencies to do it, solve the problem again without looking back at the old solution. Work out the derivation one step at a time without looking back at the textbook or your lecture notes or whatever it is. And when you can do it by yourself without in any reference, when you can reproduce that solution entirely by yourself, then it's not an illusion of competence. Clearly, you can do it because you did it. But it's not until you do it actually unaided that you can rest that, okay, I'm ready for the test or whatever it may be.
+
+Speaker 1 
+ 
+This can also be a good time for working with your peers, taking turns explaining a work, perhaps a worked out example in the text, explaining it step by step to each other. When you start kind of verbalize it, then you begin to see, well, wait a minute, I thought I knew how they made that step, but when I try to explain it, I don't. So what's going on? Let's look at it. And so I think that working with other people can really help you in that way, too. So one of the things that you can do to make sure you are thinking about all the different aspects of the subject that you're trying to understand. And it is, to set it up, look at a complex system that might be used in a problem in your text, and then just think about what are all the things the teacher might ask me to do with this system. And in working through that, you begin to think about all of the elements that need to be in place. So that's a great way to study for a test. It's also a great way to sort of get past that illusion of competency, because as you're looking at it and as you're working through the example and what you think you might be asked, you'll uncover some things that maybe you don't know as well as you thought you did.
+
+
+
+### 53
+
+
+Speaker 1 
+ 
+Okay. You've written a little bit about something called the impostor syndrome. What is the impostor syndrome and how can students overcome it?
+
+Speaker 2 
+ 
+Okay. The imposter syndrome is like a tape that plays inside people's heads, not just students, a lot of people. And the tape, let's do it in a student context, though. The tape is like this. So the student is sitting in class looking around and thinking, boy, these people are really good. They get this stuff. They can ask, answer the teacher's questions. They can do the homework. You know, they can do fine on the test.
+
+Speaker 2 
+ 
+But I, the tape inside the head continues. I'm really not right. They often, I manage to fool them all over the years, the tape goes, my friends, my family, my teachers into thinking that I'm this real hotshot who belongs at this first class university, taking engineering, taking science, taking economics, whatever, taking. But I know better. And the tape continues. The very next tough question I get in class, the very next hard test that I have to take, that's what's gonna finally once and for all, reveal me as the fraud, the phony, the impostor that I know I am. And then what happens then is usually too horrifying to contemplate. And so at that point, the imposter usually stops the tape, rewinds it, gets it going again.
+
+Speaker 2 
+ 
+And the interesting thing about that phenomenon is how utterly common it is. But every student playing that tape imagines that he or she is the only one who's doing it. And the idea that a lot of people are doing it. And that hot shot in the front row with the 4.0 average, the tape is playing louder than it is in anyone else's head, comes as a surprise to them.
+
+Speaker 2 
+ 
+And the reason that I'm so sure about how common this phenomenon is, is that I've given this talk many times to students. So I am at an auditorium full of students that I'm giving this talk to. And when I get to the part about, they all think I belong here, but I know better. It's like I plucked a guitar string. There's a quiver that goes over the entire audience, you know, and eyes dilate and jaws go slack, you know, and then they kind of start checking each other out. And there's this tangible relaxation that goes over the entire room as they realize this is just a scam I'm playing on myself. And it is a scam. You know, if a student managed to do everything needed to get into this college, to pass all of the entrance requirements, maybe to get through, do that difficult first year, then obviously they had the ability to do it because they did it. And so when I make that speech, as I say, it relaxes a lot of students.
+
+Speaker 2 
+ 
+And once you're familiar with that phenomenon, what happens is impostors keep showing up. I, in my office, not a week goes by that I don't see 2 or 3 impostors coming into my office. And as soon as they start talking about the problems that they're having, I'm okay, here's another impostor. And I reach into the left middle drawer of my desk and in a file folder there, I pull out a copy of a little column that I wrote on the impostor phenomenon. And I say, here, check this out. You might find it intriguing. And so this impostor in my office reads his or her biography and it's high drama. You know, I get the tears from male and female impostors. I get, you know, technically screaming. I had one woman student accuse me of stealing her diary. And so it's a really good thing for teachers to know about and it's a very good thing for students to know about because we're all playing it.
+
+Speaker 3 
+ 
+It may surprise you to know that a lot of us have that impostor feeling often. And that's something that each of us has struggled with in our whole adult lives as well as when we were student. And the power, I think, is in naming it. It's the impostor. And once you realize that's what you're doing, then it diffuses a lot of the power.
+
+Speaker 3 
+ 
+You can just remind yourself, okay, I know how to do this. I can. This may be something new, but I've met challenges before. I'll meet this one. I can do it and go ahead and push on. And you'll find that as you get into whatever the task may be, that you settle down and you realize you really can do it and you have resources if you have trouble.
+
+Speaker 1 
+ 
+Right? So, and now let's turn to something a little different. What do you both do to avoid procrastination when it comes to something you'd really rather not be doing? Do you ever struggle with this? It's hard to think that, dude, these.
+
+Speaker 2 
+ 
+Let me get to you later on.
+
+Speaker 1 
+ 
+That we have, when we figure it out, we'll let you know. We definitely.
+
+Speaker 3 
+ 
+Both struggle with it, as I'm sure you knew when you ask that question. And we found some strategies for each of us at work, but it is still something we struggle with. I like to try to schedule myself if I've got a big task, schedule a small amount of time every day to work on it, to do just a little bit, not try to do everything all at once, but to bite off a small chunk. I've also found it to be really helpful where I keep a to do list on my phone. And I if I break the task down into smaller pieces, what's the very next thing that to do it that's manageable, then that makes it less overwhelming and I'm able to get going on it. And once you get started, it's.
+
+Speaker 1 
+ 
+Easier to keep going.
+
+Speaker 2 
+ 
+Absolutely. I, this is one area where Rebecca and I are exactly on the same page. So I use this, I use the same strategies. And there were two points in the strategy that she mentioned, which I'll just reiterate, right? One is breaking it up into small pieces. You know, if I think I've got to write the book or I've gotta write the dissertation or I've gotta write the 25 page proposal. It's Mount Everest. And it's very hard to get myself to take that first step. But if I say I've got to write the first two pages of the introduction to this thing that I can do. That's not that formidable. And so if I just break it up into small pieces and set easy targets for myself, then I can keep marching.
+
+Speaker 2 
+ 
+And then the other suggestion that she made, which I would agree with, is make appointments with yourself. So if I work well in the morning, I'm a morning person. I think, well, I'm clear headed. Then 
+ to 
+ every morning on my calendar, I make an appointment with myself. I'm gonna work on that proposal for that half hour, then I'll stop and I'll go back to the rest of my life. Next day, 
+, assuming I don't have other obligations at 
+, I'll do another half hour on it. And it's incredible how stuff gets done when you can do things on a regular basis, and the ones that you're most reluctant to do, that you're putting off because I don't wanna do that, those are the ones that you've gotta schedule appointments with yourself.
+
+Speaker 2 
+ 
+What a lot of people do is they work on the block of time theory and at time to work on the proposal now or the term paper now, but as soon as it's the weekend, as soon as it's fall break or anything like that, that's when I'll really get it done. And it doesn't work. Among other things, as soon as you get to this block of time, other things rush in to fill it. And also it can be so long since the last time you worked on it, you forgot what you were doing. And by the time you figure it out and get your momentum back up, the block of time may be over, but the steady appointments to just do the next chunk for half an hour.
+
+Speaker 3 
+ 
+It'll get done. Some people find some form of accountability is helpful. A chart where they're checking off the steps or a friend will check in with them regularly. How's it going on that project? Are you making progress? But those kinds of things can be good.
+
+Speaker 1 
+ 
+Strategies too. Absolutely. Well, I'm a big believer in the half hour chunk. That timeframe seems to work really well for me for something that I'm having difficult the completing. And I would like to thank you ever so much for your incredible responses that I think people will find enormously helpful for. It's a great pleasure.
+
+
+
+### 54
+
+
+Speaker 1 
+ 
+John G. Mcguire comes from a family of news reporters and writers. His father, the late John Mcguire, wrote for the Albany, New York Times Union. His brother, Gregory Mcguire, is a novelist whose work includes the book wicked, from which a hit musical has been made.
+
+Speaker 1 
+ 
+John Mcguire has been a professional writer all his life. He began in college as a physics major, but switched before graduation to studying English literature. He then pursued a career as a newspaper science writer. He's covered science news for three daily newspapers in the US, was nominated for a Pulitzer Prize in journalism and has written several books. He's also taught writing for many years at Boston area colleges. When John was teaching at the Berkeley College of music, he invented a new approach to help sometimes confused and worried students to write well. It's called the Readability Method. It was published by the education department of Newsweek magazine. His latest version of this approach is described in his college writing guide.
+
+Speaker 1 
+ 
+John has a bachelors and a master of Fine Arts degree in English. He currently has an editing business and teaches writing at Middlesex Community College in Bedford, Massachusetts. Let's welcome John Mcguire. John, you wrote a wonderful article for the Atlantic, the secret to good writing. It's about objects, not ideas. This is pretty counterintuitive for a lot of people. I mean, most of us have been brought up to think that writing is all about the good ideas. So can you explain what you meant?
+
+Speaker 2 
+ 
+Yes. Barbara, it does seem strange for a writing teacher to say think about objects more than you're thinking about ideas. Of course, it is important to write about ideas, but my point in that article was to say it's easy to express ideas in terms of objects. And what a good writer thinks about is, what objects can I use to express my ideas? It's not bad to use idea words, but it's easy to get overrun with idea words and use too many of them. You can become over abstract. And when you're writing becomes over abstract and there are too many Io n words or tio n words in a given passage. It becomes very hard for the reader to know what's going on. And in fact, the writer often gets confused about what he or she is saying. When things become very abstract, they become very blurry, and both the reader and the writer has to spend a lot of time figuring out what the heck is being said. The point I wanted to make is that all ideas are related to objects. Let me show you a diagram. Here on a whiteboard is what we call the letter of abstractions. This is a letter that runs from low to high. And at the top end of the ladder are abstract ideas. Let's say the idea nutrition. Now an abstract idea is a non physical thing that you cannot touch at the bottom of the ladder are connected to the word nutrition. Actual things like apples, oranges, slices of bread, hamburger sandwiches. Any idea that you're trying to get across? Let us say you're writing about good nutrition for pregnant women can be communicated in terms of things. And the principle that writers follow is when you're writing about ideas, go down the ladder to the world of things and make sure you write with enough things.
+
+Speaker 1 
+ 
+So in our course, we suggest to learners that they should alternate between sort of close in focus and a more diffuse approach to learning in order to learn something difficult call. So toggling between a tight intent sort of attention and a loose sort of attention seems to really work. You've told me that professional writers seem to do the same sort of switching. Can you tell us how a writer switches between focused and relaxed thinking?
+
+Speaker 2 
+ 
+Any creative person switches from one mode to another frequently. Maybe the best example of this is painters. The classic cliche image of a painter is somebody who's up close to the canvas, putting a little dot of paint on, and then he backs up halfway across the room, takes a look at what the effect has been of that data paint, thinks about it, weighs it, goes back in, put some more dots of paint on the painting. The shifting of focus from up close to far back is obvious in the world of a painter. You have spoken about how important that is in the world of math and how when you are learning equations, it's a good idea to come in close and really master what you need to know. And sometimes it's a good idea to pull back in order to understand the problems that you have to solve.
+
+Speaker 2 
+ 
+With math writers switch focus many different ways. Sometimes you will turn from what you're trying to say and you'll talk to your friends and ask your friends what they know about the subject. That broadens out the discussion of what you're trying to say. Sometimes you will shift and do a little bit of reading, maybe go on Wikipedia for five minutes to look up some material that relates to what you're talking about. Sometimes you will shift from writing on a computer to writing long hand. I sometimes shift from writing while sitting down to writing while standing up. And of course, there's the tried and true. Let's take a walk around the block. Charles Dickens did it. And if he did it, it's good enough for me and for college writers, I would say.
+
+Speaker 1 
+ 
+I see. So beyond concrete nouns or things, what other advice do you give your students about what they should put into their writing?
+
+Speaker 2 
+ 
+Barbara, writing well is a matter of choosing a good style, and style is basically the choice of what kind of words are you gonna write with, what parameters are you gonna have control over.
+
+Speaker 2 
+ 
+So beyond putting in things, which is very important, I tell my students, put in active verbs. These are verbs that make something happen on the page. I also tell them to put in people. How do you put people into a piece of writing? You name them full name or nickname name some people, put them into your writing. Use some active verbs. Make things happen on the page.
+
+Speaker 2 
+ 
+Other pieces of advice I suggest are use short words when you can instead of long ones and use short sentences. It's often important, especially for beginning writers, not to let their sentences get out of control too long, when in doubt, right it short.
+
+Speaker 1 
+ 
+Have you ever taught students for whom English was their second language? What can you tell a student who's Learned to write outside an English speaking country?
+
+Speaker 2 
+ 
+Yes, I have taught people to write who were ESL speakers. One of the more interesting friends I made recently was a young man named Socti. I taught him last semester in the city of Lowell. The first papers he turned in were really pretty terrible. I asked him why he wrote that way, and he told me he'd been taught to write that way by his teacher back in, I think it was Vietnam. And I said, you are out of control with what you're saying here. You have to be simpler. And he told me that his teacher had told him, make sure you use your long words and show people that you're educated. That's the way to write. And I said to him, sock tide, that's not the way we do it in English. We really favor the plain style, which means clear and simple. So I'm gonna give you some advice, young man.
+
+Speaker 2 
+ 
+I said, trying to get his attention, I want you to stop trying to be impressive and just start trying to be clear. Hate to say it a couple of times. And I told him this, I said, once you are clear, then you're gonna be impressive. So stop trying to be impressive. Just work on being completely clear.
+
+Speaker 2 
+ 
+About four weeks later, his writing had improved quite a bit. And he came to me and said that the advice that I had given him to stop trying to be impressive and just to be clear, had really worked. Nobody had ever told him that before. He really needed to hear it. Now he understood what he had to do and he felt much more powerful as a writer. Instead of trying to do two things at once, which was to be clear and to be impressive, he just tried to be clear. And as we both know, when you read something that is really clear, after you finish reading it, you say, wow, that was impressive. And that's the way it works. Clarity first.
+
+Speaker 1 
+ 
+What a great point. It is funny, when I read research papers, I can always tell a difference between the 2nd tier, the sort of lower caliber research papers, and the upper tier research papers. Because the lower caliber ones are often fuzzy. They use a lot of big words, they're hard to read, they're hard to understand. But the ones that really are top notch, they're often so simple and so elegantly written. And you might say, well, you know, that's not academic writing cuz it's too elegant. But that's actually the very best of writing in any discipline. So some teachers, let me ask you about this, some teachers tell students not to edit as they write because they think it's a bad idea. How do you feel about that?
+
+Speaker 2 
+ 
+I agree with those coaches who say separate the writing from the editing. Writing is a matter of getting things down on the paper or on the screen rapidly. You want to maintain rapid forward progress. You don't want to get stuck and lose your momentum. Editing is a process of being judgmental, deciding whether things are working. And if you're not a very good writer, if you're a beginning writer, it's possible to produce a bad sentence and then be totally stymied about how to fix it and spend minutes puzzling over something stupid that you've written. Far better to choose to maintain your momentum, roll forward. You wanna get the conveyor belt of ideas rolling after lots of materials come out of your idea factory and your writing factory, then you can change gears and edit.
+
+Speaker 2 
+ 
+I have another idea about editing, which is that it's often useful to print out a draft and edit on paper. I do that. I think a great many professional writers will print out a draft, edit it on paper and then enter their edits back into the computer version of the text.
+
+Speaker 1 
+ 
+That sounds like great advice. I know for me, when I'm writing and I find myself really getting stuck, it's generally because I'm starting to edit while I'm writing. And so often I'll find that I, if I just let go and let it come out later on, mostly I find it's not as bad as I thought when I was writing it. Cuz usually when it comes out, I'm thinking, oh, it's terrible. But it comes out and it, and I do a little tweaking and it's not too bad. So suppose a student really wants to write better. Is there some special technique of reading? They will help improve your writing. Well.
+
+Speaker 2 
+ 
+Read closely the people you admire if you're writing short stories, read the short stories you admire. But if you're writing scientific papers or term papers, things to be published in journals, read the writers whom you admire. If there is somebody who is great in your field and he has produced very interesting papers that read well. Your job is to study what he or she did.
+
+Speaker 2 
+ 
+I would recommend looking closely at the openings of papers that you like, perhaps copying the opening paragraph down long hand. I would also recommend underlining words that he uses that you might not use but you can consider using.
+
+Speaker 2 
+ 
+I would recommend you study your writers, a sentence length. How long are his sentences? What is the pattern of long sentences and short sentences that your hero uses? I would recommend looking for a sentence that he wrote that you would think you could never write because it's not in your nature, and then go and write that sentence out long end couple of times, study what you admire.
+
+Speaker 1 
+ 
+So what if you're writing a paper on a scientific topic which focuses around something like molecules. They're too small to be dropped on your foot. How can you make that somehow more concrete?
+
+Speaker 2 
+ 
+Good writers are always thinking of their readers. A good writer is thinking, how is my reader going to understand this? Good writer is thinking, what is my reader gonna see in his head when he reads my words?
+
+Speaker 2 
+ 
+So this can produce a problem if you're writing on a scientific topic, say about molecules. After all, molecules are too small to be dropped on your foot. There's no excuse to stop thinking. Physically, you can if you're writing about a simple molecule, like the molecule of water, you can make a visual metaphor. You know, a grapefruit with two lemons attach to it, will can stand for H2O. Or you can go looking for the physical objects that are related to the chemical research you're writing about. You can put in, as appropriate, test tubes or Bunsen burners or beakers or spectral photometers or the laboratory bench. It's a skill to go looking for physical correlates to your topic, but it's a skill that you can get good at pretty quick. And it pays off because you always want to give the reader something to see.
+
+Speaker 1 
+ 
+I think that's very helpful advice. So tell me now, what's more important, the words or the ideas?
+
+Speaker 2 
+ 
+As far as the writer is concerned, there are no ideas outside of the realm of words. Now, I will grant you, there are wordless intuitions and little images you might get. There are diagrams you can put on a piece of paper to capture an idea. But when it comes to being a writer, your job is to make sure everything gets down in words. So if you would ask me which is more important in a paper, the words or the ideas, I say it's the words. I'd say without the right words in the right order, you do not have any ideas to work with as a writer. If you don't have it down in a sentence, you don't have an idea.
+
+Speaker 1 
+ 
+Very good advice. So some coaches talk about the problem of having too little to say. What if a student writer discovers that he or she has too little to say? What or how can she or he deal with that?
+
+Speaker 2 
+ 
+I think a student who has, quote, too little to say is usually a student whose imagination is too narrow. Often it's a student who has decided to write about an abstract topic and has just kept focusing on the abstraction. When a student is, seems to be devoid of ideas, when a writer is devoid of ideas, he or she should slow down and brainstorm wildly.
+
+Speaker 2 
+ 
+Go to a piece of paper and write down everything you know about the topic. Draw diagrams on a piece of paper, draw idea maps or mind maps. Make lists of objects, shift the focus. In other words, a student who doesn't have enough to say has often gotten too tense. And trying to say something important, it's a good idea to stop trying to say something important and just trying to say something simple and clear. You can find your way to the simple and clear by talking with a friend or by taking a walk.
+
+Speaker 2 
+ 
+As I said, another thing to do is to write some questions down for yourself. You don't have to be an expert on what you're writing about. You just have to be clear. Write down what puzzles you, write down what confuses you.
+
+Speaker 2 
+ 
+I am confused about X. I am puzzled about how X relates to y. Right. These things down covers several pieces of paper with ideas and sketches. It can even look like this. Tape them together, cover a bunch of paper with notes taken together, sitting down on your desk, and go out for a half an hour's walk. When you come back, start again. You will have more ideas.
+
+Speaker 1 
+ 
+That's it. I like that approach. So do you have any final takeaways or advice for writing students? What's one thing a student writer can do to write better?
+
+Speaker 2 
+ 
+I'll give you a couple of things a writer can do to make things better in terms of readability, I would suggest using short sentences. A writer ought to go into his paper and if he has written any really long sentences, ask himself, do these sentences have to be this long? And replace them with shorter sentences in terms of completeness, a writer can do two things. It's asking himself a couple of questions. The first one is, what am I trying to say? Did I say it clearly? And the second one is, what must I not leave out the very last question, which is, what must I make sure not to leave out? It's very useful. I use it myself all the time at the, as I get to the end of a draft and then ask myself, did I cover everything in a particular, is there anything I must make sure not to leave out? Often it turns out I have left out something important. So those are my final words on this.
+
+Speaker 1 
+ 
+I think that's a helpful approach even for me. So I just want to emphasize how important I think good writing actually is to the learning process. I often find myself that I really learn something in the best way when I attempt to write about it. So I think this is why insight from people like you who've really worked to understand the writing process.
+
+Speaker 1 
+ 
+Here is your book, college writing guide. I is very helpful. So here you can see clearly now. And so I just very much appreciate, John, your interview with me here today. And thank you. We'll see you on the flip side.
+
+
+
+### 55
+
+
+
+Speaker 1 
+ 
+William Craig Rice is the director of the division of Education Programs at the National Endowment for the Humanities, which sponsors seminars for college and school teachers on subjects is diverse at Shakespeare's plays, Mayan civilization and the civil Rights Movement. Bill's remarks today don't represent the views of the National Endowment for the Humanities, but are simply his as a teacher, writer and scholar.
+
+Speaker 1 
+ 
+Bill previously served as the 12th president of Shymer College, the Great Books College of Chicago, and he taught writing seminars for many years at Harvard University. He's the author of Public Discourse and Academic Inquiry and of essays in verse in cultural periodicals. He was recently given a lifetime Achievement award for contributions to the humanities by Utah Valley University.
+
+Speaker 1 
+ 
+It's a pleasure to speak here today with Bill Rice. Bill, I've seen you in action reading difficult material, for example, Adam Smith's rhetorical discourses. You seem to be able to synthesize and chunk the essential ideas in difficult reading material like that very easily. Do you have any suggestions for us mere mortals about how we can do something a little similar?
+
+Speaker 2 
+ 
+I don't know that I'm any better at this than another reader would be, but because what I start with is just noticing, I was taught this a long time ago, that you don't need to be ready to analyze or make an argument or otherwise elaborate. Just read. And when you notice something, market just noticing as a neutral act, it's giving your own mind credit for being alive. That's really important.
+
+Speaker 2 
+ 
+And I Mark with a little vertical sign on the nigen. Other people could use other methods. And I think that's the starting point. Once you do that, you may notice that you're noticing the same thing over and over again, in which case I call it a pattern, not an original idea, but you look for patterns and that's related to the idea of chunks, except that I guess chunks can also be sections of argument that you begin to detect. I find too, with something that's potentially really dry, like rhetoric and written in this, basically what we were reading was lecture notes taken by someone else of a man who's mainly famous for other things, namely inventing the modern science of economy, but also as a philosopher. So I found that the best thing to do was to notice and watch for patterns.
+
+Speaker 1 
+ 
+Well, probably early on here, we should define what do we really mean. What are the humanities? Don't people get confused about this?
+
+Speaker 2 
+ 
+Well, they do. People think it means humanitarian, as a humanitarian aid. They think it means humanity, as in some great cause for saving the world from ourselves. And actually, the humanities are a number of academic disciplines, philosophy, the study of religion, literature, history, art history, to some extent, anthropology, when it's most concerned with, shall we say, human nature. Those are the fields. And there are others that creep in, classic, certainly archaeology. They're actually called the humanities because what happened was when the fields were being divided up, you had the natural sciences like physics and astronomy and chemistry, and then you had the social sciences, the hard kind of social sciences like psychology and sociology. And when they were done with those, that everything that was left was called the humanities. So it was a process of elimination, and they got left on the table there. That's the definition. But it's strange because people don't get it. Similarly, people often don't understand the term Liberal arts. They are some people. I remember one fellow saying to me, well, what about conservative arts? And, you know, at Liberal education, what about conservative education? You get people understand the basic term, misunderstand the basic terms, perhaps because they haven't been taught them. It's not deliberate, but we're saddled with terms that are unfortunate in a way because people don't understand them.
+
+Speaker 1 
+ 
+Well. Good approaches to learning often involve transfer from one field, for example, mathematics, to another field like music or language. But each field has its own special challenges. Are there approaches that Uecker would recommend that our app applicable, particularly applicable for the humanities?
+
+Speaker 2 
+ 
+Yes. One broad point is that in chemistry, although in the theoretical realm, there are lots of ambiguities and uncertainties among those who are doing pioneering work. For the, for a large part, for those of us who are studying at a relatively introductory or intermediate level, there are answers to be arrived at through methods that are, will help illuminate how a field works. This would be true in chemistry or astronomy, their measurements to be taken. There are all kinds of reasonably objective, repeatable exercises that determine what knowledge is. And assistant, I don't mean to oversimplify the sciences, but that's broadly true.
+
+Speaker 2 
+ 
+And it's not broadly true in the humanities, which are concerned with questions more than with answers. You have to be interested, intolerant of at least ambiguity. The idea that a question remains unsolved for pretty much the entirety of human history, or at least of recent human history. So it's important to understand that controversies aren't settled in the humanities. They're more likely simply to be raised and explored.
+
+Speaker 2 
+ 
+That's the, those are the broad brush need you have in the, in humanities when you're approaching it, particularly at the beginning, that you're not striving for a direct, complete final answer. This is hard for students who've been trained to take exams and get to the right answer by whatever means they can hand. Instead, in the humanities, what you admire in the work of someone who's just figuring things out, it's kind of openness to contrary evidence. That seems to me broadly the way to go. As to the specific fields, there are lots of sub que, sub sub questions or second order problems to explore. But broadly speaking, in the humanities, it's about tolerance of ambiguity and at a certain point, a real love of ambiguity, which can, of course, become quite frustrating for people because you never feel like you're getting an answer from this guy up at the front of the class or whatever.
+
+Speaker 1 
+ 
+That's true. That's, I think that's so true. And it's such a different way of looking at things. Then we, for example, in engineering and how we look at things. But I think actually both approaches can be so interesting and useful. And I think for engineers and for those in humanities, sort of getting an understanding and a tolerance of both of our perspective, this is probably worthwhile.
+
+Speaker 1 
+ 
+Students in the humanities sometimes complain that they're expected to make arguments, but they don't have anything to say. So it's not that they don't care. They do the reading. They actually participate in all the discussions. They wanna be involved. It's just they can't come up with a position to defend. So what advice would you give in a circumstance? Well.
+
+Speaker 2 
+ 
+I was in that position myself for many years. I thought it was borderline preposterous to call on me to have anything to say or to ask me to write a and 8 or 10 or 12 or 20 page paper when I really hadn't read enough to have anything legitimate to say. I was, I found this to be one of the problems in classroom education and if perhaps one of the ways in which online education could begin to untangle a problem of the given time in a semester. So I remember again and again feeling like the best thing I could do would be was to read and to take notes, which I think is absolutely essential. By the way, if you have to read and be content with being alone, we talk a lot about group work, but a lot of it solo reading and taking notes.
+
+Speaker 2 
+ 
+In any case, back to the question I found that I was in again and again faced with a problem of finding something to say. So what I, the advice I give is ask for if you don't find conflicting interpretations of the thing you're studying.
+
+Speaker 2 
+ 
+It might be two scholars to disagree on what Machiavelli meant when he said the prince should be more concerned about being feared than about being loved. People different differ on that and authorities differ. If you can, if you don't find that in the materials that you're assigned, as it were, seek them out. What are the flashpoints? Where are the major points of contention? And instead of thinking, well, I agree with this side or the other side, instead say, Gee, how is this argument a stronger argument than another? Not whether it's right or not, but whether it's stronger. It's W. Who has the better evidence? Who is pointing to evidence that is harder to understand? Who's taking on the more difficult questions. That's the first thing I would recommend, is looking for conflicting interpretations.
+
+Speaker 2 
+ 
+Another is to look at, particularly when you're studying what we call a primary source. I would cite Mary Walstone crafts work on, on the, in the late 18th century on the education of women or Thomas Jefferson's Statue for religious freedom in Virginia.
+
+Speaker 2 
+ 
+Reading that, you feel a real rhetorical power. These people are making an argument. What are they arguing against? It's not often clear in a given text what the argument is, who and what they're aiming at. And if you can read carefully, sometimes you can make an, what we know, an inference. Because Jefferson is so concerned about the government giving special treatment to members of the Anglican Church.
+
+Speaker 2 
+ 
+What we. Well, why was that an issue? It prompts one to want to know more. So if you have the rhetorical flashpoints in view, you can then ask questions of an objective nature.
+
+Speaker 2 
+ 
+What was it that got Wollstonecraft or Jefferson or anyone else worked on? What wasn't the gut Machiavelli worked up? Those are what questions, and they send you back into historical information. So those are some of the ways I would approach the problem of having nothing to say.
+
+Speaker 2 
+ 
+But in the end, I wish we had a system of education that was described to me by a young woman I knew who had gone to an English university, Cambridge. And she, I said, how did you get to be so knowledgeable and be such a good writer and so careful in your thinking? And she said, well, all the way through four years as an undergraduate, I was told I had to write summaries, summary, given an article, write a summary, one page, 1 page, one page. Pray sees, they called them over there. That was hugely helpful to her. She wasn't asked to come up with something of her own to say. She was asked to explain what other people had said. And that was a real revelation to me. And from then on, when I was in the classroom, I would assign summaries because it wasn't, it was something you could do differently. Not all summaries had to be the same, but you would learn the material that way without having to be invested in whether you had an argument to make. Understanding other's thinking actually can open up one's own thinking. And my doctor voter, Richard Marius, the director of writing at Harvard, used to say, encourage your students not so much to be in, you know, original thinkers, but to find their thinking in the thinking of others. That's okay. That's what really what scholarship and learning in the humanities is about. It's about standing on the shoulders of others in order to understand perhaps a little bit better.
+
+Speaker 1 
+ 
+I know that when I'm doing writing, I often, I think of writing as something I do to help me better understand my own thoughts. And when I'm beginning to write something, I'm looking at the thoughts of others. But it's when I start trying to struggle with putting words in the paper myself that I start to understand my own words. But that observation of the woman that you knew about writing summaries, that's such an exquisite approach to learning because it helps neurally encode in a small chunk what the main ideas are. And that actually does really help you to better understand your own thought.
+
+Speaker 1 
+ 
+And another thing I just have to bring up is I very much admire your thought in relation to it. It is important to work alone sometimes. Yeah, and we do have this enormous emphasis. I mean, there's, there are trends in education and fads and so forth, and they go in and out. And one of the current fads is to do a lot of group work, and I emphasize that myself, and I think there's value in it, but also too much group work and you start to think like other people instead of thinking independently. And part of what I think we value in western society, in modern society, is this idea to think more independently as well as to understand the opinions of others. So anyway, with that, what hinders students most from learning in the humanity is.
+
+Speaker 2 
+ 
+Well, again, I think it gets back to this problem of being comfortable with ambiguity, of feeling that there is some way of understanding that they haven't got yet and that the teacher has and is in a very frustrating way, insisting they find for themselves. That, I think is, as a psychological level and a level of interaction, certainly in a classroom, though less so online where one is working primarily in the solo context.
+
+Speaker 2 
+ 
+The another problem though is that what we call discipline specific learning. It's not the same to play chess and play baseball, to do many different things in life, to cook well, to make furniture. Not all skills are really transferable. It's, there's discipline specific on understanding and in it, there's certain kind of reasoning that takes place with historians. They go into archives, they find the, a rare set of letters between an early Nobel Prize winner and his editor. And they look into that and they find all kinds of issues of the day or boiling right beneath. These letters have remarks on the outbreak of World War 1 that are very hard to understand. And that to a historian is fascinating. Something distant, archival that takes a certain kind of thinking. What was it that was bothering people? What were the arguments that are not being made? Who, what inferences can we make from an old source that nobody's looked at, had in a long time? That's what historical reasoning is partly about, is about other things as well.
+
+Speaker 2 
+ 
+In other fields, say, take art history. You have the notion of building on achievements, the discovery of ways of accurately depicting perspective, which occurred in this 15th century. That builds, that then builds to other achievements. Some achievements in the arts were really advanced in the classical era. In sculpture, the depiction, the accurate depiction of the human body is recovered later on in the Renaissance. So there's a notion of building on previous achievements. That's a way of understanding that this particularly common in our history where it's breakthrough after breakthrough after breakthrough, getting up finally to the influence of African sculpture on European artists in, in the, at the turn of the last century and with cubism.
+
+Speaker 2 
+ 
+So these are ways of understanding that are specific to the disciplines. Anthropologists look at topics like marriage or exchange or food prohibitions in a very different way from the ways that a of, well, that we typically look at. So they have a broad view of all kinds of human variation. So, and literary scholars are probably those who are most pursuant, who pursue the ambiguities of language most energetically, because poetry and novels depend on multiple meanings, multiple layers of interpretation, and none of them absolutely certain, some of them probably wrong. But that's been an issue in the field some time.
+
+Speaker 2 
+ 
+Sorry. So it's, I would say the disciplines have their own ways and those are frustrating because people want to understand a given field coming in with what they already have from another field. In your materials, which I thought were so helpful, the eye of Einstein, you come into a problem with mental equipment that solve the last problem that you solve and it doesn't work. For example, you could look at history, partly understanding historical phenomenon from the point of view of competition. But if you take the lens of competition to other subjects, it doesn't work. You can take chronology, and it doesn't always work. Observe. So it seems to me those are some of the things that stand between a person studying humanities for the first time or for the first time in a while and a feeling of accomplishment.
+
+Speaker 1 
+ 
+I, it, so one thing that surprises me sometimes is I so love people who come with a background in the humanities because of their tolerance of ambiguity, except for one thing, they often are intolerant of lack of ambiguity. And they can think that people with a scientific training or an engineering training are simplistic because things are so straightforward. And of course, that's sort of putting their own lens and their own stereotypes on what's going on in those fields because often there's much more ambiguity and divergence of approaches than might be imagined. But also, I think sometimes lack of ambiguity is okay if something is clear, if 2+2 actually does equal for, you know, that's not necessarily a bad thing to have that lack of ambiguity. So anyway, there's just such differences.
+
+Speaker 2 
+ 
+Well, I guess actually particularly a problem at the frustration is a, is a very understandable one. I think it's most felt in the field of the study of literature. There are trends that have affected teaching for the last 30,40 years that say in effect that, or at least that are understood whether correctly or not to say that you are, that an interpretation can, is that all interpretations have some validity because they occurred in an individual mind. But sometimes things are flat out wrong. And we in the humanities, we have not been sufficiently attentive to the idea of validity, of implausibility, of being wrong about a given thing.
+
+Speaker 2 
+ 
+There are bit sometimes interpretations that are mounted that are flat out just wrong and the claims made that are indefensible that wind up falling apart, including some great thinkers. Sigmund Freud was caught out, for example, in his interpretation of Leonardo da Vinci. He relied on the mistranslation of the keyword in a text and his entire interpretation is built on that one flaw. And once that flaw was revealed, that how do you think. Was a house of cards. Similarly. I understand, though I don't know this case as well, that Martin Heidegger was called out on a misinterpretation of a painting by Van Gogh of shoes. And in both cases, the banner called them out was an art historian who knew the material a lot better. So humanists tend to get into trouble when they try to be interdisciplinary. Sometimes they do it and do it brilliantly. But one thing about scientists that I so admire is that they have tremendous respect for the limitations of their own understanding. There's this. Is it built into lab work to the careful pursuit of conclusions, some of which don't work out, in fact, a lot of which don't work out. Very comfortable with that because when you find out you're wrong in an experiment, in a, in sequencing DNA, that is knowledge. That's a contribution that this avenue doesn't go anywhere, that it leads to an, you know, that it was unproductive. I haven't seen that kind of recognition in humanities very much.
+
+Speaker 1 
+ 
+Right. Well, one thing that I sometimes notice is there's a, this tendency for moral relativism that can arise. And the way that is found out of that is sort of, there's a happy medium to everything. And so I always, I kind of think sometimes, well, is there a happy medium then to genocide? I mean, if, yeah. If no genocide and then there's genocide, does that mean that there's a happy medium in where, you know, which is, I think all of these things sometimes an engineering approach or a more scientific approach to these kinds of issues where you are able to make a decision as to whether something is right or wrong, it can be helpful.
+
+Speaker 2 
+ 
+Well, absolutely. And I'll even go one better, which is that it's not the case that creativity and imagination are the primary, primarily owned by the humanities. I don't believe that for a minute. The sign a scientist is testing implausible ideas and really testing them and their, the creativity that's gone into computer science, into modern physics, just to take the most staggering example, that there's tremendous energy and imagination coupled with discipline in the sciences.
+
+Speaker 2 
+ 
+So when people, and when people talk about philosophy, that humanities taking on the moral dimensions of existence. No, scientists and others do this all the time as well. I think it's very unhelpful for humanist to claim that they have some special access to a moral high ground. This is probably not true and certainly unhelpful in advancing the cause and making people want to study literature or history or philosophy or comparative religion, which is something we really need now. We need to understand other religions because we're mixing up in ways we never did before. Right. And that's the most pressing of our needs, it seems to me. And it's one thing the humanities scholars and the humanities texts and so forth can really help people do.
+
+Speaker 1 
+ 
+Let me ask you this. So what about the use of online resources like Wikipedia? Do you have any sorts of advice for us there?
+
+Speaker 2 
+ 
+Well, the jury is still out on all of that, but it's, what I understand is that. In classes, whether online or in person, people are often discouraged from using those sources unless they go through some kind of vetting.
+
+Speaker 2 
+ 
+On the one hand, if you look up a Wikipedia entry for something that is fairly remote, not very controversial, or not controversial at all, such as navigable rivers in Africa or the history of a given plant, its migration across the globe historically, which just happened. That's one of the interesting things. Is Bartley there, you might get a pretty reliable case in the Wikipedia entry, but if you look up something like the Kennedy assassination or the Reagan administration policy in Central America or any number of other subjects of great controversy, then the Wikipedia entry is a battleground and that may be interesting to look at. But if you're looking for information and you, you're in, you get into trouble, it used to be that you could say if any site has a dot edu after it, that was a good sign. But that seems to me not something you'd wanna take to the bank in many cases, a dot edu is a good sign. But there's some subjects on which. There are, you know, fringe elements within academia that present as objective ideas or information that others would challenge. Main thing is that I happen to know that certain things are controversial and you happen to know that. But a person studying out or kind of midway through the study of a given subject can't be expected to know what's controversial. So you're really out at sea with online resources. This was true of print resources in the past as well. Things like comments on online sources sometimes can reveal a controversy. Embedded, if you haven't an entry and in a blog with 264 comments following it, you can bet that something in there ticked people off and there's something at in dispute. So I, those are, those are, I think the problem is not resolved yet. We don't have a good housekeep being seal in. We have some material, some sites from Learned societies that are probably more reliable than others, but many of them are restricted access. So you don't really know. You have to be a paid up member in order to get access to what other scholars have vetted. And in that case, you know, that's not much help to person out there trying to learn on his or her own.
+
+Speaker 2 
+ 
+I wish I could give you a more encouraging answer. I think things are just working out. The great news on online resources is that if you're interested in them. Well, I've, I read a lot of poetry and I think of a particular author and I hear about a poem, I look and there it is online. Now I will say though, typo slip in the editions of different poets sometimes are at variance and sometimes it really matters. Even a comma in a Robert Frost poem can be a matter of considerable contention among those who are devoted to Robert Frost. And which edition of leaves of grass by Walt Whitman you're looking at can be a matter of great concern. So even there's a sloppiness to a lot of what's online and an inattentiveness to things like accidentals and formatting. In a lot of cases, really quite hideous formatting that are hard on the eyes and doesn't make one want to read. So there are many issues at stake.
+
+Speaker 2 
+ 
+Again, I wish I could say something more emphatically encouraging, but it's what we have. It's all, in many ways, all to the good because things are available now that we're just required a trip to a major library in the past.
+
+Speaker 1 
+ 
+Well, I think one thing that's of interest for people is Daniel Kahneman, the Nobel Prize winning psychologist. He has made the point that there's our fast thinking system and our slow thinking system, and our fast thinking is emotionally based. And so things like empathy and sympathy for others, that's very fast. And logical thinking is slow, much slower. So often what very intelligent people can do is they can leap to conclusions based on their fast thinking systems. And once they have left to those kinds of conclusions, Einstein kicks in. They already think they have the answer, and so they're not gonna think about more rational consideration.
+
+Speaker 1 
+ 
+So it, my own research area involves how altruism well meaning efforts can go awry and actually end up harming people. So sometimes I think in these Wikipedia articles, people will go in and they'll edit and they'll rewrite directly counter to what is known in the facts. But they do that because they really think they're helping others. Those fast systems have kicked in and you overwritten everything else. And so facts kind of can go out the wayside. I find that whole circumstance very interesting.
+
+Speaker 1 
+ 
+But the one really interesting thing about that is you can have a really smart person jumps to conclusions. They think they've got the right answer for helping people, and then other people can jump on board and you can think, hey, look, there's a large group of people. They must all be right. They couldn't be that many people that are being wrong. But actually that herd can go right. We don't want doing things that can be very harmful for people. And we saw that with National Socialism in Nazi Germany. We saw that in Communist Russia with Stalin. We've, so large groups of people can become involved in these kinds of things. Well, I have to ask you, though, you are probably one of the most wide red, just interested in new things, people I've ever met. So what kinds of things do you do? What could you say to our viewers about how to kind of keep interested and keep your love of learning alive? Any final thoughts on that?
+
+Speaker 2 
+ 
+I thank you. I don't think of myself as having that much of a range, but I do read what I feel like reading. And for better or worse, I seem to have continued to do it. It hasn't always been professionally to my advantage, but I did it anyway because as I just felt that to do anything else would have bored me and or turn me into something I didn't wanna be.
+
+Speaker 2 
+ 
+I, you'll create your own world and if you get to choose what's in it, you have a, only yourself to blame if things don't work out, but you also have yours, you have some self, sense of self awareness that comes from making choices. I think people should trust what interests them. I don't mean just follow your dreams, but to be disciplined about the dream. To choose books or ideas, particularly those that aren't, don't represent too deep a commitment, try something short before tries and trying something long.
+
+Speaker 2 
+ 
+Guess that's why I'm attracted to poetry. You can come back and reread, but it's not, they're not that long. Most poems, artworks, the same thing. You can keep coming back to look at something or a particular event if it's recorded on YouTube or on, or a speech, something that's in effect not quite memorizable, but easy to commit in a lot of detail to memory. Stock your memory because when you're bored, if you're waiting in a in line and to get on an airplane or you're waiting for your car to be fixed and you have a flat tire and you know, or whatever, if you have your minds well stocked with fairly specific and tight and coherent things, it makes life a lot easier to get through and is source of energy, the entertainment or even of passion.
+
+Speaker 2 
+ 
+I think reading is the main way to where I happen to have got. But it wasn't always voluminous, but rather selective according to my interests. A lot of people in America, thanks to technology, have a great commitment and love of music. It wasn't possible at 100 years ago. You didn't have phonograph, well, you had phonographs just be coming out and, you know, that recorded sound technology was making some progress. But 100 years before that, you had to listen to music being played. It had a great power in human life back then. But now it's every where. It's annoyingly everywhere, actually. But we, if you get to choose it again, if you choose your music, you can, you can choose other things in life, and it's all really readily available, thanks again to the magnificent opportunities and the wealth of what's on the web. But with music, you take that, and I happen to be very important to me. And so I think one of the good things that's happened is we have lots of good biographies, identify ideas and history and other things that concern you with the lives and achievements of individuals, goes against something of the grain and where we think that, you know, in some academic circles, the individual has been demoted. And what we're really just dealing with is social forces. And there are social forces behind the music of Johan Sebastian Bach or of Ludwig van Beethoven or Frederick Chopin. Might happen. Those happen to be my main stays. There are certainly social forces behind the beetles or between the, or behind the early Joan Bias or Bob Dylan. Others are important to me personal like those are. So there you have biographies available. Who are these people? It you get curious about the individuals who made his 3. It. There, you know, the lives of individuals can inspire us, can warn us, can give us permission to seek. I, that, for me, is the great thing about the humanities, is that we do get biography. We also get biographies of great scientists. I think of Walter Isaacson's biographies of great scientists, and those are wonderful humanistic texts that he created for us. And they're many others that are out there. John Elliott Gardner has a new biography of Bach. There always seem to be another book about Beethoven every year. And so whatever it is that inspires you. Even tragic figures like Van Gogh or William Blake or many others, people who do led less than happy lives. Wonderful to read and to know. I think getting to know people in history is a wonderful experience.
+
+Speaker 1 
+ 
+I just not long ago read Sam Gwen's Empire of the Summer Moon about the Comanches. And now I'm so that made me a fan of Sam Gwen. And now I'm reading his Stonewall Jackson and I just love. I'm a biography , and I'm always surprised at how I can be inspired by both the triumphs and the mistakes of people in history. I think it lends great examples for all of us.
+
+Speaker 2 
+ 
+On the matter of biography, if I could just add a little squib here, autobiography is another great source. And I, for me, one of the most important books I ever read was the first thing it was assigned to me in my first college course, was The Confessions of Jean Jacques Roussea. And he talked a little bit about teaching and music. He was a music teacher and he said he didn't really know anything about music, but he knew he could stay one lesson ahead of his students. And I thought, oh, no, that's inspiring. Maybe I should be a teacher. There was my invitation. And I think reading autobiography can encourage students and people take in classes and people doing online courses in writing their own.
+
+Speaker 2 
+ 
+Write a memoir. What was it about that person who just died who was important in your life? Right about it. What about the person who's, who's, whom you know is, had troubles in life, it seems to be making things go well. What is it you can be private, but I think that autobiography leads to memoir. And this can be, again, for personal, private consumption, and it can turn into more than that. So that's another, again, something that, of course, scientists have written autobiographies. Again, nothing special about the humanities here except that it seems to have landed in our territory.
+
+Speaker 1 
+ 
+Yes, exactly. Well, thank you so much again.
+
