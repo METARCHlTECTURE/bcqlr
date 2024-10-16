@@ -62,7 +62,7 @@ In volutpat nisi magna, vel pharetra est aliquam vel. Donec pulvinar sit amet te
 
 Cras lacinia tristique mi, vel tincidunt dui hendrerit sed. Nulla lobortis egestas rhoncus. Nunc consequat velit in condimentum iaculis. Proin ac magna vitae lorem tincidunt dapibus. Praesent mattis mollis nunc, id luctus erat lobortis et. Donec vestibulum felis id est porta, lobortis egestas enim ornare. Vestibulum gravida quis lectus accumsan sodales. Maecenas nec justo tristique, vulputate sem vitae, porta quam. Vestibulum eget sodales leo. Aliquam malesuada mattis facilisis.
 
-# NGC 6987 星系萨勒坦文明的设定
+<!-- # NGC 6987 星系萨勒坦文明的设定
 
 ## 与交流有关的特征
 
@@ -142,3 +142,6 @@ Cras lacinia tristique mi, vel tincidunt dui hendrerit sed. Nulla lobortis egest
 分析材料：
 
 1. 【某人言论】绝大部分中之人都得经历三个阶段：第一个阶段是在十岁之前，被周围的环境打上各种各样难以抹除的烙印。会觉得亏欠别人，会觉得自己不该出生，会觉得自己的存在让别人痛苦，会觉得自己拖累的周围的人让他们变得不幸，开始当父母的心理医生。第二个阶段是十几岁的时候拼命洗脑自己说只要努力就一定有个好的未来，未来总会轻松的，来让自己在无比痛苦的环境中坚持下来，对得起所有人，让自己也能感到自己有价值。第三个阶段就是认识到自己之前吃的绝大部分苦都没有任何意义，也没有什么价值。曾经就算很努力，也并没有得到想要的未来。之后就努力学着让自己接受平庸，接受自己之前浪费了无数的精力与时间最后又还是吃了不少苦的事实，在二十多岁之后第一次开始学习如何平凡快乐的活下去。有的人甚至花了整个后半辈子来治愈之前受过的苦，并且能不能做到也因人而异。治不好自己的人经常也会把这份痛苦传染给别人。
+
+假如一个人走夜路摔倒了了，然后发上网告知大家：xx路晚上走有风险，我在那里摔倒了，大家一定要小心啊！
+然后评论区大部分都是：我走了10几年我怎么就没摔倒过，谁让你走路玩手机了，谁让你走夜路了，走路都能摔倒真行啊，说清楚到底是那个位置摔倒的啊！ -->
