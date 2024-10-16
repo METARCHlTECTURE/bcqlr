@@ -12,7 +12,7 @@ title: 寻找妖精的疯子
 
 https://mp.weixin.qq.com/s?__biz=MzAwNjY3NTg2Mg==&mid=2651059015&idx=1&sn=787dc89b04ddc96354c7d857e00c518e&chksm=80fe9fbeb78916a862792876a250a8112cad9145aa7e0e690972e3f46f4d9726f17fb09d90cc&mpshare=1&scene=1&srcid=08240Zk86D0hHihAWt8mGieH#rd
 ———————— -->
-
+<!-- 
 口述：大山浩二 翻译：骑鹿人
 
 初次见面，我是大山浩二，是今五株式会社的一名文员。
@@ -25,4 +25,4 @@ https://mp.weixin.qq.com/s?__biz=MzAwNjY3NTg2Mg==&mid=2651059015&idx=1&sn=787dc8
 
 其实那个XXX的女孩，我还是略有耳闻的。他是我在大空町的舅妈家楼上的
 
-哲也君和XXXX一直朝夕相处，他们聊着天南地北的话题，愉快地生活在了一起。想不到他竟然会这样，我还以为他这样的人不会遇到什么知心朋友呢。
+哲也君和XXXX一直朝夕相处，他们聊着天南地北的话题，愉快地生活在了一起。想不到他竟然会这样，我还以为他这样的人不会遇到什么知心朋友呢。 -->
