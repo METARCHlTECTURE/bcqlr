@@ -78,6 +78,52 @@ Understanding subtle differences between English words often requires careful at
 Understanding these subtle distinctions helps in choosing the most appropriate word based on the context, tone, and nuance you wish to convey.
 
 
+## 包含：incorporate involve contain include comprise
+1. **Incorporate**
+   - **含义**：表示将某个元素合并到一个整体中，强调“整合”和“融合”的过程。
+   - **用法**：通常表示有计划、有目的地将新元素加到现有体系中。
+   - **例句**：The new design incorporates feedback from the users.（新设计融合了用户的反馈。）
+
+2. **Involve**
+   - **含义**：指包含或牵涉到某事，特别是指某个过程或情况需要某事物或涉及某事物。
+   - **用法**：强调被动地成为某事的一部分，通常指较为复杂的活动或过程。
+   - **例句**：The job involves a lot of traveling.（这份工作涉及大量的出差。）
+
+3. **Contain**
+   - **含义**：表示某物包含、承载了某些元素，强调物理或抽象上的“包含”。
+   - **用法**：常用于具体的事物，表明一个事物在内部装有或包含其他事物。
+   - **例句**：The box contains several old photographs.（这个盒子里装有几张老照片。）
+
+4. **Include**
+   - **含义**：表示在某个整体中包含某些部分，但这些部分可能不是全部。
+   - **用法**：通常指列出整体的一部分，而不是所有成分。
+   - **例句**：The package includes free shipping.（这个包裹包含了免费送货服务。）
+
+5. **Comprise**
+   - **含义**：表示整体由若干部分构成，或整体包含多个部分。
+   - **用法**：通常用于描述整体的构成部分，可以用“整体+comprise+部分”或“部分+comprise+整体”的结构。
+   - **例句**：The committee comprises ten members.（委员会由十名成员组成。）
+
+### 异同分析：
+1. **包含的主被动性**：
+   - **Incorporate** 更主动，强调将某物“融合”或“加入”到整体中。
+   - **Include** 和 **Contain** 表示包含某物，但 **Include** 更常用于指部分，**Contain** 更侧重于物理上的“装有”。
+   - **Involve** 则更强调“牵涉到”某个过程，有时意味着复杂性。
+   - **Comprise** 则强调整体的“由……组成”，更常用于整体构成部分的描述。
+
+2. **具体与抽象**：
+   - **Contain** 更常用于具体的物理容器（例如，盒子、瓶子）。
+   - **Include** 可以具体或抽象地指代一部分内容。
+   - **Incorporate** 更多地用于抽象的整合过程（例如，计划、系统）。
+   - **Involve** 通常用于抽象过程或活动。
+   - **Comprise** 用于整体结构的描述，往往是抽象和具体皆可。
+
+3. **搭配关系**：
+   - **Incorporate** 常与“elements”、“features”搭配。
+   - **Include** 和 **Contain** 经常用于描述组成部分。
+   - **Involve** 常用于描述行动、过程或责任。
+   - **Comprise** 常用于描述某整体由哪些部分组成。
+
 ## 不同程度的小
 
 1. **Small**  
