@@ -8,8 +8,8 @@ permalink           : /:title/
 description         : "Personal rubbish of DeerRIDER"
 markdown            : kramdown
 statement           : "Designed by DeerRIDER, All Rights Reserved"
-bgtext              : "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌∽√∀∂∆∇⋈∅∫∬∳∯∱∲ⅈⅉℂℍℚℝℕℙℤⅇℼℽ⅀ℿℾℽℼ" # texts randomly displayed in background
-# bgtext              : "01"
+# bgtext              : "αβγδεζηθικλμνξοπρστυφχψω∷∫∮∝∞∧∨∑∏∪∩∈∵∴⊥‖∠⌒⊙≌∽√∀∂∆∇⋈∅∫∬∳∯∱∲ⅈⅉℂℍℚℝℕℙℤⅇℼℽ⅀ℿℾℽℼ" # texts randomly displayed in background
+bgtext              : "01"
 # bgtext              : "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 
 

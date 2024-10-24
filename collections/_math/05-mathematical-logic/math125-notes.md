@@ -107,10 +107,10 @@ Consider formula $$ P \land \neg Q $$, its truth value **depends on** its variab
 
 DEF. $$ S = \{ A_1, A_2, ..., A_k \} $$, a truth assigment is a **function** which assigns each variable in S a truth value.
 
-E.G. 
+E.G.
 
 > `Disjunction` ($$ \\lor $$, or):From the Latin word *disjunctio*, which is derived from: **"dis-"**: A Latin prefix meaning "apart," "asunder," or "separation." **"jungere"**: A Latin verb meaning "to join" or "to yoke." So, **disjunction** literally means "a separation of things that were joined together."
-  
+
 > `Conjunction` ($$ \\land $$, and): From the Latin word *coniunctio*, derived from: **"con-"**: A Latin prefix meaning "together" or "with." **"jungere"**: Same Latin verb meaning "to join" or "to yoke." Thus, **conjunction** means "a joining together" or "combining."
 
 Truth Table for all the binary operations.
