@@ -58,7 +58,7 @@
 }
 
 // screen auto-adjustment
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .page .container {
     width: 100% !important; // to avoid the affect of applyment of toggle_maximize()
     height: 100% !important;
