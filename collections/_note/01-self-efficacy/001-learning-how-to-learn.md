@@ -4,6 +4,9 @@ categories: 01-Self-Efficacy
 tags: Notes Ongoing
 ---
 
+> sfjajpa;woeifjaw;oleifjawl;eifjaw;efwaefwaef些照片极具价值， 因为他们记录了许多后来被偷盗者盗走的绘画和雕塑。
+> The photographs are extremely valuable records of the paintings and sculptures in the caves before many were removed by treasure hunters.
+
 ## Basics
 
 2 ways of thinking: 
@@ -239,7 +242,7 @@ For example, over several days, you might learn how to smoothly place the musica
 
 To see what I mean, try repeating the following tongue-twister in the Indian language of Kannada：
 
-Hi, I am Shilpa Konkani. I am native speaker of Kannada which is one of the oldest language spoken in India. Today, I'm going share with you a tongue-twister in Kannada. So let's get started. Terikere yri male muru kari kurimari meyuthiddavu. >> 
+Hi, I am Shilpa Konkani. I am native speaker of Kannada which is one of the oldest language spoken in India. Today, I'm going share with you a tongue-twister in Kannada. So let's get started. Terikere yri male muru kari kurimari meyuthiddavu. 
 
 为了理解这一点，您可以尝试用印度的卡纳达语重复以下绕口令：
 
@@ -1775,10 +1778,10 @@ Our lives are filled with a wide variety of mentors who help us in many ways lar
 
 例如，阿尔宁·罗德克（Arnim Rodeck）是一位电气工程师，他在决定转行成为一名创意木工时经历了巨大的职业变革，并最终在这一工艺上达到了世界级水平。阿尔宁将他的导师分为两种不同类型。
 
->> Hi there, there are several type of mentors, the ones who actually pump us up and energize us, or the ones who actually could be much more critical and actually won't tolerate any excuses. They might be much more stern and demanding people but at the end of the day, the insight we gain from them is invaluable. Mentors can even be online nowadays. For example, in learning experiences as different as acquiring a new language or training a horse, you may interact with a mentor who lives far away from you. My co-instructor, Terry Sejnowski, also has some thoughts here.
+Hi there, there are several type of mentors, the ones who actually pump us up and energize us, or the ones who actually could be much more critical and actually won't tolerate any excuses. They might be much more stern and demanding people but at the end of the day, the insight we gain from them is invaluable. Mentors can even be online nowadays. For example, in learning experiences as different as acquiring a new language or training a horse, you may interact with a mentor who lives far away from you. My co-instructor, Terry Sejnowski, also has some thoughts here.
 嗨，导师有几种类型，有的能真正激励我们，让我们充满活力；而有的则可能更为挑剔，根本不容忍任何借口。虽然他们可能更加严厉和要求苛刻，但最终我们从他们身上获得的见解是无价的。如今，导师甚至可以是在线的。例如，在学习新语言或训练马匹等不同的学习经历中，你可能会与一个远在他乡的导师互动。我的合伙讲师，特里·塞诺斯基（Terry Sejnowski），在这方面也有一些看法。
 
->> The brain works best with concrete examples not abstract aspirations. A good place to start reinventing yourself is to ask, who has had the most influence on my life and who has inspired me to start a new life?
+The brain works best with concrete examples not abstract aspirations. A good place to start reinventing yourself is to ask, who has had the most influence on my life and who has inspired me to start a new life?
 大脑在具体示例面前工作得更好，而不是抽象的愿望。重新塑造自己的一个好起点是问自己：谁对我的生活影响最大？谁激励我开始新的生活？
 
 Influential mentors have motivated me to become who I am today.
@@ -1802,7 +1805,7 @@ These relationships can be the most satisfying, choose them wisely.
 Mind shifting may mean re-evaluating your relationships, finding new short-term collaborations, and cultivating longer-term ones that take you in new directions.
 思维转变可能意味着重新评估你的关系，寻找新的短期合作，培养能带你走向新方向的长期关系。
 
->> A word of advice, it's unwise to approach a person you don't know and ask them to be your mentor. This can put that person in an uncomfortable situation, after all they have no idea what your expectations of a mentor are. And truthfully, they have no idea whether you might be a fit for them. In fact, it's often better to avoid asking someone to be your mentor, even if you consider them to be a mentor to you. If the fit is right, a relationship will develop organically, and in the course of this relationship, you may only get tiny snippets of occasional insight from your mentor. But this can still be very valuable. Because while these snippets may take only a few seconds for the mentor to say, they can nevertheless have a profound influence on you and your career. So don't discount the importance of even the most trivial seeming exchanges with someone you consider a mentor. Finally, if it seems reasonable look for ways to make yourself somehow useful to your mentor. Just as they are for you. Ensuring that the benefits of the relationship go both ways will make it that much stronger. And if you've had a positive mentoring experience, look for ways to pay it forward by mentoring others in ways similar to the mentoring that has helped you.
+A word of advice, it's unwise to approach a person you don't know and ask them to be your mentor. This can put that person in an uncomfortable situation, after all they have no idea what your expectations of a mentor are. And truthfully, they have no idea whether you might be a fit for them. In fact, it's often better to avoid asking someone to be your mentor, even if you consider them to be a mentor to you. If the fit is right, a relationship will develop organically, and in the course of this relationship, you may only get tiny snippets of occasional insight from your mentor. But this can still be very valuable. Because while these snippets may take only a few seconds for the mentor to say, they can nevertheless have a profound influence on you and your career. So don't discount the importance of even the most trivial seeming exchanges with someone you consider a mentor. Finally, if it seems reasonable look for ways to make yourself somehow useful to your mentor. Just as they are for you. Ensuring that the benefits of the relationship go both ways will make it that much stronger. And if you've had a positive mentoring experience, look for ways to pay it forward by mentoring others in ways similar to the mentoring that has helped you.
 给你一个建议，接触一个你不认识的人并请求他们成为你的导师是愚蠢的。这会让那个人感到不舒服，毕竟他们不知道你对导师的期望是什么。老实说，他们也不知道你是否适合他们。事实上，通常更好的做法是避免直接请求某人成为你的导师，即使你认为他们是你的导师。如果关系合适，它会自然发展。在这个过程中，你可能只会从你的导师那里获得偶尔的、微小的洞见。但这些依然非常宝贵。因为尽管这些片段可能只需要几秒钟的时间让导师说出，但它们仍然能对你和你的职业产生深远的影响。因此，不要低估与某个你认为是导师的人之间即使是最琐碎的交流的重要性。最后，如果合适的话，寻找方法让自己对你的导师有所帮助。就像他们对你一样。确保关系的好处是双向的，这会让它更加牢固。如果你有过积极的指导经验，也要寻找机会以类似的方式回馈他人，成为他们的导师。
 
 
@@ -1810,7 +1813,7 @@ Mind shifting may mean re-evaluating your relationships, finding new short-term 
 ### 4-8 Read, Read, Read
 
 
->> My friend, Jake Taylor is a professional investor who also runs a website called Five Good Questions and online series dedicated to interviewing interesting authors and creating more inspired readers. Back when he was in business school, Jake won a long shot lottery to have lunch with Warren Buffett. Those six hours together with Warren Buffett transformed Jake's life. After meeting Mister Buffett, I couldn't stop wondering how one man had accumulated so much knowledge in one lifetime. I started reading everything I could get my hands on about him. And after about a decade now, I think I've finally unlocked what his magic is.
+My friend, Jake Taylor is a professional investor who also runs a website called Five Good Questions and online series dedicated to interviewing interesting authors and creating more inspired readers. Back when he was in business school, Jake won a long shot lottery to have lunch with Warren Buffett. Those six hours together with Warren Buffett transformed Jake's life. After meeting Mister Buffett, I couldn't stop wondering how one man had accumulated so much knowledge in one lifetime. I started reading everything I could get my hands on about him. And after about a decade now, I think I've finally unlocked what his magic is.
 我的朋友杰克·泰勒是一位专业投资者，同时还运营着一个名为《五个好问题》的网站和在线系列，专注于采访有趣的作者，激励更多的读者。在他商学院的时候，杰克赢得了一次与沃伦·巴菲特共进午餐的长途彩票。与沃伦·巴菲特的六小时相处彻底改变了杰克的生活。遇到巴菲特后，我不禁思考，一个人是如何在一生中积累如此多的知识的。我开始阅读关于他的所有书籍。经过大约十年的时间，我觉得我终于揭开了他的“魔法”。
 
 The truth is, is that although he and his business partner, Charlie Munger have incredibly high IQs, their real competitive advantage comes from all the books that they read. These guys are nonstop readers. If you want to be the smartest person in the room, it's pretty simple. Just read more than everyone else. Now  and you may say, it is difficult to find time to read. But if you can carve out 20 minutes a day, that will lead to 35 books read in 1 year.
@@ -1868,10 +1871,10 @@ As we learned in this final week, new neurons are being born every day in the hi
 I was inspired to create this movie because I've had a second chance at life. Long after I was supposed to be set in my career and set in my ways, I was lucky enough to have the opportunity to transform myself from a person whose only apparent talent was in language and the humanities. I began a new career trajectory that eventually led to my becoming a professor of engineering.
 我受到启发创作这部电影，因为我获得了生活的第二次机会。在我本该在职业上稳定、安于现状的很长一段时间后，我有幸得到了机会，将自己从一个看似只有语言和人文学科天赋的人转变为工程学教授，开启了一条新的职业轨迹。
 
->> This book's subtitle is Break Through the Obstacles to Learning and Discover Your Hidden Potential. This covers enormous scope, but especially when we delved into the science, a common thread became clear. People could often do more, change more, and learn more often, often far more than they ever dreamed possible. Our potential is hidden in plain sight, all around us.
+This book's subtitle is Break Through the Obstacles to Learning and Discover Your Hidden Potential. This covers enormous scope, but especially when we delved into the science, a common thread became clear. People could often do more, change more, and learn more often, often far more than they ever dreamed possible. Our potential is hidden in plain sight, all around us.
 这本书的副标题是《突破学习障碍，发现你隐藏的潜能》。这个主题涵盖了广泛的内容，但尤其是当我们深入科学时，一个共同的主题变得清晰可见。人们往往能够做得更多、改变更多、学习更多，常常远超过他们曾经想象的可能性。我们的潜能就隐藏在我们周围，显而易见。
 
->> There are two overlapping aspects of learning and we've explored both in this MOOC. The first is to realize that mindshift, deep changes in life that occur through learning, is something that can be done at any age with any goal in mind. Well-made MOOCs and other dynamic learning experiences show us how powerful, fun, and even addictive learning can be. And importantly, life long learning also keeps our minds fresh as we age.
+There are two overlapping aspects of learning and we've explored both in this MOOC. The first is to realize that mindshift, deep changes in life that occur through learning, is something that can be done at any age with any goal in mind. Well-made MOOCs and other dynamic learning experiences show us how powerful, fun, and even addictive learning can be. And importantly, life long learning also keeps our minds fresh as we age.
 学习有两个重叠的方面，我们在这个MOOC中都进行了探讨。第一个是意识到思维转变，即通过学习而发生的深刻生活变化，是任何年龄和任何目标的人都可以实现的。精心制作的MOOC和其他动态学习体验向我们展示了学习是多么强大、有趣，甚至是令人上瘾的。而且，终身学习也能让我们的思维在衰老过程中保持活力。
 
 The second aspect of mind shift relates to career. Career selection, career enhancement, and career switching. We've explored each of these areas and discovered a common theme. That background and training from the past that might at first seem entirely useless often proves valuable in your new job or field. These days, working behind the scenes in the MOOC making world, I'm newly inspired by all the changes that learners are making. Over and over, I see that people have the desire and ability to learn and change at every age and stage. Not only from the humanities to engineering as I did, but in virtually any direction. That's why we've also stressed that a really meaningful mindshift often isn't just about following your passions, but about broadening your passions. Reenvisioning yourself and the directions you can take, both in your private life and in your career, and then taking the steps as a learner to make this revisioning a reality. Since you've taken this MOOC, you undoubtedly have a thirst for knowledge. So I'm hoping that what you've learned here has widened the scope of what you thought you could do, and will help you broaden your passion for discovery. Learning can be an overwhelming pursuit. But it also provides a way for us to meet some of our deepest needs to live as full, vibrant human beings.
@@ -1880,7 +1883,7 @@ The second aspect of mind shift relates to career. Career selection, career enha
 It's been wonderful working with you as you've explored how to make your own mindshift. And I wish you all the best as you put this into action. But, of course, many people rebel against learning or resign themselves to staying where they are in life. What about people like these, you might ask? How can they make a mindshift of the sort we've been talking about? If we can leave you with one last message in this MOOC, it is this. Sometimes it takes just that one special person, a mentor, to unlock or reframe and reveal the unseen potential.
 与您一起探索如何实现思维转变真是太好了。我祝愿您在实践中一切顺利。当然，许多人可能会反对学习，或自甘堕落于现状。您可能会问，像这样的人该怎么办？他们如何才能实现我们所讨论的那种思维转变？如果我们能在这个MOOC中给您留下一个最后的信息，那就是：有时，只需要一个特殊的人，一个导师，来解锁、重新框架并揭示潜在的可能性。
 
->> And so, we hope this MOOC also inspires you to turn to others. To seek out mentors and also to be a mentor yourself for those who may have lost the passion for discovery. May your own discoveries open the minds of those you touch, so they too, can discover the joy and beauty of learning. 
+And so, we hope this MOOC also inspires you to turn to others. To seek out mentors and also to be a mentor yourself for those who may have lost the passion for discovery. May your own discoveries open the minds of those you touch, so they too, can discover the joy and beauty of learning. 
 因此，我们希望这个MOOC也能激励您转向他人。去寻找导师，同时也成为那些可能失去探索激情的人的导师。愿您自己的发现能够开启您所接触的人的心灵，让他们也能发现学习的乐趣和美好。
 
 
