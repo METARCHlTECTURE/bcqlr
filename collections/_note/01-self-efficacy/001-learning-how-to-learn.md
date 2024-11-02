@@ -108,7 +108,6 @@ tags: Notes Ongoing
   * [Optional Bonus Video: Nelson Dellis Memory Tips #5 Language Learning](#optional-bonus-video-nelson-dellis-memory-tips-5-language-learning)
   * [Memory Tips: Nelson Dellis on How to Memorize a Speech or a Script](#memory-tips-nelson-dellis-on-how-to-memorize-a-speech-or-a-script)
 
-
 </div></details>
 
 
@@ -120,7 +119,7 @@ tags: Notes Ongoing
 
 Procrasination & Pomodoro
 
-Memory:sdsdfasdf
+Memory:
 1. Practice makes memory permanent
 2. 2 types of memory systems: long term memory & working memory
   - To build long term memory: spaced(periodly) repetition
@@ -427,13 +426,13 @@ Even more of a surprise to researchers, was that *the students themselves predic
 
 研究人员更为惊讶的是，*学生们自己预测简单阅读和回忆材料不是最好的学习方法，**他们认为绘制概念图并通过图解展示概念间的关系会更有效***。但如果你*在基本知识块还没在大脑中扎根之前就尝试建立联系，这样的效果不会好*。这就像试图在你还不理解棋子如何移动的基础上学习高级的国际象棋策略一样。使用`回忆`、即`关键概念的心理提取`，而不是`被动重读`，会让你的学习更集中有效。**唯一有效的重读方式是让时间间隔开来，这样就成为一种间隔重复练习的形式**。我们可以用这种学习与回忆的方法来理解，*工作记忆中大约有四个左右的槽位。当你第一次学习一个概念或解决问题的技术时，你的整个工作记忆都会被这个过程占据。随着你开始块化这个概念，你会感觉它在脑海中变得更容易和流畅。一旦概念被块化，它在工作记忆中只占一个槽位，同时成为一个易于跟随的流畅链条，用来建立新的联系。剩下的工作记忆空间被清空。这个块化材料的悬挂链条在某种意义上增加了你工作记忆中的可用信息量。就好像工作记忆中的槽位成为了一个超级链接，连接到一个庞大的网页。*
 
-Now you understand why it is key that you are the one doing the problem solving or mastering the concept. Not whoever wrote the solution manual, or book, on whatever subject you're studying. If you just look at the solution, for example, then tell yourself. Oh yeah, I see **why `they` did that**. Then the solution is not really yours. *You've done almost nothing to knit those concepts into your own underlying neural circuitry*. **Merely glancing at a solution and thinking you truly know it yourself is one of the most common illusions of competence in learning**. You must have the information persisting in your memory if you're to master the material well enough to do well on tests and to think creatively with it. 
+Now `you` understand why it is key that you are the one doing the problem solving or mastering the concept. Not whoever wrote the solution manual, or book, on whatever subject you're studying. If you just look at the solution, for example, then tell yourself. Oh yeah, I see **why `they` did that**. Then the solution is not really yours. *You've done almost nothing to knit those concepts into your own underlying neural circuitry*. **Merely glancing at a solution and thinking you truly know it yourself is one of the most common illusions of competence in learning**. You must have the information persisting in your memory if you're to master the material well enough to do well on tests and to think creatively with it. 
 
-因此，你是解决问题或掌握概念的关键，而不是写了解答手册或书籍的人。如果你只是看解答，然后对自己说：“哦，我明白`他们`**为什么这么做**了”，那么这个解答并不真正属于你。你*几乎没有做任何工作将这些概念编织到自己的神经回路中*。**仅仅浏览答案并认为自己已经掌握它，是学习中最常见的能力错觉之一**。要想在考试中表现出色并创造性地运用所学知识，你必须将信息持久地存储在记忆中。
+因此，`你`是解决问题或掌握概念的关键，而不是写了解答手册或书籍的人。如果你只是看解答，然后对自己说：“哦，我明白`他们`**为什么这么做**了”，那么这个解答并不真正属于你。你*几乎没有做任何工作将这些概念编织到自己的神经回路中*。**仅仅浏览答案并认为自己已经掌握它，是学习中最常见的能力错觉之一**。要想在考试中表现出色并创造性地运用所学知识，你必须将信息持久地存储在记忆中。
 
-In a related thing, you may be surprised to learn that highlighting and underlining must be done very carefully. Otherwise it can not only be ineffective, but also misleading. It's as if, making lots of motions with your hand can fool you into thinking you've placed the concept in your brain. If you do mark up the text, try to look for main ideas before making any marks. And try to keep your underlining or highlighting to a minimum. One sentence or less per paragraph. On the other hand, words or notes in a margin that synthesize key concepts are a very good idea. Jeff Karpicke, the same researcher who's done such important work related to recall, has also done research on a related topic. Illusions of competence in learning. The reason students like to keep rereading their notes or a textbook, is that when they have the book or Google open right in front of them, it provides the illusion that the material is also in their brains. But it's not, because it can be easier to look at the book instead of recalling, students persist in their illusions studying in a way that just isn't very effective. 
+In a related thing, **you may be surprised to learn that highlighting and underlining must be done very carefully. Otherwise it can not only be ineffective, but also misleading**. It's as if, making lots of motions with your hand can fool you into thinking you've placed the concept in your brain. If you do mark up the text, try to look for main ideas before making any marks. And try to keep your underlining or highlighting to a minimum. One sentence or less per paragraph. On the other hand, words or notes in a margin that synthesize key concepts are a very good idea. Jeff Karpicke, the same researcher who's done such important work related to recall, has also done research on a related topic. Illusions of competence in learning. The reason students like to keep rereading their notes or a textbook, is that when they have the book or Google open right in front of them, it provides the illusion that the material is also in their brains. But it's not, because it can be easier to look at the book instead of recalling, students persist in their illusions studying in a way that just isn't very effective. 
 
-另外，你可能会惊讶地发现，做标记和划线需要非常小心，否则它不仅无效，还可能具有误导性。大量的手部动作可能会让你误以为已经将概念记在了脑海中。如果确实要标记文本，先找出主要思想再做标记，尽量保持标记或划线的最小化，每段最多标记一句话。另一方面，在页边空白处写下对关键概念的总结是非常好的方法。卡皮克博士，这位在回忆方面做出重要研究的学者，也在相关主题上进行了研究，即学习中的能力错觉。学生们之所以喜欢重复阅读笔记或教科书，是因为当书本或谷歌就在面前时，提供了一种材料也在大脑中的错觉。但事实并非如此，因为查看书本比回忆更容易，学生们坚持以这种低效的方式学习。
+另外，你可能会惊讶地发现，**做标记和划线需要非常小心，否则它不仅无效，还可能具有误导性**。大量的手部动作可能会让你误以为已经将概念记在了脑海中。如果确实要标记文本，先找出主要思想再做标记，尽量保持标记或划线的最小化，每段最多标记一句话。另一方面，**在页边空白处写下对关键概念的总结是非常好的方法**。卡皮克博士，这位在回忆方面做出重要研究的学者，也在相关主题上进行了研究，即学习中的能力错觉。学生们之所以喜欢重复阅读笔记或教科书，是因为当书本或谷歌就在面前时，提供了一种材料也在大脑中的错觉。但事实并非如此，因为查看书本比回忆更容易，学生们坚持以这种低效的方式学习。
 
 This is a reminder that just wanting to learn the material, and spending a lot of time with it, doesn't guarantee you'll actually learn it. A super helpful way to make sure you're learning and not fooling yourself with illusions of competence, is to test yourself on whatever you're learning. In some sense, that's what recall is actually doing. Allowing you to see whether or not you really grasp an idea. If you make a mistake in what you are doing, it's actually a very good thing. You want to try not to repeat you mistakes, of course, but mistakes are very valuable to make in your little self-tests before high stakes real tests. Because they allow you to make repairs and you're thinking flaws bit by bit mistakes help correct your thinking, so that you can learn better and do better.
 

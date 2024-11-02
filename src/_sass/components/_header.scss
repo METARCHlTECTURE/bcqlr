@@ -60,9 +60,16 @@
     margin: 0 0.06em 0 0.06em;
     display: inline-block;
     i {
+      font-weight: 900;
       cursor: $cursor-green-pointer !important;
       @include simple_link_style;
     }
+    i:hover {
+      font-weight: 900;
+    }
+  }
+  .header_btn:hover {
+    color: $color-link-hover;
   }
   .btn_text {
     font-style: normal;
@@ -86,9 +93,6 @@
 }
 // screen auto-adjustment
 @media screen and (max-width: 1000px) {
-  .page .header .nav_bar ul .header_btn .btn_text {
-    font-size: 0;
-  }  
   .page .container .header {
     border-top: none;
     border-left: none;
@@ -99,6 +103,9 @@
   }
 }
 @media screen and (max-width: 500px) {
+  .page .header .nav_bar ul .header_btn .btn_text {
+    font-size: 0;
+  }  
   .page .container .header .nav_bar ul .site_owner {
     font-size: 0;
   }  

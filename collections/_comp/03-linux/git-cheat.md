@@ -167,3 +167,11 @@ A useful and brief Git cheatsheet.
     <td>git push origin &lt;branch name&gt;</td>
   </tr>
 </table>
+
+### Reset to a commit and push
+
+```shell
+git log
+git reset --hard <commit-id>
+git push origin HEAD:<name-of-remote-branch>
+```

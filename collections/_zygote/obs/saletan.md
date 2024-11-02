@@ -162,6 +162,8 @@ Cras lacinia tristique mi, vel tincidunt dui hendrerit sed. Nulla lobortis egest
 6. 自我矮化与自我拔高的对立统一
    1. 矮化：捧名人臭脚 ，如马斯克，把其只言片语当真理
    2. 自我拔高：装逼、pua、立人设是为了控制别人
+7. 萨勒坦人的行为第一动力是面子：很多工程、行为都是面子推动的。而面子是上位者的维持自身地位不动摇的依据
+
 
 EX：知乎搜索：强盗逻辑、扣门行为
 

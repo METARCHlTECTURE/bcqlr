@@ -26,14 +26,20 @@
     <link href="{{site.url }}{{site.baseurl}}/src/assets/img/favicon.ico" rel="shortcut icon bookmark" type="image/x-icon"/>
     <!-- global stylesheet -->
     <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/src/assets/css/main.css" type="text/css"/>
-    <!-- fa 5.9.0 -->
-    <link rel="stylesheet" href="{{site.url}}{{site.baseurl}}/src/assets/css/fa.min.css" type="text/css"/>
     <!-- global script -->
     <script src="{{site.url}}{{site.baseurl}}/src/assets/js/main.js" async></script>
-    <!-- mathjax 2.7.5 -->
+    <!-- fontawesome < 4.7.0 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/{{site.fontawesome_version}}/css/fontawesome.min.css" type="text/css"/>    
+    <!-- fontawesome > 4.7.0 -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/{{site.fontawesome_version}}/css/all.min.css" type="text/css"/> -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/{{site.fontawesome_version}}/css/svg-with-js.min.css" type="text/css"/> -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/{{site.fontawesome_version}}/css/regular.min.css" type="text/css"/> -->
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/{{site.fontawesome_version}}/css/solid.min.css" type="text/css"/> -->
+    <!-- mathjax -->
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/{{site.mathjax_version}}/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-    <!-- mermaid 8.11.5-->
+    <!-- mermaid -->
     <script async src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/{{site.mermaid_version}}/mermaid.min.js"></script>
+    <script async src="{{site.url}}{{site.baseurl}}/src/assets/js/init-mermaid.js"></script>
     <!-- The tag `feed_meta` is unrecognized by Github Pages -->
     <!--  -->
 </head>

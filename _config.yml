@@ -1,5 +1,5 @@
 # 1. Site Settings
-title               : RUBBISH WITH NO VALUE
+title               : Rubbish
 owner               : "DeerRIDER"
 #url                 : "http://127.0.0.1:4000"
 url                : "https://bcqlr.com"
@@ -108,6 +108,7 @@ plugins:
 # This is applied in ./src/_includes/head.html
 mathjax_version     : "3.2.2"
 mermaid_version     : "11.3.0"
+fontawesome_version : "6.6.0"
 
 # 9. kramdown settings
 kramdown:
