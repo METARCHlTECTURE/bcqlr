@@ -3,6 +3,20 @@ title: Web Development, HTML, CSS and Javascript
 categories: 08-Webdev
 ---
 
+Abbreviation Glossary. 
+
+E.G.
+
+```Javascript
+/*
+ * Abbreviation Glossary:
+ * xxbtn - xx button : xx button used to yyyyyyyyyyyyyyyyyy
+ * zz_fifi - zz Fineral Fia : fefefefef
+ * textToRemove - The text that will be removed from the extracted content.
+ */
+```
+
+
 ## HTML5
 
 ### 1. **Semantic Structure**
