@@ -36,7 +36,7 @@ Markdown 支持绘制**思维导图**、**流程图**、**顺序图**，以及�
 
 ### Typora 的布局
 
-![typora布局](http://nagajamu.com/src/assets/img/typora-layout.png)
+![typora布局]({{site.img}}/single/typora-layout.png)
 
 ### 使用 Typora 管理笔记
 

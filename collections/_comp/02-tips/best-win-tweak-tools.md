@@ -41,3 +41,11 @@ Run Directly from PowerShell with Admin:
 ```powershell
 irm christitus.com/win | iex
 ```
+
+## Seelen UI - an i3wm like windows manager for Windows
+
+Open Terminal(Administrator):
+
+```powershell
+winget install --id Seelen.SeelenUI
+```

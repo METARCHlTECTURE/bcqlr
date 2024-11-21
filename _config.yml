@@ -88,13 +88,15 @@ github              : "akiritsu"
 source              : .
 destination         : ./_site
 collections_dir     : collections
-plugins_dir         : src/_plugins # takes an array of strings and loads plugins in that order
+plugins_dir         : src/_plugins  # takes an array of strings and loads plugins in that order
 layouts_dir         : src/_layouts
 data_dir            : src/_data
 includes_dir        : src/_includes
 sass:
   sass_dir          : src/_sass
-img:                : images
+
+# User defined paths
+img                 : /images      # When inserting images, could use "{{site.img}}/path/to/image.png" instead
 
 # 7. Plugins
 
@@ -106,7 +108,7 @@ plugins:
 
 # 8. JS version
 # Search Plugins on: https://cdnjs.com/
-# This is applied in ./src/_includes/head.html
+# This is functioned in ./src/_includes/head.html
 mathjax_version     : "3.2.2"
 mermaid_version     : "11.3.0"
 fontawesome_version : "4.6.0"

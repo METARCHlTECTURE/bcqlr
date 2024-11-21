@@ -8,6 +8,6 @@ btn_text: true
 footer: true
 highlight: false
 tag_to_show: Ongoing
-permalink: /og
+permalink: /ongoing
 collections_to_show: ["lit","phil","math","comp","note"]
 ---

@@ -8,5 +8,5 @@ btn_text: true
 footer: true
 highlight: false
 tag_to_show: Notes
-permalink: /nt
+permalink: /notes
 ---

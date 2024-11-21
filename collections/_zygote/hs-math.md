@@ -65,31 +65,31 @@ title: 高中数学的学习方法 v0.2
 
 集合、映射、函数、导数及微积分
 
-![](/src/assets/img/hs-math/01集合、映射、函数、导数及微积分.jpg)
+![]({{site.img}}/hs-math/01集合、映射、函数、导数及微积分.jpg)
 
 三角函数与平面向量
 
-![](/src/assets/img/hs-math/02三角函数与平面向量.jpg)
+![]({{site.img}}/hs-math/02三角函数与平面向量.jpg)
 
 数列与不等式
 
-![](/src/assets/img/hs-math/03数列与不等式.jpg)
+![]({{site.img}}/hs-math/03数列与不等式.jpg)
 
 解析几何
 
-![](/src/assets/img/hs-math/04解析几何.jpg)
+![]({{site.img}}/hs-math/04解析几何.jpg)
 
 立体几何
 
-![](/src/assets/img/hs-math/05立体几何.jpg)
+![]({{site.img}}/hs-math/05立体几何.jpg)
 
 统计与概率
 
-![](/src/assets/img/hs-math/06统计与概率.jpg)
+![]({{site.img}}/hs-math/06统计与概率.jpg)
 
 其他部分内容
 
-![](/src/assets/img/hs-math/07其他部分内容.jpg)
+![]({{site.img}}/hs-math/07其他部分内容.jpg)
 
 ### 1.4 解题思维 - 数学方法
 
