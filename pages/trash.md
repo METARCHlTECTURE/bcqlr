@@ -1,6 +1,6 @@
 ---
 title: 草稿箱
-permalink: /draft/
+permalink: /trash/
 ---
 
 ## 免责声明

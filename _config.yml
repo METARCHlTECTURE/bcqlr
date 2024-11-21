@@ -94,6 +94,7 @@ data_dir            : src/_data
 includes_dir        : src/_includes
 sass:
   sass_dir          : src/_sass
+img:                : images
 
 # 7. Plugins
 

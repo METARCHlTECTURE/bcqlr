@@ -7,7 +7,7 @@ home_btn: true
 btn_text: true
 footer: true
 highlight: false
-permalink: /hl
+permalink: /highlighted
 ---
 
 # HIGHLIGHTED
