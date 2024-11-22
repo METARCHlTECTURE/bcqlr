@@ -20,7 +20,7 @@ permalink: /cv
 
 <i class="fa fa-trash"> **Rubbish bin** \| *Smelly Town, Vast Desert, 000000*  
 
-<i class="fa fa-envelope-square"> valueless@trash.com \| <i class="fa fa-phone"> +1145141919 \| <i class="fa fa-linkedin">Valueless Rubbish  \| <i class="fa fa-home"> Personal Website: [Rubbish bin](bcqlr.com)
+<i class="fa fa-envelope-square"> valueless@trash.com \| <i class="fa fa-phone"> +1145141919 \| <i class="fa fa-linkedin">Valueless Rubbish  \| <i class="fa fa-home"> Personal Website: [Rubbish bin](https://bcqlr.com)
 
 
 ## PROFESSIONAL SUMMARY  
