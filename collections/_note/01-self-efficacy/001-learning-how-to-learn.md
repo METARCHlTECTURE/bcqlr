@@ -21,6 +21,10 @@ tags: Notes Ongoing
   * [1.8 The Importance of Sleep in Learning](#18-the-importance-of-sleep-in-learning)
   * [1.10 Summary Week 1](#110-summary-week-1)
   * [1.11 Excitement About What’s Next! Mary Anne Nestor Gives Special Hints](#111-excitement-about-whats-next-mary-anne-nestor-gives-special-hints)
+  * [1.12 Interview with "Benny the Irish Polyglot" about Learning Languages](#112-interview-with-benny-the-irish-polyglot-about-learning-languages)
+  * [1.13 Interview with Dr. Robert Bilder on Creativity and Problem Solving](#113-interview-with-dr-robert-bilder-on-creativity-and-problem-solving)
+  * [1.14 Interview with Writing Coach Daphne Gray-Grant](#114-interview-with-writing-coach-daphne-gray-grant)
+  * [1.15 A Posting about Anxiety, Depression and PTSD from a learner in Learning How to learn](#115-a-posting-about-anxiety-depression-and-ptsd-from-a-learner-in-learning-how-to-learn)
   * [2.1 Introduction to Chunking.](#21-introduction-to-chunking)
   * [2.2 What is a Chunk?](#22-what-is-a-chunk)
   * [2.3 How to form a Chunk – Part 1](#23-how-to-form-a-chunk--part-1)
@@ -30,9 +34,9 @@ tags: Notes Ongoing
   * [2.7 The Value of a Library of Chunks](#27-the-value-of-a-library-of-chunks)
   * [2.8 Overlearning, Chocking, Einstellung, and Interleaving](#28-overlearning-chocking-einstellung-and-interleaving)
   * [2.9 Summary Week 2](#29-summary-week-2)
-  * [2.10](#210)
-  * [2.11](#211)
-  * [2.12](#212)
+  * [2.10 Interview with Dr. Norman Fortenberry - Learning at MIT](#210-interview-with-dr-norman-fortenberry---learning-at-mit)
+  * [2.11 Interview with Scott Young, a "Marco Polo" of Learning](#211-interview-with-scott-young-a-marco-polo-of-learning)
+  * [2.12 Interview with author, Amy Alkon](#212-interview-with-author-amy-alkon)
   * [3.1 Introduction to Procrastination and Memory](#31-introduction-to-procrastination-and-memory)
   * [3.2 Tackling Procrastination: It’s easier and more valuable than you think](#32-tackling-procrastination-its-easier-and-more-valuable-than-you-think)
   * [3.3 Zombies Everywhere](#33-zombies-everywhere)
@@ -44,6 +48,9 @@ tags: Notes Ongoing
   * [3.9 What is Long Term Memory?](#39-what-is-long-term-memory)
   * [3.10 Creating Meaningful Groups and the Memory Palace Technique](#310-creating-meaningful-groups-and-the-memory-palace-technique)
   * [3.11 Summary Week 3](#311-summary-week-3)
+  * [3.12 Interview with 4 Time US Memory Champion Nelson Dellis](#312-interview-with-4-time-us-memory-champion-nelson-dellis)
+  * [3.13 Interview with Dr. Robert Gamache, an Award-winning Bilingual Scientist](#313-interview-with-dr-robert-gamache-an-award-winning-bilingual-scientist)
+  * [3.14 Interview with Keith Devlin from Stanford, the NPR "Math Guy"](#314-interview-with-keith-devlin-from-stanford-the-npr-math-guy)
   * [4.1 How to Become a Better Learner](#41-how-to-become-a-better-learner)
   * [4.2 Introduction to Renaissance Learning and Unlocking Your Potential](#42-introduction-to-renaissance-learning-and-unlocking-your-potential)
   * [4.3 Create a Lively Visual Metaphor of Analogy](#43-create-a-lively-visual-metaphor-of-analogy)
@@ -55,6 +62,11 @@ tags: Notes Ongoing
   * [4.9 Final Helpful Hints for Tests](#49-final-helpful-hints-for-tests)
   * [4.10 Summary Week 4](#410-summary-week-4)
   * [4.11 Wrap Up to the Course by Terrence Sejnowski and Barbara Oakley](#411-wrap-up-to-the-course-by-terrence-sejnowski-and-barbara-oakley)
+  * [4.12 How NOT to Take a Test, Interview with Dr. Richard Felder and Dr. Rebecca Brent](#412-how-not-to-take-a-test-interview-with-dr-richard-felder-and-dr-rebecca-brent)
+  * [4.13 Learning Something New, Interview with Dr. Richard Felder and Dr. Rebecca Brent](#413-learning-something-new-interview-with-dr-richard-felder-and-dr-rebecca-brent)
+  * [4.14 The Imposter Syndrome and Dealing with Procrastination, Interview with Dr. Richard Felder and Dr. Rebecca Brent](#414-the-imposter-syndrome-and-dealing-with-procrastination-interview-with-dr-richard-felder-and-dr-rebecca-brent)
+  * [4.15 Writer John Maguire (readablewriting.com) on the Importance of Putting Objects in Your Writing](#415-writer-john-maguire-readablewritingcom-on-the-importance-of-putting-objects-in-your-writing)
+  * [4.16 Interview with William Craig Rice on learning in the humanities](#416-interview-with-william-craig-rice-on-learning-in-the-humanities)
 * [Transcript - Mindshift](#transcript---mindshift)
   * [1-1 Introduction – About Mindshift](#1-1-introduction--about-mindshift)
   * [1-2 The Value of Being a Slow Learner](#1-2-the-value-of-being-a-slow-learner)
@@ -310,6 +322,59 @@ We've had a lot of fun while learning this week, I'll bet you'll find next week'
 Hi, I'm Mary Anne, one of the TA's for the Learning How to Learn Course. The first module is almost over and I would like to take a minute to encourage you. I can tell you from my own experience this course has changed how I study and learn. Before this course I would study hard, but no matter how much I studied I couldn't retain what I learned. Honestly, I thought there was something wrong with me. Then I took this course and I found out it was the way I was learning, or thought I was learning, that was the problem. All these years of schooling, including an undergraduate degree, and a master’s degree and I never had one instructor show me what the instructors in this course share with us. Using the techniques I learned in this course, I now know how to retain the information I want to learn. Participants in other courses sometimes drop the first week. But don't do that in this course. You will lose out on an opportunity of a lifetime. Knowing how we can learn effectively is a life skill everyone needs, no matter where we are in life. It's never too late. If you see me in the discussion forum, say hello. I'd love to hear your thoughts and how we can help each other learn, how to learn.
 
 嗨，我是Mary Anne，是《学习如何学习》课程的助教之一。第一模块快结束了，我想花一点时间鼓励你们。根据我的亲身经历，我可以告诉你们，这门课程改变了我的学习方式。在上这门课之前，我非常努力地学习，但不管我学了多少，我都无法记住所学的内容。坦白说，我以为是我自己有问题。后来，我参加了这门课程，发现问题其实出在我的学习方式上，或者说是我认为的学习方式。多年来的求学经历，包括本科和硕士学位期间，都没有一个老师像这门课程的老师们一样，向我们分享这些学习技巧。通过这门课程学到的技巧，我现在知道如何记住我想学习的信息了。其他课程的学员有时会在第一周就退出，但请不要在这门课程中这样做。你将失去一次难得的机会。学习如何高效学习是每个人都需要的生活技能，无论我们处于人生的哪个阶段，学习永远不嫌晚。如果你在讨论区看到我，记得打声招呼。我很想听听你的想法，以及我们如何互相帮助学习如何学习。
+
+### 1.12 Interview with "Benny the Irish Polyglot" about Learning Languages
+
+### 1.13 Interview with Dr. Robert Bilder on Creativity and Problem Solving
+
+### 1.14 Interview with Writing Coach Daphne Gray-Grant
+
+### 1.15 A Posting about Anxiety, Depression and PTSD from a learner in Learning How to learn
+
+I know these are topics that many might not want to talk about.  My family and friends certainly do not want to talk about these topics with me. 
+
+我知道这些话题可能让许多人感到不适。我的家人和朋友也不愿意和我讨论这些内容。
+
+I am dealing with trauma and suffer from severe depression, anxiety and PTSD.  Until recently I was working full time (currently I am on sick leave) and by many I was considered to be completely healthy and high functioning and in a sense, from certain perspectives, I was.  In social contexts,  peer and manager reviews at work and family gatherings I did everything that everyone expected of me and what I understood as being ‘successful’ in the eyes of the corporate and academic world.  I excelled in university, a top performer at my job and also my friends would ALL describe me as fun and outgoing and smart and a hard worker. But I have suffered from these major afflictions for much of my adult life and have just never really been able to make strong headway despite all the investigation, doctors, medication, self awareness programs, years of meditation, research studies and experiments I have tried on myself and undertaken. 
+
+我正在处理创伤，同时患有严重的抑郁、焦虑和PTSD。直到最近，我还在全职工作（目前正在病假中）。许多人认为我是完全健康且高功能的，从某些角度来说，这确实是事实。在社交场合、同事和经理的评价中，以及家庭聚会中，我做了所有人期待我做的事情，也达到了企业和学术界所谓“成功”的标准。我在大学中表现优异，是工作中的顶尖员工，朋友们都认为我是一个有趣、外向、聪明且努力工作的人。然而，多年来，我一直饱受这些重大困扰的折磨，无论我尝试了多少调查、医生、药物、提高自我意识的计划、多年的冥想、研究和自我实验，都无法取得实质性进展。
+
+Now, through Barbara Oakley and Terrence Sejnowski's course, I have learned that procrastination is strongly tied to my afflictions.  Procrastination for me is linked to ‘experiential avoidance’ and a strong internal critic that is at many times not quite capable of being flexible or kind when faced with product outcomes.  To say I am a perfectionist is an understatement, and perfectionism is a label that unfortunately does not do its human companions justice.  The word ‘perfectionist’ in my opinion is too easily applauded by some and too often considered ‘cute and neurotic’ by others.  In my case perfectionism is a label that covers up a deep underlying need for safety, understanding and avoidance of shame and uncomfortable experiences.
+
+现在，通过Barbara Oakley和Terrence Sejnowski的课程，我了解到拖延与我的这些困扰息息相关。对我来说，拖延与“体验性回避”和严厉的内在批评者密切相关，而这个内在批评者在面对成果时常常缺乏灵活性和宽容。说我是个完美主义者并不足以概括，而“完美主义”这个标签往往无法公正地描述其对人的影响。在我看来，“完美主义”这个词有时过于轻易地被人赞美，也常常被视为“可爱又神经质”。对我来说，完美主义是一个掩盖深层需求的标签，这些需求包括安全感、理解，以及对羞耻感和不适经历的回避。
+
+Through this course I have found the information on habits, focus on process vs product, using willpower ONLY to overcome the first bit of response to the cue, Pomodoro technique, rewards, diffuse mode, and importance of sleep, to name just a few concepts explored in Learning How to Learn, so immensely useful and applicable to my symptoms.  Each of these concepts keep me grounded to a theory that avoids mental health labels and instead values accessible work process steps.  
+
+通过这门课程，我学到了许多关于习惯、过程与成果的关注、仅利用意志力来应对触发的初始反应、番茄工作法、奖励、扩散模式，以及睡眠重要性等内容。这些概念对我的症状极具实用性和适用性。这些理念让我摆脱了心理健康标签，转而专注于可操作的工作流程。
+
+I have cancelled several commitments since this course has started so that I could stay home and take notes on video lectures and do my Pomodoros (on my to do list I write down the number of Pomodoros I am going to apply on each topic instead of a length of minutes or hours, I just like writing '2 pomodoros' ;)  And I feel fantastic!  Really, there is nothing that has helped my mood, sleep, eating, anxiety, feelings of guilt/shame etc than making small 'process oriented' to do lists for myself and accomplishing them without focus on the actual product.  After doing two Pomodoros with a break in-between I feel like I can just keep going, bring it on, bring on more (okay, well it took a few days to get to that level of excitement, but I got there). 
+
+自从开始这门课程以来，我取消了几项承诺，留在家中做笔记并实践番茄工作法（在我的待办事项列表中，我会写下计划在每个主题上使用的番茄时间数量，而不是具体的分钟或小时数，我喜欢写“2个番茄”）。这种方法让我感觉非常棒！实际上，没有什么比为自己制定“过程导向型”的待办事项清单并完成它们更能改善我的情绪、睡眠、饮食、焦虑以及内疚/羞耻感了。在完成两个番茄并休息后，我觉得自己可以继续下去，就像“来吧，再多点也没关系！”（好吧，这种兴奋感花了几天时间才达到，但我确实做到了）。
+
+Depression/anxiety/trauma/PTSD (I am not comparing them or putting them in one group, its just easier to write them like that) greatly affect one’s ability to concentrate, read, focus and keep things in memory.  The fact I am retaining and understanding and making links through my work in this course is simply blowing me away.  It is a testament to the evidence and facts presented via this course and the techniques that are advocated. 
+
+抑郁、焦虑、创伤和PTSD（我并不是在比较它们或将它们归为一类，只是写起来更方便）严重影响了一个人集中注意力、阅读、专注和记忆的能力。我现在能够通过这门课程理解并建立起各种联系，这令我震惊。这是对课程所呈现的证据和技巧的有力证明。
+
+
+One of the key reasons this course and the information presented has had such an impact on me and touched me so deeply where other books/group therapy etc could not is that Dr. Oakley has a very gentle, smiling, kind demeanor to her that I felt extremely safe with.  Meaning I literally found it a pleasure to listen to her voice and watch her and see her presence in the videos.  I felt like I was working with a kind teacher and, for me, it took me back to grade school days where I felt like I could do anything and the teachers really believed in me and I was not afraid of them.  Dr. Oakley’s voice tone, facial expressions and body gestures all helped contribute to a sense of safety and authenticity I valued and believed as I listened to and watched her video lectures. 
+
+这门课程及其内容对我的深远影响，部分原因在于Dr. Oakley温和、友善且带有微笑的教学风格让我感到极为安全。听她的声音，看她的视频，我感到如同在与一位亲切的老师合作。这让我回想起小学时代，那个时候我觉得自己可以做任何事情，老师们真正相信我，我也不会害怕他们。Dr. Oakley的语气、面部表情和肢体动作让我感受到一种安全感和真实性，这对我来说非常重要。
+
+I have learned in this course various ideas about how habit, pain avoidance, procrastination have all made my depression and anxiety worse. Yes I knew these things 'intuitively' but to have them presented by a professor from a major institution working in a non-mental health domain while simultaneously providing us links to numerous  research articles and doing this all with a gentle and encouraging voice and approach has made all the difference to me. (I also do not underestimate the value of 'good timing', meaning the timing/occasion of coming across this course and its approach to learning strategies in this stage of my life is fortunate.) Knowing that Dr. Oakley was faced with her own challenges and discomfort when learning math to which she applied self compassion and kindness alongside science and theory makes the messages and concepts taught in her lectures quite believable.  Dr. Oakley actually comes across as though she practices what she preaches and that makes a huge difference in the eyes of individuals who have tried a whole gamut of techniques and in some ways feel they are always being sold the ‘next bill of goods’.   
+
+我在这门课程中学到了关于习惯、痛苦回避、拖延如何加剧我的抑郁和焦虑的各种见解。是的，我“直觉上”知道这些事情，但由一位主要学术机构的教授用非心理健康领域的视角来阐述这些内容，同时提供了大量研究文章链接，并用温和鼓励的语气传递这些信息，这对我来说完全不同。了解Dr. Oakley在学习数学时也面临过挑战，并对自己施以自我同情与科学理论结合的实践，让她在讲座中传达的内容更加令人信服。
+
+I am so moved by this course and the way the material was presented. The additional lectures/interviews with third parties and other professors at other institutions has further made me trust Dr. Oakley and Dr. Sejnowski and believe in the material and therefore really apply it to my own life.  To be willing to summon up the 'will power' to make a different choice when the cue is presented is very challenging when battling major depression etc, but it is not impossible and I am so thankful to the instructors, TA's and everyone participating in this course. 
+
+这门课程中提供的额外讲座以及与第三方和其他大学教授的访谈进一步增强了我对Dr. Oakley和Dr. Sejnowski的信任，也让我更加相信这些内容，并真正应用到自己的生活中。当面对触发点时，要鼓起“意志力”选择不同的反应，这对正在与重度抑郁作斗争的人来说是极具挑战的，但并非不可能。我非常感激这门课程的老师、助教以及所有参与者。
+
+(I am of course posting this anonymously because of the stigma around the topics.  Hey, if my own family and friends don't want to talk about it, you can pretty much understand what stigma is capable of doing.  So please forgive me for having to post anonymously.  I am sure there are other people in the same boat as me and I do not wish to disrespect them by posting Anon.  I hope they will understand.) 
+
+（由于这些话题的污名化，我当然是匿名发布的。如果连我的家人和朋友都不愿意谈论这些问题，那么你大概可以理解污名化的威力。因此，请原谅我的匿名。我相信还有许多像我一样的人，我并不希望通过匿名发布对他们表示不尊重，我希望他们能够理解。）
+
+So for me, this course is life changing in a very fundamental way.  I will never look at the diagnosis of 'depression, anxiety, PTSD’ the same again. I am seeing and feeling in myself all sorts of links between experiential avoidance, pain tolerance and reaction to cues and I am wondering how many others like me are battling the medical system and mental health care system and we just haven't come across the message in a way that has made sense to us.  I feel there are many of us that can benefit from a course like this focused on habits, concentration modes, memory, response to cue, pain tolerance etc from a 'general learning' standpoint rather than a 'mental health' standpoint, in order to understand and make links to our own experience.  Getting these messages presented in a different way, a different context has hit home for me.  THANK YOU, more than I can articulate in this post.
+
+对我而言，这门课程在非常基础的层面上改变了我的生活。我将永远不会以同样的方式看待“抑郁、焦虑、PTSD”的诊断。我在自己身上看到了许多关于体验性回避、痛苦耐受力和对触发的反应之间的联系。我在想，有多少像我这样的人正在与医疗系统和心理健康系统作斗争，只是还没有遇到能够以让我们理解的方式传递信息的机会。我相信有许多人可以从这样一门关注习惯、注意力模式、记忆、触发反应和痛苦耐受力的课程中受益，而不是从“心理健康”角度出发，而是从“普通学习”角度来理解并与自己的经验建立联系。用一种不同的方式和背景传递这些信息，让我深有感触。
 
 ### 2.1 Introduction to Chunking.
 
@@ -579,11 +644,11 @@ The Law of Serendipity is helpful – Lady Luck favors the one who tries. Just p
 
 机缘法则很有帮助——幸运女神偏爱那些尝试的人。只需选择一个小的学习内容，然后再选一个。继续尝试，你会对结果感到惊喜。我是Barbara Oakley。感谢你学习关于学习的内容。
 
-### 2.10
+### 2.10 Interview with Dr. Norman Fortenberry - Learning at MIT
 
-### 2.11
+### 2.11 Interview with Scott Young, a "Marco Polo" of Learning
 
-### 2.12
+### 2.12 Interview with author, Amy Alkon
 
 ### 3.1 Introduction to Procrastination and Memory 
 
@@ -778,6 +843,12 @@ We have outstanding visual and spatial memory systems. If you tap into those sys
 
 Another key to memorization is to create meaningful groups that simplify the material. Try associating numbers with years or with systems you're familiar with like running times. Many disciplines use memorable sentences. The memory palace technique, placing memorable images in a scene that's familiar to you, allows you to dip into the strength of your visual memory system, providing a particularly powerful way of grouping things you want to remember. By making meaningful groups and abbreviations, you can simplify and chunk what you're trying to learn so you can more easily store it in memory. And by memorizing material you understand, you can internalize the material in a profound way. You're reinforcing the mental library you need to become a genuine master of the material. Happy memories! 
 另一个记忆的关键是创建有意义的组，以简化材料。试着将数字与年份或你熟悉的系统（比如跑步时间）联系起来。许多学科使用易于记忆的句子。记忆宫殿技巧允许你在熟悉的场景中放置可记忆的图像，利用你视觉记忆系统的优势，这是分组你想记住的内容的一种特别强大的方法。通过创建有意义的组和缩写，你可以简化和分块你正在学习的内容，从而更容易将其存储在记忆中。通过记忆你理解的材料，你可以深刻内化这些内容，强化你成为真正掌握该材料所需的心理库。祝你记忆愉快！
+
+### 3.12 Interview with 4 Time US Memory Champion Nelson Dellis
+
+### 3.13 Interview with Dr. Robert Gamache, an Award-winning Bilingual Scientist
+
+### 3.14 Interview with Keith Devlin from Stanford, the NPR "Math Guy"
 
 
 
@@ -974,8 +1045,6 @@ Your mind can trick you into thinking that what you've done is correct even if i
 And finally, remember that not getting enough sleep the night before a test can negate any other preparation you've done.
 睡眠重要性：最后，记得前一晚没有充足的睡眠可能会抵消你所做的其他准备。
 
-
-
 ### 4.11 Wrap Up to the Course by Terrence Sejnowski and Barbara Oakley 
 
 *Dr. Sejnowski*: Welcome to the last video of Learning How to Learn. If you're still listening to us, then you've come all the way through the course. And may remember at the beginning, I said that brains do not come with an instruction manual. So we have to write one ourselves. And that was one of our goals. In this final video, we want to tell you how much we've enjoyed teaching and learning. We've learned from you as we hoped you've learned from us. The truth is you've always been in the driver's seat when it comes to your own learning. But now that you have a better feeling for what's under your neural hood, you can use this to help you learn new things all during your lifetime. *Dr. Oakley*: What we're hoping is that as the days and months will pass you'll continue to bring to mind some of the key ideas you've learned in the course. Approaches such as switching your mode of thinking from focused to diffuse can help reduce your frustration and allow for more creative problem solving. Strengthening your chunking can give you a firmer grasp of the material. Even seemingly tiny changes in your daily approach to your work. Using the pomodoro technique, for example, can make a dramatic long-term difference in your learning and in your ultimate success. *Dr. Sejnowski*: Learning is so vitally important to our future that most of us spend 12 to 16 of our earliest years of our lives in school, culminating in high school or college. But the focus in formal education is on the product of learning, not the process of learning. In this course, we've tried to give you a better sense of the learning process. Although this is our last video, we hope it's not our last chance to influence you. You have not truly learned something unless you can teach it to others. Teach those ideas to others and you will find that they will continue to resonate and deepen in your own mind. *Dr. Oakley*: We hope you'll also have discovered how powerful these ideas can be at helping you broaden your interest, passion, and expertise. Many people believe that what they're initially, sort of, naturally good at is what they're supposed to be doing in life. But I myself am living proof that passions can broaden, change, and grow. The world is evolving and a broad tool kit that allows you to learn effectively in many different subject areas is one of the most powerful assets you can have. *Dr. Sejnowski*: Best of luck in your life of learning. *Dr. Oakley*: Ditto that.
@@ -990,6 +1059,19 @@ And finally, remember that not getting enough sleep the night before a test can 
 *Dr. Sejnowski*：祝你在学习的道路上一切顺利。
 
 *Dr. Oakley*：我也同样祝福你。
+
+### 4.12 How NOT to Take a Test, Interview with Dr. Richard Felder and Dr. Rebecca Brent
+
+### 4.13 Learning Something New, Interview with Dr. Richard Felder and Dr. Rebecca Brent
+
+
+### 4.14 The Imposter Syndrome and Dealing with Procrastination, Interview with Dr. Richard Felder and Dr. Rebecca Brent
+
+
+### 4.15 Writer John Maguire (readablewriting.com) on the Importance of Putting Objects in Your Writing
+
+### 4.16 Interview with William Craig Rice on learning in the humanities
+
 
 ## Transcript - Mindshift
 
