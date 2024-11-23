@@ -1,17 +1,15 @@
 ---
 layout: post
+title: Curriculum Vitae
 post_list: false
 toc: false
-comment: true
+comment: false
 home_btn: true
 btn_text: true
-footer: true
+footer: false
 highlight: false
 permalink: /cv
 ---
-
-# Curriculum Vitae
-
 ## RUBBISH WITH NO VALUE 
 
 <img src="src/assets/img/rubbish.png" align="right" width="95px" hspace="5" vspace="5">
