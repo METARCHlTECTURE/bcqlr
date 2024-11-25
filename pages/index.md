@@ -10,7 +10,7 @@ highlight: false
 permalink: /
 ---
 
-<h1 class="index_title">HERE'S A RUBBISH BIN 🗑</h1>
+<h1 class="index_title">ONLY A RUBBISH BIN HERE 🗑</h1>
 
 <br>
 
