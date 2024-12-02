@@ -19,7 +19,6 @@ E.G.
 
 ## HTML5
 
-子模块不以用途分割，而以功能分割。
 
 ### 1. **Semantic Structure**
    - Use HTML5 semantic tags like `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`, and `<aside>` to structure your document meaningfully.
