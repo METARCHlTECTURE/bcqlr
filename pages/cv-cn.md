@@ -3,12 +3,12 @@ layout: post
 title: Curriculum Vitae
 post_list: false
 toc: false
-comment: false
+comment: true
 home_btn: true
 btn_text: true
 footer: false
 highlight: false
-permalink: /cv
+permalink: /cv-cn
 ---
 ## 毫无价值的垃圾残渣
 
@@ -16,54 +16,54 @@ permalink: /cv
 
 **[资深垃圾]**
 
-<i class="fa fa-trash"> **垃圾箱** \| *腥臭镇, 大荒漠, 000000*  
+<i class="fa fa-trash"> **联排垃圾箱** \| *腥臭小镇, 巨大荒漠, 000000*  
 
-<i class="fa fa-envelope-square"> valueless@trash.com \| <i class="fa fa-phone"> +1145141919 \| <i class="fa fa-linkedin">毫无价值的垃圾残渣  \| <i class="fa fa-home"> 个人主页: [垃圾箱](https://bcqlr.com)
-
-
-## PROFESSIONAL SUMMARY  
-
-*"Totally a piece of trash, useless and incapable, aiming high but achieving little, and shallow in knowledge... In short, totally a piece of trash."*
-
-*"I crawl ignorantly on the ground, like a blind reptile, writhing toward endless madness and despair."*
-
-## SKILLS 
-
-- `SKILL 1`: *"Pretend to work hard."*
-- `SKILL 2`: *"Addicted to short videos."*
-- `SKILL 3`: *"Lazy and indulgent."*  
-- `SKILL 4`: *"Love to talk big but never take action."*
+<i class="fa fa-envelope-square"> valueless@trash.com \| <i class="fa fa-phone"> +1145141919 \| <i class="fa fa-linkedin">毫无价值的垃圾残渣  \| <i class="fa fa-home"> 个人主页: [大垃圾箱](https://bcqlr.com)
 
 
-## EXPERIENCE  
+## 个人简述
 
-#### CURLED UP IN A TRASH CAN.  
+*“总而言之，完全是个垃圾。百无一用，眼高手低，学识浅薄……总之，完全就是个垃圾。”*
 
-*"Trash can", everywhere on the street*
+*“我在地上无知地爬行，像一只瞎了眼的爬虫；向着无尽的疯狂和绝望涌动……”*
 
-`[??,20??] – [Eternity]` 
+## 技能列表
 
-- *"Watching people on the street rushing back and forth."*
-- *"Picked up a cold burger from the trash can. Exhaled a breath through the nostrils, then felt a chill slowly glide down the esophagus."*
-- *"Night falls. The noisy streets return to silence. I look up at the sky."*
+- `技能 1`: *“假装在工作”*
+- `技能 2`: *“沉迷短视频”*
+- `技能 3`: *“懒惰没毅力”*  
+- `技能 4`: *“语言的巨人，行动的矮子”*
 
 
-#### EDUCATION  
+## 履历  
 
-**Bachelor of Science in Playing Dead**
+#### `蜷曲在垃圾箱里` 
 
-*University of Ignorance and Despair, Vast Desert*
+*"垃圾箱"，在街边随处可见*
+
+`[??,20??] – [永恒]` 
+
+- *看着人们在街上匆忙地走来走去。*
+- *从垃圾箱里捡起一个寒冷的汉堡。从鼻孔中呼出一口气，然后感受到食道中滑过的一线冰凉。*
+- *夜晚。喧哗的街道回归沉静。我看向天空。*
+
+
+#### `教育经历`
+
+**“装死学”理学学士**
+
+*无知疯狂大学，巨大荒漠*
 
 `[??,18??] – [??,19??]`
-  - GPA: 2.71 - *"I tried."*
-  - Graduation Thesis: *On How to Make Everyone a Wonderful, Kind, and Better-Version-of-Themselves Trash*.
+  - GPA: 2.71 - *“我试过了，或许。”*
+  - 毕业论文: *《如何让每个垃圾都变得更好、更善良》*.
 
-## **CERTIFICATIONS & AWARDS**
+## 证书和奖项
 
-- **"See! There stands a tall pile of trash!"** - *A lively little boy passes by*
-- **"So smelly."** - *A lady in high heels walks by, I couldn't see her face clearly*
+- **"看哪，那里站着好高好大一个垃圾！"** - *路过的活泼男孩*
+- **"好臭！"** - *一个匆匆走过的高跟鞋女士；我没看清她的脸*
 
-## LANGUAGES  
+## 使用语言  
 
-**ENGLISH**: "But I have nothing to say."
+**汉语**: “但我无话可说。”
 

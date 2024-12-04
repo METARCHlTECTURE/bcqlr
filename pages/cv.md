@@ -58,7 +58,7 @@ permalink: /cv
   - GPA: 2.71 - *"I tried."*
   - Graduation Thesis: *On How to Make Everyone a Wonderful, Kind, and Better-Version-of-Themselves Trash*.
 
-## **CERTIFICATIONS & AWARDS**
+## CERTIFICATIONS & AWARDS
 
 - **"See! There stands a tall pile of trash!"** - *A lively little boy passes by*
 - **"So smelly."** - *A lady in high heels walks by, I couldn't see her face clearly*
