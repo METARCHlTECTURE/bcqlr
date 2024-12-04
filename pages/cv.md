@@ -41,7 +41,7 @@ permalink: /cv
 
 *"Trash can", everywhere on the street*
 
-`[??,20??] – [Present] ` 
+`[??,20??] – [Eternity]` 
 
 - *"Watching people on the street rushing back and forth."*
 - *"Picked up a cold burger from the trash can. Exhaled a breath through the nostrils, then felt a chill slowly glide down the esophagus."*

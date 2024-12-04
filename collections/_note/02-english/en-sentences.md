@@ -1,9 +1,26 @@
 ---
-title: Long Sentences
+title: Long Sentences in English
 categories: 02-English
 tags: Notes
 ---
 
+## The Philosophier's Toolkit
+
+### Chapter 1
+
+The reason philosophers are nit-pickers is  
+that they are commonly concern with the ways in  
+which the claims and beliefs  
+people hold about the world  
+either are or are not rationally supported,  
+usually by rational argument.
+
+Often one can discern the difference between good and bad reasoning  
+only if (they) scrutinises the content and structure of argument with supreme and uncompromising diligence.
+
+> scrutinise ['skru:tənaɪz] v.仔细查看；认真检查；细致审查  
+> uncompromising [ʌnˈkɒmprəˌmaɪzɪŋ] adj.不让步的；不妥协的；强硬的  
+> diligence [ˈdɪlɪdʒ(ə)ns] n.勤奋；勤勉；用功
 
 ## Yes, Minister
 
@@ -31,5 +48,3 @@ within Her Majesty's United Kingdom of Great Britain and Northern Ireland. 削�
 > atrophy  ['ætrəfɪ] n.【医学】萎缩症；【生物学】衰退；退缩；生长停止 v.(使)萎缩；(使)虚脱  
 > paralysis [pə'ræləsɪs] n.麻痹；瘫痪；（活动、工作等）能力的完全丧失  
 > Majesty  ['mædʒəsti] n.威严；庄严；王权；雄伟壮观
-
-## 
