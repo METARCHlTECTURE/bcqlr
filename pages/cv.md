@@ -55,7 +55,7 @@ permalink: /cv
 *University of Ignorance and Despair, Vast Desert*
 
 `[??,18??] – [??,19??]`
-  - GPA: 2.71 - *"I tried."*
+  - GPA: 1.01 - *"I tried."*
   - Graduation Thesis: *On How to Make Everyone a Wonderful, Kind, and Better-Version-of-Themselves Trash*.
 
 ## CERTIFICATIONS & AWARDS
