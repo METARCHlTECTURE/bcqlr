@@ -2,6 +2,8 @@
 title: Master all Computer Languages in One Shot
 ---
 
+<!-- 关键概念：计算机是理式和概念的世界 -->
+
 ## We'll Start at Once, No Preface
 
 Let's establish this great goal with 2 topics:
