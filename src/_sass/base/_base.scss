@@ -8,38 +8,44 @@ body {
 }
 h1 {
   font-size: $font-size-h1;
-  text-align: center !important;
   font-weight: lighter;
+  text-align: center !important;
+  text-transform: uppercase;
   margin: 1.6em 0 1.5em 0;
   cursor: $cursor-green-text;
 }
 h2 {
+  color: $color-third;
   font-size: $font-size-h2;
   font-weight: lighter;
   margin: 1.6em 0 0.8em 0;
-  border-bottom: $secondary-border;
+  border-bottom: $dotted-border-2;
   cursor: $cursor-green-text;
 }
 h3 {
+  color: $color-third;
   font-size: $font-size-h3;
   font-weight: lighter;
   margin: 1.6em 0 0.8em 0;
-  border-bottom: $dotted-border;
+  border-bottom: none;
   cursor: $cursor-green-text;
 }
 h4 {
+  color: $color-third;
   font-size: $font-size-h4;
   font-weight: lighter;
   margin: 1.6em 0 0.8em 0;
   cursor: $cursor-green-text;
 }
 h5 {
+  color: $color-third;
   font-size: $font-size-h5;
   font-weight: lighter;
   margin: 2em 0 0.6em 0;
   cursor: $cursor-green-text;
 }
 h6 {
+  color: $color-third;
   font-size: $font-size-h6;
   font-weight: lighter;
   margin: 2em 0 0.6em 0;

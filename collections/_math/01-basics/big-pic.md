@@ -188,7 +188,14 @@ Serge Lang
 Abstract Algebra (Graduate Texts in Mathematics, 242) Softcover reprint of hardcover 2nd ed. 2007 Edition
 Pierre Antoine Grillet
 
+Contemporary Abstract Algebra 这本教材很通俗易读，中学生也完全可以读懂，但是从数学专业来看，有些啰嗦，抽象程度不够。如果你本身数学基础一般的话，可以考虑用这本书作为代数的入门书。
 
+代数里有一本书，amazon评价很高，就是 Algebra: Chapter 0 作者是 Paolo Aluffi，该书的特点是用范畴的观点贯穿全书，很现代，而且起点很低，低到什么程度，作者在群论部分，故意不使用带余除法定理，这是一个很基本的定理，可能小学生都知道。为什么不使用呢？原因是作者不假定读者已经知道这个定理。但是不要真的认为小学生能读懂此书，实际上这是一本数学研究生教科书，起点低，或者说对数学知识的要求低，不代表这本书容易读，实际上要读懂这本书，需要有一定的mathematical maturity，很多数学书都是这样，不需要读者懂很多数学，但是就是读不懂，原因就是读者的mathmatical maturity不够。还有要说明一点，这本书有很多typo，所以读前先到作者的官网上去看勘误表，不然会产生很多不必要的误解。电子版在这里可以买到https://bookstore.ams.org/gsm-104/  大概是七十多美金，你需要有一张可以刷美元的信用卡，当然不支持支付宝。
+
+作者：無雙
+链接：https://www.zhihu.com/question/366915371/answer/1229144590
+来源：知乎
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
 #### Linear Algebra
 
