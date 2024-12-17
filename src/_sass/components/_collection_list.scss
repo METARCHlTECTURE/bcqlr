@@ -1,14 +1,10 @@
-@use "sass:color";
-@use "../abstracts/mixins";
-@use "../abstracts/variables";
-
 .collection_list_container {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  background: color.mix(rgba(variables.$color-primary, 0.6), rgba(variables.$color-bg, 0.6));
+  background: mix(rgba($color-primary, 0.6), rgba($color-bg, 0.6));
   visibility: hidden;
   z-index: 4;
   text-align: center;
@@ -34,26 +30,26 @@
   margin: 0 auto;
   overflow: none;
   box-sizing: border-box; // interior border
-  background-color: rgba(variables.$color-postbg, 0.9);
-  border: variables.$secondary-border;
+  background-color: rgba($color-postbg, 0.9);
+  border: $secondary-border;
   .collection_list_header {
-    height: variables.$collection-list-header-size;
+    height: $collection-list-header-size;
     text-align: left;
     padding: 0;
-    border-bottom: variables.$secondary-border;
+    border-bottom: $secondary-border;
     .collection_list_header_title {
       height: auto;
       width: auto;
       display: inline-block;
       margin: 0;
       padding: 0;
-      font-size: variables.$collection-list-header-size * 0.65;
+      font-size: $collection-list-header-size * 0.65;
       border: 0;
       tbody {
         border: none;
       }
       td {
-        height: variables.$collection-list-header-size;
+        height: $collection-list-header-size;
         padding: 0 0 0 0.4em;
         vertical-align: middle;
       }
@@ -62,25 +58,25 @@
       }
     }
     .close_btn {
-      height: variables.$collection-list-header-size;
-      width: variables.$collection-list-header-size;
+      height: $collection-list-header-size;
+      width: $collection-list-header-size;
       right: 0;
       display: inline-block;
       position: absolute;
       text-align: center;
       vertical-align: middle;
-      border-left: variables.$secondary-border;
-      @include mixins.simple_link_style;
+      border-left: $secondary-border;
+      @include simple_link_style;
     }
     .close_btn_icon {
-      font-size: variables.$collection-list-header-size * 0.68;
+      font-size: $collection-list-header-size * 0.68;
     }
     .search_btn {
-      color: variables.$color-warning !important;
+      color: $color-warning !important;
     }
   }
   .collection_name_list {
-    top: 28px + variables.$collection-list-header-size;
+    top: 28px + $collection-list-header-size;
     bottom: 28px;
     width: 25%;
     height: auto;
@@ -88,7 +84,7 @@
     margin: 0;
     overflow-x: hidden;
     text-align: end;
-    @include mixins.thin_scrollbar;
+    @include thin_scrollbar;
     td {
       padding: 0;
     }
@@ -102,7 +98,7 @@
     }
   }
   .posts_by_cate {
-    top: 28px + variables.$collection-list-header-size;
+    top: 28px + $collection-list-header-size;
     bottom: 28px;
     left: 25%;
     right: 0;
@@ -113,7 +109,7 @@
     overflow-x: hidden;
     overflow-y: hidden;
     text-align: left;
-    border-left: variables.$thin-border;
+    border-left: $thin-border;
     td {
       padding: 0;
     }
@@ -135,7 +131,7 @@
       bottom: 0;
       overflow-x: hidden;
       visibility: collapse;
-      @include mixins.thin_scrollbar;
+      @include thin_scrollbar;
     }
   }
   .vertical_center_table {
@@ -156,25 +152,25 @@
   // left part
   .a_collection_label {
     padding: 0;
-    font-size: variables.$font-size-h3;
+    font-size: $font-size-h3;
     line-height: 160%;
     text-transform: capitalize;
     padding: 5px 0;
-    @include mixins.simple_link_style;
+    @include simple_link_style;
   }
   // right part
   .a_title {
     padding: 0;
-    font-size: variables.$font-size-primary;
+    font-size: $font-size-primary;
     line-height: 150%;
-    @include mixins.simple_link_style;
+    @include simple_link_style;
   }
   // labels of "all" collections in right part
   .h_collection_label {
     margin: 0 0 0.5em 0;
-    font-size: variables.$font-size-h6;
+    font-size: $font-size-h6;
     text-transform: capitalize;
-    border-bottom: variables.$thin-border;
+    border-bottom: $thin-border;
   }
 }
 

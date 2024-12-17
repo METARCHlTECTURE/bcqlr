@@ -1,10 +1,8 @@
-@use "../abstracts/mixins";
-
 // post-list
 .post_list {
   .td_title {
     text-transform: capitalize;
-    @include mixins.simple_link_style;
+    @include simple_link_style;
   }
   .td_date {
     max-width: 100px;

@@ -1,16 +1,14 @@
-@use "../abstracts/variables";
-
 .post_info {
   text-align: right;
   padding: 0 50px;
-  font-size: variables.$font-smaller;
+  font-size: $font-smaller;
   margin: 0;
 }
 .abstract {
-  font-size: variables.$font-smaller;
-  color: rgba(variables.$color-primary, 0.9);
+  font-size: $font-smaller;
+  color: rgba($color-primary, 0.9);
   padding: 1.1em 2.8em;
   p {
-    border-bottom: variables.$thin-border;
+    border-bottom: $thin-border;
   }
 }

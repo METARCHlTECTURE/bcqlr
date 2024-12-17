@@ -1,48 +1,44 @@
-@use "../abstracts/fonts";
-@use "../abstracts/mixins";
-@use "../abstracts/variables";
-
 // syntax highlight by rouge
 // list of tokens: https://github.com/rouge-ruby/rouge/wiki/List-of-tokens
 
 .highlight {
   overflow: hidden;
   word-wrap: break-word;
-  color: variables.$code-primary;
-  font-family: fonts.$font-monospace;
-  font-size: variables.$font-smaller;
+  color: $code-primary;
+  font-family: $font-monospace;
+  font-size: $font-smaller;
   line-height: 1.3;
   padding: 5px 5px 7px 5px;
   .w /* specially highlighted whitespace */ {
-    color: rgba(variables.$code-background, 0.6);
+    color: rgba($code-background, 0.6);
   }
   .err /* Error */ {
-    color: variables.$error;
+    color: $error;
     background-color: inherit;
   }
   .x /* Other. Token for data not matched by a parser */ {
-    color: variables.$code-primary;
+    color: $code-primary;
   }
   // Keyword
   .k, /* Keyword */
   .kd, /* Declaration */
   .kp /* Pseudo. Keywords that aren't really keywords */ {
-    color: variables.$keyword;
+    color: $keyword;
     font-weight: bold;
   }
   .kc /* Constant */ {
-    color: variables.$global;
+    color: $global;
     font-weight: bold;
   }
   .kn /* Namespace */ {
-    color: variables.$namespace;
+    color: $namespace;
   }
   .kr /* Reserved */ {
-    color: variables.$keyword;
+    color: $keyword;
     font-style: italic;
   }
   .kt/* Type */ {
-    color: variables.$type;
+    color: $type;
     font-weight: bold;
   }
   // Name
@@ -56,37 +52,37 @@
   .vc, /*  Variable.class */
   .vg, /* Variable.Global */
   .vi /* Variable.Instance */ {
-    color: variables.$variable;
+    color: $variable;
   }
   .nb,/* Builtin */
   .bp/* Builtin.Pseudo */ {
-    color: variables.$built-in;
+    color: $built-in;
   }
   .nc /* Class */ {
-    color: variables.$class;
+    color: $class;
     font-weight: bold;
   }
   .no/* Constant */ {
-    color: variables.$global;
+    color: $global;
     font-weight: bold;
   }
   .nd /* Decorator */ {
-    color: variables.$built-in;
+    color: $built-in;
     font-weight: bold;
   }
   .nf /* Funtion */
   .ni /* Entity. Token for entitites such as &nbsp; in HTML */ {
-    color: variables.$code-primary;
+    color: $code-primary;
   }
   .ne /* Exception */ {
-    color: variables.$error;
+    color: $error;
   }
   .nn /* Namespace */ {
-    color: variables.$namespace;
+    color: $namespace;
   }
   // Literal
   .l /* Any literal */ {
-    color: variables.$string;
+    color: $string;
   }
   // Literal.String
   .s, 
@@ -96,14 +92,14 @@
   .s2, /* Double */
   .sh, /* Heredoc */
   .sx  /* Other */ {
-    color: variables.$string;
+    color: $string;
   }
   .sr, /* Regex */
   .sc, /* Char */ 
   .ss, /* Symbol */ 
   .si, /* Interpol */
   .se /* Escape */ {
-    color: variables.$string;
+    color: $string;
     font-weight: bold;
   }
   // Literal.Number
@@ -115,70 +111,70 @@
   .mo, /* Hex */
   .mx, /* Binary literals */
   .mb {
-    color: variables.$number;
+    color: $number;
 }
   .ld /* Literal.Date */ {
-    color: variables.$number;
+    color: $number;
     font-style: italic;
   }
   // Operator and Punctuation
   .o, /* Operator */
   .ow, /* Operator.Word */
   .p /* Punctuation */ {
-    color: variables.$punctuation;
+    color: $punctuation;
   }
   // Comment
   .c,
   .cm, /* Multiline */
   .cs /* Special */ {
-    color: variables.$comment;
+    color: $comment;
   }
   .cp /* Preproc */ {
-    color: variables.$comment;
+    color: $comment;
     font-weight: bold;
     font-style: italic;
   }
   .c1 /* Single */ {
-    color: variables.$comment;
+    color: $comment;
     font-style: italic;
   }
   // Generic - Unstyled token
   .gd /* Deleted */ {
-    color: variables.$built-in;
+    color: $built-in;
   }
   .gi /* Inserted */ {
-    color: variables.$string;
+    color: $string;
   }
   .ge /* Emph */ {
-    color: variables.$code-primary;
+    color: $code-primary;
     font-style: italic;
   }
   .gr /* Error */
   {
-      color: variables.$error;
-      background-color: variables.$error-background;
+      color: $error;
+      background-color: $error-background;
   }
   .gs /* Strong */ {
-    color: variables.$code-primary;    
+    color: $code-primary;    
     font-weight: bold;
   }
   .go /* Output */ {
-    background-color: variables.$error-background;    
+    background-color: $error-background;    
   }
   .gt /* Trackback */
    {
-    color: variables.$string;
+    color: $string;
     font-weight: bold;
-    background-color: variables.$error-background;    
+    background-color: $error-background;    
   }
   .gl /* Lineno */ {
-    color: variables.$code-primary;
-    background: variables.$error-background;
+    color: $code-primary;
+    background: $error-background;
   }
   .gp, /* Prompt */
   .gh, /* Heading */
   .gu /* Subheading */ {
-    color: variables.$code-primary;
+    color: $code-primary;
     font-weight: bold;
   }
 }
@@ -195,8 +191,8 @@
       &.rouge-gutter {
         padding-right: 1em;
         width: 1em;
-        color: variables.$code-primary;
-        border-right: variables.$medium-border;
+        color: $code-primary;
+        border-right: $medium-border;
         text-align: right;
       }
       /* code */
@@ -210,12 +206,12 @@
     }
   }
 .highlight pre {
-  background-color: variables.$code-background;  
+  background-color: $code-background;  
   overflow-x: auto;
-  border: variables.$thin-border;
-  @include mixins.thin_scrollbar; 
+  border: $thin-border;
+  @include thin_scrollbar; 
   // max-width: 99%;
   }
 .highlight .hll {
-    background-color: variables.$code-background;
+    background-color: $code-background;
   }

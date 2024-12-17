@@ -1,7 +1,3 @@
-@use "../abstracts/fonts";
-@use "../abstracts/mixins";
-@use "../abstracts/variables";
-
 .footer {
   position: relative;
   display: block;
@@ -25,14 +21,14 @@
     }
   }
   .footer_owner_info {
-    font-size: variables.$footer-icon-size;
+    font-size: $footer-icon-size;
     margin: 0;
     padding: 0;
     p {
-      font-size: variables.$footer-text-size;
+      font-size: $footer-text-size;
       margin: 0 0.5em 0 0.05em;
       display: inline;
-      font-family: fonts.$font-serif;
+      font-family: $font-serif;
     }
   }
   .footer_copyright {
@@ -40,6 +36,6 @@
     font-size: 12px;
   }
   .footer_btn {
-    @include mixins.simple_link_style;
+    @include simple_link_style;
   }
 }

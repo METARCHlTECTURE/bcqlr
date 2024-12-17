@@ -1,74 +1,70 @@
-@use "../abstracts/fonts";
-@use "../abstracts/mixins";
-@use "../abstracts/variables";
-
 // global base reset
 body {
   line-height: 1.70;
-  font-size: variables.$font-size-primary;
-  color: variables.$color-primary;
-  font-family: fonts.$font-serif;
-  cursor: variables.$cursor-green-auto;
+  font-size: $font-size-primary;
+  color: $color-primary;
+  font-family: $font-serif;
+  cursor: $cursor-green-auto;
 }
 h1 {
-  font-size: variables.$font-size-h1;
+  font-size: $font-size-h1;
   font-weight: lighter;
   text-align: center !important;
   text-transform: uppercase;
   margin: 1.6em 0 1.5em 0;
-  cursor: variables.$cursor-green-text;
+  cursor: $cursor-green-text;
 }
 h2 {
-  color: variables.$color-third;
-  font-size: variables.$font-size-h2;
+  color: $color-third;
+  font-size: $font-size-h2;
   font-weight: lighter;
   margin: 1.6em 0 0.8em 0;
-  border-bottom: variables.$dotted-border-2;
-  cursor: variables.$cursor-green-text;
+  border-bottom: $dotted-border-2;
+  cursor: $cursor-green-text;
 }
 h3 {
-  color: variables.$color-third;
-  font-size: variables.$font-size-h3;
+  color: $color-third;
+  font-size: $font-size-h3;
   font-weight: lighter;
   margin: 1.6em 0 0.8em 0;
   border-bottom: none;
-  cursor: variables.$cursor-green-text;
+  cursor: $cursor-green-text;
 }
 h4 {
-  color: variables.$color-third;
-  font-size: variables.$font-size-h4;
+  color: $color-third;
+  font-size: $font-size-h4;
   font-weight: lighter;
   margin: 1.6em 0 0.8em 0;
-  cursor: variables.$cursor-green-text;
+  cursor: $cursor-green-text;
 }
 h5 {
-  color: variables.$color-third;
-  font-size: variables.$font-size-h5;
+  color: $color-third;
+  font-size: $font-size-h5;
   font-weight: lighter;
   margin: 2em 0 0.6em 0;
-  cursor: variables.$cursor-green-text;
+  cursor: $cursor-green-text;
 }
 h6 {
-  color: variables.$color-third;
-  font-size: variables.$font-size-h6;
+  color: $color-third;
+  font-size: $font-size-h6;
   font-weight: lighter;
   margin: 2em 0 0.6em 0;
-  cursor: variables.$cursor-green-text;
+  cursor: $cursor-green-text;
 }
 p {
-  margin: variables.$global-section-margin 0px;
+  margin: $global-section-margin 0px;
   display: block;
-  cursor: variables.$cursor-green-text;
+  cursor: $cursor-green-text;
 }
 strong {
   font-weight: bold;
-  color: variables.$article-bold;
+  color: $article-bold;
   // -webkit-text-stroke: 0.5px $color-primary;
   // text-shadow: 0.35px 0.35px 0 $color-primary;
 }
 hr {
   border: 0;
-  border-top: 1px solid rgba(variables.$color-primary, 0.6);
+  border-top: 1px solid rgba($color-primary, 0.6);
   margin: 0 0 0 0;
 }
 video {
@@ -82,31 +78,31 @@ video {
 textarea {
   margin: 0;
   padding: 0;
-  border: variables.$thin-border;
-  background-color: rgba(variables.$color-postbg, 0.7);
-  color: variables.$color-warning;
+  border: $thin-border;
+  background-color: rgba($color-postbg, 0.7);
+  color: $color-warning;
   font-size: 15px;
 }
 button {
-  border: variables.$medium-border;
-  background-color: rgba(variables.$color-postbg, 0.7);
-  color: variables.$color-primary;
-  cursor: variables.$cursor-green-pointer;
+  border: $medium-border;
+  background-color: rgba($color-postbg, 0.7);
+  color: $color-primary;
+  cursor: $cursor-green-pointer;
 }
 // links
 a {
   font-size: 100%;
-  color: variables.$color-primary;
+  color: $color-primary;
   text-decoration: none;
   //text-decoration: underline solid $article-link;
 }
 a:hover {
   font-size: 100%;
-  color: variables.$color-link-hover;
+  color: $color-link-hover;
   font-weight: auto;
   text-decoration: none;
-  cursor: variables.$cursor-green-pointer !important;
-  @include mixins.text_blink;
+  cursor: $cursor-green-pointer !important;
+  @include text_blink;
 }
 img {
   width: auto;
@@ -119,32 +115,32 @@ img {
 }
 ol {
   padding: 0 0 0 2em;
-  margin: variables.$global-section-margin 12px 12px 0px;
+  margin: $global-section-margin 12px 12px 0px;
   display: block;
   list-style-type: decimal;
-  cursor: variables.$cursor-green-text;
+  cursor: $cursor-green-text;
 }
 ul {
   padding: 0 0 0 1.5em;
-  margin: variables.$global-section-margin 0.3em 0.3em 0px;
+  margin: $global-section-margin 0.3em 0.3em 0px;
   list-style: disc;
-  cursor: variables.$cursor-green-text;
+  cursor: $cursor-green-text;
 }
 blockquote {
-  background-color: variables.$color-postbg;
-  margin: variables.$global-section-margin 0em 0.45em 0em;
-  font-size: variables.$font-smaller;
+  background-color: $color-postbg;
+  margin: $global-section-margin 0em 0.45em 0em;
+  font-size: $font-smaller;
   line-height: 1.5;
-  color: variables.$article-blockquote;
+  color: $article-blockquote;
   padding: 0 0.23em 0 0.5em;
-  border: 0.5px dotted variables.$article-blockquote;
-  cursor: variables.$cursor-green-text;
+  border: 0.5px dotted $article-blockquote;
+  cursor: $cursor-green-text;
 //  border-left: 2.5px solid $article-blockquote;
 }
 // footnote mark
 sup a{
   font-size: 105%;
-  color: variables.$article-blockquote;
+  color: $article-blockquote;
   text-decoration: none !important;
 }
 // code highlight
@@ -153,17 +149,17 @@ pre {
 }
 
 em {
-  color: variables.$article-italic
+  color: $article-italic
 }
 
 
 code {
-  font-family: fonts.$font-monospace;
-  cursor: variables.$cursor-green-text;
+  font-family: $font-monospace;
+  cursor: $cursor-green-text;
 }
 article {
   a {
-    color: variables.$article-link;
+    color: $article-link;
     padding: 0;
   }
   a:hover {
@@ -175,7 +171,7 @@ article {
 article .language-plaintext {
   font-size: 100%;
   font-weight: bold;
-  color: variables.$article-keyword;
+  color: $article-keyword;
   // -webkit-text-stroke: 0.5px $color-primary; // stroke text
   // text-shadow: -0.4px -0.4px 0 rgb(233, 255, 135), 0.4px 0.4px 0 rgb(48, 253, 59),
     // 0.4px 0.4px 0 rgb(95, 99, 65);
@@ -187,7 +183,7 @@ input[type="checkbox"] {
   height: 13px;
   margin: 0px 10px 0px 3px;
   text-align: center;
-  border: 1.5px solid variables.$color-primary;
+  border: 1.5px solid $color-primary;
   border-radius: 1px;
 }
 
@@ -199,13 +195,13 @@ input[type="checkbox"]::before {
   width: 100%;
   height: 100%;
   background: rgb(0, 0, 0);
-  border: 1.5px solid variables.$color-primary;
+  border: 1.5px solid $color-primary;
 }
 
 input[type="checkbox"]:checked::before {
   content: "\2714";
   vertical-align: middle;
-  color: variables.$color-primary;
+  color: $color-primary;
   font-size: 15px;
   font-weight: bold;
 }
@@ -216,13 +212,13 @@ input[type="checkbox"]:checked::before {
   thead {
     th {
       padding: 5px 5px !important;
-      font-size: variables.$font-smaller !important;
+      font-size: $font-smaller !important;
     }
   }
   tbody {
     td {  
       padding: 4px 5px !important;
-      font-size: variables.$font-tiny !important;
+      font-size: $font-tiny !important;
     }
   }
 }
@@ -230,18 +226,18 @@ input[type="checkbox"]:checked::before {
 @media screen and (max-width: 400px) {
   body {
     line-height: 1.55;
-    font-size: variables.$font-smaller;
+    font-size: $font-smaller;
   }
   thead {
     th {
       padding: 3px 1px !important;
-      font-size: variables.$font-tiny !important;
+      font-size: $font-tiny !important;
     }
   }
   tbody {
     td {  
       padding: 1px 1px !important;
-      font-size: variables.$font-micro !important;
+      font-size: $font-micro !important;
     }
   }
 }
