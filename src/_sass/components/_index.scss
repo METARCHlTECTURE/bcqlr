@@ -1,3 +1,5 @@
+@use "../abstracts/variables";
+
 
 .index_title{
     font: 30px Monospace;
@@ -8,7 +10,7 @@
     text-align: center;
     line-height: 103%;
     a {
-      color: $color-index-link;
+      color: variables.$color-index-link;
     }
 }
 

@@ -1,3 +1,5 @@
+@use "../abstracts/variables";
+
 .link_table {
   line-height: 150%;
   ul {
@@ -6,13 +8,13 @@
   a {
       padding: 0;
       font-size: 100%;
-      color: $color-primary;
+      color: variables.$color-primary;
       text-decoration: none;
       //text-decoration: underline solid $article-link;
     }
   a:hover {
     font-size: 100%;
-    color: $color-link-hover;
+    color: variables.$color-link-hover;
     font-weight: auto;
     text-decoration: none;
     cursor: pointer;

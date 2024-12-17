@@ -1,3 +1,5 @@
+@use "variables";
+
 // animations
 
 // fadein
@@ -64,11 +66,11 @@
     display: inline;
     word-break: break-all;
     font-weight: bold;
-    color: $color-primary;
-    animation: blktxt $blk-duration $blk-timing-function infinite;
-    -webkit-animation: blktxt $blk-duration $blk-timing-function infinite;
-    -moz-animation: blktxt $blk-duration $blk-timing-function infinite;
-    -ms-animation: blktxt $blk-duration $blk-timing-function infinite;
-    -o-animation: blktxt $blk-duration $blk-timing-function infinite;
+    color: variables.$color-primary;
+    animation: blktxt variables.$blk-duration variables.$blk-timing-function infinite;
+    -webkit-animation: blktxt variables.$blk-duration variables.$blk-timing-function infinite;
+    -moz-animation: blktxt variables.$blk-duration variables.$blk-timing-function infinite;
+    -ms-animation: blktxt variables.$blk-duration variables.$blk-timing-function infinite;
+    -o-animation: blktxt variables.$blk-duration variables.$blk-timing-function infinite;
   }
 }

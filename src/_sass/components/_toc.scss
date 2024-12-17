@@ -1,3 +1,6 @@
+@use "../abstracts/mixins";
+@use "../abstracts/variables";
+
 // table of content
 .popup_btn {
   position: relative;
@@ -11,7 +14,7 @@
 .div_toc {
   position: absolute;
   bottom: auto;
-  top: $toc-position + 0.6px;
+  top: variables.$toc-position + 0.6px;
   right: -0.5px;  
   z-index: 2;
   max-width: 70%;
@@ -19,18 +22,18 @@
   width: auto;
   overflow-x: hidden;
   visibility: hidden;
-  background-color: rgba($color-postbg, 0.85);
+  background-color: rgba(variables.$color-postbg, 0.85);
   text-align: left;
   padding: 0px 0;
-  border-left: $medium-border;
-  border-bottom: $medium-border;
-  @include thin_scrollbar;
+  border-left: variables.$medium-border;
+  border-bottom: variables.$medium-border;
+  @include mixins.thin_scrollbar;
   ul {
     padding: 0 4px 0 18px;
     margin: 5px 4px;
     li a {
       font-size: 16px;
-      color: $color-primary;
+      color: variables.$color-primary;
       text-decoration: none;
     }
   }

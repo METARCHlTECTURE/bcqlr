@@ -1,3 +1,5 @@
+@use "../abstracts/variables";
+
 // table style
 table {
     width: 100%;
@@ -5,18 +7,18 @@ table {
     border-spacing: 2px;
     line-height: 1;
     thead {
-        border-top: $secondary-border;
-        border-bottom: $thin-border;
+        border-top: variables.$secondary-border;
+        border-bottom: variables.$thin-border;
         th {
         padding: 10px 10px;
-        font-size: $font-size-primary;
+        font-size: variables.$font-size-primary;
         }
     }
     tbody {
-        border-bottom: $thin-border;
+        border-bottom: variables.$thin-border;
         td {  
         padding: 8px 10px;
-        font-size: $font-smaller;
+        font-size: variables.$font-smaller;
         }
     }
 }

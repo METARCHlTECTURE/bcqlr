@@ -1,3 +1,6 @@
+@use "../abstracts/mixins";
+@use "../abstracts/variables";
+
 .page {
   height: 100%;
   width: 100%;
@@ -5,8 +8,8 @@
   padding: 0;
   position: fixed;
   // text-align: center;
-  background-color: $color-bg;
-  background-image: $image-background;
+  background-color: variables.$color-bg;
+  background-image: variables.$image-background;
 }
 .container {
   top: 2%;
@@ -17,18 +20,18 @@
   overflow: none;
   margin: 0 auto;
   box-sizing: border-box; // interior border
-  background-color: rgba($color-postbg, 0.72);
+  background-color: rgba(variables.$color-postbg, 0.72);
 }
 .div_article {
-  top: $header-height + 1px;
+  top: variables.$header-height + 1px;
   height: 95%;
   width: 100%;
   position: relative;
   z-index: 1;
   overflow-x: hidden;
-  border: $secondary-border;
+  border: variables.$secondary-border;
   border-top: none;
-  @include thin_scrollbar;
+  @include mixins.thin_scrollbar;
   article {
     margin: 0;
     padding: 10px 19px 19px 19px;
@@ -39,22 +42,22 @@
     margin: 10px 0 13px 0;
   }
   td {
-    border: $thin-border;  
+    border: variables.$thin-border;  
   }
   .encrypted {
-    color: rgba($color-warning, 0.9);
+    color: rgba(variables.$color-warning, 0.9);
     word-break: break-all;
   }
   .no-border {
     td {
-      border: 1px solid rgba($color-postbg, 0);
+      border: 1px solid rgba(variables.$color-postbg, 0);
     }
   }
 }
 // used to toggle absence of elements
 .show {
   visibility: visible !important;
-  @include fade_in;
+  @include mixins.fade_in;
 }
 
 // screen auto-adjustment
@@ -65,8 +68,8 @@
     top: 0 !important;
     left: 0 !important;
     margin: 0;
-    border: $thick-border;
-    background-color: rgba($color-postbg, 0.7);
+    border: variables.$thick-border;
+    background-color: rgba(variables.$color-postbg, 0.7);
   }
   .page .container .div_article {
     border: none;
@@ -79,7 +82,7 @@
 }
 @media screen and (max-width: 400px) {
   .page .container {
-    border: $medium-border;
+    border: variables.$medium-border;
   }
   .page .container .div_article #main_atcl {
     padding: 0px 5px 5px 5px ;

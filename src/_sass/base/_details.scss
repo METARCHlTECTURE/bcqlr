@@ -1,3 +1,5 @@
+@use "../abstracts/variables";
+
 // When using kramdown, which only partially supports HTML5-->
 // <details>
 // <summary><strong>Table of Contents</strong> (Click to expand)</summary>
@@ -12,13 +14,13 @@ details summary:hover {
 details a{
     padding: 0;
     font-size: 100%;
-    color: $color-primary;
+    color: variables.$color-primary;
     text-decoration: none;
     //text-decoration: underline solid $article-link;
   }
 details a:hover {
   font-size: 100%;
-  color: $color-link-hover;
+  color: variables.$color-link-hover;
   font-weight: auto;
   text-decoration: none;
   cursor: pointer;

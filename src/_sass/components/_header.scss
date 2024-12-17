@@ -1,14 +1,18 @@
+@use "../abstracts/fonts";
+@use "../abstracts/mixins";
+@use "../abstracts/variables";
+
 .header {
   position: absolute;
   text-align: center;
   width: 100%;
   height: auto;
   z-index: 3;
-  border: $secondary-border;
-  border-bottom: $medium-border;
+  border: variables.$secondary-border;
+  border-bottom: variables.$medium-border;
   .vertical_center_table {
     width: 100%;
-    height: $header-height; // the real height of header
+    height: variables.$header-height; // the real height of header
   }
   tbody {
     border: none;
@@ -32,56 +36,56 @@
     ul {
       padding: 0;
       margin: 0;
-      cursor: $cursor-green-auto;
+      cursor: variables.$cursor-green-auto;
       .li_left {
         list-style: none;
         display: inline-block;
-        cursor: $cursor-green-pointer !important;
+        cursor: variables.$cursor-green-pointer !important;
       }
       .span_right {
         float: right;
         max-width: 60%;
-        cursor: $cursor-green-pointer !important;
+        cursor: variables.$cursor-green-pointer !important;
       }
     }
     .site_title {
-      color: $color-primary;
-      font-size: $header-btn-text-size;
-      @include simple_link_style;
+      color: variables.$color-primary;
+      font-size: variables.$header-btn-text-size;
+      @include mixins.simple_link_style;
     }
     .site_owner {
-      color: $color-primary;
-      font-size: $header-btn-text-size;
-      @include simple_link_style;
+      color: variables.$color-primary;
+      font-size: variables.$header-btn-text-size;
+      @include mixins.simple_link_style;
     }
   }
   .header_btn {
-    color: $color-primary;
+    color: variables.$color-primary;
     margin: 0 0.06em 0 0.06em;
     display: inline-block;
     i {
       font-weight: 900;
-      cursor: $cursor-green-pointer !important;
-      @include simple_link_style;
+      cursor: variables.$cursor-green-pointer !important;
+      @include mixins.simple_link_style;
     }
     i:hover {
       font-weight: 900;
     }
   }
   .header_btn:hover {
-    color: $color-link-hover;
+    color: variables.$color-link-hover;
   }
   .btn_text {
     font-style: normal;
     margin: 0;
     display: inline-block;
     text-transform: capitalize;
-    font-family: $font-serif;
-    font-size: $header-btn-text-size;
-    cursor: $cursor-green-pointer !important;
+    font-family: fonts.$font-serif;
+    font-size: variables.$header-btn-text-size;
+    cursor: variables.$cursor-green-pointer !important;
   }
   .btn_icon {
-    font-size: $header-btn-icon-size;
+    font-size: variables.$header-btn-icon-size;
   }
   .access_token {
     resize: none;
