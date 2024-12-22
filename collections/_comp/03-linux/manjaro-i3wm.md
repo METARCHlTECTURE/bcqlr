@@ -551,6 +551,20 @@ sudo dpkg -i mozart-1.4.0.20080704-16189.i386.deb
 (autoload 'oz-new-buffer "oz" "" t)
 ```
 
+## 安装 ttf 字体
+
+将ttf文件复制到：
+
+```shell
+/home/yourname/.fonts/ # for personal fonts
+/usr/share/fonts/ # for those that are used system-wide
+```
+并运行：
+
+```shell
+fc-cache -fv
+```
+
 ## 解决 Obs 无法启动、VLC 播放器解码错误的问题
 
 Obs 错误代码：
