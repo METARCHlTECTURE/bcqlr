@@ -1,7 +1,6 @@
 ---
 title: Low Power Consumption NAS and TrueNAS Quick Guide
 categories: 03-Linux
-highlight: true
 ---
 
 ## Truenas Scale Quick Start Guide
