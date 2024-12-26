@@ -110,7 +110,7 @@ Due to the influence of these figures, opponents of Literary Theory widely recog
 
 **An individual's summary:**
    
-   Literary Theory is a negation and suspicion of literary works.
+   Literary Theory is negation and suspicion of literary works.
 
 > `oblique` [əˈbliːk]: adj. 1. not expressing something directly 2. not looking or pointing directly at someone or something 3. an oblique line is sloping 4. an oblique angle is any angle that is not 90°, 180°, or 270°  
 > `obsolete` [ˈɒbsəliːt]：adj. 1. no longer used because of being replaced by something newer and more effective  
@@ -123,7 +123,7 @@ Due to the influence of these figures, opponents of Literary Theory widely recog
 
 ### What is an author
 
-**Foucault**:
+**Foucault**: It is not that there's no such thing as an author but that it's rather dangerous to believe that there are authors.
 
 ## Reference 
 
