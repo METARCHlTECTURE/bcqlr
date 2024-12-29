@@ -191,6 +191,42 @@ drwxr-xr-x  2 john users  4096 Sep 26 14:32 myfolder
 | Open a new window (in some terminal emulators) | `Ctrl + Shift + N` |
 | Auto-complete files/directories/commands       | `Tab`              |
 
+TODO:
+一、常用快捷键小技巧
+以下快捷键，都是一些常用的，记住这些命令，你的工作效率就会大大提升。
+
+ctrl + a ：光标跳到行首。
+ctrl + e ：光标跳到行尾。
+ctrl + d ：后删一个字符；退出会话，类似于 exit 。
+ctrl + k ：剪切光标后到行尾的所有内容（可以当作清除用）
+ctrl + u ：剪切光标前到行首的所有内容（可以当作清除用）
+ctrl + w ：剪切光标前的单个单词，以空格分隔（可以当作清除用）
+ctrl + y ：粘贴剪切的内容。
+ctrl + r ：反向搜索历史命令，实现快速匹配。（特别推荐，避免了低效的 ↑↓ 键切换历史命令。）
+ctrl + s ：暂时冻结当前 shell 的输入（原来还有这个命令，之前触发过这个操作，我还以为是 shell 卡住了。。。）。
+ctrl + q ：解冻当前 shell 的输入。
+ctrl + ←、→ ：光标左右移动一个单词。
+ctrl + l ：清屏。
+ctrl + shift + r ：xshell 快速连接会话。
+alt + r ：使 xshell 会话透明化（这样好方便你抄写命令）
+二、快速搜索历史命令
+老实说，在不知道这个历史命令之前，我都是 ↑↓ 键找或者是 history | grep 过滤的。
+
+
+现在知道 ctrl + r 命令了，用起来真的好爽，貌似同事一直也是用的这个命令，现在终于是让我找到了。。
+
+简单说一下用法：
+
+ctrl + r：反向搜索历史命令。
+
+1）执行 ctrl + r 后，输入你想要的历史命令的关键词，关键词越独特，匹配的就越准确。
+
+2）如果匹配的命令不完全符合你的预期，可以继续执行 ctrl + r 命令来切换匹配到的下一个命令。
+
+3）敲一下回车，就会直接执行该命令；敲一下左右键，这条命令就筛选出来了，可以修改该命令后执行。
+
+真的比 ↑↓ 键找或者是 history | grep 好用省时很多了。
+
 ### Streams and 
 
 ### Compare CLI and GUI

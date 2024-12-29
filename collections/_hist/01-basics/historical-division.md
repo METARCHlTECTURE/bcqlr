@@ -1,7 +1,7 @@
 ---
 title: Historical Divisions of the World
 categories: 01-Basics
-highlight: true
+highlight: false
 ---
 
 ## 埃及 [5450bc-639]
