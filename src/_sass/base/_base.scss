@@ -133,14 +133,14 @@ img {
 }
 ol {
   padding: 0 0 0 2em;
-  margin: $global-section-margin 12px 12px 0px;
+  margin: $global-section-margin 0.2em 0.2em 0px;
   display: block;
   list-style-type: decimal;
   cursor: $cursor-green-text;
 }
 ul {
-  padding: 0 0 0 1.5em;
-  margin: $global-section-margin 0.3em 0.3em 0px;
+  padding: 0 0 0 1.25em;
+  margin: $global-section-margin 0.2em 0.2em 0px;
   list-style: disc;
   cursor: $cursor-green-text;
 }
