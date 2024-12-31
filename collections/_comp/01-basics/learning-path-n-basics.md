@@ -1004,7 +1004,10 @@ Linux 应用开发的主流技术（截至 2023）：
 
 **【课程】Stanford CS142: Web Applications** [#课程主页](https://web.stanford.edu/class/cs142/index.html) [#课程视频](https://web.stanford.edu/class/cs142/lectures.html)
 
-**【资源】前段技能树**[#Github](https://github.com/JacksonTian/fks)
+**【资源】前端技能树**[#Github](https://github.com/JacksonTian/fks)
+
+**【资源】W3School 免费 Web 技术教程** [#官方中文网站](https://www.w3school.com.cn/index.html) [#网站构建初级教程](https://www.w3school.com.cn/web/index.asp) [网站构建高级教程](https://www.w3school.com.cn/site/index.asp)
+  - 涵盖了网站技术的方方面面，包括 HTML、CSS、XML、JavaScript、PHP、SQL 等。另外还包含了一个在线实例测试工具。
 
 网页开发技术栈的**示例**：
   - 前端技术栈

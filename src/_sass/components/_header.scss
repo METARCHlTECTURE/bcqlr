@@ -75,8 +75,7 @@
     font-style: normal;
     margin: 0;
     display: inline-block;
-    text-transform: capitalize;
-    font-family: $font-serif;
+    text-transform: uppercase;
     font-size: $header-btn-text-size;
     cursor: $cursor-green-pointer !important;
   }

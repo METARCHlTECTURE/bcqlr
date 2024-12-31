@@ -3,7 +3,7 @@ body {
   line-height: 1.70;
   font-size: $font-size-primary;
   color: $color-primary;
-  font-family: $font-serif;
+  font-family: $font-monospace;
   cursor: $cursor-green-auto;
 }
 h1 {
@@ -32,25 +32,41 @@ h3 {
   border-bottom: none;
   cursor: $cursor-green-text;
 }
+h4::before {
+  content: "§ ";  /* Add the desired symbol here */
+  font-size: $font-size-h4;
+  color: $color-third;  /* Optional: Set the color of the symbol */
+}
 h4 {
   color: $color-third;
   font-size: $font-size-h4;
   font-weight: lighter;
-  margin: 1.6em 0 0.8em 0;
+  margin: 1.2em 0 0.8em 0;
   cursor: $cursor-green-text;
+  list-style-type: decimal;
+}
+h5::before {
+  content: "§§ ";  /* Add the desired symbol here */
+  font-size: $font-size-h5;
+  color: $color-third;  /* Optional: Set the color of the symbol */
 }
 h5 {
   color: $color-third;
   font-size: $font-size-h5;
   font-weight: lighter;
-  margin: 2em 0 0.6em 0;
+  margin: 1.2em 0 0.6em 0;
   cursor: $cursor-green-text;
+}
+h6::before {
+  content: "§§§ ";  /* Add the desired symbol here */
+  font-size: $font-size-h6;
+  color: $color-third;  /* Optional: Set the color of the symbol */
 }
 h6 {
   color: $color-third;
   font-size: $font-size-h6;
   font-weight: lighter;
-  margin: 2em 0 0.6em 0;
+  margin: 1.6em 0 0.6em 0;
   cursor: $cursor-green-text;
 }
 p {
@@ -147,7 +163,8 @@ sup a{
 }
 // code highlight
 pre {
-  margin: 0.6em 0.1em;
+  margin: 0.6em 0em;
+  padding: 0.3em 0.3em 0.3em 0.3em;
 }
 
 em {

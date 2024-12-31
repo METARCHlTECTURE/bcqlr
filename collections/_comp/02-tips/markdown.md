@@ -1,83 +1,192 @@
 ---
-title: Keep Notes with Markdown and Typora
+title: Markdown Quick Reference
 categories: 02-Tips
 highlight: true
 ---
 
-关键字：`Markdown 语法`，`Typora的安装及使用`
+## Markdown Basics and This is Heading 2
 
-## 初见 Typora 和 Markdown
-
-Markdown 是一种超`轻量级标记语言`，在 2004 由苹果公司分析师 John Gruber 创建，文档后缀为 .md 或 .markdown。
-
-Typora 是一个简洁易用的`Markdown编辑器`。
-
-对于`理工科学生、程序员、研究人员`，甚至`作家、翻译家`来说，Typora 和 Markdown 的组合在效率上**远远优于**市面上的 OneNotx、印 x 笔记等产品。
-
-### 为什么使用 Markdown？
-
-**语法简单**，一目了然，**不影响阅读**。
-
-Markdown 文档可以轻松被**转化为网页 、Word、图像、PDF、LaTeX、Epub** 等多种格式的文档。
-
-Markdown 支持插入**代码块**、复杂的**数学公式**。
-
-Markdown 支持绘制**思维导图**、**流程图**、**顺序图**，以及插入图像。
-
-### 为什么使用 Typora？
-
-**所见即所得**，界面简洁，节省屏幕空间。
-
-支持**拼写检查**，**提升效率**，便于管理阅读大量笔记。
-
-## 安装 Typora
-
-在[Typora 官网](https://typora.io/#download)下载安装包，即可轻松安装。
-
-### Typora 的布局
-
-![typora布局]({{site.img}}/single/typora-layout.png)
-
-### 使用 Typora 管理笔记
-
-在 Windows 中新建文件夹以容纳笔记，并直接使用 Typora 打开文件夹。这样，就可以在**文件**选项卡中任意切换笔记。
-
-### 个性化设置
-
-1. 在 Typora 的**偏好设置-外观**中，可以将窗口改为“一体化”以获取更简洁的操作界面。
-2. 为了打开 Typora 即自动继续工作，可以在**偏好设置-启动选项**中，选择“**重新打开上次使用的文件和目录**”。
-3. 在**偏好设置-Markdown**，可以根据自己的需求，开启**内连公式、上标、下标、图表**等功能。
-4. Typora 自带五个主题。可以访问[theme.typora.io](https://theme.typora.io/)获取并安装更多主题。
-
-## Markdown 基本语法
-
-### 1 分级标题
-
-在文字前端添加 1 至 6 个“#”和一个空格，代表不同级别的标题。
-“# ”开头，代表最高级标题。
-“## ”开头，代表二级标题，以此类推，最多设置六级标题。
-
-原文举例：
+### Headings and This is Heading 3
 
 ```markdown
-# 母猪的产后护理
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+```
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
-## 一、猪的分类
+### Text Decorations
 
-### 1.1 中原野猪
-……
+**Use 2 asterisks `**` for bold text**, __Use 2 underscores `__` for bold text__  
+*Use asterisk `*` for bold italic text*, _Use underscore `_` for italic italicext_  
+***Use asterisk `*` for bold and italic text***, **_hybrid symbol for bold and italic text_**  
+`Use backtick for keyword`  
+<u>Use HTML tag for underlined text</u>  
+~~Use tidle `~~` for struck-through text~~
 
+```markdown
+**Use 2 asterisks for bold text**, __Use 2 underscores for bold text__  
+*Use asterisk for bold italic text*, _Use underscore for italic italicext_  
+***Use asterisk for bold and italic text***, **_hybrid symbol for bold and italic text_**  
+`Use backtick for keyword`  
+<u>Use HTML tag for underlined text</u>  
+~~Use tidle for struck-through text~~
 ```
 
-### 2 粗体、斜体、关键字、下划线
+### Paragraph and lists
 
-_斜体字_：使用**星号**“\*”包围内容。
+Leave a blank line between 2 paragraphs. This is paragraph 1. 
+A single line break is considered part of the same paragraph and will not be displayed.
 
-**粗体字**：使用**双星号**“\*\*”包围内容。
+This is paragraph 2. Use two blanks to break a line.<!-- 2 spaces after -->  
+Another way to break a line is using a `<br>` tag.<br> 
+This is the last sentence of paragraph 2.
 
-<u>下划线</u>：使用“\<u\>”和“\</u\>"包围内容。
+```markdown
+Leave a blank line between 2 paragraphs. This is paragraph 1.
+A single line break is considered part of the same paragraph and will not be displayed.
 
-`关键字`：使用**反单引号**“`”包围内容。
+This is paragraph 2. Use two blanks to break a line.<!-- 2 spaces after -->  
+Another way to break a line is using a `<br>` tag.<br> 
+This is the last sentence of paragraph 2.
+```
+
+Use numbers followed by a period for an ordered list.
+1. This the first item, 
+2. This the second item.
+   1. Nested lists is supported by inserting 2 to 4 spaces before numbers.
+   2. This is the second sub-item. <!-- 2 spaces after ->  -->   
+   In a list, to start a new line, leave 2 spaces after last line, or use HTML tag `<br>`.
+      1. This is the first sub sub item.
+
+         In a list, to start a new paragraph, leave a blank line and then add the appropriate number of spaces before the new paragraph.
+
+```markdown
+Use numbers followed by a period for an ordered list.
+1. This the first item, 
+2. This the second item.
+   1. Nested lists is supported by inserting 2 to 4 spaces before numbers.
+   2. This is the second sub-item. <!-- 2 spaces after ->  -->   
+   In a list, to start a new line, leave 2 spaces after last line, or use HTML tag `<br>`.
+      1. This is the first sub sub item.
+
+         In a list, to start a new paragraph, leave a blank line and then add the appropriate number of spaces before the new paragraph.
+```
+
+Use hyphen `-`, asterisk `*`, or plus `+` for bullet points. 
+- This is an unordered list.
+   - Nested lists is supported by inserting 2 to 4 spaces before symbols.
+   * Sub-item 2
+   + Sub-item 3<!-- 2 spaces after ->  -->  
+   In a list, to start a new line, leave 2 spaces after last line, or use HTML tag `<br>`.
+      + Nested lists is supported by inserting 2 to 4 spaces before numbers.
+
+        In a list, to start a new paragraph, leave a blank line and then add the appropriate number of spaces before the new paragraph.
+
+```markdown
+Use hyphen `-`, asterisk `*`, or plus `+` for bullet points. 
+- This is an unordered list.
+   - Nested lists is supported by inserting 2 to 4 spaces before symbols.
+   * Sub-item 2
+   + Sub-item 3<!-- 2 spaces after ->  -->  
+   In a list, to start a new line, leave 2 spaces after last line, or use HTML tag `<br>`.
+      + Nested lists is supported by inserting 2 to 4 spaces before numbers.
+
+        In a list, to start a new paragraph, leave a blank line and then add the appropriate number of spaces before the new paragraph.
+```
+
+Use `- [ ]` for an unchecked box and `- [x]` for a checked box:
+
+- [ ] Task 1
+- [x] Task 2 (Completed)
+
+```markdown
+- [ ] Task 1
+- [x] Task 2 (Completed)
+```
+
+### Links and Imgaes
+
+Create links using `[text](URL)`:
+
+```markdown
+[markdown](https://markdown.com)
+```
+
+Images are similar to links, but with an exclamation mark `!` before the square brackets:
+
+```markdown
+![Alt text](imageURL)
+```
+
+### 6. **Blockquotes**
+
+Use `>` for blockquotes:
+
+> This is a blockquote.
+> 
+> This is part of the same blockquote.
+
+```markdown
+> This is a blockquote.
+> 
+> This is part of the same blockquote.
+```
+
+### 7. **Code**
+- Inline Code: Use backticks `` abc `` for inline code.
+- Code Block: Use triple backticks ```` ``` ```` or indent by 4 spaces.
+
+```markdown
+`inline code`
+
+```
+Code block
+```
+
+### 8. **Horizontal Rule**
+Use three or more dashes `---`, asterisks `***`, or underscores `___`:
+
+```markdown
+---
+```
+
+### 9. **Tables**
+
+Create tables using pipes `|` and dashes `-`:
+
+```markdown
+| Header 1 | Header 2 |
+|----------|----------|
+| Row 1    | Cell 1   |
+| Row 2    | Cell 2   |
+```
+
+### 10. **Escaping Characters**
+To escape special characters (like `*`, `_`, `#`, etc.), use a backslash `\`:
+
+\*escaped asterisk\*
+
+```markdown
+\*escaped asterisk\*
+```
+
+### 11. **Task Lists**
+Use `- [ ]` for an unchecked box and `- [x]` for a checked box:
+
+```markdown
+- [ ] Task 1
+- [x] Task 2 (Completed)
+```
+
+---
+
+This is a concise overview of commonly used Markdown syntax. It is very useful for formatting text in documentation, wikis, readme files, and more!
 
 原文举例：
 
