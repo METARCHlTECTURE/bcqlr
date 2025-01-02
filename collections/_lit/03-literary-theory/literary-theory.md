@@ -88,6 +88,14 @@ Difference:
    1. Literary Theory is NOT concerned with issues of evaluation, conconmitant issues of appreciation.
    2. Literary Theory is skeptical about the foundations of its subject matter. see: [#modernity-and-literature](#modernity-and-literature)
 
+
+
+### What is an author
+
+**Foucault**: It is not that there's no such thing as an author but that it's rather dangerous to believe that there are authors.
+
+## Hermeneutic Circle in Literary Theory
+
 ### Modernity and literature
 
 In the classical era, people believed that they could directly possess reason and directly understand things themselves. Texts  are able to straightforwardly describe nature, mind, emotion, truth and human beings.
@@ -121,9 +129,43 @@ Due to the influence of these figures, opponents of Literary Theory widely recog
 >  - In literature, subjectivity refers to the representation of personal perspectives, emotions, and inner thoughts of characters. It allows readers to see the world through a character's eyes, understanding their emotional responses, beliefs, and motivations.
 >  - Agency in philosophy refers to the capacity of individuals to act independently, make choices, and shape their own destinies. It is the ability to exercise control over one's actions and decisions, often in the face of external forces such as social, cultural, or economic constraints
 
-### What is an author
+## Autonomous Artwork
 
-**Foucault**: It is not that there's no such thing as an author but that it's rather dangerous to believe that there are authors.
+## Russian Formalism, Early 1900
+
+## Semiotics
+
+## Structuralism
+
+## Liguistics and Literature
+
+## Deconstruction
+
+## Freud and Jacques Lacan
+
+## Postmodern Psyche
+
+## Social Permeability of Reader
+
+## Frankfurt School Critical Theory
+
+## The Political Unconscious
+
+## The New Historicism
+
+## The Classical Feminist Tradition
+
+## African-American Criticism
+
+## Post-Colonial Criticism
+
+## Queer Theroy
+
+## Institutional Construction of Literary Study
+
+## Neo Pragmatism
+
+## Relections of Theory
 
 ## Reference 
 

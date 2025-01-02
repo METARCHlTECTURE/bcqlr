@@ -36,3 +36,10 @@ python3 -m pip install xyz
 **Solution 2: Force Install**
 
 pip install xyz --break-system-packages.
+
+## Bad Network Connection with pip
+
+Change mirror:
+```shell
+pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+```
