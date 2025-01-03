@@ -55,7 +55,7 @@ collections:
     alias           : "zygote"
 
 # 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
+disqus_username     : gmkzwwg
 
 # 4. Default page configuration
 defaults:
@@ -81,8 +81,8 @@ defaults:
       highlight           : false
 
 # 5. Social Media Accounts
-email               : "akiritsu@outlook.com" 
-github              : "akiritsu" 
+email               : "gmkzwwg@outlook.com" 
+github              : "gmkzwwg" 
 
 # 6. Where things are
 source              : .

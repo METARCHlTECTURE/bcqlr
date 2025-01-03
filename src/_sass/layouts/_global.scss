@@ -36,10 +36,14 @@
     min-height: 88%; 
   }
   table {
+    color: $color-third;
     margin: 10px 0 13px 0;
   }
+  th {
+    border: $dotted-border-2; 
+  }
   td {
-    border: $thin-border;  
+    border: $dotted-border-2;  
   }
   .encrypted {
     color: rgba($color-warning, 0.9);
