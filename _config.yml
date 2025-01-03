@@ -49,10 +49,6 @@ collections:
     output          : true
     permalink       : /:collection/:categories/:title/
     alias           : "NOTE"
-  zygote:
-    output          : true
-    permalink       : /:collection/:categories/:title/
-    alias           : "zygote"
 
 # 3. Comment settings（disqus.com）
 disqus_username     : gmkzwwg
