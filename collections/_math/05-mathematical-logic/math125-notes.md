@@ -123,8 +123,7 @@ Truth Table for all the binary operations.
 | F | F | F        | F       | T          | T         | F        | T                | T                   |
 
 
-Words
-  - sentence 命题
-  - deduce [dɪˈdjuːs] v.推断；演绎；推论
-    - deductive 演绎的 deduction 演绎
-    - deduct 减去、扣除 deductible 可扣除的
+> sentence 命题    
+> deduce [dɪˈdjuːs] v.推断；演绎；推论  
+> deductive 演绎的 deduction 演绎  
+> deduct 减去、扣除 deductible 可扣除的  
