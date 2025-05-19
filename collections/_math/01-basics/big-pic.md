@@ -4,6 +4,7 @@ categories: 01-Basics
 highlight: true
 ---
 
+两种抽象，对象和方法：参见pikachu345的文章
 
 ## Learning Tips
 
@@ -335,6 +336,21 @@ Lectures on Lie Algebras, J.Bernstein. Bernstein大神的名字如雷贯耳。�
 
 Representations of Semisimple Lie Algebras in BGG Category O, Humphreys. 其实作者还有一本Linear Algebraic Groups 也是经典。
 
+
+
+#### General Representation Theory
+
+** Pavel Etingof, etc. - **Introduction to Representation Theory**
+
+Representation Theory: A First Course (Graduate Texts in Mathematics, 129) Corrected Edition
+William Fulton, Joe Harris
+
+Introduction to Lie Algebras and Representation Theory (Graduate Texts in Mathematics, 9) First Edition (US) First Printing
+J.E. Humphreys
+
+Lie Groups, Lie Algebras, and Representations: An Elementary Introduction Hardcover – January 1, 2003
+Brian C. Hall
+
 #### Representation Theory of Finite Groups
 
 Linear Representations of Finite Groups (Graduate Texts in Mathematics, 42) 1st ed. 1977. Corr. 5th printing 1996 Edition
@@ -350,19 +366,6 @@ Representations and Characters of Groups, Second Edition 2nd Edition
 Gordon James, Martin Liebeck
 
 Representation Theory: a First Course, Fulton & Harris. Richard. Borhcerds 推荐的表示论入门。里面有非常多的例子，炒鸡喜欢~
-
-#### General Representation Theory
-
-** Pavel Etingof, etc. - **Introduction to Representation Theory**
-
-Representation Theory: A First Course (Graduate Texts in Mathematics, 129) Corrected Edition
-William Fulton, Joe Harris
-
-Introduction to Lie Algebras and Representation Theory (Graduate Texts in Mathematics, 9) First Edition (US) First Printing
-J.E. Humphreys
-
-Lie Groups, Lie Algebras, and Representations: An Elementary Introduction Hardcover – January 1, 2003
-Brian C. Hall
 
 #### Representation Theory of Compact Groups
 
