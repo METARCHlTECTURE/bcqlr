@@ -75,7 +75,7 @@ yay -S google-chrome lyx ttf-ms-fonts
 # 使用 pip 安装软件
 pip install cheat
 # 使用 gem 安装软件
-gem install bundler jekyll jekyll-sitemap jekyll-feed jekyll-seo-tag
+gem install bundler jekyll jekyll-sitemap jekyll-feed jekyll-seo-tag jekyll-mermaid
 ```
 
 说明：
