@@ -6,7 +6,7 @@ tags: Notes Ongoing
 
 Homepage: https://missing.csail.mit.edu/
 
-## The Shell
+## Shell and Linux Operating
 
 > A Unix shell is both a **command interpreter** and **a programming language**.As a command interpreter, the shell provides the user interface to the rich set of GNU **utilities**. The programming language features allow these utilities to **be combined**.
 
@@ -252,7 +252,30 @@ Comparison of **Command-Line Interface (CLI)** and **Graphical User Interface (G
 
 
 
-Words
-  - follow along 跟随，听从：指在某人或某事物的引导下进行行动或采取行动；理解，明白：指理解或明白某人的思路、逻辑或解释。
-  - dictate [dɪkˈteɪt] v.决定；口述；支配；强行规定 n.规定；命令
-  - concatenate [kənˈkætəneɪt] adj.连锁状的 v.使(成串地)连结[衔接]起来
+
+> - follow along 跟随，听从：指在某人或某事物的引导下进行行动或采取行动；理解，明白：指理解或明白某人的思路、逻辑或解释。
+> - dictate [dɪkˈteɪt] v.决定；口述；支配；强行规定 n.规定；命令
+> - concatenate [kənˈkætəneɪt] adj.连锁状的 v.使(成串地)连结[衔接]起来
+
+## Vim
+
+## Data Wrangling
+
+## Command-line Environment
+
+## Git and Version Control
+
+## Debugging and Profiling
+
+## MetaProgramming
+
+## Security and Crytography
+
+## Potpourri
+
+> - potpourri [ˌpəʊpʊˈriː] n.百花香；混合物；杂曲；大杂烩
+
+## ChatGPT and Prompt Engineering
+
+## Docker and 
+
