@@ -37,7 +37,9 @@ highlight: true
 
 ## 设置 Manjaro 镜像
 
-1. 自动设置最近的镜像。
+### pacman 镜像源
+
+1. 自动设置最快的镜像。
 
 ```bash
 sudo pacman-mirrors -i -c China -m rank
@@ -58,6 +60,14 @@ sudo pacman -Syy && sudo pacman -S archlinuxcn-keyring manjaro-keyring
 sudo pacman-key --populate archlinuxcn manjaro
 sudo pacman-key --refresh-keys
 sudo pacman -Syyu
+```
+### flatpak 镜像源
+
+```bash
+## official source
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+## sjtu source
+flatpak remote-modify flathub --url=https://mirror.sjtu.edu.cn/flathub
 ```
 
 ## 安装常用软件
@@ -301,14 +311,14 @@ ime.register_command("ga", "GreekAlphabet", "希腊字母")
 sock5 127.0.0.1 1080
 ```
 
-3. 在 Chrome 中安装 SwitcyhOmega 插件，运行：
+1. 为 Chrome 设置暂时代理，以访问扩展商店：
 
 ```bash
 google-chrome-stable --proxy-server=socks5://127.0.0.1:1080
 ```
 
-4. 访问 Chrome 插件商店，搜索并安装 SwitchyOmega。
-5. 打开 SwitchyOmega 设置界面，导入配置文件。
+4. 访问 Chrome 插件商店，搜索并安装 ZeroOmega。
+5. 打开 ZeroOmega 设置界面，导入配置文件。
 6. 开机自动启动 trojan。在~/.config/i3/config 文件末尾添加：
 
 ```bash
