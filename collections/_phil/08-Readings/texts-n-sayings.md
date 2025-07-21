@@ -50,7 +50,9 @@ Politics: Man is a political animal.
 追求真理的勇气，相信精神的力量，乃是哲学研究的第一条件。人应尊敬他自己，并应自视能配得上最高尚的东西。精神的伟大和力量是不可以低估和小视的。那隐蔽着的宇宙本质自身并没有力量足以抗拒求知的勇气。对于勇毅的求知者，它只能揭开它的秘密，将它的财富和奥妙公开给他，让他享受。
 
 1816 年 10 月 28 日在海得堡大学的演讲：
-  - 时代的艰苦使人对日常生活中平凡的琐屑的兴趣予以太大的重视，现实上很高的利益和为了这些利益而作的斗争，曾经大大地占据了精神上一切的能力和力量以及外在手段，因而使得人们没有自由的心情去理会那较高的内心活动和较纯洁的精神活动。以致许多较优秀的人才都为这种艰苦环境所束缚，并且部分地被牺牲在里面。 [#full text](https://www.marxists.org/reference/archive/hegel/works/hp/hpinaug.htm)
+  - The necessities of the time have accorded to the petty interests of everyday life such overwhelming attention: the deep interests of actuality and the strife respecting these have engrossed all the powers and the forces of the mind — as also the necessary means — to so great an extent, that no place has been left to the higher inward life, the intellectual operations of a purer sort; and the better natures have thus been stunted in their growth, and in great measure sacrificed.
+  - 时代的艰苦使人对日常生活中的鸡零狗碎给了太大的重视：现实上“大量的利益”和为了这些“利益”而作的斗争，曾经大大地占据了精神上一切的本领和能量，因而使得人们没有自由的心情去理会那些较高、较纯洁的智力活动和精神生活。以致人类所拥有的优秀的天性还未成长，就一定程度上被这种艰苦环境所束缚、牺牲。 
+  - [#full text](https://www.marxists.org/reference/archive/hegel/works/hp/hpinaug.htm)
 
 ## 叔本华 Arthur Schopenhauer 1788 - 1860
 

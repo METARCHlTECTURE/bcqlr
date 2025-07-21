@@ -4,9 +4,11 @@ categories: 02-Tips
 tags: Notes Ongoing
 ---
 
-Homepage: https://missing.csail.mit.edu/
+source:
+  - Homepage: https://missing.csail.mit.edu/
+  - 
 
-## Shell and Linux Operating
+## 1. Shell and Linux Operating
 
 > A Unix shell is both a **command interpreter** and **a programming language**.As a command interpreter, the shell provides the user interface to the rich set of GNU **utilities**. The programming language features allow these utilities to **be combined**.
 
@@ -279,3 +281,4 @@ Comparison of **Command-Line Interface (CLI)** and **Graphical User Interface (G
 
 ## Docker and 
 
+## Obsidian and Note Keeping

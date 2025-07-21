@@ -1,8 +1,57 @@
 ---
 title: History of Weastern Historiography
-categories: 01-Historiography
+categories: 02-Historiography
 highlight: true
 ---
+
+## Overview
+
+The CONCEPTUAL CHANGE of `history`:
+  1. `Herodotus`: Historia = “inquiry” into human affairs and their causes.
+  2. `Thucydides`: eyewitness‑based analysis of power and decision‑making.
+  3. `Salvation history`: worldly events staged by Divine Providence, leading to the Last Judgment.
+
+> `Last Judgment`: Christianity considers the Second Coming of Jesus Christ to entail the final judgment by God of all people who have ever lived, resulting in the salvation of a few and the damnation of many.
+
+The OBJECT of `history of historiology`:
+
+
+## Classical Foundations (5th c. BCE – 2nd c. CE)
+
+**Methodologocial Legacy**: Emphasis on rhetoric, chronology, causal chains, and moral didacticism established basic genres—annals, commentaries, biographies—that endured for centuries.
+
+> *Rhetoric* [ˈretərɪk]: the persuasive craft of language that shaped public discourse.  
+> *Chronology* [krəˈnɒlədʒi]: the careful arrangement of events along a temporal timeline to establish factual coherence.  
+> *Moral Didacticism* [dɪˈdæktɪsɪzəm]: 
+
+### Greek Pioneers
+
+### Roman Developments
+
+## Christian & Medieval Historiography (3rd – 14th c.)
+
+
+
+## Renaissance Humanism (14th – 16th c.)
+
+
+## Enlightenment Historical Philosophy (17th – 18th c.)
+
+## Professionalization & “Scientific” History (19th c.)
+
+
+## Marxist & Materialist Approaches (Mid‑19th – 20th c.)
+
+
+## Annales School & Total History (20th c.)
+
+## New Social & Cultural Histories (1950s – 1980s)
+
+## Postmodern & Linguistic Turns (1980s – 1990s)
+
+## Global, Post‑colonial & Comparative Histories (1990s – present)
+
+## Digital & Public History (21st c.)
 
 ## 绪论
 
