@@ -51,6 +51,14 @@ collections:
     output          : true
     permalink       : /:collection/:categories/:title/
     alias           : "NOTE"
+  lang:
+    output          : true
+    permalink       : /:collection/:categories/:title/
+    alias           : "LANG"
+  psyc:
+    output          : true
+    permalink       : /:collection/:categories/:title/
+    alias           : "PSYC"
 
 # 3. Comment settings（disqus.com）
 disqus_username     : gmkzwwg
