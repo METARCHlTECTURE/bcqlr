@@ -16,11 +16,13 @@ bgtext              : "αβγδεζηθικλμνξοπρστυφχψω∝∞∑
 # 2. Collections
 collection_order    : 
   [
+    "phil",    
     "lit",
     "hist",
-    "phil",
+    "psyc",
     "math",
     "comp",
+    "lang",
     "note",
   ]
 collections:
