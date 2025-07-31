@@ -4,11 +4,12 @@ categories: 02-Tips
 tags: Notes Ongoing
 ---
 
-source:
-  - Homepage: https://missing.csail.mit.edu/
-  - 
 
 ## 1. Shell and Linux Operating
+
+Sources: 
+  - MIT 6.NULL
+  - Bar-Ilan_Linux Intro and Toolkits for Engineers_2020-24_GPT
 
 > A Unix shell is both a **command interpreter** and **a programming language**.As a command interpreter, the shell provides the user interface to the rich set of GNU **utilities**. The programming language features allow these utilities to **be combined**.
 
