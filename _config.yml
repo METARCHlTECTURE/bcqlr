@@ -23,7 +23,6 @@ collection_order    :
     "math",
     "comp",
     "lang",
-    "note",
   ]
 collections:
   math:
@@ -47,10 +46,6 @@ collections:
     output          : true
     permalink       : /:collection/:categories/:title/
     alias           : "COMP"
-  note:
-    output          : true
-    permalink       : /:collection/:categories/:title/
-    alias           : "NOTE"
   lang:
     output          : true
     permalink       : /:collection/:categories/:title/
