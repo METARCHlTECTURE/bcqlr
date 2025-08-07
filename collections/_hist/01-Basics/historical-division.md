@@ -1,5 +1,5 @@
 ---
-title: Historical Divisions of the World
+title: 世界历史分期
 categories: 01-Basics
 highlight: false
 ---

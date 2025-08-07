@@ -1,5 +1,5 @@
 ---
-title: Timelines of Highlighted Events in World History
+title: Timelines - Highlighted Events in World History
 categories: 03-Global
 highlight: true
 ---

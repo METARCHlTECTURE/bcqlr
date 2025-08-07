@@ -1,5 +1,5 @@
 ---
-title: T-SQL Cheatsheet
+title: Cheatsheet - T-SQL
 categories: 02-Tips
 tags: Cheatsheet
 ---

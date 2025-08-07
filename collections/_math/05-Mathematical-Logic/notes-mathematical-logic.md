@@ -1,5 +1,5 @@
 ---
-title: Notes on MATH 125, Mathematical Logic
+title: Notes - MATH 125, Mathematical Logic
 categories: 05-Mathematical-Logic
 tags: Notes Ongoing
 ---

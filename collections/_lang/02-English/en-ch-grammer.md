@@ -1,6 +1,6 @@
 ---
 layout: compact
-title: English Grammer Quick Reference
+title: 速查表 - 英语语法
 categories: 02-English
 tags: Cheatsheet
 toc_level: 4

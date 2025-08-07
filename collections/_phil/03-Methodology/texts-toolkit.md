@@ -1,5 +1,5 @@
 ---
-title: Texts of The Philosophier's Toolkit
+title: Texts - The Philosophier's Toolkit
 categories: 03-methodology
 tags: Texts Ongoing
 ---

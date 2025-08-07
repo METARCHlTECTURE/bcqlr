@@ -1,5 +1,5 @@
 ---
-title: Linux Shell, Xargs Cheatsheet
+title: Cheatsheet - xargs
 categories: 03-Linux
 tags: Cheatsheet
 ---

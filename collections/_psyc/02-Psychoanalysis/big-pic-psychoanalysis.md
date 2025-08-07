@@ -1,5 +1,5 @@
 ---
-title: Notes on Psychoanalysis
+title: Notes - Psychoanalysis
 categories: 05-Psychoanalysis
 ---
 

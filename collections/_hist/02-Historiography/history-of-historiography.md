@@ -1,5 +1,5 @@
 ---
-title: History of Weastern Historiography
+title: Outline - History of Weastern Historiography
 categories: 02-Historiography
 highlight: true
 ---

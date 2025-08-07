@@ -1,5 +1,5 @@
 ---
-title: Notes on Phenomenology
+title: Notes - Phenomenology
 Categories: 06-Phenomenology
 tags: Notes
 ---

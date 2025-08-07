@@ -1,7 +1,6 @@
 ---
-title: Markdown Quick Reference
+title: Cheatsheet - Markdown
 categories: 02-Tips
-highlight: true
 ---
 
 ## Markdown Basics

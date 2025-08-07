@@ -1,5 +1,5 @@
 ---
-title: Reviews of Trilogy by Yuval Noah Harari
+title: 尤瓦尔·赫拉利四部曲
 category: xx-Notes
 tags: Notes
 ---

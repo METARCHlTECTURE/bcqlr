@@ -1,5 +1,5 @@
 ---
-title: Texts of Contemporary Theories of Knowledge
+title: Texts - Contemporary Theories of Knowledge
 categories: 04-Epistemology
 tags: Texts Ongoing
 ---

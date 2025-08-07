@@ -1,5 +1,5 @@
 ---
-title: Notes on History of Ancient Egypt
+title: 大纲 - 古代埃及史
 tags: Notes
 categories: 04-Africa
 ---

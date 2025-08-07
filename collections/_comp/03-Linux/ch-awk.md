@@ -1,5 +1,5 @@
 ---
-title: Linux Shell, Awk Cheatsheet
+title: Cheatsheet - awk
 categories: 03-Linux
 tags: Cheatsheet
 ---

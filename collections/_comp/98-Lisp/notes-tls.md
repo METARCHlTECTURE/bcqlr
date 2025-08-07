@@ -1,5 +1,5 @@
 ---
-title: Notes on The Little Schemer
+title: Notes - The Little Schemer
 categories: 98-Lisp
 tags: Notes
 ---

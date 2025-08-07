@@ -1,5 +1,5 @@
 ---
-title: Texts of Software Foundations
+title: Texts - Software Foundations
 categories: 07-Software-Foundations
 tags: Texts Ongoing
 ---

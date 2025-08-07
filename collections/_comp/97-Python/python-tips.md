@@ -1,5 +1,6 @@
 ---
-title: 
+title: Python Tips
+categories: 97-Python
 ---
 
 

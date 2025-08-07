@@ -1,5 +1,5 @@
 ---
-title: Programming Tricks
+title: 编程技巧
 categories: 03-Programming
 ---
 

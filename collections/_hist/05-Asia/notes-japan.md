@@ -1,5 +1,5 @@
 ---
-title: Notes on History of Japan
+title: 大纲 - 古代日本史
 categories: 05-Asia
 tags: Notes
 ---

@@ -1,5 +1,5 @@
 ---
-title: Emacs Cheatsheet
+title: Cheatsheet - Emacs
 categories: 02-Programming
 tags: Cheatsheet
 ---

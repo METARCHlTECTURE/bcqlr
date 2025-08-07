@@ -1,5 +1,5 @@
 ---
-title: Sync files across multiple devices using Syncthing and Resilio Sync
+title: 跨平台同步数据
 categories: 02-Tips
 ---
 

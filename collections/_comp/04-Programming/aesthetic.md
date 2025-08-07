@@ -1,5 +1,5 @@
 ---
-title: Notes on Code Aesthetic
+title: Notes - Code Aesthetic
 categories: 02-Programming
 tags: Notes
 ---

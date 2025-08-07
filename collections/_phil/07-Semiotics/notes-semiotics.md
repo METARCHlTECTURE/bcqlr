@@ -1,5 +1,5 @@
 ---
-title: Notes on Semiotics
+title: Notes - Semiotics
 Categories: 07-Semiotics
 tags: Notes
 ---

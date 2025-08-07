@@ -1,5 +1,5 @@
 ---
-title: Notes on Introduction of Philosophy
+title: Notes - Introduction of Philosophy
 categories: 01-Basics
 tags: Notes
 ---

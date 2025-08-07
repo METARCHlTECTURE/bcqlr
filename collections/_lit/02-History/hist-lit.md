@@ -1,5 +1,5 @@
 ---
-title: Notes on History of Western Literature
+title: Notes - History of Western Literature
 categories: 02-History
 highlight: true
 tags: Notes Ongoing

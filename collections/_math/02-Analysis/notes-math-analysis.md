@@ -1,5 +1,5 @@
 ---
-title: Notes on Mathematical Analysis by Chen
+title: Notes - Mathematical Analysis by Chen
 categories: 02-Analysis
 tags: Notes Ongoing
 ---

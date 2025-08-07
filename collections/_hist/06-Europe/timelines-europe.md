@@ -5,33 +5,77 @@ tags: Cheatsheet
 highlight: true
 ---
 
-1. **公元前753年** - 罗马建城传说（传统日期），标志着罗马帝国的起始。
-2. **公元前44年** - 朱利叶斯·凯撒被刺杀，导致罗马共和国的崩溃和罗马帝国的建立。
-3. **公元313年** - 米兰敕令颁布，基督教在罗马帝国内合法化。
-4. **公元476年** - 西罗马帝国灭亡，标志着古典古代的结束和中世纪的开始。
-5. **公元800年** - 查理大帝被加冕为神圣罗马皇帝，标志着神圣罗马帝国的成立。
-6. **公元1066年** - 诺曼底公爵威廉征服英格兰，开始诺曼征服。
-7. **公元1096-1099年** - 第一场十字军东征，旨在重新夺回耶路撒冷。
-8. **公元1215年** - 《大宪章》在英格兰签署，限制王权并奠定现代宪政基础。
-9. **公元1302年** - 教皇邦尼法斯八世发布《教皇宪章》，加强教会对世俗权力的控制。
-10. **公元1347-1351年** - 黑死病（黑死病）在欧洲蔓延，导致大量人口死亡。
-11. **公元1453年** - 百年战争结束，标志着英法关系的重大变化和法国中央集权的加强。
-12. **公元1492年** - 哥伦布发现美洲，开启了大航海时代。
-13. **公元1517年** - 马丁·路德发布《九十五条论纲》，引发宗教改革。
-14. **公元1534年** - 英国国王亨利八世宣布英格兰教会与罗马教廷决裂，开始宗教改革。
-15. **公元1588年** - 西班牙无敌舰队被击败，标志着西班牙全球霸权的衰退。
-16. **公元1618-1648年** - 三十年战争，深刻改变了欧洲的宗教和政治格局。
-17. **公元1642-1651年** - 英国内战，导致英王查理一世被处决和英联邦的建立。
-18. **公元1688年** - 光荣革命，威廉三世成为英格兰国王，确立了君主立宪制。
-19. **公元1776年** - 美国独立战争爆发，影响了欧洲的政治思想和革命潮流。
-20. **公元1789年** - 法国大革命爆发，推翻了法国的绝对君主制，建立了法兰西第一共和国。
-21. **公元1804年** - 拿破仑·波拿巴加冕为法国皇帝，标志着拿破仑战争的开始。
-22. **公元1815年** - 水loo战役，拿破仑被击败，标志着拿破仑战争的结束。
-23. **公元1848年** - 欧洲革命浪潮席卷多个国家，推动了各国政治改革。
-24. **公元1870-1871年** - 普法战争，导致德国统一和法兰西第三共和国的成立。
-25. **公元1914-1918年** - 第一次世界大战，重塑了欧洲的政治地图和国际关系。
-26. **公元1917年** - 俄国十月革命，建立了苏联，标志着社会主义国家的出现。
-27. **公元1929年** - 世界经济大萧条对欧洲经济造成严重冲击。
-28. **公元1939-1945年** - 第二次世界大战，欧洲大陆陷入全面战争，导致巨大破坏。
-29. **公元1945年** - 雅尔塔会议和战后重建，标志着战后欧洲的重组和冷战的开始。
-30. **公元1989年** - 柏林墙倒塌，标志着东欧共产主义的崩溃和冷战的结束。
+**Key Milestones in European History**
+
+*Dates are CE unless noted otherwise.*
+
+### Classical & Late-Antique Foundations
+
+* **c. 800 BCE** – Rise of the Greek polis system (Athens, Sparta, others).
+* **509 BCE** – Roman Republic established after overthrow of the monarchy.
+* **44 BCE** – Assassination of Julius Caesar accelerates the Republic’s collapse.
+* **27 BCE** – Augustus founds the Roman Empire.
+* **313** – Edict of Milan legalises Christianity across the empire.
+* **476** – Deposition of Romulus Augustulus marks the fall of the Western Roman Empire.
+
+### The Middle Ages
+
+* **800** – Charlemagne crowned “Emperor of the Romans,” reviving the imperial idea in the West.
+* **1066** – Norman Conquest of England at the Battle of Hastings.
+* **1095-1291** – Crusades launched, linking Europe and the Levant.
+* **1215** – Magna Carta limits English royal power.
+* **1347-1351** – Black Death kills roughly one-third of Europe’s population.
+* **1453** – Ottomans capture Constantinople; end of the Hundred-Years War in France.
+
+### Early-Modern Transformations
+
+* **1492** – Columbus’s Atlantic voyage signals Europe’s global expansion.
+* **1517** – Martin Luther’s 95 Theses ignite the Protestant Reformation.
+* **1588** – Defeat of the Spanish Armada confirms England’s naval emergence.
+* **1648** – Peace of Westphalia establishes the modern state-sovereignty model.
+* **1688** – Glorious Revolution secures constitutional monarchy in Britain.
+
+### Enlightenment & Revolutionary Age
+
+* **1715-1789** – Enlightenment spreads reason-based critiques of authority.
+* **1776/1783** – American Revolution influences European political thought.
+* **1789-1799** – French Revolution topples monarchy; inspires reform and reaction across Europe.
+* **1815** – Congress of Vienna redraws Europe after Napoleonic Wars; balance-of-power diplomacy dominates.
+
+### Industrial & National Movements
+
+* **1848** – Continent-wide revolutions demand liberal constitutions and national unity.
+* **1871** – Unification of Germany under Prussian leadership shifts the power map.
+
+### Era of World Wars
+
+* **1914-1918** – First World War devastates Europe; empires fall.
+* **1917** – Russian Revolution creates the world’s first socialist state.
+* **1939-1945** – Second World War ends in Allied victory; Holocaust reveals industrialised genocide.
+* **1945** – United Nations founded; Cold War spheres of influence emerge.
+* **1949** – NATO created as a collective-defence pact.
+
+### Integration & Cold-War End
+
+* **1957** – Treaty of Rome establishes the European Economic Community.
+* **1961** – Berlin Wall erected; symbol of Europe’s division.
+* **1989** – Peaceful revolutions bring down the Wall, triggering Eastern Bloc collapse.
+* **1991** – Soviet Union dissolves; Cold War ends.
+* **1993** – Maastricht Treaty forms the European Union.
+* **1999** – Euro launched in electronic form; coins and notes follow in 2002.
+
+### Twenty-First-Century Shifts
+
+* **2004** – EU’s “big-bang” enlargement adds ten mainly Central-Eastern states.
+* **2008-2014** – Global financial crash and Eurozone debt crisis test EU solidarity.
+* **2015** – Refugee and migrant crisis strains borders and politics.
+* **31 Jan 2020** – United Kingdom formally exits the EU after 47 years. ([European Commission][1])
+* **24 Feb 2022 →** – Russia launches a full-scale invasion of Ukraine, the largest European conflict since 1945. ([en.wikipedia.org][2])
+* **4 Apr 2023** – Finland joins NATO, becoming the alliance’s 31st member. ([nato.int][3])
+* **7 Mar 2024** – Sweden follows, expanding NATO to 32 members. ([nato.int][4])
+
+
+[1]: https://ec.europa.eu/newsroom/councileu/items/663312/en?utm_source=chatgpt.com "Brexit: UK leaves EU after 47 years"
+[2]: https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine?utm_source=chatgpt.com "Russian invasion of Ukraine - Wikipedia"
+[3]: https://www.nato.int/cps/en/natohq/news_213448.htm?utm_source=chatgpt.com "NATO - News: Finland joins NATO as 31st Ally, 04-Apr.-2023"
+[4]: https://www.nato.int/cps/en/natohq/news_223446.htm?utm_source=chatgpt.com "NATO - News: Sweden officially joins NATO , 07-Mar.-2024"

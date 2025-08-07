@@ -1,5 +1,5 @@
 ---
-title: Linux Shell Programming Cheatsheet
+title: 速查表：Linux Shell
 categories: 03-Linux
 tags: Cheatsheet
 ---

@@ -34,8 +34,6 @@ toc_level: 2
 | 强调方式 | 1⃣ 说话能力：*He can’t speak after the surgery.*<br>2⃣ 正式演说：*She will speak at the conference.* | 1⃣ 双向交流：*We talked for hours.*<br>2⃣ “说服/责备”含义：*talk someone into/out of sth.*                |
 | 语法特征 | 不可作名词（名词用 *speech*）                                                                        | 口语可作名词：*small talk, pep talk*                                                                 |
 
-### 例句对照
-
 1. **语言能力 vs. 话题讨论**
 
    * *She **speaks** Japanese fluently.*（能说日语）
@@ -136,8 +134,6 @@ toc_level: 2
 | **comprise**   | 及物     | **B comprise A**（整体 → 部分）<br>(争议) B be comprised of A     | 精准罗列全部组成部分          | 不接 *of*（传统语法），但口语已普遍接受 *comprised of* | *The course **comprises** six modules.* 该课程含六个单元。                                                          |
 | **consist**    | 不及物    | **B consist of A**（整体 → 部分）                               | 陈述组成；语气中性、偏书面       | 只能与 *of*；无被动；不用于进行时                   | *The portfolio **consists of** bonds and equities.* 该投资组合由债券和股票组成。                                         |
 
-### 关键对照要点
-
 * **主语方向**
 
   * “部分当主语” ➔ *constitute*, *form*, *make up*, (少用) *compose*.
@@ -163,7 +159,7 @@ toc_level: 2
   * **comprise** 传统上不可 *of*，现代口语可接受；被动罕见。
   * **constitute / compose / form / make up** 均可进行时，多数可改被动（除 consist）。
 
-### 额外示例
+额外示例
 
 1. **constitute**
 
@@ -257,8 +253,6 @@ toc_level: 2
 | **profession** | n.           | 受专门训练并有资格认证的“职业”              | 专业性、资格、社会责任      | *Law is a respected **profession**.*<br>法律是一门受人尊敬的职业。       |
 | **operation**  | n.           | ①“运行、运营”②“军事行动”③“外科手术”        | 过程性的组织活动；也指设备运作  | *The factory’s **operations** were suspended.*<br>工厂运营被暂停。  |
 
-### 细节对比
-
 * **work vs. job**
   *work* 强调整体劳动；*job* 是某个单位的具体岗位或一次任务。
 
@@ -286,6 +280,34 @@ toc_level: 2
 
 掌握“抽象 vs. 具体”“一次性任务 vs. 长期路径”“个人劳动 vs. 集体组织”等维度，即可灵活区分这些常见词。
 
+## 公理、引理、定理 axiom, lemma, theorem, proposition, corollary, conjecture, claim, postulate, hypothesis, assumption, definition
+
+| 术语 (英文 / 中文)                   | 是否需要证明 | 逻辑性质¹          | 主要功能与使用场景              | 常见位置与格式                         | 示例（简化表述）                    |
+| ------------------------------ | ------ | -------------- | ---------------------- | ------------------------------- | --------------------------- | -------------- | ----- | -- |
+| **Axiom / 公理**                 | 否      | 基础前提           | 规定整个理论体系可接受的最基本事实或规则、**不证自明的出发点**   | 书或章节开头按序号列出 *Axiom 1, Axiom 2…* | “任意两点可作唯一直线段”               |
+| **Postulate / 公设**             | 否      | 基础前提（多见于几何、物理） | 功用与公理相同，但往往更具几何直观或经验色彩 | 与公理一同列出或单独置于“Postulates”小节      | “存在绝对空间作为参考系”  |
+| **Hypothesis / Assumption 假设** | 否      | 条件             | 说明某命题或模型成立所需的**前置条件** | 通常写在命题开头：*Let f be continuous…* | “设函数在区间 \[a,b] 内连续”         |
+| **Definition / 定义**            | —      | 概念规定           | 为对象、符号或性质给出精确**定义，以便后续引用** | 独立编号或嵌入文本：*Definition 3.1.*     | “若 f′(x)=0 对所有 x，则称 f 为常函数” |
+| **Lemma / 引理**                 | 是      | 已证中间结论         | 为证明更大的结果提供技术步骤或工具，**作为辅助手段的中间步**骤 | 通常短小；标题 *Lemma 2.4*，后附完整证明      | `若 p|ab 且 p 为素数，则 p|a 或 p|b` |
+| **Proposition / 命题**           | 是      | 已证独立结论         | 独立性高于引理，但作者不想标为定理 | 章节中单独编号 *Proposition 5.2*       | “若 n 为奇数，则 n² ≡ 1 (mod 8)”  |
+| **Theorem / 定理**               | 是      | 已证核心结论         | 文章、章节或领域内的重要成果，**回答核心问题、或给出重要性质** | 明显编号；通常附较长证明                    | “费马小定理：a^{p−1} ≡ 1 (mod p)” |
+| **Corollary / 推论**             | 是（极短）  | 已证随结论          | 从已证明定理几乎立即得出的小结果 | 紧跟相关定理：*Corollary 3.3.*         | `若 p 为素数，则 p|(a^{p}−a)`     |
+| **Claim / 断言**                 | 是（嵌入式） | 已证局部步骤         | 长证明内部的局部结论，用来**拆分推理、确定支线** | 放在证明过程里，以“Claim”开头，证明紧随其后       | “Claim: 系数 c\_k 必为零”        |
+| **Conjecture / 猜想**            | 否（未证）  | 未决断言           | 提出尚无证明的推测，引导未来研究       | 独立陈述；常附历史与动机                    | “黎曼猜想：所有非平凡零点实部为 1/2”       |
+
+> ¹ **逻辑性质**
+>
+> * *基础前提*：被接受为真，后续论证可直接调用。
+> * *条件*：限定命题适用范围，但不自带结论。
+> * *已证结论*：作者提供证明，供他人引用。
+> * *未决断言*：尚无证明或反例。
+
+对比：
+1. **Axiom vs Postulate** 现代数学多用 *axiom*，几何或经典力学教材仍保留 *postulate* 这一传统称谓。
+2. **Lemma 与 Theorem 可互换** 若某“引理”后来被频繁引用，也常被社区提升为 “定理”（佐恩引理）。
+3. **Hypotheses 列表化** 严谨写作会在命题前先列 “条件 (H1) – (Hn)”，让读者清楚前提。
+4. **Claim 的局部性** 一段证明里可能出现多个 *Claim A, Claim B…*，解决后再回到主线。
+5. **Conjecture 的陈述** 应给出充分动机、已知结果与可能的研究方向，方便后来者跟进。
 
 # 形容词 Adjective
 
@@ -328,8 +350,6 @@ toc_level: 2
 | **a number of**    | 量词短语 | **可数复数**         | 中性    | a number of **issues** + **复数谓语**      | “若干，很多”（语义比 great many 弱）<br>· *A number of students are absent* |
 | **a lot of**       | 量词短语 | 可数复数 + 不可数       | 最口语   | a lot of **ideas / milk**              | 万能“很多”，正式文写可改用 large number/amount<br>· *a lot of work*          |
 
-### 快速辨析要点
-
 1. **形容词 vs. 量词短语**
 
    * *vast, abundant, plentiful* → 放在名词前直接修饰。
@@ -370,10 +390,6 @@ toc_level: 2
 | **infinitesimal**      | 无限小的        | 数学／科学用词，强调趋近于零                           | ➅      |
 
 \*数字越大表示“更微小”的语义强度；small/little 用作基准（➀）。
-
-
-
-### 用法与搭配示例
 
 1. **small**
 
@@ -416,10 +432,6 @@ toc_level: 2
 
    * *Calculus lets us study changes that occur over **infinitesimal** intervals of time.*
    * 微积分使我们能研究在无限小时间区间里发生的变化。
-
-
-
-#### 额外对比要点（非总结）
 
 * **little** 可充当限定词或代词：*a little water*；**small** 只能作形容词。
 * **tiny / miniature** 偏口语或描述性；**minute / microscopic / infinitesimal** 偏学术。

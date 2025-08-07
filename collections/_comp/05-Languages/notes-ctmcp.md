@@ -1,5 +1,5 @@
 ---
-title: Notes on Concepts, Techniques, and Models of Computer Programming
+title: Notes - Concepts, Techniques, and Models of Computer Programming
 categories: 05-Languages
 tags: Notes
 ---

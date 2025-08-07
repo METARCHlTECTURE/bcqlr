@@ -1,5 +1,5 @@
 ---
-title: Notes on MIT Null, The Missing Semester of Your CS Education
+title: Notes - MIT Null, The Missing Semester of Your CS Education
 categories: 02-Tips
 tags: Notes Ongoing
 ---

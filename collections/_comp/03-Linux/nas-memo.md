@@ -1,5 +1,5 @@
 ---
-title: Low Power Consumption NAS and TrueNAS Quick Guide
+title: DIY 低功耗个人 NAS
 categories: 03-Linux
 ---
 

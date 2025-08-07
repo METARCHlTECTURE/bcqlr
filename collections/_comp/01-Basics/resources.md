@@ -1,5 +1,5 @@
 ---
-title: Free Online Resources of Computer Science
+title: 计算机学习资源
 categories: 01-Basics
 ---
 

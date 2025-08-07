@@ -1,5 +1,5 @@
 ---
-title: Notes on History of Eastern Asia
+title: 大纲 - 古代东亚史
 categories: 05-Asia
 tags: Notes
 ---

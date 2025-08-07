@@ -1,5 +1,5 @@
 ---
-title: Big Picture of Western Literature
+title: 学习路径 - 西方文学
 categories: 01-Basics
 ---
 

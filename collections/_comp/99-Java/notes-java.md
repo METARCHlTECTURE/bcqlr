@@ -1,5 +1,5 @@
 ---
-title: Java Notes
+title: 笔记 - Java
 categories: 99-Java
 ---
 

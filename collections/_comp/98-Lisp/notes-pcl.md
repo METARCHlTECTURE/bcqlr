@@ -1,5 +1,5 @@
 ---
-title: Notes on Practical Common Lisp
+title: Notes - Practical Common Lisp
 categories: 98-Lisp
 tags: Notes
 ---

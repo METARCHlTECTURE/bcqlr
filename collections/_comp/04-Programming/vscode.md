@@ -1,5 +1,5 @@
 ---
-title: Learn VS Code in Y minutes
+title: VS Code 技巧和扩展
 categories: 02-Programming
 ---
 

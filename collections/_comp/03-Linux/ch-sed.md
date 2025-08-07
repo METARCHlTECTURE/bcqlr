@@ -1,5 +1,5 @@
 ---
-title: Linux Shell, Sed Cheatsheet
+title: Cheatsheet - Sed
 categories: 03-Linux
 tags: Cheatsheet
 ---

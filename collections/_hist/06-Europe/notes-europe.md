@@ -1,5 +1,5 @@
 ---
-title: Notes on History of Europe
+title: 大纲 - 古代欧洲史
 categories: 06-Europe
 tags: Notes
 highlight: true

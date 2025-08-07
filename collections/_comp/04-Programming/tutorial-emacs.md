@@ -1,5 +1,5 @@
 ---
-title: Emacs Notes
+title: Notes - Emacs
 categories: 02-Programming
 tags: Notes
 ---

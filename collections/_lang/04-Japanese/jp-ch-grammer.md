@@ -1,6 +1,6 @@
 ---
 layout: compact
-title: Japanese Grammer Quick Reference
+title: 速查表 - 日语语法
 categories: 04-Japanese
 tags: Cheatsheet
 ---

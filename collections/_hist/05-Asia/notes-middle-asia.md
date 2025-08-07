@@ -1,5 +1,5 @@
 ---
-title: Notes on History of Middle Asia
+title: 大纲 - 古代中亚史
 categories: 05-Asia
 tags: Notes
 ---

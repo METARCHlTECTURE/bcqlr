@@ -1,5 +1,5 @@
 ---
-title: Notes on History of Mathematics
+title: Notes - History of Mathematics
 categories: 01-Basics
 highlight: true
 tags: Notes
