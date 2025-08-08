@@ -1,6 +1,6 @@
 ---
 title: Linux Shell, Find Cheatsheet
-categories: 03-Linux
+categories: Linux
 tags: Cheatsheet
 ---
 

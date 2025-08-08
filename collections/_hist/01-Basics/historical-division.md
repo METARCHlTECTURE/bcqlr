@@ -1,6 +1,6 @@
 ---
 title: 世界历史分期
-categories: 01-Basics
+categories: Basics
 highlight: false
 ---
 

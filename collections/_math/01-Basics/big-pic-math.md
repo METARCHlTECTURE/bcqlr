@@ -1,10 +1,11 @@
 ---
 title: Big Pictures of Learning Mathematics
-categories: 01-Basics
+categories: Basics
 highlight: true
 ---
 
-两种抽象，对象和方法：参见pikachu345的文章
+resources:
+  - TODO:两种抽象，对象和方法：参见pikachu345的文章
 
 ## Learning Tips
 

@@ -1,6 +1,6 @@
 ---
 title: French Pronouncation Tips
-categories: 03-French
+categories: French
 tags: Cheatsheet
 ---
 

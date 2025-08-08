@@ -1,6 +1,6 @@
 ---
 title: Linux Shell, Git Cheatsheet
-categories: 03-Linux
+categories: Linux
 tags: Cheatsheet
 ---
 

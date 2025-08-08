@@ -1,6 +1,6 @@
 ---
 title: The Ranking of Cross-Platform GPU Performance and Price-to-Performance 
-categories: 02-Tips
+categories: Tips
 ---
 
 This is only a test of [Mermaid 11.3.0](https://mermaid.js.org/)'s new feature, [XY chart](https://mermaid.js.org/syntax/xyChart.html).

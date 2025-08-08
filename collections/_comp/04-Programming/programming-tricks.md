@@ -1,6 +1,6 @@
 ---
 title: 编程技巧
-categories: 03-Programming
+categories: Programming
 ---
 
 ## 开发工具篇

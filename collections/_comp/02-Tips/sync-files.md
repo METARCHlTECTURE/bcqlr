@@ -1,6 +1,6 @@
 ---
 title: 跨平台同步数据
-categories: 02-Tips
+categories: Tips
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: 大纲 - 古代东亚史
-categories: 05-Asia
+categories: Asia
 tags: Notes
 ---
 

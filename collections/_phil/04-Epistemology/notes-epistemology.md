@@ -1,6 +1,6 @@
 ---
 title: Notes - Modern Epistemology
-categories: 04-Epistemology
+categories: Epistemology
 tags: Notes
 ---
 

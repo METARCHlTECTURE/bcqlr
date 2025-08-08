@@ -1,6 +1,6 @@
 ---
 title: 速查表：正则表达式
-categories: 02-Tips
+categories: Tips
 tags: Cheatsheet
 ---
 

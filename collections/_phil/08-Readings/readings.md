@@ -1,6 +1,6 @@
 ---
 title: Supplementary Readings of Weastern Philosophy
-Categories: 08-Readings
+categories: Readings
 ---
 
 

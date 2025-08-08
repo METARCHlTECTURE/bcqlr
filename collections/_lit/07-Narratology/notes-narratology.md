@@ -1,6 +1,6 @@
 ---
 title: Narratology
-categories: 07-Narratology
+categories: Narratology
 ---
 
 

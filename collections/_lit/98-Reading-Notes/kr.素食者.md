@@ -1,5 +1,6 @@
 ---
 title: 阅读笔记 - 【韩】韩江 《素食者》三部曲
+categories: Reading-Notes
 ---
 
 ### 1 故事梗概

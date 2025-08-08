@@ -1,6 +1,6 @@
 ---
 title: Timelines of Big Events in European History
-categories: 06-Europe
+categories: Europe
 tags: Cheatsheet
 highlight: true
 ---

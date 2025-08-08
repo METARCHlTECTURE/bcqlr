@@ -1,6 +1,6 @@
 ---
 title: Notes - The Little Schemer
-categories: 98-Lisp
+categories: Lisp
 tags: Notes
 ---
 

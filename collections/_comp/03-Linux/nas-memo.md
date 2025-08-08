@@ -1,6 +1,6 @@
 ---
 title: DIY 低功耗个人 NAS
-categories: 03-Linux
+categories: Linux
 ---
 
 ## Truenas Scale Quick Start Guide

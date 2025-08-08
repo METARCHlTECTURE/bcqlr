@@ -1,6 +1,6 @@
 ---
 title: Notes - Phenomenology
-Categories: 06-Phenomenology
+categories: Phenomenology
 tags: Notes
 ---
 

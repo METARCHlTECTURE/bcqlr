@@ -1,6 +1,6 @@
 ---
 title: Notes - Psychoanalysis
-categories: 05-Psychoanalysis
+categories: Psychoanalysis
 ---
 
 ## 阅读材料

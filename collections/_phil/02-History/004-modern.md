@@ -1,6 +1,6 @@
 ---
 title: History of Modern Philosophy
-categories: 02-History
+categories: History
 tags: Notes Ongoing
 ---
 

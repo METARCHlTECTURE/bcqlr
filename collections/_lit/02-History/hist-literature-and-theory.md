@@ -1,6 +1,6 @@
 ---
 title: Timeline of the History of Literature and Literary Theory
-categories: 02-History
+categories: History
 tags: Timelines Ongoing
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Linux Windows Manager, i3wm Cheatsheet
-categories: 03-Linux
+categories: Linux
 tags: Cheatsheet
 ---
 

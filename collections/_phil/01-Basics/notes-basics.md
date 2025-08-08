@@ -1,6 +1,6 @@
 ---
 title: Notes - Introduction of Philosophy
-categories: 01-Basics
+categories: Basics
 tags: Notes
 ---
 

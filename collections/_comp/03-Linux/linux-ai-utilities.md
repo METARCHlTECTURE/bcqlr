@@ -1,6 +1,6 @@
 ---
 title: Linux Utilities and AI Tools
-categories: 03-Linux
+categories: Linux
 ---
 
 ## ffmpeg

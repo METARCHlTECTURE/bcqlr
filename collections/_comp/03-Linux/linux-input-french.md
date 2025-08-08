@@ -1,6 +1,6 @@
 ---
 title: French Input Methods
-categories: 03-Linux
+categories: Linux
 ---
 
 It maybe not convinient inputing french, when using a standard US keyboard. French keyboards often apply an AZERTY layout, in which key number and configuration differs from a QWERTY one. It is listed below:

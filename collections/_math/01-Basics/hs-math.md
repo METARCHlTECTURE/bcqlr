@@ -1,6 +1,6 @@
 ---
 title: 高中数学的学习方法 v0.9
-categories: 01-Basics
+categories: Basics
 highlight: true
 ---
 

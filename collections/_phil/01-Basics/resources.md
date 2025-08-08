@@ -1,6 +1,6 @@
 ---
 title: Resources for Learning Western Philosophy
-categories: 01-Basics
+categories: Basics
 ---
 
 ## 哲学入门

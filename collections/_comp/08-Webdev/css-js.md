@@ -1,6 +1,6 @@
 ---
 title: Web Development, HTML, CSS and Javascript 
-categories: 08-Webdev
+categories: Webdev
 ---
 
 Abbreviation Glossary. 

@@ -1,6 +1,6 @@
 ---
 title: Long Sentences in English
-categories: 02-English
+categories: English
 tags: Notes
 ---
 

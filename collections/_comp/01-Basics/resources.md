@@ -1,6 +1,6 @@
 ---
 title: 计算机学习资源
-categories: 01-Basics
+categories: Basics
 ---
 
 ## Programming Language Research

@@ -1,6 +1,6 @@
 ---
 title: Notes - Semiotics
-Categories: 07-Semiotics
+categories: Semiotics
 tags: Notes
 ---
 

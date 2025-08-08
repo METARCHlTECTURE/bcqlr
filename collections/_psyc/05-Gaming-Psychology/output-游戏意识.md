@@ -1,6 +1,6 @@
 ---
 title: 游戏中的“意识”是什么？
-categories: 01-Self-Efficacy
+categories: Self-Efficacy
 tags: Ongoing
 ---
 

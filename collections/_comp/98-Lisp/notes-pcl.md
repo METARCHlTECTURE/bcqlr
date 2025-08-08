@@ -1,6 +1,6 @@
 ---
 title: Notes - Practical Common Lisp
-categories: 98-Lisp
+categories: Lisp
 tags: Notes
 ---
 

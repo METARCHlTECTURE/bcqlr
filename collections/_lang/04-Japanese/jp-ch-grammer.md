@@ -1,7 +1,7 @@
 ---
 layout: compact
 title: 速查表 - 日语语法
-categories: 04-Japanese
+categories: Japanese
 tags: Cheatsheet
 ---
 

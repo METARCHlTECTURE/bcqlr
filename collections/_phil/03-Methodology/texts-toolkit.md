@@ -1,6 +1,6 @@
 ---
 title: Texts - The Philosophier's Toolkit
-categories: 03-methodology
+categories: methodology
 tags: Texts Ongoing
 ---
 

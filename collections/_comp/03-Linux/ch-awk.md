@@ -1,6 +1,6 @@
 ---
 title: Cheatsheet - awk
-categories: 03-Linux
+categories: Linux
 tags: Cheatsheet
 ---
 

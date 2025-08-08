@@ -1,6 +1,6 @@
 ---
 title: Cheatsheet - xargs
-categories: 03-Linux
+categories: Linux
 tags: Cheatsheet
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Cheatsheet for Writing Mathematical Formulas in LaTeX
-categories: 01-Basics
+categories: Basics
 tags: Cheatsheet Ongoing
 highlighted: ture
 ---

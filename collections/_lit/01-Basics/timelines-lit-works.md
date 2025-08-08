@@ -1,6 +1,6 @@
 ---
 title: Timelines of Western Literature
-categories: 01-Basics
+categories: Basics
 tags: Cheatsheet
 ---
 

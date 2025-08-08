@@ -1,7 +1,7 @@
 ---
 title: 大纲 - 古代埃及史
 tags: Notes
-categories: 04-Africa
+categories: Africa
 ---
 
 **早期社会的共性**

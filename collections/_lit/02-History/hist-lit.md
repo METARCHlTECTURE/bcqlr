@@ -1,6 +1,6 @@
 ---
 title: Notes - History of Western Literature
-categories: 02-History
+categories: History
 highlight: true
 tags: Notes Ongoing
 ---

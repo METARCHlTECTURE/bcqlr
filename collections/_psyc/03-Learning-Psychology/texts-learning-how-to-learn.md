@@ -1,6 +1,6 @@
 ---
 title: Notes - Learning how to Learn
-categories: 01-Self-Efficacy
+categories: Self-Efficacy
 tags: Notes Ongoing
 ---
 

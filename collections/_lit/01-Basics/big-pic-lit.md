@@ -1,6 +1,6 @@
 ---
 title: 学习路径 - 西方文学
-categories: 01-Basics
+categories: Basics
 ---
 
 ## 一个路径

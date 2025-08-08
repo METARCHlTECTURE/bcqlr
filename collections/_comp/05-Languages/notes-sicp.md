@@ -1,6 +1,6 @@
 ---
 title: Notes - CS61A, Structure and Interpretation of Computer Programs
-categories: 05-Languages
+categories: Languages
 tags: Notes Ongoing
 ---
 

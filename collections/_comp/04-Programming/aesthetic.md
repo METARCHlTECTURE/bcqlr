@@ -1,6 +1,6 @@
 ---
 title: Notes - Code Aesthetic
-categories: 02-Programming
+categories: Programming
 tags: Notes
 ---
 

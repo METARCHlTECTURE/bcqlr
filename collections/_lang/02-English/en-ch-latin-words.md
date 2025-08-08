@@ -1,6 +1,6 @@
 ---
 title: Latin Words in English
-categories: 02-English
+categories: English
 tags: Cheatsheet
 ---
 

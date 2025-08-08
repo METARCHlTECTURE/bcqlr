@@ -1,6 +1,6 @@
 ---
 title: Timelines of Development of Western Literature
-categories: 02-History
+categories: History
 tags: Cheatsheet
 highlight: true
 ---

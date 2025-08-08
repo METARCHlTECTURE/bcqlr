@@ -2,7 +2,6 @@
 title: The Annotated Lolita
 ---
 
-
 ## The Annotated Lolita
 
 ### Preface

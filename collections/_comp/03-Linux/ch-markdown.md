@@ -1,6 +1,6 @@
 ---
 title: Cheatsheet - Markdown
-categories: 02-Tips
+categories: Tips
 ---
 
 ## Markdown Basics

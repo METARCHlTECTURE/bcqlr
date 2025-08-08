@@ -1,6 +1,6 @@
 ---
 title: Summary of English Collocations and Idioms
-categories: 02-English
+categories: English
 tags: Cheatsheet
 highlight: true
 ---

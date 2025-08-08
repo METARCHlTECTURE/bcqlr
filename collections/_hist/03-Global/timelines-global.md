@@ -1,6 +1,6 @@
 ---
 title: Timelines - Highlighted Events in World History
-categories: 03-Global
+categories: Global
 highlight: true
 ---
 

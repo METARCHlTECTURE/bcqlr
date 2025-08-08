@@ -1,6 +1,6 @@
 ---
 title: Elden Ring Dialogue in Order
-categories: 02-English
+categories: English
 ---
 
 ## 开幕动画 Intro Cinematic

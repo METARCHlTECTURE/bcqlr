@@ -1,6 +1,6 @@
 ---
 title: Resources for Learning Mathematics
-categories: 01-Basics
+categories: Basics
 highlight: true
 ---
 

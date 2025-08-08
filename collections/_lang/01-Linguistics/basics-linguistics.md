@@ -1,4 +1,4 @@
 ---
 title: Basics of Linguistics
-categories: 01-Linguistics
+categories: Linguistics
 ---

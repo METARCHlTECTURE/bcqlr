@@ -1,6 +1,6 @@
 ---
 title: Linux - Check Hardware infomation
-categories: 03-Linux
+categories: Linux
 tags: Cheatsheet
 ---
 

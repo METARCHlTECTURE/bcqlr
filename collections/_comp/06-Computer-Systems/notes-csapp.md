@@ -1,6 +1,6 @@
 ---
 title: Notes - Computer Systems, a Programmer's Perspective
-categories: 06-Computer-Systems
+categories: Computer-Systems
 tags: Notes
 ---
 

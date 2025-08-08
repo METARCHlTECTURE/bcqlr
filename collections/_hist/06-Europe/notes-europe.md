@@ -1,6 +1,6 @@
 ---
 title: 大纲 - 古代欧洲史
-categories: 06-Europe
+categories: Europe
 tags: Notes
 highlight: true
 ---

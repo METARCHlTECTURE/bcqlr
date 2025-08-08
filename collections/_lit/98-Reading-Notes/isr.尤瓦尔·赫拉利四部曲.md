@@ -1,6 +1,6 @@
 ---
-title: 尤瓦尔·赫拉利四部曲
-category: xx-Notes
+title: 阅读笔记 - 尤瓦尔·赫拉利四部曲
+categories: Reading-Notes
 tags: Notes
 ---
 

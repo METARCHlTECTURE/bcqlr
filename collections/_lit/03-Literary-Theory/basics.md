@@ -1,6 +1,6 @@
 ---
 title: Basic Problems in Literary Theory and Literary Criticism
-categories: 03-Literary-Theory
+categories: Literary-Theory
 ---
 
 ## 文学的定义

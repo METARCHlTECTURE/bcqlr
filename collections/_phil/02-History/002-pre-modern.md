@@ -1,6 +1,6 @@
 ---
 title: History of Pre-modern Philosophy
-categories: 02-History
+categories: History
 tags: Notes
 highlight: true
 ---

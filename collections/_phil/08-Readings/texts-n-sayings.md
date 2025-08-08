@@ -1,6 +1,6 @@
 ---
 title: Texts and Sayings of Philosophiers
-Categories: 08-Readings
+categories: Readings
 ---
 
 CLARIFICATION: Collecting well-known sayings of philosophiers is not a way to learn phylosophy.

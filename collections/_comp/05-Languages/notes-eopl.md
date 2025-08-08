@@ -1,6 +1,6 @@
 ---
 title: Notes - Essentials of Programming Languages 
-categories: 05-Languages
+categories: Languages
 tags: Notes
 ---
 

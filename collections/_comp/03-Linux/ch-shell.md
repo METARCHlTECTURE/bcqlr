@@ -1,6 +1,6 @@
 ---
 title: 速查表：Linux Shell
-categories: 03-Linux
+categories: Linux
 tags: Cheatsheet
 ---
 

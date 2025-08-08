@@ -1,6 +1,6 @@
 ---
 title: Big Pictures of World History
-categories: 01-Basics
+categories: Basics
 ---
 
 

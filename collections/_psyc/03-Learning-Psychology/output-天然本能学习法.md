@@ -1,7 +1,7 @@
 ---
 layout: compact
 title: 天然本能学习法
-categories: 01-Self-Efficacy
+categories: Self-Efficacy
 toc_level: 2
 tags: Ongoing
 ---

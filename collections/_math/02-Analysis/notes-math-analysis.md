@@ -1,6 +1,6 @@
 ---
 title: Notes - Mathematical Analysis by Chen
-categories: 02-Analysis
+categories: Analysis
 tags: Notes Ongoing
 ---
 

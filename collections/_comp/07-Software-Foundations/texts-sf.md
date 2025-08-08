@@ -1,6 +1,6 @@
 ---
 title: Texts - Software Foundations
-categories: 07-Software-Foundations
+categories: Software-Foundations
 tags: Texts Ongoing
 ---
 

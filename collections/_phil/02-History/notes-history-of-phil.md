@@ -1,6 +1,6 @@
 ---
 title: Outline of History of Western Philosophy
-categories: 02-History
+categories: History
 tags: Notes
 ---
 

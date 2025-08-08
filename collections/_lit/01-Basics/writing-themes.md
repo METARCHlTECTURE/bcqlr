@@ -1,6 +1,6 @@
 ---
 title: Cheatsheet - Writing Themes of Western Literature Tradition
-categories: 01-basics
+categories: basics
 ---
 
 ## Writing Themes by Epoch

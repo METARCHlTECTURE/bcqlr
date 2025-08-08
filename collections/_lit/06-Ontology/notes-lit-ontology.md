@@ -1,6 +1,6 @@
 ---
 title: Notes - Ontology of Literature
-categories: 06-Ontology
+categories: Ontology
 tags: Notes
 ---
 

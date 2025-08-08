@@ -1,6 +1,6 @@
 ---
 title: VS Code 技巧和扩展
-categories: 02-Programming
+categories: Programming
 ---
 
 ## 使用技巧

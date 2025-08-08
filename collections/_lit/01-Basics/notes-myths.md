@@ -1,6 +1,6 @@
 ---
-title: Myths of Ancient Civilizations
-categories: xx-Notes
+title: 笔记 - 世界神话
+categories: Basics
 tags: Notes
 ---
 

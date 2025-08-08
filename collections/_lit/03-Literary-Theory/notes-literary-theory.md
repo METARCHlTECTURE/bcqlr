@@ -1,6 +1,6 @@
 ---
 title: Outline of Western Literary Theory
-categories: 03-Literary-Theory
+categories: Literary-Theory
 ---
 
 ## What and How Problems

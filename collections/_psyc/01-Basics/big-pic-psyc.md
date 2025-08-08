@@ -1,6 +1,6 @@
 ---
 title: A Big Picture of Psychology
-categories: 05-Psychoanalysis
+categories: Psychoanalysis
 ---
 
 

@@ -1,6 +1,6 @@
 ---
 title: Notes - History of Mathematics
-categories: 01-Basics
+categories: Basics
 highlight: true
 tags: Notes
 ---

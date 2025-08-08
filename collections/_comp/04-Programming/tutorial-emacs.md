@@ -1,6 +1,6 @@
 ---
 title: Notes - Emacs
-categories: 02-Programming
+categories: Programming
 tags: Notes
 ---
 

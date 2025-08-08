@@ -1,6 +1,6 @@
 ---
 title: Big Picture of Western Philosophy
-categories: 01-Basics
+categories: Basics
 highlight: true
 ---
 

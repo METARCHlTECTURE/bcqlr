@@ -1,6 +1,6 @@
 ---
 title: Subtle Differences Between English Words
-categories: 02-English
+categories: English
 tags: Notes
 toc_level: 2
 ---

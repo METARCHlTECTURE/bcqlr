@@ -1,6 +1,6 @@
 ---
 title: Brief History and Paradigm Shift of Western Philosophy
-categories: 02-History
+categories: History
 tags: Cheatsheet
 highlight: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: 计算机学习路径
-categories: 01-Basics
+categories: Basics
 ---
 
 当前版本： v1.21

@@ -1,6 +1,6 @@
 ---
 title: Build Efficient working Environment with Manjaro and i3wm
-categories: 03-Linux
+categories: Linux
 highlight: true
 ---
 

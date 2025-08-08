@@ -1,6 +1,6 @@
 ---
 title: Useful ASCII Art
-categories: 02-Tips
+categories: Tips
 ---
 
 ### ASCII art repositories

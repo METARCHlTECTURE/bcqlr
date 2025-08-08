@@ -1,5 +1,6 @@
 ---
 title: 阅读笔记 - 【中】鲁迅《伤逝》阅读笔记
+categories: Reading-Notes
 ---
 
 1

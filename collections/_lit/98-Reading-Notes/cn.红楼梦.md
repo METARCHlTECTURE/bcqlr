@@ -1,5 +1,6 @@
 ---
 title: 阅读笔记 - 【清】曹雪芹《红楼梦》阅读笔记
+categories: Reading-Notes
 ---
 
 剧情梗概：

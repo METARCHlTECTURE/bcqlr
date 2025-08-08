@@ -1,6 +1,6 @@
 ---
 title: Linux Shell, Grep Cheatsheet
-categories: 03-Linux
+categories: Linux
 tags: Cheatsheet
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: 笔记 - Java
-categories: 99-Java
+categories: Java
 ---
 
 <!-- TOC -->

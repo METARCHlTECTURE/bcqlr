@@ -1,6 +1,6 @@
 ---
 title: Cheatsheet - Sed
-categories: 03-Linux
+categories: Linux
 tags: Cheatsheet
 ---
 
