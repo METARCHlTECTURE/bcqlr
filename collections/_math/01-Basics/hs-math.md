@@ -1,5 +1,5 @@
 ---
-title: 高中数学的学习方法 v0.9
+title: 高中数学的学习方法
 categories: Basics
 highlight: true
 ---

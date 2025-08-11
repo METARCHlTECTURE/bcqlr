@@ -1,8 +1,12 @@
 ---
-title: Notes - MATH 125, Mathematical Logic
+title: Notes - Mathematical Logic
 categories: Mathematical-Logic
 tags: Notes Ongoing
 ---
+
+Resources:
+  - UCB Math125A
+
 
 ## Introduction
 

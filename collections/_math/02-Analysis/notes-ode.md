@@ -1,4 +1,4 @@
 ---
-title: Ordinary Differential Equation
+title: Notes - Ordinary Differential Equation
 categories: Analysis
 ---

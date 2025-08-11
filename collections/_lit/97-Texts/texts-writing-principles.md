@@ -1,5 +1,6 @@
 ---
 title: Writing Principles of Talented Writers
+categories: Texts
 ---
 
 ## 什么是文学？ 米歇尔·福柯

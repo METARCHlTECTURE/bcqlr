@@ -1,5 +1,5 @@
 ---
-title: Notes - Psychoanalysis
+title: 学习地图 - 精神分析
 categories: Psychoanalysis
 ---
 

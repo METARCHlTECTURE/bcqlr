@@ -1,5 +1,5 @@
 ---
-title: Notes - History of Mathematics
+title: 笔记 - 数学史
 categories: Basics
 highlight: true
 tags: Notes

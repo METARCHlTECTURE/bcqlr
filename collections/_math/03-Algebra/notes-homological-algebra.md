@@ -1,4 +1,4 @@
 ---
-title: Homological Algebra
+title: Notes - Homological Algebra
 categories: Algebra
 ---

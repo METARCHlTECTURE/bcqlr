@@ -1,4 +1,4 @@
 ---
-title: Complex Analysis
+title: Notes - Complex Analysis
 categories: Analysis
 ---

@@ -1,5 +1,5 @@
 ---
-title: Texts on A New History of Western Philosophy
+title: Texts - A New History of Western Philosophy
 categories: History
 tags: Texts Ongoing
 ---

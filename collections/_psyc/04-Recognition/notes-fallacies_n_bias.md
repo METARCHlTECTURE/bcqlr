@@ -1,5 +1,5 @@
 ---
-title: Logical Fallacies and Cognitive Bias
+title: Cheatsheet - Logical Fallacies and Cognitive Bias
 categories: Self-Efficacy
 ---
 

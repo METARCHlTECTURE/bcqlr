@@ -1,5 +1,5 @@
 ---
-title: Texts and Sayings of Philosophiers
+title: Texts - Quotes of Philosophiers
 categories: Readings
 ---
 

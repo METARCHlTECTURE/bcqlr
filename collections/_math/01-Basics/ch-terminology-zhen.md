@@ -1,5 +1,5 @@
 ---
-title: Glossary of Mathematical Terms in English and Chinese
+title: 速查表 - 数学术语
 categories: Basics
 tags: Cheatsheet Ongoing
 layout: compact

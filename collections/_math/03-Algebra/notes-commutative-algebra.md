@@ -1,4 +1,4 @@
 ---
-title: Commutative Algebra
+title: Notes - Commutative Algebra
 categories: Algebra
 ---

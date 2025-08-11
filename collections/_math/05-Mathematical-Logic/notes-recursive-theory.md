@@ -1,4 +1,4 @@
 ---
-title: Recursive Theory
+title: Notes - Recursive Theory
 categories: Mathematical-Logic
 ---

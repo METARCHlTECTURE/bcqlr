@@ -1,5 +1,5 @@
 ---
-title: History of Modern Philosophy
+title: 笔记 - 现代哲学
 categories: History
 tags: Notes Ongoing
 ---

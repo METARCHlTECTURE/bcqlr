@@ -1,6 +1,6 @@
 ---
 title: 默苍离主要剧情
-categories: Quotes
+categories: Texts
 ---
 
 ## 三道考验

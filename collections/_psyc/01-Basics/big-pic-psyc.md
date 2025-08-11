@@ -1,5 +1,5 @@
 ---
-title: A Big Picture of Psychology
+title: 学习地图 - 心理学
 categories: Psychoanalysis
 ---
 

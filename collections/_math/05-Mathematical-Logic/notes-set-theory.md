@@ -1,4 +1,4 @@
 ---
-title: Notes - MATH 135, Set Theory
+title: Notes - Axiomatic Set Theory
 categories: Mathematical-Logic
 ---

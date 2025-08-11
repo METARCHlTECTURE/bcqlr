@@ -1,4 +1,4 @@
 ---
-title: Partial Differential Equation
+title: Notes - Partial Differential Equation
 categories: Analysis
 ---

@@ -1,4 +1,4 @@
 ---
-title: Proof Theory
+title: Notes - Proof Theory
 categories: Mathematical-Logic
 ---

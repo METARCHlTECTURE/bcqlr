@@ -1,5 +1,5 @@
 ---
-title: Online Readings
+title: 文本 - 网络哲学文章
 categories: Readings
 ---
 

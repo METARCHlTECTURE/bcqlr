@@ -1,4 +1,4 @@
 ---
-title: Abstract Algebra
+title: Notes - Abstract Algebra
 categories: Algebra
 ---

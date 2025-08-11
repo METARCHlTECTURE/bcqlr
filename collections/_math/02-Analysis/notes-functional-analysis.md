@@ -1,4 +1,4 @@
 ---
-title: Funtioncal Analysis
+title: Notes - Funtioncal Analysis
 categories: Analysis
 ---

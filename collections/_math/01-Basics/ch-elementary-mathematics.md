@@ -1,5 +1,5 @@
 ---
-title: Quick Review of Elementary Mathematics
+title: 速查表 - 基础数学
 categories: Basics
 tags: Notes
 ---

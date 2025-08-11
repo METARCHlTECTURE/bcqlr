@@ -1,4 +1,4 @@
 ---
-title: Lie Algebra
+title: Notes - Lie Algebra
 categories: Algebra
 ---

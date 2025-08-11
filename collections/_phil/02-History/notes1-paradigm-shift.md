@@ -1,5 +1,5 @@
 ---
-title: Brief History and Paradigm Shift of Western Philosophy
+title: Outline - Paradigm Shift of Western Philosophy
 categories: History
 tags: Cheatsheet
 highlight: true

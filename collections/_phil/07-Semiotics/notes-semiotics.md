@@ -1,5 +1,5 @@
 ---
-title: Notes - Semiotics
+title: 笔记 - 符号学
 categories: Semiotics
 tags: Notes
 ---

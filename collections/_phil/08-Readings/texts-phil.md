@@ -1,5 +1,5 @@
 ---
-title: Supplementary Readings of Weastern Philosophy
+title: 文本 - 哲学学习辅助资料
 categories: Readings
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: The Annotated Lolita
+categories: Texts
 ---
 
 ## The Annotated Lolita

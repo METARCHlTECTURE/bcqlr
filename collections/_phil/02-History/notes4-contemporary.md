@@ -1,5 +1,5 @@
 ---
-title: History of Contemporary Philosophy
+title: 笔记 - 当代哲学
 categories: History
 tags: Notes
 ---

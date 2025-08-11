@@ -1,5 +1,5 @@
 ---
-title: Advanced Algebra
+title: Notes - Advanced Algebra
 categories: Algebra
 tags: Notes Ongoing
 highlight: true

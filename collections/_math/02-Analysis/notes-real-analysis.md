@@ -1,4 +1,4 @@
 ---
-title: Real Analysis
+title: Notes - Real Analysis
 categories: Analysis
 ---

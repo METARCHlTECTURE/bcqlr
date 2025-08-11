@@ -1,4 +1,4 @@
 ---
-title: Algebraic Geometry
+title: Notes - Algebraic Geometry
 categories: Geometry
 ---

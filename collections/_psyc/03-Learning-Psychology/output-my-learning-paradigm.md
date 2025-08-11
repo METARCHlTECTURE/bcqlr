@@ -1,6 +1,6 @@
 ---
 title: My Learning Paradigm
-categories: Self-Efficacy
+categories: Learning-Psychology
 ---
 
 **Goal**: To rapidly build foundational knowledge in a completely unfamiliar discipline, progressing from broad understanding to deep expertise, while eliminating barriers caused by information asymmetry.
