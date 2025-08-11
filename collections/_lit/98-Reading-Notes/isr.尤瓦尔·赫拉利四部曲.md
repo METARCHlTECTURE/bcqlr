@@ -1,5 +1,5 @@
 ---
-title: 阅读笔记 - 尤瓦尔·赫拉利四部曲
+title: 阅读笔记 - 【以】尤瓦尔·赫拉利四部曲
 categories: Reading-Notes
 tags: Notes
 ---
