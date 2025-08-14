@@ -1,5 +1,5 @@
 ---
-title: Python Tips
+title: Python Using Tips
 categories: Python
 ---
 
@@ -42,5 +42,36 @@ pip install xyz --break-system-packages.
 
 Change mirror:
 ```shell
+# tsinghua mirror
 pip config set global.index-url https://pypi.tuna.tsinghua.edu.cn/simple
+
+# ali mirror
+pip config set http://mirrors.aliyun.com/pypi/simple/
+pip config set install.trusted-host mirrors.aliyun.com
 ```
+
+## install torch GPU version
+
+```shell
+nvidia-smi
+# find cuda version first
+
+pip install torch==2.8.0 torchaudio==2.8.0 --index-url https://download.pytorch.org/whl/cu129
+```
+
+## install specified version of packages at Github
+
+```shell
+pip install git+https://github.com/USERNAME/PACKAGENAME.git@<COMMIT/>
+
+# example
+
+pip install git+https://github.com/openai/whisper.git@v20231117 # version
+
+pip install git+https://github.com/openai/whisper.git@dev-branch # branch
+
+pip install git+https://github.com/openai/whisper.git@a1b2c3d4 # commit
+
+pip install git+https://github.com/user/repo.git@commit#subdirectory=path/to/package # sub dir
+```
+
