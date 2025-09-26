@@ -3,7 +3,7 @@ title               : Rubbish Bin
 owner               : "DeerRIDER"
 #url                 : "http://127.0.0.1:4000"
 url                : "https://metarchltecture.github.io/"
-#baseurl            : "bcqlr"
+baseurl            : "bcqlr"
 permalink           : /:title/
 description         : "Personal rubbish of DeerRIDER"
 markdown            : kramdown
