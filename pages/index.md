@@ -7,7 +7,7 @@ home_btn: true
 btn_text: true
 footer: true
 highlight: false
-permalink: /bcqlr/
+permalink: /
 ---
 
 <h1 class="index_title">ONLY A RUBBISH BIN HERE 🗑</h1>
@@ -18,7 +18,7 @@ permalink: /bcqlr/
 .--------.--------------------------------------------------.
 |  ~ `  __)____o________________________________###__   ~   |
 |  )   |.-------------------------------------------.|      |
-|,`._,-|| <a href="/highlighted">TRASH</a>             10:24             <a href="/cv">24601</a>  |  ~~  |
+|,`._,-|| <a href="/bcqlr/highlighted">TRASH</a>             10:24             <a href="/bcqlr/cv">24601</a>  |  ~~  |
 |      ||    _ _   _ _  _ _  _____ ___    ___  ___  ||      |
 |      || _ | | | | | \| | |/ /_ _| __|  / _ \/ __| ||,'`.  |
 |      ||| || | |_| | .` | ' < | || _|  | (_) \__ \ ||    `'|
@@ -26,7 +26,7 @@ permalink: /bcqlr/
 |.     ||       .,                 \ BETA  v0.01    ||      |
 |;.    ||      cJ%...               W               ||      |
 | \`._,||    _______     _________     _________    ||   _,-|
-|.__`\_||   | <a href="/notes">WASTE</a> |   | <a href="/cheatsheets">RUBBISH</a> |   | <a href="/ongoing">GARBAGE</a> |   ||,-' ,'|
+|.__`\_||   | <a href="/bcqlr/notes">WASTE</a> |   | <a href="/cheatsheets">RUBBISH</a> |   | <a href="/bcqlr/ongoing">GARBAGE</a> |   ||,-' ,'|
 |::::::||   '-------'   '---------'   '---------'   || ,'  ;|
 |::::::||       *           %%%,.             ____  ||-._,._|
 |:::::_|| [root@rubbish ~]# rm -rf /*               ||::::::|
@@ -53,8 +53,8 @@ permalink: /bcqlr/
      \ ||  ||  ||  |.- -''`- -._    /                        
      /\||  ||  ||  ;            :  /                         
     |  ||  ||  || ;    ,_c_      ;                           
-    |  ||  ||  ||;     (~<a href="/cv">ME</a>)      :                          
+    |  ||  ||  ||;     (~<a href="/bcqlr/cv">ME</a>)      :                          
     |  ||  || #||.                ·              ..          
     | c||  ||  || ,  ~@~         ;              /+%^·,       
-    .,F@,__JL__ldb__'= =,··,~@ ='      !-@&*^)#$%^_(()_+)<a href="/texts">.</a>.. 
+    .,F@,__JL__ldb__'= =,··,~@ ='      !-@&*^)#$%^_(()_+)<a href="/bcqlr/texts">.</a>.. 
 </pre></div>
