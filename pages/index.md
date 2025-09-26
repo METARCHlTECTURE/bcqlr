@@ -7,7 +7,7 @@ home_btn: true
 btn_text: true
 footer: true
 highlight: false
-permalink: /
+permalink: /bcqlr/
 ---
 
 <h1 class="index_title">ONLY A RUBBISH BIN HERE 🗑</h1>
