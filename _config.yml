@@ -62,7 +62,7 @@ disqus_username     : gmkzwwg
 defaults:
   -    
     scope:
-      path          : "/bcqlr"  # an empty string here means all files in the project
+      path          : /bcqlr  # an empty string here means all files in the project
     values:
       layout              : "post"      # which layout to use by default
       publish             : true        # whether to show by default      
